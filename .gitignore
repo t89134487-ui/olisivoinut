@@ -12,3 +12,6 @@ dist
 *.log
 rss_page.html
 dev_output.log
+.nitro
+.output
+dist
