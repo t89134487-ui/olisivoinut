@@ -74,8 +74,8 @@ async function analyzeArticle(title: string, summary: string) {
 
 async function main() {
   if (!process.env.GOOGLE_API_KEY) {
-    console.error('Please set GOOGLE_API_KEY in .env file');
-    process.exit(1);
+    console.warn('GOOGLE_API_KEY not found. Skipping scraping and AI processing.');
+    process.exit(0);
   }
 
   console.log('Fetching RSS feed...');
@@ -100,6 +100,9 @@ async function main() {
 
     console.log(`Analyzing: ${item.title}`);
     const analysis = await analyzeArticle(item.title || '', item.contentSnippet || '');
+
+    // Rate limiting delay for free tier Gemini (15 RPM)
+    await new Promise(resolve => setTimeout(resolve, 4000));
 
     if (analysis && analysis.isPolicyRelated) {
       const newItem: NewsItem = {
