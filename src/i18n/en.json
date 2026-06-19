@@ -1,0 +1,8 @@
+{
+  "title": "Finnish Policy Analysis",
+  "subtitle": "AI-generated feedback on recent political choices",
+  "read_more": "Read original article",
+  "no_news": "No policy analysis available yet. Run the scraper to populate data.",
+  "language": "Language",
+  "published_at": "Published at"
+}
