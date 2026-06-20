@@ -34,11 +34,11 @@ const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY || '');
 const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash' });
 
 async function analyzeArticle(title: string, summary: string) {
-  const prompt = `
+  const prompt = \`
     You are an expert political analyst. I will provide you with a news headline and summary from Yle (Finnish national broadcaster).
 
-    Article Title: ${title}
-    Article Summary: ${summary}
+    Article Title: \${title}
+    Article Summary: \${summary}
 
     Tasks:
     1. Determine if this article is about political policy choices, legislative changes, or government decisions (e.g., tax changes, social security reforms, new laws).
@@ -56,14 +56,13 @@ async function analyzeArticle(title: string, summary: string) {
       "opinionEn": "English opinion column",
       "category": "e.g. Economics, Social Policy, Environment"
     }
-  `;
+  \`;
 
   try {
     const result = await model.generateContent(prompt);
     const response = await result.response;
     const text = response.text();
-    // Extract JSON from response (sometimes Gemini wraps it in markdown)
-    const jsonMatch = text.match(/\{[\s\S]*\}/);
+    const jsonMatch = text.match(/\\{[\\s\\S]*\\}/);
     if (!jsonMatch) return null;
     return JSON.parse(jsonMatch[0]);
   } catch (error) {
@@ -85,23 +84,17 @@ async function main() {
   try {
     const fileContent = await fs.readFile(DATA_PATH, 'utf-8');
     existingData = JSON.parse(fileContent);
-  } catch (e) {
-    // File doesn't exist or is empty
-  }
+  } catch (e) {}
 
   const existingIds = new Set(existingData.map(item => item.id));
 
   for (const item of feed.items) {
     const id = item.guid || item.link || '';
-    if (existingIds.has(id)) {
-      console.log(`Skipping already processed item: ${item.title}`);
-      continue;
-    }
+    if (existingIds.has(id)) continue;
 
-    console.log(`Analyzing: ${item.title}`);
+    console.log(\`Analyzing: \${item.title}\`);
     const analysis = await analyzeArticle(item.title || '', item.contentSnippet || '');
 
-    // Rate limiting delay for free tier Gemini (15 RPM)
     await new Promise(resolve => setTimeout(resolve, 4000));
 
     if (analysis && analysis.isPolicyRelated) {
@@ -122,15 +115,10 @@ async function main() {
       };
 
       existingData.unshift(newItem);
-      console.log(`Added: ${item.title}`);
-    } else {
-      console.log(`Ignored (not policy-related): ${item.title}`);
     }
   }
 
-  // Keep only the last 50 items for example
   const finalData = existingData.slice(0, 50);
-
   await fs.writeFile(DATA_PATH, JSON.stringify(finalData, null, 2));
   console.log('Done!');
 }

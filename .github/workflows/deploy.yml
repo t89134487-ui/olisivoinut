@@ -5,8 +5,8 @@ on:
     branches:
       - '**'
   schedule:
-    - cron: '0 * * * *' # Every hour
-  workflow_dispatch: # Manual trigger
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -36,8 +36,6 @@ jobs:
 
       - name: Build
         run: npm run build
-        env:
-          NITRO_PRESET: static
 
       - name: Commit and push changes
         run: |
@@ -50,7 +48,7 @@ jobs:
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .output/public
+          path: dist
 
   deploy:
     needs: scrape-and-build

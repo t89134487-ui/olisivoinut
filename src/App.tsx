@@ -1,8 +1,9 @@
-import { createMemo, For, Show } from "solid-js";
-import { useI18n, Locale } from "~/i18n/context";
-import newsData from "~/data/news.json";
+import { For } from "solid-js";
+import { I18nProvider, useI18n } from "./i18n/context";
+import newsData from "./data/news.json";
+import "./App.css";
 
-export default function Home() {
+function Content() {
   const { t, locale, setLocale } = useI18n();
 
   const toggleLocale = () => {
@@ -25,7 +26,7 @@ export default function Home() {
       </header>
 
       <div class="space-y-12">
-        <For each={newsData} fallback={
+        <For each={newsData as any[]} fallback={
           <div class="text-center py-20 bg-gray-50 rounded-lg">
             <p class="text-xl text-gray-500">{t("no_news")}</p>
           </div>
@@ -69,3 +70,13 @@ export default function Home() {
     </main>
   );
 }
+
+function App() {
+  return (
+    <I18nProvider>
+      <Content />
+    </I18nProvider>
+  );
+}
+
+export default App;
