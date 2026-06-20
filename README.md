@@ -8,6 +8,7 @@ This website scrapes political news from Yle (Finnish National Broadcaster) and 
 - **AI Analysis:** Uses Google Gemini 1.5 Flash to filter for policy-related news and generate balanced feedback in Finnish and English.
 - **Multi-lingual:** Supports both English and Finnish interfaces and content.
 - **Minimalist Design:** Clean, blog-like interface built with SolidStart and Tailwind CSS.
+- **Automated Deployment:** GitHub Actions handles scraping and deployment to GitHub Pages hourly.
 
 ## Prerequisites
 
@@ -34,6 +35,20 @@ This website scrapes political news from Yle (Finnish National Broadcaster) and 
    ```
    This will update `src/data/news.json`.
 
+## Deployment to GitHub Pages
+
+1. **Enable GitHub Actions for Pages:**
+   - Go to your repository **Settings** -> **Pages**.
+   - Under **Build and deployment** -> **Source**, select **GitHub Actions**.
+
+2. **Add Gemini API Key:**
+   - Go to **Settings** -> **Secrets and variables** -> **Actions**.
+   - Create a new repository secret named `GOOGLE_API_KEY` with your Gemini API key.
+
+3. **Trigger Workflow:**
+   - The site will deploy automatically on push or on a schedule (every hour).
+   - You can also manually trigger it from the **Actions** tab.
+
 ## Development
 
 Run the development server:
@@ -43,11 +58,11 @@ npm run dev
 
 The site will be available at `http://localhost:5173`.
 
-## Deployment
+## Build
 
-Build the project for production:
+Build the project manually for production:
 ```bash
 npm run build
 ```
 
-The output will be in the `.output` directory.
+The static output will be in `.output/public`.

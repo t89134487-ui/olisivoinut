@@ -15,6 +15,7 @@ permissions:
 
 jobs:
   scrape-and-build:
+    if: "!contains(github.event.head_commit.message, 'chore: update news data')"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -43,7 +44,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add src/data/news.json
-          git commit -m "chore: update news data" || echo "No changes to commit"
+          git commit -m "chore: update news data [skip ci]" || echo "No changes to commit"
           git push origin ${{ github.ref_name }}
 
       - name: Upload Build Artifact
@@ -53,6 +54,7 @@ jobs:
 
   deploy:
     needs: scrape-and-build
+    if: "!contains(github.event.head_commit.message, 'chore: update news data')"
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
