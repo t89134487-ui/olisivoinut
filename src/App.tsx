@@ -51,7 +51,7 @@ function Content() {
                   {t("original_statement")}
                 </h3>
                 <div class="bg-gray-50 p-6 rounded-lg border-l-4 border-blue-500 italic text-gray-700 text-xl font-serif">
-                  "{item.originalStatement}"
+                  "{locale() === 'fi' ? item.originalStatement.fi : item.originalStatement.en}"
                 </div>
                 <div class="mt-2 text-right">
                   <a
