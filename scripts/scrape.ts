@@ -31,7 +31,7 @@ const NewsItemSchema = z.object({
 type NewsItem = z.infer<typeof NewsItemSchema>;
 
 const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY || '');
-const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash' });
+const model = genAI.getGenerativeModel({ model: 'gemini-flash-latest' });
 
 async function analyzeArticle(title: string, summary: string) {
   const prompt = `
