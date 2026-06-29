@@ -82,7 +82,12 @@ const NewsItemSchema = z.object({
 type NewsItem = z.infer<typeof NewsItemSchema>;
 
 const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY || '');
-const model = genAI.getGenerativeModel({ model: 'gemini-flash-lite-latest' });
+const model = genAI.getGenerativeModel({
+  model: 'gemini-flash-lite-latest',
+  generationConfig: {
+    responseMimeType: 'application/json',
+  },
+});
 
 async function analyzeArticle(title: string, summary: string) {
   const prompt = `
@@ -114,9 +119,9 @@ async function analyzeArticle(title: string, summary: string) {
     const result = await model.generateContent(prompt);
     const response = await result.response;
     const text = response.text();
-    const jsonMatch = text.match(/\\{[\\s\\S]*\\}/);
-    if (!jsonMatch) return null;
-    return JSON.parse(jsonMatch[0]);
+    const parsed = JSON.parse(text);
+    console.log(`Analysis result for "${title}": isPolicyRelated=${parsed.isPolicyRelated}`);
+    return parsed;
   } catch (error) {
     console.error('Error analyzing article:', error);
     return null;
@@ -169,6 +174,7 @@ async function main() {
     await new Promise(resolve => setTimeout(resolve, 4000));
 
     if (analysis && analysis.isPolicyRelated) {
+      console.log(`Adding policy-related article: ${item.title}`);
       const newItem: NewsItem = {
         id,
         sourceUrl: item.link || '',
@@ -186,11 +192,15 @@ async function main() {
       };
 
       existingData.unshift(newItem);
+
+      // Save after each successful analysis to provide immediate feedback/persistence
+      const finalData = existingData.slice(0, 50);
+      await fs.writeFile(DATA_PATH, JSON.stringify(finalData, null, 2));
+    } else if (analysis) {
+      console.log(`Skipping non-policy article: ${item.title}`);
     }
   }
 
-  const finalData = existingData.slice(0, 50);
-  await fs.writeFile(DATA_PATH, JSON.stringify(finalData, null, 2));
   console.log('Done!');
 }
 
