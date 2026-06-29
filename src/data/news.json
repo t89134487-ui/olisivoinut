@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": "https://yle.fi/a/74-20233907",
+    "sourceUrl": "https://yle.fi/a/74-20233907?origin=rss",
+    "title": {
+      "fi": "Teollisuushankkeet nostavat työperäisten oleskelulupien hakemusmääriä",
+      "en": "Industrial projects increase the number of work-based residence permit applications"
+    },
+    "originalSummary": "",
+    "originalStatement": "The Finnish government aims to increase work-based immigration to meet labor shortages, while simultaneously tightening requirements for international students and asylum seekers to streamline the migration system.",
+    "analysis": {
+      "fi": "Artikkelissa käsitellään työperäisen maahanmuuton kasvua suurten teollisuusinvestointien myötä. Tämä heijastaa hallituksen pitkäaikaista tavoitetta helpottaa osaavan työvoiman saatavuutta, mikä on kriittistä Suomen talouskasvun kannalta. Poliittisesti tämä on kuitenkin herkkä aihe, sillä se kytkeytyy hallituksen laajempaan linjaukseen, jossa työperäistä maahanmuuttoa edistetään samalla kun kansainvälisten opiskelijoiden ja turvapaikanhakijoiden ehtoja tiukennetaan.\n\nPositiivisena puolena nähdään investointien ja työllisyyden kasvu, mikä on välttämätöntä julkisen talouden tasapainottamiseksi. Kriittisenä näkökulmana on kuitenkin hallinnon kyky vastata hakemusten määrään viiveettä, mikä on ollut toistuva ongelma. Lisäksi politiikan kaksijakoisuus – toivottujen työntekijöiden houkuttelu ja samanaikainen maahanmuuttovastainen retoriikka – luo epävarmuutta, joka voi heikentää Suomen mainetta kansainvälisillä rekrytointimarkkinoilla.",
+      "en": "The article highlights the nexus between large-scale industrial investment and the necessity for a streamlined work-based residence permit system. This aligns with the current administration's strategy to address labor shortages, which are viewed as a structural bottleneck for Finnish industrial growth. However, this policy area is deeply polarizing as it sits within a broader political framework that attempts to balance the recruitment of foreign talent with stricter regulations for asylum seekers and international students.\n\nFrom a positive perspective, the surge in permit applications confirms that targeted policy shifts toward labor-based immigration are beginning to mirror actual market needs. Economically, this is a vital signal that Finland is becoming a more attractive destination for global capital and labor. Conversely, the critical risk remains in the bureaucratic implementation; if the Finnish Immigration Service (Migri) cannot process these applications efficiently, the momentum from these industrial projects could stall. Furthermore, the political contradiction of sending mixed messages to the international community—welcoming high-skilled labor while simultaneously tightening the general migration narrative—remains a strategic challenge that could undermine long-term talent retention efforts."
+    },
+    "publishedAt": "Mon, 29 Jun 2026 11:59:47 +0300",
+    "category": "Economics and Immigration Policy"
+  },
+  {
+    "id": "https://yle.fi/a/74-20233609",
+    "sourceUrl": "https://yle.fi/a/74-20233609?origin=rss",
+    "title": {
+      "fi": "Hallitukselta uusi verohelpotus vanhojen ja suuripäästöisten autojen omistajille",
+      "en": "Government introduces new tax relief for owners of old and high-emission vehicles"
+    },
+    "originalSummary": "Autoalan keskusliiton mukaan paras ratkaisu olisi helpottaa pienituloisten mahdollisuutta siirtyä sähköautoihin. Siihen tarvittaisiin merkittäviä veromuutoksia.",
+    "originalStatement": "The Finnish Information Centre of Automobile Sector suggests that the best solution would be to facilitate the transition to electric vehicles for low-income earners, which would require significant tax reforms.",
+    "analysis": {
+      "fi": "Hallituksen päätös keventää vanhojen ja suuripäästöisten autojen verotusta herättää ristiriitaisia tunteita. Yhtäältä toimenpide on sosiaalisesti oikeudenmukainen, sillä se helpottaa niitä kansalaisia, joilla ei ole taloudellisia resursseja uuden sähköauton hankintaan. Erityisesti maaseudulla, missä julkinen liikenne on harvaa ja välimatkat pitkiä, henkilöauto on välttämättömyys, ei luksustuote. Tämä päätös voi auttaa lievittämään pienituloisten kokemaa taloudellista painetta.\n\nToisaalta politiikka on ristiriidassa Suomen kunnianhimoisten ilmastotavoitteiden kanssa. Kannustamalla vanhojen ja saastuttavien autojen pitämiseen liikenteessä, valtio saattaa hidastaa autokannan sähköistymistä ja päästövähennysten toteutumista. Autoalan keskusliiton kritiikki onkin perusteltua: pelkkä veronkevennys ilman aitoa panostusta siirtymään sähköautoihin on vain oireiden hoitamista, ei kestävää ratkaisua liikenteen päästöongelmiin.",
+      "en": "The government's decision to provide tax relief for owners of older, high-emission vehicles is a complex move with significant trade-offs. On one hand, the policy acknowledges the socio-economic reality of many Finnish households, particularly those in rural areas where public transport is insufficient and older vehicles are essential for commuting. By reducing the financial burden on low-income earners who rely on these vehicles, the government is attempting to address equity concerns and ease the cost-of-living crisis.\n\nHowever, from an environmental perspective, this policy is problematic. By subsidizing the continued use of high-emission internal combustion engine vehicles, the government risks undermining its own climate commitments and the transition toward a carbon-neutral transport sector. The criticism from the automotive sector is insightful: focusing on tax relief for legacy vehicles rather than incentivizing the adoption of electric vehicles for low-income groups effectively delays necessary structural change. A more sustainable approach would require a more aggressive, state-supported transition mechanism that makes electric mobility affordable for all income tiers, rather than merely maintaining the current, high-emission status quo."
+    },
+    "publishedAt": "Mon, 29 Jun 2026 13:12:11 +0300",
+    "category": "Environmental and Economic Policy"
+  }
+]
