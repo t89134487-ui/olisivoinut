@@ -34,11 +34,11 @@ const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY || '');
 const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash' });
 
 async function analyzeArticle(title: string, summary: string) {
-  const prompt = \`
+  const prompt = `
     You are an expert political analyst. I will provide you with a news headline and summary from Yle (Finnish national broadcaster).
 
-    Article Title: \${title}
-    Article Summary: \${summary}
+    Article Title: ${title}
+    Article Summary: ${summary}
 
     Tasks:
     1. Determine if this article is about political policy choices, legislative changes, or government decisions (e.g., tax changes, social security reforms, new laws).
@@ -56,7 +56,7 @@ async function analyzeArticle(title: string, summary: string) {
       "opinionEn": "English opinion column",
       "category": "e.g. Economics, Social Policy, Environment"
     }
-  \`;
+  `;
 
   try {
     const result = await model.generateContent(prompt);
@@ -92,7 +92,7 @@ async function main() {
     const id = item.guid || item.link || '';
     if (existingIds.has(id)) continue;
 
-    console.log(\`Analyzing: \${item.title}\`);
+    console.log(`Analyzing: ${item.title}`);
     const analysis = await analyzeArticle(item.title || '', item.contentSnippet || '');
 
     await new Promise(resolve => setTimeout(resolve, 4000));
