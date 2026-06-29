@@ -12,6 +12,57 @@ const DATA_PATH = path.join(process.cwd(), 'src/data/news.json');
 
 const parser = new Parser();
 
+const EXCLUDED_CATEGORIES = [
+  'Urheilu',
+  'Kulttuuri',
+  'Viihde',
+  'Sää',
+  'Elämäntapa',
+  'Lifestyle',
+  'Pelimusiikki',
+  'Taide',
+  'Kuvataide',
+  'Musiikki',
+  'Elokuvat',
+  'Televisio',
+  'Radio',
+];
+
+const INCLUDED_CATEGORIES = [
+  'Politiikka',
+  'Talous',
+  'Kunnat',
+  'Eduskunta',
+  'Hallitus',
+  'Työmarkkinat',
+  'Ulkopolitiikka',
+  'Sisäpolitiikka',
+  'Sote',
+  'Koulutus',
+  'Sosiaalipolitiikka',
+  'Ympäristöpolitiikka',
+  'Eurooppa-politiikka',
+  'Maahanmuutto',
+  'Puolustuspolitiikka',
+  'Turvallisuuspolitiikka',
+  'Lainsäädäntö',
+  'Verotus',
+  'Budjetti',
+  'Kuntatalous',
+  'Aluepolitiikka',
+  'Kuntavaalit',
+  'Aluevaalit',
+  'Eduskuntavaalit',
+  'Presidentinvaalit',
+  'Eurovaalit',
+  'Vaalit',
+  'Oikeuspolitiikka',
+  'Energiapolitiikka',
+  'Elinkeinopolitiikka',
+  'Maatalouspolitiikka',
+  'Kaupunki-politiikka',
+];
+
 const NewsItemSchema = z.object({
   id: z.string(),
   sourceUrl: z.string(),
@@ -31,7 +82,7 @@ const NewsItemSchema = z.object({
 type NewsItem = z.infer<typeof NewsItemSchema>;
 
 const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY || '');
-const model = genAI.getGenerativeModel({ model: 'gemini-flash-latest' });
+const model = genAI.getGenerativeModel({ model: 'gemini-flash-lite-latest' });
 
 async function analyzeArticle(title: string, summary: string) {
   const prompt = `
@@ -41,10 +92,11 @@ async function analyzeArticle(title: string, summary: string) {
     Article Summary: ${summary}
 
     Tasks:
-    1. Determine if this article is about political policy choices, legislative changes, or government decisions (e.g., tax changes, social security reforms, new laws).
-    2. If it IS policy-related, write a short "opinion column" style feedback.
+    1. Determine if this article is about political policy choices, legislative changes, government decisions (e.g., tax changes, social security reforms, new laws), or includes significant opinions/statements from politicians.
+    2. If it IS policy-related or political, write a short "opinion column" style feedback.
        - It should be in both Finnish and English.
-       - It should discuss positives and negatives of the choice/policy.
+       - It should discuss the political implications, and potential positives and negatives of the choice/policy/opinion.
+       - Focus specifically on what politicians are saying or what the policy impact will be.
        - Keep it concise but insightful (essay form, but short).
     3. Translate the original title to English if it is in Finnish.
 
@@ -91,6 +143,25 @@ async function main() {
   for (const item of feed.items) {
     const id = item.guid || item.link || '';
     if (existingIds.has(id)) continue;
+
+    const categories = item.categories || [];
+    const hasExcluded = categories.some(cat => EXCLUDED_CATEGORIES.includes(cat));
+    const hasIncluded = categories.some(cat => INCLUDED_CATEGORIES.includes(cat));
+
+    // If it has excluded categories, skip it.
+    // If it doesn't have any included categories, we skip it to "avoid limits" as requested.
+    if (hasExcluded || (!hasIncluded && categories.length > 0)) {
+      console.log(`Skipping (Category): ${item.title} [${categories.join(', ')}]`);
+      continue;
+    }
+
+    // Special case: if there are no categories at all, we might want to check it anyway,
+    // but the instruction suggests using labels to filter.
+    // To be safe and avoid limits, we skip if no categories match our whitelist.
+    if (categories.length === 0) {
+      console.log(`Skipping (No categories): ${item.title}`);
+      continue;
+    }
 
     console.log(`Analyzing: ${item.title}`);
     const analysis = await analyzeArticle(item.title || '', item.contentSnippet || '');
