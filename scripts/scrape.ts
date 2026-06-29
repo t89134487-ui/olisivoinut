@@ -71,7 +71,8 @@ const NewsItemSchema = z.object({
     en: z.string(),
   }),
   originalSummary: z.string(),
-  opinion: z.object({
+  originalStatement: z.string(),
+  analysis: z.object({
     fi: z.string(),
     en: z.string(),
   }),
@@ -98,19 +99,21 @@ async function analyzeArticle(title: string, summary: string) {
 
     Tasks:
     1. Determine if this article is about political policy choices, legislative changes, government decisions (e.g., tax changes, social security reforms, new laws), or includes significant opinions/statements from politicians.
-    2. If it IS policy-related or political, write a short "opinion column" style feedback.
-       - It should be in both Finnish and English.
+    2. IGNORE articles that are general overviews of current events, daily summaries, morning roundups, or lists of news from different regions. Only focus on specific policy proposals, legislative actions, or major political statements.
+    3. If it IS policy-related or political, extract the core proposal or quote from the article as the "Original Statement". This must be in English.
+    4. Provide an extensive feedback/analysis (several paragraphs) in both Finnish and English.
        - It should discuss the political implications, and potential positives and negatives of the choice/policy/opinion.
        - Focus specifically on what politicians are saying or what the policy impact will be.
-       - Keep it concise but insightful (essay form, but short).
-    3. Translate the original title to English if it is in Finnish.
+       - Be critical and analytical.
+    5. Translate the original title to English if it is in Finnish.
 
     Respond ONLY in the following JSON format:
     {
       "isPolicyRelated": boolean,
       "titleEn": "Translated Title",
-      "opinionFi": "Finnish opinion column",
-      "opinionEn": "English opinion column",
+      "originalStatement": "Extracted core proposal or quote in English",
+      "analysisFi": "Extensive Finnish feedback/analysis (multi-paragraph)",
+      "analysisEn": "Extensive English feedback/analysis (multi-paragraph)",
       "category": "e.g. Economics, Social Policy, Environment"
     }
   `;
@@ -183,9 +186,10 @@ async function main() {
           en: analysis.titleEn || item.title || '',
         },
         originalSummary: item.contentSnippet || '',
-        opinion: {
-          fi: analysis.opinionFi || '',
-          en: analysis.opinionEn || '',
+        originalStatement: analysis.originalStatement || '',
+        analysis: {
+          fi: analysis.analysisFi || '',
+          en: analysis.analysisEn || '',
         },
         publishedAt: item.pubDate || new Date().toISOString(),
         category: analysis.category || 'General',
