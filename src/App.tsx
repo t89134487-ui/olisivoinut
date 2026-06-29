@@ -42,13 +42,18 @@ function Content() {
                 </time>
               </div>
 
-              <h2 class="text-3xl font-bold mb-4">
+              <h2 class="text-3xl font-bold mb-6">
                 {locale() === 'fi' ? item.title.fi : item.title.en}
               </h2>
 
-              <div class="bg-gray-50 p-6 rounded-lg border-l-4 border-blue-500 mb-6 italic text-gray-700">
-                {item.originalSummary}
-                <div class="mt-4">
+              <div class="mb-8">
+                <h3 class="text-sm font-bold uppercase tracking-wider text-blue-600 mb-2">
+                  {t("original_statement")}
+                </h3>
+                <div class="bg-gray-50 p-6 rounded-lg border-l-4 border-blue-500 italic text-gray-700 text-xl font-serif">
+                  "{item.originalStatement}"
+                </div>
+                <div class="mt-2 text-right">
                   <a
                     href={item.sourceUrl}
                     target="_blank"
@@ -60,8 +65,13 @@ function Content() {
                 </div>
               </div>
 
-              <div class="whitespace-pre-wrap leading-relaxed text-gray-800 first-letter:text-5xl first-letter:font-bold first-letter:mr-3 first-letter:float-left">
-                {locale() === 'fi' ? item.opinion.fi : item.opinion.en}
+              <div>
+                <h3 class="text-sm font-bold uppercase tracking-wider text-blue-600 mb-4">
+                  {t("analysis")}
+                </h3>
+                <div class="whitespace-pre-wrap leading-relaxed text-gray-800 space-y-4">
+                  {locale() === 'fi' ? item.analysis.fi : item.analysis.en}
+                </div>
               </div>
             </article>
           )}
