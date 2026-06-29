@@ -1,5 +1,24 @@
 [
   {
+    "id": "https://yle.fi/a/74-20233965",
+    "sourceUrl": "https://yle.fi/a/74-20233965?origin=rss",
+    "title": {
+      "fi": "EU-maat hyväksyivät rajoitukset lyijyhaulien käytölle",
+      "en": "EU countries approved restrictions on the use of lead shot"
+    },
+    "originalSummary": "",
+    "originalStatement": {
+      "fi": "EU-maat ovat hyväksyneet asetuksen, joka rajoittaa lyijyhaulien käyttöä kosteikoilla ympäristö- ja terveyssyistä.",
+      "en": "EU countries have approved a regulation that restricts the use of lead shot in wetlands for environmental and health reasons."
+    },
+    "analysis": {
+      "fi": "EU:n päätös kieltää lyijyhaulien käyttö kosteikoilla on tyypillinen esimerkki sääntelykeskeisestä ympäristöpolitiikasta, joka usein sivuuttaa käytännön toimeenpanon aiheuttamat kustannukset. Vaikka tavoite lyijypäästöjen vähentämisestä on teoriassa kannatettava, politiikan toteutustapa luo epäsuhtaisen taakan metsästäjille ilman riittävää näyttöä siitä, että juuri tämä toimenpide ratkaisisi laajempia ekologisia ongelmia. Sääntely on usein symbolista: sillä pyritään osoittamaan toimintakykyä samalla kun jätetään huomiotta teollisuuden tai maatalouden suuremmat päästölähteet.\n\nLisäksi tämä politiikka kärsii byrokraattisesta jäykkyydestä. Yksittäisten harrastajien velvoittaminen kalliisiin vaihtoehtoisiin materiaaleihin ilman riittävää siirtymäaikaa tai teknologista tukea vääristää harrastusmahdollisuuksia. On kyseenalaista, onko EU:n keskitetty sääntely oikea väline näin paikalliseen ja spesifiin kysymykseen, sillä se johtaa usein epäyhtenäiseen valvontaan ja turhautumiseen kansalaisten keskuudessa. Tämä politiikka edustaa 'ylhäältä alas' -ohjausta, joka heikentää kansalaisten luottamusta unionin päätöksentekoon.",
+      "en": "The EU's decision to restrict the use of lead shot in wetlands is a classic example of regulation-heavy environmental policy that often ignores the costs of practical implementation. While the goal of reducing lead emissions is theoretically sound, the way this policy is implemented imposes a disproportionate burden on hunters without sufficient evidence that this specific measure will solve broader ecological problems. The regulation is often symbolic: it aims to demonstrate institutional capacity while ignoring larger industrial or agricultural emission sources.\n\nFurthermore, this policy suffers from bureaucratic rigidity. Compelling individual hobbyists to switch to expensive alternative materials without sufficient transition periods or technological support distorts the accessibility of these activities. It is questionable whether centralized EU regulation is the correct instrument for such a local and specific issue, as it often leads to inconsistent enforcement and public frustration. This policy represents 'top-down' governance that undermines citizen trust in EU decision-making processes."
+    },
+    "publishedAt": "Mon, 29 Jun 2026 15:03:32 +0300",
+    "category": "Environment"
+  },
+  {
     "id": "https://yle.fi/a/74-20233907",
     "sourceUrl": "https://yle.fi/a/74-20233907?origin=rss",
     "title": {
