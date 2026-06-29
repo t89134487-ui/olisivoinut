@@ -1,5 +1,6 @@
 import Parser from 'rss-parser';
 import { GoogleGenerativeAI } from '@google/generative-ai';
+import * as cheerio from 'cheerio';
 import fs from 'fs/promises';
 import path from 'path';
 import { z } from 'zod';
@@ -81,6 +82,7 @@ const NewsItemSchema = z.object({
   }),
   publishedAt: z.string(),
   category: z.string(),
+  isFromSummary: z.boolean().optional(),
 });
 
 type NewsItem = z.infer<typeof NewsItemSchema>;
@@ -93,12 +95,35 @@ const model = genAI.getGenerativeModel({
   },
 });
 
-async function analyzeArticle(title: string, summary: string) {
+async function fetchFullArticle(url: string): Promise<string | null> {
+  try {
+    const response = await fetch(url);
+    if (!response.ok) return null;
+    const html = await response.text();
+    const $ = cheerio.load(html);
+
+    // Target the main article content in Yle
+    const content = $('.yle__article__content');
+    if (content.length === 0) return null;
+
+    // Remove unwanted elements if necessary (e.g., ads, related links)
+    // For now, just get all paragraph text
+    const paragraphs = content.find('p').map((_, el) => $(el).text()).get();
+    const fullText = paragraphs.join('\n\n');
+
+    return fullText.trim() || null;
+  } catch (error) {
+    console.error(`Error fetching full article from ${url}:`, error);
+    return null;
+  }
+}
+
+async function analyzeArticle(title: string, content: string) {
   const prompt = `
-    You are an expert political analyst. I will provide you with a news headline and summary from Yle (Finnish national broadcaster).
+    You are an expert political analyst. I will provide you with a news headline and the full content (or summary) of an article from Yle (Finnish national broadcaster).
 
     Article Title: ${title}
-    Article Summary: ${summary}
+    Article Content: ${content}
 
     Tasks:
     1. Determine if this article is about political policy choices, legislative changes, government decisions (e.g., tax changes, social security reforms, new laws), or includes significant opinions/statements from politicians.
@@ -179,7 +204,19 @@ async function main() {
     }
 
     console.log(`Analyzing: ${item.title}`);
-    const analysis = await analyzeArticle(item.title || '', item.contentSnippet || '');
+
+    let articleContent = await fetchFullArticle(item.link || '');
+    let isFromSummary = false;
+
+    if (!articleContent) {
+      console.log(`Could not fetch full content for "${item.title}", falling back to summary.`);
+      articleContent = item.contentSnippet || '';
+      isFromSummary = true;
+    } else {
+      console.log(`Fetched full content for "${item.title}" (${articleContent.length} characters)`);
+    }
+
+    const analysis = await analyzeArticle(item.title || '', articleContent);
 
     await new Promise(resolve => setTimeout(resolve, 4000));
 
@@ -203,6 +240,7 @@ async function main() {
         },
         publishedAt: item.pubDate || new Date().toISOString(),
         category: analysis.category || 'General',
+        isFromSummary,
       };
 
       existingData.unshift(newItem);

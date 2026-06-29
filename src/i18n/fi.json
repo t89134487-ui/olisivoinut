@@ -6,5 +6,6 @@
   "language": "Kieli",
   "published_at": "Julkaistu",
   "original_statement": "Alkuperäinen lausunto",
-  "analysis": "Analyysi"
+  "analysis": "Analyysi",
+  "from_summary": "Analyysi perustuu artikkelin tiivistelmään"
 }
