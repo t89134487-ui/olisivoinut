@@ -17,6 +17,7 @@ jobs:
   scrape-and-build:
     if: "!contains(github.event.head_commit.message, 'chore: update news data')"
     runs-on: ubuntu-latest
+    environment: asd
     steps:
       - uses: actions/checkout@v4
 
@@ -32,7 +33,7 @@ jobs:
       - name: Run Scraper
         run: npm run scrape
         env:
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_TOKEN }}
 
       - name: Build
         run: npm run build
@@ -52,7 +53,7 @@ jobs:
 
   deploy:
     needs: scrape-and-build
-    if: ${{ github.ref == format('refs/heads/{0}', github.event.repository.default_branch) && !contains(github.event.head_commit.message, 'chore: update news data') }}
+    if: ${{ github.ref == format('refs/heads/{0}', github.event.repository.default_branch) }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
