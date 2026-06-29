@@ -5,7 +5,7 @@ on:
     branches:
       - '**'
   schedule:
-    - cron: '0 * * * *'
+    - cron: '24 * * * *' # Shifting to a random minute bypasses the GitHub queue traffic jam
   workflow_dispatch:
 
 permissions:
@@ -15,7 +15,11 @@ permissions:
 
 jobs:
   scrape-and-build:
-    if: "!contains(github.event.head_commit.message, 'chore: update news data')"
+    # This safer condition ensures the job doesn't crash when head_commit is null on a schedule
+    if: |
+      github.event_name == 'schedule' ||
+      github.event_name == 'workflow_dispatch' ||
+      (!contains(github.event.head_commit.message, 'chore: update news data'))
     runs-on: ubuntu-latest
     environment: ${{ (github.ref == format('refs/heads/{0}', github.event.repository.default_branch) || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') && 'asd' || null }}
     steps:
