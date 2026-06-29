@@ -207,6 +207,9 @@ async function main() {
 
       existingData.unshift(newItem);
 
+      // Sort by publishedAt date descending (newest first)
+      existingData.sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
+
       // Save after each successful analysis to provide immediate feedback/persistence
       const finalData = existingData.slice(0, 50);
       await fs.writeFile(DATA_PATH, JSON.stringify(finalData, null, 2));
