@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://yle.fi/a/74-20234023",
+    "sourceUrl": "https://yle.fi/a/74-20234023?origin=rss",
+    "title": {
+      "fi": "Perun uudeksi presidentiksi on valittu oikeistolainen Keiko Fujimori",
+      "en": "Right-winger Keiko Fujimori has been elected as the new President of Peru"
+    },
+    "originalSummary": "Keiko päihitti hyvin tasaisissa vaaleissa vasemmiston ehdokkaan Roberto Sanchezin.",
+    "originalStatement": {
+      "fi": "Vasemmiston ehdokas Roberto Sanchez vaati, että kaikki ulkomailla annetut noin 300 000 ääntä oli mitätöitävä, koska hänen mukaansa äänestämisessä oli ollut epäselvyyksiä.",
+      "en": "Left-wing candidate Roberto Sanchez demanded that all approximately 300,000 votes cast abroad be invalidated, as he alleged there had been irregularities in the voting."
+    },
+    "analysis": {
+      "fi": "Tämä artikkeli käsittelee poliittista prosessia, joka uhkaa Perun demokratian vakautta. Vaalituloksen kiistäminen ilman näyttöä laajamittaisesta vilpistä on vaarallinen populismin muoto, joka rapauttaa kansalaisten luottamusta instituutioihin. Kun hävinnyt osapuoli vaatii äänten mitätöintiä vedoten epämääräisiin epäselvyyksiin, kyseessä on selkeä yritys horjuttaa vallan vaihtumisen legitimiteettiä oman poliittisen edun nimissä.\n\nTämä on ongelmallista, koska se luo ennakkotapauksen, jossa vaalitulos hyväksytään vain, jos se on itselle mieluinen. Tällainen toiminta polarisoi yhteiskuntaa entisestään ja tekee hallitsemisesta vaikeaa, kun suuri osa väestöstä kyseenalaistaa hallinnon oikeutuksen. Lisäksi vaatimus mitätöidä nimenomaan ulkomailla annetut äänet on strateginen yritys hiljentää tietty äänestäjäryhmä, joka on enemmistöltään vastustanut vasemmistoehdokasta. Tällainen taktikointi on moraaliton ja vahingoittaa perustuslaillista järjestystä.",
+      "en": "This article concerns a political process that threatens the stability of Peruvian democracy. Challenging election results without substantial evidence of widespread fraud is a dangerous form of populism that erodes public trust in institutions. When a losing party demands the invalidation of votes based on vague allegations of irregularities, it is a clear attempt to undermine the legitimacy of the transfer of power for personal political gain.\n\nThis is problematic because it sets a precedent where election results are only accepted if they are favorable to one's own side. Such behavior further polarizes society and makes governance difficult, as a large portion of the population questions the legitimacy of the administration. Furthermore, the demand to specifically invalidate votes cast abroad is a strategic attempt to silence a segment of the electorate that largely opposed the left-wing candidate. Such tactics are immoral and damaging to the constitutional order."
+    },
+    "publishedAt": "Mon, 29 Jun 2026 23:46:49 +0300",
+    "category": "Political Governance",
+    "isFromSummary": false
+  },
+  {
     "id": "https://yle.fi/a/74-20234008",
     "sourceUrl": "https://yle.fi/a/74-20234008?origin=rss",
     "title": {
