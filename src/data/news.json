@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "https://yle.fi/a/74-20233609",
+    "sourceUrl": "https://yle.fi/a/74-20233609?origin=rss",
+    "title": {
+      "fi": "Hallitukselta uusi verohelpotus vanhojen ja suuripäästöisten autojen omistajille",
+      "en": "Government introduces new tax relief for owners of older, high-emission vehicles"
+    },
+    "originalSummary": "Autoalan keskusliiton mukaan paras ratkaisu olisi helpottaa pienituloisten mahdollisuutta siirtyä sähköautoihin. Siihen tarvittaisiin merkittäviä veromuutoksia.",
+    "originalStatement": {
+      "fi": "Hallitukselta uusi verohelpotus vanhojen ja suuripäästöisten autojen omistajille.",
+      "en": "The government introduces a new tax relief for owners of older and high-emission vehicles."
+    },
+    "analysis": {
+      "fi": "Hallituksen esittämä verohelpotus vanhoille ja suuripäästöisille autoille on strateginen virhe, joka sotii Suomen ilmastotavoitteita ja pitkän aikavälin autokannan uudistamista vastaan. Sen sijaan, että valtio kannustaisi kansalaisia siirtymään vähäpäästöiseen teknologiaan, tämä politiikka sitoo veronmaksajat vanhentuneeseen teknologiaan ja ylläpitää energiatehotonta kulutusta. Kyseessä on lyhytnäköinen yritys ostaa sosiaalista rauhaa niiltä, jotka kokevat autoilun kallistuvan, mutta samalla se hidastaa tarvittavaa vihreää siirtymää.\n\nLisäksi tämä politiikka on tehoton tapa tukea pienituloisia, sillä se ei kohdistu suoraan tarpeeseen, vaan subsidioi saastuttamista riippumatta omistajan varallisuudesta. On paradoksaalista, että valtio käyttää verotuloja kannustaakseen autojen ylläpitoon, joiden hiilidioksidipäästöt ovat korkeita, sen sijaan että verotuksella luotaisiin aitoja kannustimia sähköistymiselle tai julkisen liikenteen käytölle. Tämä johtaa markkinoiden vääristymiseen ja heikentää Suomen uskottavuutta ympäristöpolitiikassa, luoden samalla 'lukkiutumisvaikutuksen', jossa vanha autokanta säilyy liikenteessä entistä pidempään.",
+      "en": "The government's proposed tax relief for older, high-emission vehicles is a strategic failure that undermines Finland’s climate targets and the necessary long-term renewal of the national vehicle fleet. Instead of incentivizing citizens to transition toward low-emission technology, this policy locks taxpayers into obsolete technology and sustains energy-inefficient consumption. It is a shortsighted attempt to buy social stability from those who perceive motoring costs as rising, but it simultaneously slows down the essential green transition.\n\nFurthermore, this policy is an inefficient way to support low-income households because it does not target specific needs, but rather subsidizes pollution regardless of the owner’s actual financial status. It is paradoxical that the state uses tax revenue to encourage the maintenance of vehicles with high carbon emissions rather than using the tax system to create genuine incentives for electrification or the use of public transport. This leads to market distortion and undermines Finland's credibility in environmental policy, while creating a 'lock-in effect' where the aging vehicle fleet remains on the roads for even longer."
+    },
+    "publishedAt": "Mon, 29 Jun 2026 13:12:11 +0300",
+    "category": "Environment and Economics"
+  },
+  {
+    "id": "https://yle.fi/a/74-20233965",
+    "sourceUrl": "https://yle.fi/a/74-20233965?origin=rss",
+    "title": {
+      "fi": "EU-maat hyväksyivät rajoitukset lyijyhaulien käytölle",
+      "en": "EU countries approved restrictions on the use of lead shot"
+    },
+    "originalSummary": "",
+    "originalStatement": {
+      "fi": "EU-maat ovat hyväksyneet komission esityksen, joka rajoittaa lyijyhaulien käyttöä kosteikkoalueilla ympäristösyistä.",
+      "en": "EU countries have approved the commission's proposal to restrict the use of lead shot in wetland areas for environmental reasons."
+    },
+    "analysis": {
+      "fi": "Tämä päätös edustaa tyypillistä ylhäältä alaspäin suuntautuvaa byrokraattista sääntelyä, joka pyrkii ratkaisemaan ympäristöongelmia rajoittamalla yksilöiden vapauksia ja harrastustoimintaa. Vaikka lyijyn ympäristövaikutukset ovat tiedossa, EU:n lähestymistapa on usein suhteeton. Rajoitukset kohdistuvat suoraan metsästäjiin ja urheiluampujiin, mutta sivuuttavat usein teollisen toiminnan kokonaisvaikutukset, mikä luo kuvan epätasapainoisesta sääntelystä, jossa pieniä toimijoita rankaistaan helpommin kuin suuria saastuttajia.\n\nSääntely on ongelmallista myös sen täytäntöönpanon vuoksi. Valvonta kosteikkoalueilla on käytännössä mahdotonta ilman massiivista resurssien käyttöä, mikä tekee laista symbolisen eleen ennemmin kuin tehokkaan ympäristötyökalun. Lisäksi siirtyminen vaihtoehtoisiin materiaaleihin, kuten teräshauliin, tuo mukanaan uusia teknisiä haasteita, kuten aseen piipun vaurioitumisen ja riistalintujen kärsimyksen lisääntymisen heikomman pysäytysvoiman vuoksi. Politiikka jättää huomioimatta kokonaiskustannukset ja keskittyy teknokraattiseen ratkaisuun, joka voi pahimmillaan olla haitallisempi kuin alkuperäinen ongelma.",
+      "en": "This decision represents a typical top-down bureaucratic regulation that seeks to address environmental problems by restricting individual freedoms and recreational activities. While the environmental impacts of lead are acknowledged, the EU's approach is often disproportionate. The restrictions directly target hunters and sport shooters while frequently overlooking the broader impacts of industrial activity. This creates an image of unbalanced regulation where small actors are easier to penalize than major polluters.\n\nFurthermore, the regulation is problematic due to its enforcement challenges. Monitoring wetland areas is practically impossible without a massive allocation of resources, rendering the law more of a symbolic gesture than an effective environmental tool. Additionally, the transition to alternative materials, such as steel shot, introduces new technical challenges, such as potential damage to firearm barrels and increased suffering of game birds due to decreased terminal ballistics. The policy ignores the total cost-benefit analysis and focuses on a technocratic solution that, in the worst case, could be more detrimental than the original problem."
+    },
+    "publishedAt": "Mon, 29 Jun 2026 15:03:32 +0300",
+    "category": "Environment"
+  }
+]
