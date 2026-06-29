@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://yle.fi/a/74-20234008",
+    "sourceUrl": "https://yle.fi/a/74-20234008?origin=rss",
+    "title": {
+      "fi": "Yhdysvaltain korkein oikeus hylkäsi Trumpin pyrkimyksen rajoittaa postiäänestystä",
+      "en": "The US Supreme Court rejected Trump's attempt to restrict mail-in voting"
+    },
+    "originalSummary": "Yhdysvaltain presidentti Donald Trump on pyrkinyt ilman todisteita tiukentamaan postiäänestystä koskevia sääntöjä.",
+    "originalStatement": {
+      "fi": "Yhdysvaltain korkein oikeus on linjannut, että maan osavaltiot saavat laskea vaalipäivän jälkeen saapuneita, postitse lähetettyjä äänestyslappuja, mikäli ne on postitettu ajallaan.",
+      "en": "The US Supreme Court has ruled that states may count mail-in ballots that arrive after Election Day, provided they were postmarked on time."
+    },
+    "analysis": {
+      "fi": "Tämä oikeudellinen päätös heijastaa syvää ristiriitaa vaalien turvallisuuden ja äänestämisen saavutettavuuden välillä. Trumpin hallinnon pyrkimys rajoittaa äänestystä perustui retoriikkaan vaalien rehellisyydestä, mutta todellisuudessa kyse oli strategisesta yrityksestä rajoittaa äänestysaktiivisuutta sellaisissa väestöryhmissä, jotka suosivat postiäänestystä. Yritys kaataa osavaltioiden laki on räikeä esimerkki liittovaltion ylivallan käytöstä osavaltioiden vaaliprosesseihin, mikä rikkoo Yhdysvaltain perustuslaillista perinnettä, jossa osavaltioilla on laaja valta päättää omista vaalijärjestelyistään.\n\nKriittisesti tarkasteltuna postiäänestyksen rajoittaminen on vaarallinen tie demokratian kannalta. Vaatimukset postimerkkien ja saapumispäivien tiukasta valvonnasta loivat epävarmuutta ja byrokraattisia esteitä, jotka saattavat estää laillisia ääniä tulemasta lasketuksi. Sen sijaan, että hallinto olisi pyrkinyt parantamaan postijärjestelmän tehokkuutta varmistaakseen äänten perillemenon, se keskittyi syyttämään järjestelmää ilman riittäviä todisteita. Tämä politisoitu lähestymistapa heikentää kansalaisten luottamusta vaalijärjestelmään ja luo maaperää populismin kasvulle, jossa vaalitulokset kyseenalaistetaan ennaltaehkäisevästi.",
+      "en": "This legal ruling highlights the profound tension between election security and the accessibility of voting. The Trump administration's attempt to restrict mail-in voting was rooted in rhetoric regarding election integrity, but in reality, it functioned as a strategic maneuver to suppress turnout among demographics that heavily rely on mail-in ballots. The attempt to overturn state-level laws represents a blatant exercise of federal overreach into state election administration, contradicting the constitutional tradition that grants states broad authority over their own electoral processes.\n\nCritically analyzed, the push to restrict mail-in voting is a perilous path for a democracy. The focus on strict control over postmarks and delivery windows created uncertainty and bureaucratic hurdles that threatened to disqualify valid ballots. Instead of seeking to improve the efficiency of the postal infrastructure to guarantee the delivery of ballots, the administration focused on delegitimizing the system without providing substantial evidence of systemic fraud. This politicized approach erodes public trust in electoral institutions and fosters a culture of preemptive skepticism, where election outcomes are questioned before a single vote is even counted."
+    },
+    "publishedAt": "Mon, 29 Jun 2026 18:50:12 +0300",
+    "category": "Electoral Policy",
+    "isFromSummary": false
+  },
+  {
     "id": "https://yle.fi/a/74-20233988",
     "sourceUrl": "https://yle.fi/a/74-20233988?origin=rss",
     "title": {
