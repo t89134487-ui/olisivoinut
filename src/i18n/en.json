@@ -6,5 +6,6 @@
   "language": "Language",
   "published_at": "Published at",
   "original_statement": "Original statement",
-  "analysis": "Analysis"
+  "analysis": "Analysis",
+  "from_summary": "Analysis based on article summary"
 }
