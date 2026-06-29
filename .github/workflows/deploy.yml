@@ -17,6 +17,7 @@ jobs:
   scrape-and-build:
     if: "!contains(github.event.head_commit.message, 'chore: update news data')"
     runs-on: ubuntu-latest
+    environment: xx
     steps:
       - uses: actions/checkout@v4
 
