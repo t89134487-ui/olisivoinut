@@ -10,6 +10,7 @@ dotenv.config();
 
 const RSS_URL = 'https://yle.fi/rss/tuoreimmat';
 const DATA_PATH = path.join(process.cwd(), 'src/data/news.json');
+const SKIPPED_PATH = path.join(process.cwd(), 'src/data/skipped.json');
 
 const parser = new Parser();
 
@@ -184,11 +185,18 @@ async function main() {
     existingData = JSON.parse(fileContent);
   } catch (e) {}
 
+  let skippedIdsList: string[] = [];
+  try {
+    const skippedContent = await fs.readFile(SKIPPED_PATH, 'utf-8');
+    skippedIdsList = JSON.parse(skippedContent);
+  } catch (e) {}
+
   const existingIds = new Set(existingData.map(item => item.id));
+  const skippedIds = new Set(skippedIdsList);
 
   for (const item of [...feed.items].reverse()) {
     const id = item.guid || item.link || '';
-    if (existingIds.has(id)) continue;
+    if (existingIds.has(id) || skippedIds.has(id)) continue;
 
     const categories = item.categories || [];
     const hasExcluded = categories.some(cat => EXCLUDED_CATEGORIES.includes(cat));
@@ -255,7 +263,10 @@ async function main() {
       const finalData = existingData.slice(0, 50);
       await fs.writeFile(DATA_PATH, JSON.stringify(finalData, null, 2));
     } else if (analysis) {
-      console.log(`Skipping non-policy article: ${item.title}`);
+      console.log(`Skipping non-policy or out-of-scope article: ${item.title}`);
+      skippedIdsList.unshift(id);
+      const finalSkipped = skippedIdsList.slice(0, 100);
+      await fs.writeFile(SKIPPED_PATH, JSON.stringify(finalSkipped, null, 2));
     }
   }
 
