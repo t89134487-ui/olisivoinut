@@ -136,22 +136,19 @@ async function analyzeArticle(title: string, content: string) {
        - EXCLUDE general worldwide news, international conflicts, or market trends UNLESS there is a specific Finnish political response, policy change, or significant statement from a Finnish politician included.
        - EXCLUDE news about sending aid (military or foreign) UNLESS it describes a change in Finnish policy, budget, or includes political commentary on the decision.
     3. IGNORE articles that are general overviews of current events, daily summaries, morning roundups, or lists of news from different regions. Only focus on specific policy proposals, legislative actions, or major political statements that fit the scope above.
-    4. If it IS policy-related or political AND within scope, extract the core proposal or quote from the article as the "Original Statement". This must be in both Finnish and English.
-    5. Provide an extensive, highly critical feedback/analysis in both Finnish and English.
-       - The analysis MUST be structured as a series of "Quote or Argument from Article" followed by your "Criticism".
-       - You should provide multiple such pairs (Quote/Argument - Criticism) to cover the article's main points.
-       - Format each pair clearly with labels like "Argument:" and "Criticism:".
-       - The analysis must be long and detailed enough so that the reader understands the original article's content and arguments perfectly without having to click the source link.
-       - IMPORTANT: Your criticism must be your own independent analytical opinion. Do NOT simply repeat viewpoints or expert opinions from within the article. Think through the policy yourself and highlight its flaws, unintended consequences, or logical inconsistencies.
+    4. If it IS policy-related or political AND within scope, provide an extensive summary and analysis in both Finnish and English.
+    5. The analysis MUST follow this structure in a single cohesive text:
+       - First, provide a comprehensive summary of the article's content, arguments, and key points so the reader understands everything without clicking the source link.
+       - Second, present your own independent analytical vision of the actions that would be taken by an "ideal politician" or the "ideal policy" in response to the situation described.
+       - Do NOT use labels like "Argument:" or "Criticism:". It should read as a single, well-structured flow of text.
+       - IMPORTANT: Your "ideal" vision must be your own independent analytical opinion focused strictly on the specific policy or situation discussed in the article. If you believe a proposal is flawed, explain why and how *that specific proposal* should be improved or handled. Do NOT suggest unrelated alternative policies or random different taxes/subsidies that are not the subject of the article (e.g., if the article is about a tax credit, do not suggest taxing something else instead).
     6. Translate the original title to English if it is in Finnish.
 
     Respond ONLY in the following JSON format:
     {
       "isPolicyRelated": boolean,
       "titleEn": "Translated Title",
-      "originalStatementFi": "Extracted core proposal or quote in Finnish",
-      "originalStatementEn": "Extracted core proposal or quote in English",
-      "analysisFi": "Extensive Finnish feedback/analysis (multi-paragraph)",
+      "analysisFi": "Extensive Finnish summary and ideal policy vision (multi-paragraph)",
       "analysisEn": "Extensive English feedback/analysis (multi-paragraph)",
       "category": "e.g. Economics, Social Policy, Environment"
     }
@@ -245,8 +242,8 @@ async function main() {
         },
         originalSummary: item.contentSnippet || '',
         originalStatement: {
-          fi: analysis.originalStatementFi || '',
-          en: analysis.originalStatementEn || '',
+          fi: '',
+          en: '',
         },
         analysis: {
           fi: analysis.analysisFi || '',

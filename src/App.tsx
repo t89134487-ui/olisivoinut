@@ -51,14 +51,11 @@ function Content() {
                 {locale() === 'fi' ? item.title.fi : item.title.en}
               </h2>
 
-              <div class="mb-8">
-                <h3 class="text-sm font-bold uppercase tracking-wider text-blue-600 mb-2">
-                  {t("original_statement")}
-                </h3>
-                <div class="bg-gray-50 p-6 rounded-lg border-l-4 border-blue-500 italic text-gray-700 text-xl font-serif">
-                  "{locale() === 'fi' ? item.originalStatement.fi : item.originalStatement.en}"
+              <div>
+                <div class="whitespace-pre-wrap leading-relaxed text-gray-800 space-y-4">
+                  {locale() === 'fi' ? item.analysis.fi : item.analysis.en}
                 </div>
-                <div class="mt-2 text-right">
+                <div class="mt-8 pt-4 border-t border-gray-100 text-right">
                   <a
                     href={item.sourceUrl}
                     target="_blank"
@@ -67,15 +64,6 @@ function Content() {
                   >
                     {t("read_more")} →
                   </a>
-                </div>
-              </div>
-
-              <div>
-                <h3 class="text-sm font-bold uppercase tracking-wider text-blue-600 mb-4">
-                  {t("analysis")}
-                </h3>
-                <div class="whitespace-pre-wrap leading-relaxed text-gray-800 space-y-4">
-                  {locale() === 'fi' ? item.analysis.fi : item.analysis.en}
                 </div>
               </div>
             </article>
