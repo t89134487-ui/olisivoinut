@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://yle.fi/a/74-20234198",
+    "sourceUrl": "https://yle.fi/a/74-20234198?origin=rss",
+    "title": {
+      "fi": "Analyysi: Hallitus valitsi suotuisan vaikutusarvion kokoomuksen ajaman areenahankkeen perusteluksi",
+      "en": "Analysis: The government chose a favorable impact assessment as justification for the arena project pushed by the National Coalition Party"
+    },
+    "originalSummary": "Hallitus teki päätöksensä hankkeen omilla tiedoilla, vaikka tarjolla olisi ollut myös riippumatonta tietoa, kirjoittaa politiikan toimittaja Petri Raivio.",
+    "originalStatement": {
+      "fi": "Meidän silloin tekemämme päätös perustui silloiseen noin 800 miljoonan euron hankkeeseen ja silloiseen arvioon. Toimija on sen jälkeen pienentänyt hanketta noin puoleen miljardiin, mistä tulee myös pienemmät työllisyysvaikutukset.",
+      "en": "The decision we made at the time was based on the then-800 million euro project and the estimate at the time. The operator has since reduced the project to about half a billion, which will also result in lower employment effects."
+    },
+    "analysis": {
+      "fi": "Argumentti: Hallitus käytti päätöksensä perusteluna hankkeen omien toimijoiden tuottamia optimistisia lukuja virallisten puolueettomien laskelmien sijaan. Kritiikki: Tämä paljastaa vaarallisen vinouman valtiontukiprosessissa, jossa päätöksenteko on alistettu poliittiselle tarkoitushakuisuudelle. Kun hallitus ignooraa kaupungin asiantuntija-arvion, joka oli huomattavasti maltillisempi, se luopuu tietoisesti faktapohjaisesta päätöksenteosta. Tämä asettaa veronmaksajat riskin alle, kun rahoituspäätökset nojaavat eturyhmien markkinointimateriaaliin eivätkä kestävään talousanalyysiin.\n\nArgumentti: Pääministeri Petteri Orpo vetosi rakennusalan työllisyyden edistämiseen tärkeänä perusteena valtionavulle. Kritiikki: Valtion resurssien ohjaaminen yksittäiseen areenahankkeeseen ”työllistämisperusteella” on taloudellisesti kyseenalaista. Rakennusalan elvytys tulisi toteuttaa laaja-alaisilla, neutraaleilla toimilla, ei valikoivalla yritystuella, joka vääristää markkinoita. On epäloogista tukea hanketta, jonka todellinen työllisyysvaikutus on todennäköisesti murto-osa luvatusta, varsinkin kun toimistotilojen ylitarjonta Helsingissä tekee pysyvien työpaikkojen luomisesta epävarmaa.",
+      "en": "Argument: The government used optimistic figures provided by the project’s own promoters as the justification for its decision, rather than using official, independent calculations. Criticism: This reveals a dangerous bias in the state subsidy process, where decision-making is subordinated to political convenience. By ignoring the city's expert assessment, which was significantly more conservative, the government consciously abandoned evidence-based policy. This exposes taxpayers to risk, as funding decisions are anchored to marketing materials from vested interests rather than sustainable economic analysis.\n\nArgument: Prime Minister Petteri Orpo cited the promotion of employment in the construction sector as a key justification for state aid. Criticism: Directing state resources into a single arena project under the guise of 'job creation' is economically dubious. Stimulating the construction sector should be achieved through broad, neutral measures, not through selective corporate subsidies that distort the market. It is illogical to support a project where the actual employment impact is likely a fraction of what was promised, especially when the oversupply of office space in Helsinki makes the creation of permanent jobs highly speculative."
+    },
+    "publishedAt": "Tue, 30 Jun 2026 19:03:43 +0300",
+    "category": "Economics",
+    "isFromSummary": false
+  },
+  {
     "id": "https://yle.fi/a/74-20233958",
     "sourceUrl": "https://yle.fi/a/74-20233958?origin=rss",
     "title": {
