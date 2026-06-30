@@ -7,7 +7,7 @@ This website scrapes political news from Yle (Finnish National Broadcaster) and 
 - **RSS Scraping:** Automatically fetches the latest news from Yle.
 - **AI Analysis:** Uses Google Gemini 1.5 Flash to filter for policy-related news and generate balanced feedback in Finnish and English.
 - **Multi-lingual:** Supports both English and Finnish interfaces and content.
-- **Minimalist Design:** Clean, blog-like interface built with SolidStart and Tailwind CSS.
+- **Minimalist Design:** Clean, blog-like interface built with Solid JS and Tailwind CSS.
 - **Automated Deployment:** GitHub Actions handles scraping and deployment to GitHub Pages hourly.
 
 ## Prerequisites
@@ -65,4 +65,4 @@ Build the project manually for production:
 npm run build
 ```
 
-The static output will be in `.output/public`.
+The static output will be in `dist`.

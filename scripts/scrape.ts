@@ -129,13 +129,12 @@ async function analyzeArticle(title: string, content: string) {
     1. Determine if this article is about political policy choices, legislative changes, government decisions (e.g., tax changes, social security reforms, new laws), or includes significant opinions/statements from politicians.
     2. IGNORE articles that are general overviews of current events, daily summaries, morning roundups, or lists of news from different regions. Only focus on specific policy proposals, legislative actions, or major political statements.
     3. If it IS policy-related or political, extract the core proposal or quote from the article as the "Original Statement". This must be in both Finnish and English.
-    4. Provide an extensive, highly critical feedback/analysis (several paragraphs) in both Finnish and English.
-       - Your analysis should follow this logical flow:
-         1. What is being suggested or stated?
-         2. Why is it being suggested (what is the underlying political or economic motivation)?
-         3. Why is this suggestion problematic, wrong, or ineffective?
+    4. Provide an extensive, highly critical feedback/analysis in both Finnish and English.
+       - The analysis MUST be structured as a series of "Quote or Argument from Article" followed by your "Criticism".
+       - You should provide multiple such pairs (Quote/Argument - Criticism) to cover the article's main points.
+       - Format each pair clearly with labels like "Argument:" and "Criticism:".
+       - The analysis must be long and detailed enough so that the reader understands the original article's content and arguments perfectly without having to click the source link.
        - IMPORTANT: Your criticism must be your own independent analytical opinion. Do NOT simply repeat viewpoints or expert opinions from within the article. Think through the policy yourself and highlight its flaws, unintended consequences, or logical inconsistencies.
-       - Focus on providing a deep, critical dive into the policy impact.
     5. Translate the original title to English if it is in Finnish.
 
     Respond ONLY in the following JSON format:
