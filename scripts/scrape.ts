@@ -141,7 +141,7 @@ async function analyzeArticle(title: string, content: string) {
        - First, provide a comprehensive summary of the article's content, arguments, and key points so the reader understands everything without clicking the source link.
        - Second, present your own independent analytical vision of the actions that would be taken by an "ideal politician" or the "ideal policy" in response to the situation described.
        - Do NOT use labels like "Argument:" or "Criticism:". It should read as a single, well-structured flow of text.
-       - IMPORTANT: Your "ideal" vision must be your own independent analytical opinion. Think through the policy yourself and highlight how it should be handled to avoid flaws, unintended consequences, or logical inconsistencies.
+       - IMPORTANT: Your "ideal" vision must be your own independent analytical opinion focused strictly on the specific policy or situation discussed in the article. If you believe a proposal is flawed, explain why and how *that specific proposal* should be improved or handled. Do NOT suggest unrelated alternative policies or random different taxes/subsidies that are not the subject of the article (e.g., if the article is about a tax credit, do not suggest taxing something else instead).
     6. Translate the original title to English if it is in Finnish.
 
     Respond ONLY in the following JSON format:
