@@ -26,7 +26,7 @@ function Content() {
       </header>
 
       <div class="space-y-12">
-        <For each={newsData as any[]} fallback={
+        <For each={(newsData as any[]).slice(0, 20)} fallback={
           <div class="text-center py-20 bg-gray-50 rounded-lg">
             <p class="text-xl text-gray-500">{t("no_news")}</p>
           </div>
