@@ -1,5 +1,85 @@
 [
   {
+    "id": "https://yle.fi/a/74-20233254",
+    "sourceUrl": "https://yle.fi/a/74-20233254?origin=rss",
+    "title": {
+      "fi": "Ruotsalaistutkimus: Sairausvakuutukset tuovat suuret kulut julkiselle sektorille – Suomessa työterveys voi tehdä saman",
+      "en": "Swedish study: Health insurance creates large costs for the public sector – Occupational health in Finland could do the same"
+    },
+    "originalSummary": "Työpaikan tarjoamaan tai omaan vakuutukseen nojaava pääsy yksityislääkärille tuo ohituskaistan julkiseen erikoissairaanhoitoon, osoittaa ruotsalaistutkimus.",
+    "originalStatement": {
+      "fi": "",
+      "en": ""
+    },
+    "analysis": {
+      "fi": "Artikkeli käsittelee ruotsalaista tutkimusta, jonka mukaan yksityiset sairauskuluvakuutukset eivät kevennä julkisen terveydenhuollon taakkaa, vaan päinvastoin lisäävät sitä. Tutkimus osoittaa, että vakuutukset toimivat ikään kuin 'ohituskaistana' julkiseen erikoissairaanhoitoon; vaikka ne vähentävät perusterveydenhuollon käyntejä, ne lisäävät merkittävästi diagnooseja ja lähetteitä, jotka kuormittavat julkista erikoissairaanhoitoa. Koska suomalainen työterveyshuolto toimii samankaltaisella mekanismilla, asiantuntijat pitävät tuloksia erittäin relevanteina Suomen kannalta. Vakuutetut saavat nopeamman pääsyn hoitoon, mikä parantaa heidän ennustettaan esimerkiksi syöpäsairauksissa, mutta samalla järjestelmä kärjistää terveydenhuollon epätasa-arvoa, kun palvelut jakautuvat sosioekonomisen aseman mukaan.\n\nIdeaalipoliittisessa ratkaisussa painopisteen tulisi siirtyä 'ohituskaistojen' minimoinnista kokonaisvaltaiseen hoidon jatkuvuuden ja tasa-arvon varmistamiseen. Sen sijaan, että työterveyshuollon roolia rajoitettaisiin, tulisi julkisen sektorin ja työterveyden välistä tiedonvaihtoa ja hoitoprosesseja integroida siten, että työterveyden kautta saatu diagnostiikka palvelisi suoraan julkisen erikoissairaanhoidon hoidon suunnittelua ilman turhia väliportaita. Poliittisen päätöksenteon tulisi kohdentaa resursseja julkisen perusterveydenhuollon saatavuuden parantamiseen, jotta 'ohituskaistalle' ei olisi tarvetta. Ideaalitilanteessa valtio loisi kannustimia, joilla työterveyshuolto sitoutettaisiin vahvemmin koko väestön hoidon laadun ja tasa-arvon kehittämiseen, sen sijaan että se toimisi vain tietyn väestönosan nopeana väylänä, mikä välillisesti heikentää julkisen sektorin resurssien kohdentumista niille, jotka sitä eniten tarvitsevat.",
+      "en": "The article details a Swedish study revealing that private health insurance does not alleviate the burden on the public healthcare sector; instead, it increases it. The study highlights that insurance acts as an 'express lane' to public specialist care. While it reduces primary care visits, it leads to a higher volume of diagnoses and referrals, effectively increasing the load on public specialized medicine. Given the similarities between the Swedish model and the Finnish occupational healthcare system, experts view these findings as highly relevant. While insured individuals benefit from faster access to care—improving outcomes for conditions like cancer—the system exacerbates healthcare inequality, as access becomes increasingly dependent on socioeconomic status.\n\nFrom an ideal policy perspective, the focus should shift from merely criticizing or restricting these 'express lanes' to ensuring systemic continuity and equity. Rather than limiting the scope of occupational health, policy should prioritize integrating data and clinical processes between occupational and public services. This would ensure that diagnostics performed in private settings flow seamlessly into public specialist care planning, eliminating redundant administrative hurdles. Political decision-makers should prioritize funding to improve the accessibility of public primary care, reducing the systemic necessity for private alternatives. An ideal approach would involve creating incentives for occupational healthcare providers to collaborate more effectively with the public sector, ensuring that the health system as a whole operates as a unified entity rather than a two-tiered system that indirectly diverts resources away from the most vulnerable populations."
+    },
+    "publishedAt": "Wed, 01 Jul 2026 06:00:35 +0300",
+    "category": "Social Policy",
+    "isFromSummary": false
+  },
+  {
+    "id": "https://yle.fi/a/74-20234234",
+    "sourceUrl": "https://yle.fi/a/74-20234234?origin=rss",
+    "title": {
+      "fi": "Nuorten työllistymisseteli uudistuu tänään",
+      "en": "Youth employment voucher is reformed today"
+    },
+    "originalSummary": "",
+    "originalStatement": {
+      "fi": "",
+      "en": ""
+    },
+    "analysis": {
+      "fi": "Työ- ja elinkeinoministeriö on uudistanut nuorten työllistymissetelin ehtoja madaltaakseen kynnystä nuorten palkkaamiseen. Keskeisimmät muutokset sisältävät tuen laajentamisen kattamaan myös yhdistykset ja säätiöt, työsopimuksen vähimmäiskeston puolittamisen kuudesta kuukaudesta kolmeen sekä työttömyyden kestokriteerin poistamisen. Tuen tavoitteena on kattaa puolet nuoren palkkakustannuksista, kuitenkin enintään 1 500 euroa kuukaudessa, mikä tekee siitä houkuttelevan työkalun erityisesti pienemmille työnantajille. Muutokset heijastavat pyrkimystä tehdä setelistä joustavampi ja saavutettavampi.\n\nIdeaali politiikka tässä kontekstissa vaatisi vielä vahvempaa keskittymistä työkokemuksen laadun varmistamiseen. Vaikka kriteerien keventäminen parantaa järjestelmän käyttöastetta, pelkkä palkkatuki ei riitä, jos nuori ei saa samalla riittävää ohjausta tai tukea työtehtävissä. Ideaalissa mallissa yritysten ja järjestöjen tulisi saada palkkatuen ohella matalan kynnyksen neuvontaa tai mentorointitukea, jotta työllistymisestä muodostuu aito oppimisprosessi. Lisäksi olisi olennaista luoda automaattinen seurantajärjestelmä, joka mittaa, kuinka moni tuettu työsuhde jatkuu vakinaistamisena tukikauden jälkeen, jotta politiikan vaikuttavuus ei rajoittuisi pelkkään lyhytaikaiseen työllistämiseen.",
+      "en": "The Ministry of Economic Affairs and Employment has reformed the conditions for the youth employment voucher to lower the threshold for hiring young people. Key changes include expanding the eligibility to associations and foundations, reducing the required duration of employment from six months to three, and removing the criteria regarding the length of prior unemployment. The grant covers half of the young person's salary, capped at 1,500 euros per month, making it a compelling tool for diverse employers. These changes aim to make the voucher more flexible and accessible to bridge the gap between education and the workforce.\n\nFrom an ideal policy perspective, the initiative should move beyond merely subsidizing wage costs to focusing on the long-term employability of the individual. While lowering barriers for employers is necessary, a truly effective policy would integrate the voucher with structured mentorship or training requirements. A more robust approach would incentivize employers not just to hire, but to provide a clear pathway for skill development that increases the young person's market value beyond the three-month window. Furthermore, an ideal implementation would prioritize data-driven feedback loops to monitor transition rates into permanent employment, ensuring that the subsidy serves as a genuine stepping stone rather than a recurring cost that incentivizes perpetual temporary contracts."
+    },
+    "publishedAt": "Wed, 01 Jul 2026 04:50:34 +0300",
+    "category": "Social Policy",
+    "isFromSummary": false
+  },
+  {
+    "id": "https://yle.fi/a/74-20234232",
+    "sourceUrl": "https://yle.fi/a/74-20234232?origin=rss",
+    "title": {
+      "fi": "Eurobarometri: Suomalaiset haluaisivat EU:lle merkittävämmän turvallisuuspoliittisen roolin",
+      "en": "Eurobarometer: Finns would like the EU to have a more significant security policy role"
+    },
+    "originalSummary": "",
+    "originalStatement": {
+      "fi": "",
+      "en": ""
+    },
+    "analysis": {
+      "fi": "Euroopan parlamentin tuoreen Eurobarometri-kyselyn mukaan suomalaiset suhtautuvat poikkeuksellisen myönteisesti EU:n roolin vahvistamiseen turvallisuus- ja kriisinhallintakysymyksissä. Peräti 74 prosenttia suomalaisista kannattaa EU:n merkittävämpää roolia kansalaisten suojelemisessa maailmanlaajuisilta turvallisuusriskeiltä, mikä ylittää selvästi EU:n keskiarvon. Tämä kertoo merkittävästä painopisteen muutoksesta suomalaisten asenteissa, joissa eurooppalainen turvallisuusyhteistyö nähdään yhä vahvemmin kansallisen turvallisuuden jatkeena ja vahvistajana.\n\nIdeaalin poliitikon tulisi vastata tähän kansalaisten mandaattiin edistämällä aktiivisesti EU:n puolustusyhteistyön syventämistä tavalla, joka ei ainoastaan lisää byrokratiaa, vaan parantaa operatiivista suorituskykyä. Optimaalinen politiikka tässä tilanteessa tarkoittaisi siirtymistä kohti yhteisiä hankintoja ja teollisen kapasiteetin kasvattamista, mikä vähentää riippuvuutta unionin ulkopuolisista toimijoista. Poliittisen johtajuuden tulisi tässä prosessissa varmistaa, että kansallinen puolustuskyky säilyy vahvana, samalla kun EU:n yhteiset mekanismit resursoidaan niin, että ne tuottavat mitattavaa lisäarvoa suomalaisten turvallisuudentunteelle. Avainasemassa on konkretia: epämääräisten tavoitteiden sijasta politiikan on fokusoitava puolustustarvikkeiden tuotannon varmistamiseen ja kyberturvallisuuden yhteisiin standardeihin, jolloin EU:n turvallisuuspoliittinen rooli muuttuu pelkästä retoriikasta todelliseksi turvatakuuksi.",
+      "en": "The recent European Parliament Eurobarometer survey highlights that Finns hold an exceptionally positive view toward strengthening the EU's role in security and crisis management. A clear majority of 74 percent of Finns favor a more significant role for the EU in protecting citizens from global security risks, surpassing the EU average. This reflects a major shift in public sentiment, where European security cooperation is increasingly viewed as an essential extension and reinforcement of national security.\n\nAn ideal politician should respond to this popular mandate by actively promoting the deepening of EU defense cooperation in a manner that improves operational capability rather than just increasing bureaucracy. Optimal policy in this context would involve moving toward joint procurement and scaling up industrial capacity, thereby reducing reliance on third-party actors. Political leadership should ensure that national defense capabilities remain robust while ensuring EU mechanisms are resourced in a way that provides measurable added value to Finnish security. The key to success lies in concrete action: instead of vague declarations, policy must focus on securing defense supply chains and establishing common standards for cybersecurity, thereby transforming the EU's security policy role from mere rhetoric into a genuine security guarantee."
+    },
+    "publishedAt": "Wed, 01 Jul 2026 04:04:00 +0300",
+    "category": "Foreign and Security Policy",
+    "isFromSummary": false
+  },
+  {
+    "id": "https://yle.fi/a/74-20234230",
+    "sourceUrl": "https://yle.fi/a/74-20234230?origin=rss",
+    "title": {
+      "fi": "Halpatuontilähetysten tullimaksu astuu voimaan tänään",
+      "en": "Customs fee for low-cost import shipments enters into force today"
+    },
+    "originalSummary": "",
+    "originalStatement": {
+      "fi": "",
+      "en": ""
+    },
+    "analysis": {
+      "fi": "Uusi EU-asetus on astunut voimaan, ja se määrää kolmen euron tullimaksun kaikille EU:n ulkopuolelta tilatuille, enintään 150 euron arvoisille verkkokauppaostoksille. Tämän toimenpiteen ensisijainen tavoite on hillitä halpatuontilähetysten hallitsematonta kasvua ja hallita niistä aiheutuvaa logistista kuormitusta, erityisesti kiinalaisten verkkokauppojen kohdalla. Vaikka maksu kohdistuu muodollisesti myyjätahoihin, sen lopullinen vaikutus kuluttajahintoihin on vielä epäselvä, mikä jättää avoimeksi kysymyksen siitä, tulevatko kuluttajat maksamaan tämän kulun suoraan hintojen nousuna. Ihanteellinen poliittinen lähestymistapa tässä tilanteessa olisi ollut yhdistää tämä tullimaksu tehokkaaseen digitaaliseen valvontajärjestelmään, joka varmistaa, ettei maksu johda kohtuuttomaan hallinnolliseen taakkaan pienille kotimaisille toimijoille. Sen sijaan, että keskityttäisiin vain tuontimaksuihin, ideaalipolitiikassa tulisi korostaa ympäristövaikutusten huomioimista: verkkokauppojen tulisi raportoida lähetysten hiilijalanjälki läpinäkyvästi, ja tullimaksuja voitaisiin porrastaa sen mukaan, kuinka kestävää logistiikkaa kyseinen toimija hyödyntää. Tämä loisi suoran taloudellisen kannustimen ympäristöystävällisemmälle kaupalle samalla kun se tasapainottaa kilpailutilannetta EU:n sisämarkkinoiden ja halpatuontialustojen välillä.",
+      "en": "A new EU regulation has taken effect, imposing a three-euro customs fee on e-commerce purchases from outside the EU valued at up to 150 euros. The primary objective of this measure is to curb the rapid increase in low-cost import shipments and manage the resulting logistical strain, particularly concerning the surge of goods from Chinese e-commerce platforms. While the fee is formally levied on the seller, its ultimate impact on consumer prices remains uncertain, leaving it unclear whether consumers will effectively bear this cost through price hikes. An ideal political approach to this situation would have been to integrate this customs fee with a robust digital oversight system to ensure that the implementation does not create an undue administrative burden for smaller domestic entities. Instead of focusing solely on import duties, ideal policy should emphasize the integration of environmental impact reporting; e-commerce retailers should be required to disclose the carbon footprint of their shipments transparently, and these customs fees could be tiered based on the sustainability of the logistics utilized by the operator. This would create a direct economic incentive for more environmentally conscious commerce while simultaneously balancing the competitive landscape between the EU single market and low-cost import platforms."
+    },
+    "publishedAt": "Wed, 01 Jul 2026 02:58:53 +0300",
+    "category": "Economics",
+    "isFromSummary": false
+  },
+  {
     "id": "https://yle.fi/a/74-20234198",
     "sourceUrl": "https://yle.fi/a/74-20234198?origin=rss",
     "title": {
