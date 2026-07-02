@@ -38,7 +38,7 @@ function Content() {
                   {item.category}
                 </span>
                 <time class="text-sm text-gray-500">
-                  {t("published_at")}: {new Date(item.publishedAt).toLocaleString(locale(), { dateStyle: 'short', timeStyle: 'short' })}
+                  {new Date(item.publishedAt).toLocaleString(locale(), { dateStyle: 'short', timeStyle: 'short' })}
                 </time>
                 {item.isFromSummary && (
                   <span class="bg-amber-100 text-amber-800 text-xs font-medium px-2 py-0.5 rounded border border-amber-200">
