@@ -84,17 +84,12 @@ const NewsItemSchema = z.object({
   publishedAt: z.string(),
   category: z.string(),
   isFromSummary: z.boolean().optional(),
+  model: z.string(),
 });
 
 type NewsItem = z.infer<typeof NewsItemSchema>;
 
 const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY || '');
-const model = genAI.getGenerativeModel({
-  model: 'gemini-flash-lite-latest',
-  generationConfig: {
-    responseMimeType: 'application/json',
-  },
-});
 
 async function fetchFullArticle(url: string): Promise<string | null> {
   try {
@@ -119,7 +114,14 @@ async function fetchFullArticle(url: string): Promise<string | null> {
   }
 }
 
-async function analyzeArticle(title: string, content: string) {
+async function analyzeArticle(title: string, content: string, modelName: string) {
+  const model = genAI.getGenerativeModel({
+    model: modelName,
+    generationConfig: {
+      responseMimeType: 'application/json',
+    },
+  });
+
   const prompt = `
     You are an expert political analyst. I will provide you with a news headline and the full content (or summary) of an article from Yle (Finnish national broadcaster).
 
@@ -136,35 +138,31 @@ async function analyzeArticle(title: string, content: string) {
        - EXCLUDE general worldwide news, international conflicts, or market trends UNLESS there is a specific Finnish political response, policy change, or significant statement from a Finnish politician included.
        - EXCLUDE news about sending aid (military or foreign) UNLESS it describes a change in Finnish policy, budget, or includes political commentary on the decision.
     3. IGNORE articles that are general overviews of current events, daily summaries, morning roundups, or lists of news from different regions. Only focus on specific policy proposals, legislative actions, or major political statements that fit the scope above.
-    4. If it IS policy-related or political AND within scope, provide an extensive summary and analysis in both Finnish and English.
-    5. The analysis MUST follow this structure in a single cohesive text:
+    4. POLICY FOCUS: Ignore all aspects regarding government stability, keeping the administration together, or maintaining political credibility. Focus strictly on the merits of the policy itself and what would be the best course of action from a policy perspective.
+    5. If it IS policy-related or political AND within scope, provide an extensive summary and analysis in both Finnish and English.
+    6. The analysis MUST follow this structure in a single cohesive text:
        - First, provide a comprehensive summary of the article's content, arguments, and key points so the reader understands everything without clicking the source link.
-       - Second, present your own independent analytical vision of the actions that would be taken by an "ideal politician" or the "ideal policy" in response to the situation described.
+       - Second, present your own independent analytical vision of the actions that should be taken in response to the situation described.
        - Do NOT use labels like "Argument:" or "Criticism:". It should read as a single, well-structured flow of text.
-       - IMPORTANT: Your "ideal" vision must be your own independent analytical opinion focused strictly on the specific policy or situation discussed in the article. If you believe a proposal is flawed, explain why and how *that specific proposal* should be improved or handled. Do NOT suggest unrelated alternative policies or random different taxes/subsidies that are not the subject of the article (e.g., if the article is about a tax credit, do not suggest taxing something else instead).
-    6. Translate the original title to English if it is in Finnish.
+       - IMPORTANT: Your vision must be your own independent analytical opinion focused strictly on the specific policy or situation discussed in the article. If you believe a proposal is flawed, explain why and how *that specific proposal* should be improved or handled. Do NOT suggest unrelated alternative policies or random different taxes/subsidies that are not the subject of the article (e.g., if the article is about a tax credit, do not suggest taxing something else instead).
+    7. Translate the original title to English if it is in Finnish.
 
     Respond ONLY in the following JSON format:
     {
       "isPolicyRelated": boolean,
       "titleEn": "Translated Title",
-      "analysisFi": "Extensive Finnish summary and ideal policy vision (multi-paragraph)",
+      "analysisFi": "Extensive Finnish summary and policy vision (multi-paragraph)",
       "analysisEn": "Extensive English feedback/analysis (multi-paragraph)",
       "category": "e.g. Economics, Social Policy, Environment"
     }
   `;
 
-  try {
-    const result = await model.generateContent(prompt);
-    const response = await result.response;
-    const text = response.text();
-    const parsed = JSON.parse(text);
-    console.log(`Analysis result for "${title}": isPolicyRelated=${parsed.isPolicyRelated}`);
-    return parsed;
-  } catch (error) {
-    console.error('Error analyzing article:', error);
-    return null;
-  }
+  const result = await model.generateContent(prompt);
+  const response = result.response;
+  const text = response.text();
+  const parsed = JSON.parse(text);
+  console.log(`Analysis result for "${title}": isPolicyRelated=${parsed.isPolicyRelated}`);
+  return parsed;
 }
 
 async function main() {
@@ -191,6 +189,8 @@ async function main() {
   const existingIds = new Set(existingData.map(item => item.id));
   const skippedIds = new Set(skippedIdsList);
 
+  let currentModel = 'gemini-flash-latest';
+
   for (const item of [...feed.items].reverse()) {
     const id = item.guid || item.link || '';
     if (existingIds.has(id) || skippedIds.has(id)) continue;
@@ -214,7 +214,7 @@ async function main() {
       continue;
     }
 
-    console.log(`Analyzing: ${item.title}`);
+    console.log(`Analyzing: ${item.title} using ${currentModel}`);
 
     let articleContent = await fetchFullArticle(item.link || '');
     let isFromSummary = false;
@@ -227,7 +227,22 @@ async function main() {
       console.log(`Fetched full content for "${item.title}" (${articleContent.length} characters)`);
     }
 
-    const analysis = await analyzeArticle(item.title || '', articleContent);
+    let analysis = null;
+    try {
+      analysis = await analyzeArticle(item.title || '', articleContent, currentModel);
+    } catch (error) {
+      if (currentModel === 'gemini-flash-latest') {
+        console.warn(`Error with gemini-flash-latest, falling back to gemini-flash-lite-latest:`, error);
+        currentModel = 'gemini-flash-lite-latest';
+        try {
+          analysis = await analyzeArticle(item.title || '', articleContent, currentModel);
+        } catch (fallbackError) {
+          console.error(`Error with fallback model gemini-flash-lite-latest:`, fallbackError);
+        }
+      } else {
+        console.error(`Error with current model ${currentModel}:`, error);
+      }
+    }
 
     await new Promise(resolve => setTimeout(resolve, 4000));
 
@@ -252,6 +267,7 @@ async function main() {
         publishedAt: item.pubDate || new Date().toISOString(),
         category: analysis.category || 'General',
         isFromSummary,
+        model: currentModel,
       };
 
       existingData.unshift(newItem);
