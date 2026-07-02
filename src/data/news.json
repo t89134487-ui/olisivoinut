@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20234649",
+    "sourceUrl": "https://yle.fi/a/74-20234649?origin=rss",
+    "title": "Finland's Ranking in Competitiveness Comparison Falls Significantly",
+    "originalSummary": "Eniten laski yritysten suorituskyky. Heikoin tekijä oli yhä taloudellinen menestys.",
+    "analysis": "The article reports a significant decline in Finland's international competitiveness, with the country dropping five places to 19th in the Swiss IMD institute’s annual comparison, as reported by the Research Institute of the Finnish Economy (Etla). This decline places Finland at its lowest level since the 2013–2016 period, marking the sharpest year-on-year drop since 2010. According to Etla, the downturn stems from both cyclical economic trends and deep-seated structural issues. Finland's standing deteriorated across all four main evaluation categories, with the most severe decline observed in business efficiency, which hit an all-time low in the history of the comparison. Economic performance remains the country's weakest overall factor. While Finland continues to lead globally in terms of the rule of law and competition legislation, it lags significantly behind its Nordic neighbors; Denmark ranks 6th, Sweden 9th, and Norway 18th. Singapore, Hong Kong, and Switzerland took the top three global spots.\n\nTo reverse this worrying trend and close the competitiveness gap with other Nordic countries, Finland must implement decisive policy reforms that target the structural bottlenecks identified in the report, particularly regarding business efficiency and economic performance. Given that business performance is at an all-time low, policy actions must prioritize enhancing labor market flexibility and reducing bureaucratic barriers that stifle corporate agility. While Finland's strong foundations in the rule of law provide a stable investment environment, this advantage is being undermined by high structural rigidity. Accelerating reforms in local collective bargaining would allow enterprises to adapt more dynamically to cyclical downturns, directly addressing the business efficiency deficit. Furthermore, because Finland's small domestic market naturally limits growth, economic policy must focus on facilitating internationalization for small and medium-sized enterprises (SMEs) through targeted export promotion and streamlining R&D tax incentives. Rather than relying on generic fiscal stimulus, the government should focus on structural microeconomic reforms that lower the cost of doing business, encourage private investment, and foster innovation, thereby translating Finland's high-quality infrastructure and regulatory stability into tangible economic dynamism.",
+    "publishedAt": "Fri, 03 Jul 2026 01:06:36 +0300",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20234544",
     "sourceUrl": "https://yle.fi/a/74-20234544?origin=rss",
     "title": "A Severe Blow to Farmers: Russia's Decision Could Raise Fertilizer Prices",
