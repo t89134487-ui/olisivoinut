@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20234544",
+    "sourceUrl": "https://yle.fi/a/74-20234544?origin=rss",
+    "title": "A Severe Blow to Farmers: Russia's Decision Could Raise Fertilizer Prices",
+    "originalSummary": "Lannoitetuonti Venäjältä loppui keskiviikkona kuin seinään.",
+    "analysis": "The article reports on the impending rise in fertilizer prices in Finland, triggered by Russia's decision to octuple customs duties on rail transport to Finland. This move, which effectively halts all fertilizer imports from Russia, is a retaliatory countermeasure against the European Union's decision to double import tariffs on Russian and Belarusian goods. Experts note that the timing of Russia's tariff hike, implemented at the beginning of July, was strategically calculated to maximize shock, as this is when Finnish farmers begin preparing and purchasing fertilizers for the next growing season. While Finland has reduced its reliance on Russian fertilizers since 2022 by shifting imports to European countries such as Norway, Sweden, Lithuania, and Poland, the country remains non-self-sufficient in nitrogen fertilizers. The sudden halt in cheaper Russian imports threatens to drive up production costs for domestic farmers, who face the burden of rising expenses without a corresponding increase in the market prices of their products, potentially forcing some to leave lands fallow.\n\nFrom a policy perspective, this situation highlights a critical vulnerability in Finland's national security of supply and agricultural resilience. To mitigate these geopolitical shocks, Finland and the broader European Union must shift from reactive trade adjustments to proactive strategic sovereignty in agricultural inputs. Since the domestic fertilizer production infrastructure (formerly Kemira GrowHow) is owned by a multinational entity, the Finnish government should establish formal, legally binding strategic supply agreements to ensure priority distribution of essential fertilizers to domestic producers during crises. Additionally, rather than merely subsidizing the increased costs of imported mineral fertilizers, policy should actively incentivize the scaling of domestic circular-economy alternatives, such as recycled nutrients and organic fertilizers derived from domestic biogas production and agricultural waste. Grounding agricultural policy in domestic nutrient self-sufficiency is not only an environmental necessity but a crucial national security imperative to protect the food production chain from being weaponized in international trade disputes.",
+    "publishedAt": "Thu, 02 Jul 2026 18:46:01 +0300",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20234593",
     "sourceUrl": "https://yle.fi/a/74-20234593?origin=rss",
     "title": "Controversial Boreal Natural Forests Excluded from Finland's Nature Restoration Draft Plan",
