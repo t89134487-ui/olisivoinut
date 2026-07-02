@@ -1,5 +1,110 @@
 [
   {
+    "id": "https://yle.fi/a/74-20234492",
+    "sourceUrl": "https://yle.fi/a/74-20234492?origin=rss",
+    "title": {
+      "fi": "Ylelle vahvistus: Pääministeri Orpo määrää Stea-avustuksia ohjaavan asetusmuutoksen esittelylle takarajan",
+      "en": "Yle Confirmation: Prime Minister Orpo Sets Deadline for Introducing Stea Grant Decree Amendment"
+    },
+    "originalSummary": "Sosiaali- ja terveysministeri Wille Rydman sanoi keskiviikon A-studiossa, ettei sulje pois asetusmuutoksen esittelemistä.",
+    "originalStatement": {
+      "fi": "",
+      "en": ""
+    },
+    "analysis": {
+      "fi": "Pääministeri Petteri Orpo asettaa sitovan määräyksen ja takarajan (13. elokuuta) elinkeinoministeri Wille Rydmanille Stea-avustuksia ohjaavan asetusmuutoksen esittelemiseksi valtioneuvostossa. Päätöksellä pyritään ratkaisemaan hallituksen sisäinen kiista sosiaali- ja terveysjärjestöjen avustuskriteereistä, joita koskeva Rydmanin aiempi toimintatapa on herättänyt tyytymättömyyttä hallituskumppaneissa. Kansliapäälliköiden työryhmä on valmistellut luonnoksen asetusmuutokseksi, ja vaikka Rydman on suhtautunut siihen varovaisen myönteisesti, sosiaali- ja terveysjärjestöjen kattojärjestö Soste on ilmaissut huolensa siitä, muuttuvatko käytännön avustuskriteerit tosiasiallisesti asetusmuutoksen myötä.\n\nPoliittisesta ja hallinnollisesta näkökulmasta sosiaali- ja terveysjärjestöjen rahoituskriteerien uudistamisessa tulisi priorisoida ennustettavuutta, vaikuttavuutta ja läpinäkyvyyttä poliittisen köydenvedon sijaan. Kolmannen sektorin toimijat tekevät kriittistä työtä julkisen sektorin tukena, minkä vuoksi avustuskriteerien on oltava selkeitä ja pitkäjänteisiä. Esitetty asetusmuutos tulisi viedä viivytyksettä eteenpäin siten, että siinä määritellään objektiiviset ja mitattavat kriteerit avustusten jaolle. Prosessin pitkittyminen ja epäselvyys kriteerien soveltamisesta luovat järjestökentälle kestämätöntä epävarmuutta. Jatkossa vastaavanlaiset kriteerimuutokset tulisi valmistella tiiviissä yhteistyössä järjestökentän ja asiantuntijoiden kanssa ilman, että niistä muodostuu yksittäisten ministerien linjauksista riippuvaisia tempoilevia päätöksiä. Ministeriön ja valtioneuvoston on taattava, että uusi asetus sitoo ministeriä myös käytännön soveltamistilanteissa, jotta säädösten uskottavuus säilyy.",
+      "en": "Prime Minister Petteri Orpo is setting a binding deadline of August 13 for Minister of Economic Affairs Wille Rydman to present a decree amendment regarding Stea (Funding Centre for Social Welfare and Health Organisations) grants to the government. This move is designed to resolve internal government friction, as Orpo's coalition partners have been dissatisfied with Rydman's approach to defining grant criteria. Although a permanent secretaries' working group has drafted an amendment that Rydman has cautiously welcomed, Soste, the umbrella organization for social and health NGOs, remains concerned about whether the actual grant criteria will truly change in practice despite the decree's modification.\n\nFrom a policy perspective, the reform of funding criteria for social and welfare organizations must prioritize predictability, impact, and transparency over political maneuvering. The third sector plays a critical role in supporting public services, which is why grant criteria must be clear and long-term. The proposed decree amendment should be advanced without delay, ensuring it establishes objective and measurable allocation standards. Prolonged uncertainty and ambiguity regarding how these criteria are applied create an unsustainable environment for NGOs. In the future, such regulatory changes should be drafted in close cooperation with the NGO sector and civil service experts to prevent funding policies from becoming volatile or overly dependent on the preferences of individual ministers. The government must ensure that the new decree is fully binding in practical application, maintaining the integrity and consistency of the public funding system."
+    },
+    "publishedAt": "Thu, 02 Jul 2026 11:05:49 +0300",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20234489",
+    "sourceUrl": "https://yle.fi/a/74-20234489?origin=rss",
+    "title": {
+      "fi": "Itä-Suomen ja Tampereen yliopistot tekevät oikaisuvaatimukset ministeri Rydmanin päätöksistä",
+      "en": "Universities of Eastern Finland and Tampere to file rectification requests regarding Minister Rydman's decisions"
+    },
+    "originalSummary": "Itä-Suomen yliopisto tekee oikaisuvaatimuksen sosiaali- ja terveysministeri Wille Rydmanin päätöksestä, jolla evättiin rahoitus yliopiston lastensuojelun tutkimushankkeelta.",
+    "originalStatement": {
+      "fi": "",
+      "en": ""
+    },
+    "analysis": {
+      "fi": "Itä-Suomen ja Tampereen yliopistot tekevät oikaisuvaatimukset elinkeinoministeri Wille Rydmanin päätöksestä evätä rahoitus yhdeksältä sosiaalityön tutkimushankkeelta. Ministeri hylkäsi hankkeet luettuaan niiden tutkimussuunnitelmat, mikä poikkesi valmisteltujen tieteellisten arviointien suosituksista. Itä-Suomen yliopiston varadekaani Sari Rissasen mukaan on erittäin poikkeuksellista, että yliopisto organisaationa lähtee hakemaan oikaisua tällaiseen päätökseen. Oikaisuvaatimus perustuu prosessuaalisiin tekijöihin eli siihen, miten rahoituspäätöksen valmistelu eteni ja miksi lopullinen päätös poikkesi merkittävästi tehdyistä asiantuntija-arvioista. Myös Tampereen yliopisto valittaa päätöksistä hankekohtaisesti menetettyään rahoituksen kahdelta hankkeelta. Yksi hylätyistä hankkeista käsitteli palautetietoista työskentelyotetta lastensuojelun avohuollossa.\n\nPoliittisin perustein tehty päätös ohittaa tieteellinen vertaisarviointi vaarantaa vakavasti suomalaisen tiedepolitiikan uskottavuuden ja tutkimuksen riippumattomuuden periaatteen. Julkisen tutkimusrahoituksen jakamisen tulisi aina perustua avoimeen, objektiiviseen ja asiantuntijavetoiseen arviointiin, eikä yksittäisen ministerin henkilökohtaisiin tai poliittisiin näkemyksiin. Jotta yliopistojen ja tiedeyhteisön luottamus päätöksentekoon säilyy, rahoitusprosessien on oltava läpinäkyviä ja ennakoitavia. Ministeriön tulisi tässä tilanteessa korjata menettelynsä ja palata noudattamaan tieteellisten asiantuntijaelinten suosituksia tai vähintäänkin esittää julkisesti yksityiskohtaiset ja objektiiviset tieteelliset perustelut poikkeukselliselle hylkäyspäätökselleen. Autonomisen tiedeyhteisön suojeleminen suoralta poliittiselta ohjaukselta on elintärkeää suomalaisen tutkimuksen laadun ja kansainvälisen maineen kannalta.",
+      "en": "The Universities of Eastern Finland and Tampere are filing formal rectification requests against Minister of Economic Affairs Wille Rydman's decision to deny funding for nine social work research projects. Rydman rejected the funding after personally reviewing the research plans, diverging from the positive recommendations of scientific evaluators. Vice Dean Sari Rissanen from the University of Eastern Finland noted that it is highly exceptional for a university to appeal such a decision as an institution. The rectification requests focus on procedural issues, specifically how the final funding decision came to differ so drastically from the expert scientific preparation. Tampere University is also appealing the decision on a project-by-project basis after losing funding for two projects. One of the rejected studies focused on feedback-informed social work in outpatient child welfare.\n\nOverriding scientific peer-review processes based on political discretion severely undermines the core principles of academic freedom and research independence in Finland. Public funding allocations for academic research must be guided by objective, expert-led scientific criteria rather than the personal political preferences of an individual minister. To preserve the integrity and international credibility of the Finnish higher education system, decision-making processes must remain transparent, predictable, and free from ideological interference. In this instance, the ministry should reconsider its stance and align its decisions with the evaluations of scientific experts, or at the very least provide rigorous, objective justifications for overriding them. Protecting the autonomy of the scientific community from direct political intervention is vital for the quality and reliability of public-sector research."
+    },
+    "publishedAt": "Thu, 02 Jul 2026 10:44:38 +0300",
+    "category": "Education and Research Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20234494",
+    "sourceUrl": "https://yle.fi/a/74-20234494?origin=rss",
+    "title": {
+      "fi": "EU:n Kallas jyrähti Venäjän iskujen jälkeen – valmistelee uusia pakotteita",
+      "en": "EU's Kallas Reacts Strongly After Russian Strikes – Preparing New Sanctions"
+    },
+    "originalSummary": "Mitä enemmän Moskova hyökkää siviilien kimppuun, sitä enemmän on asetettava pakotteita, toteaa Kaja Kallas.",
+    "originalStatement": {
+      "fi": "",
+      "en": ""
+    },
+    "analysis": {
+      "fi": "Euroopan unionin ulko- ja turvallisuuspolitiikan korkea edustaja Kaja Kallas valmistelee uusia pakotteita Venäjää vastaan. Päätös syntyi sen jälkeen, kun Venäjä teki laajoja ohjus- ja lennokkiiskuja Ukrainan pääkaupunkiin Kiovaan, joissa kuoli ainakin 13 ihmistä ja kymmeniä loukkaantui. Kallas totesi viestipalvelu X:ssä, että siviileihin kohdistuvien hyökkäysten myötä pakotteita on lisättävä ja sodan hintaa Venäjälle on nostettava, kunnes maa ymmärtää, ettei se voi voittaa. Ukrainan ulkoministeri Andrii Sybiha puolestaan kuvaili hyökkäystä kauhujen yöksi ja varoitti uhriluvun nousemisesta.\n\nTehokkaan pakotepolitiikan toteuttamiseksi pelkät symboliset tai hitaasti vaikuttavat toimet eivät riitä pysäyttämään Venäjän sotakonetta. Pakotteiden painopisteen on siirryttävä entistä tiukemmin porsaanreikien tukkimiseen ja kolmansien maiden kautta tapahtuvan kierron estämiseen, sillä nykyisellään Venäjä pystyy edelleen hankkimaan kriittistä teknologiaa ja rahoittamaan sotatoimiaan. EU:n tulisi ottaa käyttöön tiukat toissijaiset pakotteet niitä ulkomaisia yrityksiä ja rahoituslaitoksia vastaan, jotka avustavat pakotteiden kiertämisessä. Samalla pakotteiden kansallista valvontaa ja toimeenpanoa kaikissa EU-maissa on yhtenäistettävä, jotta taloudellinen paine saavuttaa maksimaalisen tehon ja osoittaa unionin todellista poliittista päättäväisyyttä.",
+      "en": "The European Union's High Representative for Foreign Affairs and Security Policy, Kaja Kallas, is preparing new sanctions against Russia following massive missile and drone strikes on Kyiv, which killed at least 13 people and injured dozens. Kallas stated that the more Moscow attacks civilians, the more sanctions must be imposed, arguing that the economic and political cost of the war must be raised until Russia realizes it cannot win. Ukrainian Foreign Minister Andrii Sybiha described the situation as a night of horrors, warning of a potential rise in casualties.\n\nFrom a policy perspective, incremental or symbolic sanctions are insufficient to halt military aggression. To make sanctions truly effective, the EU must focus rigorously on closing existing loopholes and preventing sanctions evasion through third countries. The current framework still allows Russia to acquire critical dual-use technologies. The EU should implement robust secondary sanctions against foreign companies and financial institutions that facilitate evasion. Furthermore, enforcing these measures uniformly across all member states, including Finland, is critical to maximizing the economic cost for Russia and maintaining the Union's geopolitical credibility."
+    },
+    "publishedAt": "Thu, 02 Jul 2026 10:35:23 +0300",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20234403",
+    "sourceUrl": "https://yle.fi/a/74-20234403?origin=rss",
+    "title": {
+      "fi": "Työntekijät ja työnantaja torppaavat ruotsalaistutkimuksen työterveyshuollosta: ei ole oikotie veronmaksajien kukkarolle",
+      "en": "Employees and employers reject Swedish study on occupational healthcare: not a shortcut to taxpayers' pockets"
+    },
+    "originalSummary": "Ruotsalaistutkimuksen mukaan työterveyshuolto kasvattaa terveydenhuollon kustannuksia.",
+    "originalStatement": {
+      "fi": "",
+      "en": ""
+    },
+    "analysis": {
+      "fi": "Artikkelissa käsitellään ruotsalaistutkimusta, jonka mukaan työterveyshuolto ei säästä rahaa vaan pikemminkin toimii ohituskaistana julkiseen erikoissairaanhoitoon ja paisuttaa näin veronmaksajien kuluja. Suomalaiset työmarkkinaosapuolet ja sidosryhmät kuitenkin torjuvat tämän näkemyksen. Palkansaajakeskusjärjestöt SAK ja STTK sekä työnantajia edustava EK puolustavat nykyjärjestelmää ja katsovat, että ongelma ei ole työterveyshuollon liian matalassa kynnyksessä lähettää potilaita eteenpäin, vaan julkisen perusterveydenhuollon hitaudessa niiden osalta, jotka ovat työelämän ulkopuolella. Myös Hyvinvointiala Hali ry painottaa, että lähetteet erikoissairaanhoitoon perustuvat aina lääketieteelliseen tarpeeseen. Poikkeuksen muodostaa Suomen Yrittäjät, joka haluaisi poistaa työnantajien lakisääteisen velvoitteen järjestää ennaltaehkäisevää työterveyshuoltoa, ei julkisten menojen säästämiseksi, vaan järjestelmän kankeuden ja yrityskohtaisten tarpeiden vuoksi.\n\nPoliittisesta näkökulmasta suomalaisen työterveyshuollon purkaminen tai sen toimintaedellytysten heikentäminen olisi virheellinen ratkaisu tilanteessa, jossa julkinen terveydenhuoltojärjestelmä on jo valmiiksi kriisiytynyt ja aliresursoitu. Työterveyshuolto kantaa merkittävän osan työssäkäyvän väestön perusterveydenhuollosta, ja sen alasajaminen siirtäisi valtavan potilasmassan hyvinvointialueiden jonojen jatkoksi, mikä johtaisi entistä suurempiin yhteiskunnallisiin kustannuksiin sairauspoissaolojen pitkittyessä. Sen sijaan, että toimivaa järjestelmää heikennettäisiin ruotsalaistutkimuksen viitoittamalla tavalla, tulisi keskittyä julkisen sektorin hoitopolkujen suoristamiseen ja perusterveydenhuollon saatavuuden parantamiseen työttömille ja eläkeläisille. Suomen Yrittäjien esiin nostama huoli järjestelmän jäykkyydestä on kuitenkin aiheellinen; lainsäädäntöä tulisi uudistaa siten, että pienille ja keskisuurille yrityksille tarjotaan enemmän joustavuutta palveluiden räätälöinnissä ilman, että ennaltaehkäisevän hoidon lakisääteisestä velvoitteesta luovutaan kokonaan. Tämä turvaisi työntekijöiden terveyden ja vähentäisi pitkän aikavälin erikoissairaanhoidon tarvetta.",
+      "en": "The article discusses a Swedish study suggesting that occupational healthcare does not save money but instead acts as a fast-track to taxpayer-funded specialized medical care, thereby increasing public costs. Finnish labor market organizations and interest groups reject this conclusion. Employee organizations SAK and STTK, alongside the Confederation of Finnish Industries (EK), defend the current system, arguing that the core issue is not an excessively low threshold for referrals in occupational care, but rather the slowness of public primary care for those outside the workforce. The healthcare industry association Hali also emphasizes that referrals are always based on genuine medical need. The only outlier is the Federation of Finnish Enterprises (Suomen Yrittäjät), which proposes abolishing the statutory employer obligation to arrange preventive occupational care due to the rigid nature of the current system rather than public sector costs.\n\nFrom a policy perspective, dismantling or weakening the Finnish occupational healthcare system would be a misguided response, especially while the public healthcare sector and wellbeing services counties are already struggling under immense strain. Occupational healthcare manages a significant portion of the working population's primary care; dismantling it would shift a massive volume of patients onto already congested public queues, leading to prolonged sick leaves and higher overall societal costs. Instead of degrading a functioning system based on foreign studies, policy efforts should focus on streamlining public patient pathways and raising the standards of public primary care for those outside the workforce. However, the rigidity highlighted by the Federation of Finnish Enterprises is a valid concern; the legislative framework should be updated to allow small and medium-sized enterprises more flexibility in tailoring services to their specific needs without entirely abandoning the preventive care mandate, which remains crucial for long-term cost containment."
+    },
+    "publishedAt": "Thu, 02 Jul 2026 10:08:24 +0300",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20234477",
+    "sourceUrl": "https://yle.fi/a/74-20234477?origin=rss",
+    "title": {
+      "fi": "Soste: Rydmanin lausunnot Stea-avustusten kriteereistä hämmentävät",
+      "en": "Soste: Rydman's statements on Stea grant criteria are confusing"
+    },
+    "originalSummary": "",
+    "originalStatement": {
+      "fi": "",
+      "en": ""
+    },
+    "analysis": {
+      "fi": "Sosiaali- ja terveysjärjestöjen keskus- ja kattojärjestö Soste on ilmaissut hämmennyksensä perussuomalaisten ministeri Wille Rydmanin lausunnoista, jotka liittyvät Sosiaali- ja terveysjärjestöjen avustuskeskuksen (Stea) avustuskriteereihin. Soste tukee julkisuudessa olleiden tietojen valossa kansliapäälliköiden laatimaa asetusesitystä järjestöavustuksista, mutta näkee tilanteen edelleen hyvin epäselvänä. Epävarmuus juontaa juurensa Rydmanin televisioesiintymisestä, jossa hän totesi, ettei virkamiesvalmistelu anna aihetta muuttaa hänen aiemmin linjaamiaan kriteerejä avustusten jaolle. Soste kysyykin aiheellisesti, säilyvätkö ministerin omat kriteerit voimassa siitä huolimatta, vaikka virallista avustusasetusta muutettaisiin.\n\nValtionavustusten jakamisen tulisi aina perustua selkeisiin, ennakoitaviin ja yhdenvertaisiin kriteereihin, jotka nojaavat vankkaan virkamiesvalmisteluun ja lainsäädäntöön pikemmin kuin yksittäisten ministerien poliittisiin linjauksiin tai tulkintoihin. Kansalaisyhteiskunnan toimintaedellytysten ja järjestöjen tekemän arvokkaan työn turvaamiseksi on välttämätöntä, että tukien jakoperusteet ovat yksiselitteiset ja lakisääteiset ilman riskiä mielivaltaisesta tai poliittisin perustein tapahtuvasta ohjauksesta. Hallinnon avoimuuden ja luottamuksen säilyttämiseksi parhaana ratkaisuna on vahvistaa kansliapäälliköiden esityksen pohjalta selkeä asetus, jota noudatetaan johdonmukaisesti, ja varmistaa, että kaikki poliittinen päätöksenteko ja viestintä kunnioittavat tätä yhteistä virallista kehystä.",
+      "en": "Soste, the Finnish Federation for Social Affairs and Health, has expressed deep concern and confusion over Minister Wille Rydman's recent remarks regarding the criteria for STEA (Funding Centre for Social Welfare and Health Organisations) grants. While Soste supports the proposal put forward by ministerial permanent secretaries concerning NGO funding based on public details, the organization finds the current situation highly ambiguous. This uncertainty is driven by Rydman's television statements, in which he asserted that the civil servants' draft does not provide a reason to alter the political criteria he previously proposed for the grants. Consequently, Soste is questioning whether Rydman's personal criteria will remain active even if the official grant decree undergoes amendments.\n\nThe allocation of public funding to non-governmental organizations must be based on clear, predictable, and non-discriminatory criteria established through transparent civil service preparation and formal legislation, rather than the subjective interpretations or political agendas of individual ministers. To safeguard the operational stability of civil society and the vital services NGOs provide, it is crucial that the funding framework is legally robust and free from any perception of arbitrary political leverage. The most constructive course of action is to implement a clear, legally binding decree based on the permanent secretaries' proposal and to ensure that all political actors align their communication and decisions strictly with this official framework to maintain institutional trust and legal certainty."
+    },
+    "publishedAt": "Thu, 02 Jul 2026 09:40:10 +0300",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20234357",
     "sourceUrl": "https://yle.fi/a/74-20234357?origin=rss",
     "title": {
