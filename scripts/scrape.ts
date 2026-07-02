@@ -68,19 +68,9 @@ const INCLUDED_CATEGORIES = [
 const NewsItemSchema = z.object({
   id: z.string(),
   sourceUrl: z.string(),
-  title: z.object({
-    fi: z.string(),
-    en: z.string(),
-  }),
+  title: z.string(),
   originalSummary: z.string(),
-  originalStatement: z.object({
-    fi: z.string(),
-    en: z.string(),
-  }),
-  analysis: z.object({
-    fi: z.string(),
-    en: z.string(),
-  }),
+  analysis: z.string(),
   publishedAt: z.string(),
   category: z.string(),
   isFromSummary: z.boolean().optional(),
@@ -139,20 +129,20 @@ async function analyzeArticle(title: string, content: string, modelName: string)
        - EXCLUDE news about sending aid (military or foreign) UNLESS it describes a change in Finnish policy, budget, or includes political commentary on the decision.
     3. IGNORE articles that are general overviews of current events, daily summaries, morning roundups, or lists of news from different regions. Only focus on specific policy proposals, legislative actions, or major political statements that fit the scope above.
     4. POLICY FOCUS: Ignore all aspects regarding government stability, keeping the administration together, or maintaining political credibility. Focus strictly on the merits of the policy itself and what would be the best course of action from a policy perspective.
-    5. If it IS policy-related or political AND within scope, provide an extensive summary and analysis in both Finnish and English.
+    5. If it IS policy-related or political AND within scope, provide an extensive summary and analysis in English only.
     6. The analysis MUST follow this structure in a single cohesive text:
        - First, provide a comprehensive summary of the article's content, arguments, and key points so the reader understands everything without clicking the source link.
        - Second, present your own independent analytical vision of the actions that should be taken in response to the situation described.
        - Do NOT use labels like "Argument:" or "Criticism:". It should read as a single, well-structured flow of text.
        - IMPORTANT: Your vision must be your own independent analytical opinion focused strictly on the specific policy or situation discussed in the article. If you believe a proposal is flawed, explain why and how *that specific proposal* should be improved or handled. Do NOT suggest unrelated alternative policies or random different taxes/subsidies that are not the subject of the article (e.g., if the article is about a tax credit, do not suggest taxing something else instead).
-    7. Translate the original title to English if it is in Finnish.
+       - REASONING: Ground your analysis in research, established economic or political mechanisms, or logical reasoning. Do not just state things as facts; reason them for the reader. It is okay if the response is multiple paragraphs long.
+    7. Translate the original title to English.
 
     Respond ONLY in the following JSON format:
     {
       "isPolicyRelated": boolean,
-      "titleEn": "Translated Title",
-      "analysisFi": "Extensive Finnish summary and policy vision (multi-paragraph)",
-      "analysisEn": "Extensive English feedback/analysis (multi-paragraph)",
+      "title": "Translated Title",
+      "analysis": "Extensive English summary and policy vision (multi-paragraph)",
       "category": "e.g. Economics, Social Policy, Environment"
     }
   `;
@@ -251,19 +241,9 @@ async function main() {
       const newItem: NewsItem = {
         id,
         sourceUrl: item.link || '',
-        title: {
-          fi: item.title || '',
-          en: analysis.titleEn || item.title || '',
-        },
+        title: analysis.title || item.title || '',
         originalSummary: item.contentSnippet || '',
-        originalStatement: {
-          fi: '',
-          en: '',
-        },
-        analysis: {
-          fi: analysis.analysisFi || '',
-          en: analysis.analysisEn || '',
-        },
+        analysis: analysis.analysis || '',
         publishedAt: item.pubDate || new Date().toISOString(),
         category: analysis.category || 'General',
         isFromSummary,

@@ -4,11 +4,7 @@ import newsData from "./data/news.json";
 import "./App.css";
 
 function Content() {
-  const { t, locale, setLocale } = useI18n();
-
-  const toggleLocale = () => {
-    setLocale(locale() === "en" ? "fi" : "en");
-  };
+  const { t } = useI18n();
 
   return (
     <main class="max-w-4xl mx-auto p-4 md:p-8">
@@ -17,12 +13,6 @@ function Content() {
           <h1 class="text-4xl font-bold text-gray-900">{t("title")}</h1>
           <p class="text-xl text-gray-600 mt-2">{t("subtitle")}</p>
         </div>
-        <button
-          onClick={toggleLocale}
-          class="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition"
-        >
-          {t("language")}: {locale().toUpperCase()}
-        </button>
       </header>
 
       <div class="space-y-12">
@@ -38,7 +28,7 @@ function Content() {
                   {item.category}
                 </span>
                 <time class="text-sm text-gray-500">
-                  {new Date(item.publishedAt).toLocaleString(locale(), { dateStyle: 'short', timeStyle: 'short' })}
+                  {new Date(item.publishedAt).toLocaleString('en', { dateStyle: 'short', timeStyle: 'short' })}
                 </time>
                 {item.isFromSummary && (
                   <span class="bg-amber-100 text-amber-800 text-xs font-medium px-2 py-0.5 rounded border border-amber-200">
@@ -53,12 +43,12 @@ function Content() {
               </div>
 
               <h2 class="text-3xl font-bold mb-6">
-                {locale() === 'fi' ? item.title.fi : item.title.en}
+                {item.title}
               </h2>
 
               <div>
                 <div class="whitespace-pre-wrap leading-relaxed text-gray-800 space-y-4">
-                  {locale() === 'fi' ? item.analysis.fi : item.analysis.en}
+                  {item.analysis}
                 </div>
                 <div class="mt-8 pt-4 border-t border-gray-100 text-right">
                   <a

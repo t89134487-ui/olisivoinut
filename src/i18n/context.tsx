@@ -14,7 +14,7 @@ const I18nContext = createContext<{
 
 export function I18nProvider(props: { children: JSX.Element }) {
   const [locale, setLocale] = createSignal<Locale>("en");
-  const t = i18n.translator(() => (dict as any)[locale()], i18n.resolveTemplate);
+  const t = i18n.translator(() => dict.en, i18n.resolveTemplate);
 
   return (
     <I18nContext.Provider value={{ locale, setLocale, t }}>
