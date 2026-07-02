@@ -47,7 +47,7 @@ function Content() {
                 )}
                 {item.model && (
                   <span class="bg-gray-100 text-gray-600 text-xs font-mono px-2 py-0.5 rounded border border-gray-200">
-                    {t("ai_model")}: {item.model}
+                    {item.model}
                   </span>
                 )}
               </div>
