@@ -18,7 +18,7 @@
     "publishedAt": "Thu, 02 Jul 2026 07:31:14 +0300",
     "category": "Social Policy",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234251",
@@ -39,7 +39,7 @@
     "publishedAt": "Thu, 02 Jul 2026 06:00:35 +0300",
     "category": "Politics",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234443",
@@ -60,7 +60,7 @@
     "publishedAt": "Thu, 02 Jul 2026 00:39:38 +0300",
     "category": "Social Policy",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234434",
@@ -81,7 +81,7 @@
     "publishedAt": "Wed, 01 Jul 2026 21:34:53 +0300",
     "category": "Social Policy",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234426",
@@ -102,7 +102,7 @@
     "publishedAt": "Wed, 01 Jul 2026 20:43:46 +0300",
     "category": "Social Policy",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234421",
@@ -123,7 +123,7 @@
     "publishedAt": "Wed, 01 Jul 2026 20:30:35 +0300",
     "category": "Economics",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234273",
@@ -144,7 +144,7 @@
     "publishedAt": "Wed, 01 Jul 2026 19:10:13 +0300",
     "category": "Economics",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234399",
@@ -165,7 +165,7 @@
     "publishedAt": "Wed, 01 Jul 2026 17:03:41 +0300",
     "category": "Agriculture and Economics",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234392",
@@ -186,7 +186,7 @@
     "publishedAt": "Wed, 01 Jul 2026 15:49:48 +0300",
     "category": "Social Policy",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234296",
@@ -207,7 +207,7 @@
     "publishedAt": "Wed, 01 Jul 2026 14:42:17 +0300",
     "category": "Urban Planning and Governance",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234277",
@@ -228,7 +228,7 @@
     "publishedAt": "Wed, 01 Jul 2026 10:11:25 +0300",
     "category": "Social Policy",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234244",
@@ -249,7 +249,7 @@
     "publishedAt": "Wed, 01 Jul 2026 10:03:27 +0300",
     "category": "Economics and Public Governance",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234263",
@@ -270,7 +270,7 @@
     "publishedAt": "Wed, 01 Jul 2026 09:31:47 +0300",
     "category": "Economics",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20233254",
@@ -291,7 +291,7 @@
     "publishedAt": "Wed, 01 Jul 2026 06:00:35 +0300",
     "category": "Social Policy",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234234",
@@ -312,7 +312,7 @@
     "publishedAt": "Wed, 01 Jul 2026 04:50:34 +0300",
     "category": "Social Policy",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234232",
@@ -333,7 +333,7 @@
     "publishedAt": "Wed, 01 Jul 2026 04:04:00 +0300",
     "category": "Foreign and Security Policy",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234230",
@@ -354,7 +354,7 @@
     "publishedAt": "Wed, 01 Jul 2026 02:58:53 +0300",
     "category": "Economics",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234198",
@@ -375,7 +375,7 @@
     "publishedAt": "Tue, 30 Jun 2026 19:03:43 +0300",
     "category": "Economics",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20233958",
@@ -396,7 +396,7 @@
     "publishedAt": "Tue, 30 Jun 2026 15:27:54 +0300",
     "category": "Governance and Media Policy",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234133",
@@ -417,7 +417,7 @@
     "publishedAt": "Tue, 30 Jun 2026 15:05:25 +0300",
     "category": "Economics",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234157",
@@ -438,7 +438,7 @@
     "publishedAt": "Tue, 30 Jun 2026 14:50:12 +0300",
     "category": "Economic Policy and Public Finance",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234149",
@@ -459,7 +459,7 @@
     "publishedAt": "Tue, 30 Jun 2026 14:09:04 +0300",
     "category": "Economic Policy and Public Administration",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234108",
@@ -480,7 +480,7 @@
     "publishedAt": "Tue, 30 Jun 2026 13:57:03 +0300",
     "category": "Economics and Local Government",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234095",
@@ -501,7 +501,7 @@
     "publishedAt": "Tue, 30 Jun 2026 13:36:39 +0300",
     "category": "Politics/Governance",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234105",
@@ -522,7 +522,7 @@
     "publishedAt": "Tue, 30 Jun 2026 11:39:33 +0300",
     "category": "Economics",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20232965",
@@ -543,7 +543,7 @@
     "publishedAt": "Tue, 30 Jun 2026 11:15:35 +0300",
     "category": "Social Policy",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234038",
@@ -564,7 +564,7 @@
     "publishedAt": "Tue, 30 Jun 2026 07:27:31 +0300",
     "category": "Economics",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234023",
@@ -585,7 +585,7 @@
     "publishedAt": "Mon, 29 Jun 2026 23:46:49 +0300",
     "category": "Political Governance",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20234008",
@@ -606,7 +606,7 @@
     "publishedAt": "Mon, 29 Jun 2026 18:50:12 +0300",
     "category": "Electoral Policy",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20233959",
@@ -627,7 +627,7 @@
     "publishedAt": "Mon, 29 Jun 2026 18:09:21 +0300",
     "category": "Governance and Municipal Administration",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
+    "model": "gemini-flash-lite-latest"
   },
   {
     "id": "https://yle.fi/a/74-20233988",
