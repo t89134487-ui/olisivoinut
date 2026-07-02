@@ -45,6 +45,11 @@ function Content() {
                     {t("from_summary")}
                   </span>
                 )}
+                {item.model && (
+                  <span class="bg-gray-100 text-gray-600 text-xs font-mono px-2 py-0.5 rounded border border-gray-200">
+                    {item.model}
+                  </span>
+                )}
               </div>
 
               <h2 class="text-3xl font-bold mb-6">
