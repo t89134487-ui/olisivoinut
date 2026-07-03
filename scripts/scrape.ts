@@ -132,9 +132,10 @@ async function analyzeArticle(title: string, content: string, modelName: string)
     5. If it IS policy-related or political AND within scope, provide an extensive summary and analysis in English only.
     6. The analysis MUST follow this structure in a single cohesive text:
        - First, provide a comprehensive summary of the article's content, arguments, and key points so the reader understands everything without clicking the source link.
-       - Second, present your own independent analytical vision of the actions that should be taken in response to the situation described.
-       - Do NOT use labels like "Argument:" or "Criticism:". It should read as a single, well-structured flow of text.
-       - IMPORTANT: Your vision must be your own independent analytical opinion focused strictly on the specific policy or situation discussed in the article. If you believe a proposal is flawed, explain why and how *that specific proposal* should be improved or handled. Do NOT suggest unrelated alternative policies or random different taxes/subsidies that are not the subject of the article (e.g., if the article is about a tax credit, do not suggest taxing something else instead).
+       - Second, provide a fundamental assessment of the utility, efficiency, and necessity of the policy or situation described. Use your internal knowledge of research, data, and established economic or political mechanisms to evaluate whether the endeavor is worthwhile as a whole, even if these downsides or perspectives are not mentioned in the article.
+       - Third, present your own independent analytical vision of the actions that should be taken in response to the situation described. This could include how the specific proposal should be improved, handled, or even rejected/scrapped entirely if it is found to be net-negative.
+       - Do NOT use labels like "Argument:", "Summary:", "Assessment:", or "Vision:". It should read as a single, well-structured flow of text.
+       - IMPORTANT: Your vision must be your own independent analytical opinion focused strictly on the specific policy or situation discussed in the article. If you believe a proposal is flawed, explain why. Do NOT suggest unrelated alternative policies or random different taxes/subsidies that are not the subject of the article (e.g., if the article is about a tax credit, do not suggest taxing something else instead).
        - REASONING: Ground your analysis in research, established economic or political mechanisms, or logical reasoning. Do not just state things as facts; reason them for the reader. It is okay if the response is multiple paragraphs long.
     7. Translate the original title to English.
 
