@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20234777",
+    "sourceUrl": "https://yle.fi/a/74-20234777?origin=rss",
+    "title": "Essayah: Sports Association's Bid Progressed According to the Normal Budget Process",
+    "originalSummary": "",
+    "analysis": "In this article, Sari Essayah, the leader of the Christian Democrats, refutes claims that the Finnish government bypassed standard budgetary procedures to allocate 10 million euros to the Finnish Athletics Federation (Urheiluliitto). This funding is intended to support Helsinki's bid to host the 2030 European Athletics Championships. While Helsingin Sanomat reported that the allocation circumvented regular channels, Essayah asserts that the initiative was processed normally. According to her, the bid was officially included in a memorandum from the Ministry of Education and Culture, which proposed a three-million-euro funding increase specifically for major sports events.\n\nFrom a public policy perspective, the allocation of significant taxpayer funds to high-profile sporting events must be guided by robust institutional transparency and standardized fiscal evaluation. While major international sports events can stimulate local economies and promote national visibility, funding them through processes that appear irregular risks undermining public trust and democratic oversight. To safeguard the integrity of public finance, any major event subsidy should undergo a rigorous, independent cost-benefit analysis before political commitments are made. This evaluation must systematically weigh the projected economic yields—such as tourism revenue and infrastructure legacy—against the direct fiscal costs and the opportunity cost of dedicating millions of euros to a single event.\n\nFurthermore, maintaining strict adherence to established budgetary protocols is essential for ensuring fair competition among different public-interest projects. When allegations of bypassing standard procedures arise, they highlight the necessity of establishing explicit, non-discretionary frameworks for funding large-scale cultural and athletic events. Rather than relying on ad-hoc ministerial adjustments, the state should employ a permanent, merit-based application system. This would not only validate the legitimacy of chosen projects but also reassure the public that state funds are being allocated efficiently and equitably, based on demonstrated public utility rather than political expediency.",
+    "publishedAt": "Fri, 03 Jul 2026 13:44:56 +0300",
+    "category": "Governance and Public Finance",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20234602",
+    "sourceUrl": "https://yle.fi/a/74-20234602?origin=rss",
+    "title": "Have you already landed a job but still have to keep looking? Tell us, we are writing a story",
+    "originalSummary": "Työnhakuvelvoite voi jatkua, vaikka työsopimus olisi jo allekirjoitettu ja työpaikka varmistunut.",
+    "analysis": "This article highlights an administrative anomaly in the Finnish labor market system: job seekers who have already signed an employment contract are often still legally obligated to continue applying for other jobs until their employment actually begins. Under the current Finnish 'Nordic model' of employment services, unemployed individuals are generally required to apply for four jobs per month to retain their unemployment benefits. This bureaucratic requirement persists even during the transitional period between signing a contract and starting the new job. Yle is seeking personal accounts from citizens caught in this situation to investigate the issue further.\n\nFrom a policy perspective, this rigid requirement represents a clear systemic inefficiency that undermines the credibility of public employment services. Forcing individuals with secured employment to submit token job applications creates a triple burden: it wastes the time and energy of the job seeker, clutters the recruitment pipelines of employers with non-genuine applications, and exhausts the administrative resources of employment offices that must monitor compliance. This is a classic example of rigid process-oriented governance rather than outcome-oriented policy.\n\nTo resolve this issue, labor policy should be amended to include a rational exemption. Once a binding employment contract is signed and verified by employment authorities—potentially through automated digital submissions or integration with the national Incomes Register—the active job search obligation should be immediately suspended, provided the employment starts within a reasonable timeframe, such as three months. Implementing this commonsense reform would streamline public administration, alleviate unnecessary stress on citizens, and respect the resources of private employers who rely on genuine applicant pools.",
+    "publishedAt": "Fri, 03 Jul 2026 12:46:30 +0300",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20234699",
     "sourceUrl": "https://yle.fi/a/74-20234699?origin=rss",
     "title": "HS: Orpo's Government Arranged 10 Million Euros via a Fast Track for the European Athletics Championship Project",
@@ -518,14 +540,5 @@
     "analysis": "This decision represents a typical top-down bureaucratic regulation that seeks to address environmental problems by restricting individual freedoms and recreational activities. While the environmental impacts of lead are acknowledged, the EU's approach is often disproportionate. The restrictions directly target hunters and sport shooters while frequently overlooking the broader impacts of industrial activity. This creates an image of unbalanced regulation where small actors are easier to penalize than major polluters.\n\nFurthermore, the regulation is problematic due to its enforcement challenges. Monitoring wetland areas is practically impossible without a massive allocation of resources, rendering the law more of a symbolic gesture than an effective environmental tool. Additionally, the transition to alternative materials, such as steel shot, introduces new technical challenges, such as potential damage to firearm barrels and increased suffering of game birds due to decreased terminal ballistics. The policy ignores the total cost-benefit analysis and focuses on a technocratic solution that, in the worst case, could be more detrimental than the original problem.",
     "publishedAt": "Mon, 29 Jun 2026 15:03:32 +0300",
     "category": "Environment"
-  },
-  {
-    "id": "https://yle.fi/a/74-20233609",
-    "sourceUrl": "https://yle.fi/a/74-20233609?origin=rss",
-    "title": "Government introduces new tax relief for owners of older, high-emission vehicles",
-    "originalSummary": "Autoalan keskusliiton mukaan paras ratkaisu olisi helpottaa pienituloisten mahdollisuutta siirtyä sähköautoihin. Siihen tarvittaisiin merkittäviä veromuutoksia.",
-    "analysis": "The government's proposed tax relief for older, high-emission vehicles is a strategic failure that undermines Finland’s climate targets and the necessary long-term renewal of the national vehicle fleet. Instead of incentivizing citizens to transition toward low-emission technology, this policy locks taxpayers into obsolete technology and sustains energy-inefficient consumption. It is a shortsighted attempt to buy social stability from those who perceive motoring costs as rising, but it simultaneously slows down the essential green transition.\n\nFurthermore, this policy is an inefficient way to support low-income households because it does not target specific needs, but rather subsidizes pollution regardless of the owner’s actual financial status. It is paradoxical that the state uses tax revenue to encourage the maintenance of vehicles with high carbon emissions rather than using the tax system to create genuine incentives for electrification or the use of public transport. This leads to market distortion and undermines Finland's credibility in environmental policy, while creating a 'lock-in effect' where the aging vehicle fleet remains on the roads for even longer.",
-    "publishedAt": "Mon, 29 Jun 2026 13:12:11 +0300",
-    "category": "Environment and Economics"
   }
 ]
