@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20234938",
+    "sourceUrl": "https://yle.fi/a/74-20234938?origin=rss",
+    "title": "Valtonen on Meeting with Chinese Minister: I Believe China Sees the Weakness of Russia's Power",
+    "originalSummary": "Virallisesti puolueeton Kiina tukee eri tavoin Venäjän sotaponnisteluja Ukrainassa. Kiinan ulkoministerin viime Suomen-visiitistä on yli 20 vuotta aikaa.",
+    "analysis": "Finnish Foreign Minister Elina Valtonen met with Chinese Foreign Minister Wang Yi in Helsinki during his rare Nordic tour to discuss the war in Ukraine and EU-China relations. Valtonen characterized the meeting as successful, emphasizing that she directly conveyed Finland’s view that China's support for Russia hinders the resolution of the war. Despite China's official stance of neutrality, Western intelligence and reports indicate that Beijing actively supplies Russia with dual-use components essential for drone production and military operations, while also participating in joint military exercises. Valtonen expressed her belief that China ultimately recognizes the limits and weaknesses of Russia's power, adding that Beijing takes the current geopolitical situation seriously. Wang Yi's visit also included meetings with President Alexander Stubb, who has previously asserted that Chinese President Xi Jinping holds the power to end the conflict with a single phone call and has warned Beijing that Russia's aggression poses a direct threat to Finnish security.\n\nFrom a policy perspective, Finland’s active diplomatic engagement with China is both necessary and strategic, yet its unilateral efficacy remains limited. As a small nation bordering Russia, Finland correctly identifies China as the critical external actor capable of influencing Moscow’s war calculus. However, relying on persuasive diplomacy and appealing to China’s recognition of Russian weakness is fundamentally insufficient. China's alignment with Russia is rooted in deep-seated systemic rivalry with the United States and a desire to challenge Western hegemony, meaning Beijing is unlikely to abandon Moscow based on rhetorical appeals from European interlocutors. Furthermore, the economic benefits China derives from supplying Russia with dual-use technologies currently outweigh the vague diplomatic friction it faces from individual European capitals.\n\nTo achieve a tangible shift in China’s posture, Finland must spearhead a more leverage-based, unified European response rather than relying on bilateral moral suasion. The European Union remains one of China's largest export markets; therefore, Finland should advocate for the EU to tie market access and trade relations directly to China's compliance on secondary sanctions regarding dual-use military exports to Russia. Diplomatic messaging must be backed by credible economic consequences, such as robust, bloc-wide sanctions against Chinese firms aiding the Russian war machine. Without a collective European economic deterrent, high-level dialogues will continue to yield polite receptions but fail to produce substantive policy changes from Beijing.",
+    "publishedAt": "Sun, 05 Jul 2026 17:02:04 +0300",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20234304",
     "sourceUrl": "https://yle.fi/a/74-20234304?origin=rss",
     "title": "Union Wonders: Thousands Unemployed in the Construction Sector, yet Foreign Labor Entry is Facilitated in Pirkanmaa",
@@ -535,17 +546,6 @@
     "analysis": "The current crisis facing the Orpo government stems from an ideological rigidity where economic policy has been subordinated to a mere logic of austerity without a genuine vision for fostering growth. The government has sought to balance public finances using methods that effectively undermine domestic demand and the willingness to invest. When cuts are broadly applied to both the most vulnerable and the middle class, the result is a stifling of services and consumption, which further drags down economic recovery.\n\nFurthermore, the government's approach to labor market reforms has been characterized more by confrontation than by constructive cooperation. The failure to reach employment targets is not merely a market issue but reflects the government's inability to foster stability and trust. Attempting to reduce public debt through cuts alone is mathematically impossible without growth-oriented elements. Consequently, the government’s strategy has led to an 'austerity spiral' that erodes the foundation for future investments and the well-being of the citizens.",
     "publishedAt": "Tue, 30 Jun 2026 07:27:31 +0300",
     "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20234023",
-    "sourceUrl": "https://yle.fi/a/74-20234023?origin=rss",
-    "title": "Right-winger Keiko Fujimori has been elected as the new President of Peru",
-    "originalSummary": "Keiko päihitti hyvin tasaisissa vaaleissa vasemmiston ehdokkaan Roberto Sanchezin.",
-    "analysis": "This article concerns a political process that threatens the stability of Peruvian democracy. Challenging election results without substantial evidence of widespread fraud is a dangerous form of populism that erodes public trust in institutions. When a losing party demands the invalidation of votes based on vague allegations of irregularities, it is a clear attempt to undermine the legitimacy of the transfer of power for personal political gain.\n\nThis is problematic because it sets a precedent where election results are only accepted if they are favorable to one's own side. Such behavior further polarizes society and makes governance difficult, as a large portion of the population questions the legitimacy of the administration. Furthermore, the demand to specifically invalidate votes cast abroad is a strategic attempt to silence a segment of the electorate that largely opposed the left-wing candidate. Such tactics are immoral and damaging to the constitutional order.",
-    "publishedAt": "Mon, 29 Jun 2026 23:46:49 +0300",
-    "category": "Political Governance",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
