@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20235148",
+    "sourceUrl": "https://yle.fi/a/74-20235148?origin=rss",
+    "title": "IL: Orpo Encouraged Vapaavuori to Meet Purra Regarding the Helsinki Garden Project",
+    "originalSummary": "Vapaavuoren tavoite oli saada 110 miljoonan euron valtiontakaus Helsingin Taka-Töölöön kaavaillulle Helsingin Garden-hankkeen monitoimiareenalle.",
+    "analysis": "The article details a lobbying controversy in Finland involving the proposed Helsinki Garden multi-purpose arena project. Jan Vapaavuori, a prominent National Coalition Party politician and lobbyist for the arena, was encouraged by Prime Minister Petteri Orpo to meet with Finance Minister Riikka Purra to secure a €110 million government guarantee for the Taka-Töölö-based project. Although Purra declined the meeting and Ministry of Finance officials opposed the guarantee due to high financial risks, Orpo's government subsequently decided in its spring 2025 mid-term review to grant €35 million in conditional investment support. While Orpo defended the decision by claiming the government was unaware of competing projects at the time, internal ministry documents from November 2024 reveal that officials were well aware of multiple other arena initiatives, which had led them to advise against favoring the Helsinki Garden project.\n\nFrom a public finance and economic policy perspective, directing state funds or guarantees to large-scale commercial entertainment and sports venues is highly questionable. Empirical economic research consistently shows that public subsidies for stadiums and arenas rarely generate the promised macroeconomic benefits, as they typically shift local entertainment spending rather than generating new net economic growth. Furthermore, granting state support to one specific project when multiple similar private initiatives are in development creates severe market distortions. By picking winners, the government undermines fair competition and risks wasting taxpayer money on high-risk ventures that should ideally rely on private capital markets to prove their financial viability.\n\nTo address these shortcomings, the government should immediately halt the €35 million conditional investment support for the Helsinki Garden project and subject all national arena proposals to a transparent, neutral, and competitive evaluation process. Discretionary funding allocations driven by political lobbying and personal networks undermine public trust and fiscal discipline. A robust policy framework must be established where public financial support for commercial infrastructure is strictly prohibited unless there is a demonstrable market failure and a clear, non-excludable public benefit. In this case, since private competitors exist, the government should step back and allow the market to determine which arena projects are genuinely sustainable.",
+    "publishedAt": "Mon, 06 Jul 2026 22:07:02 +0300",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20235041",
     "sourceUrl": "https://yle.fi/a/74-20235041?origin=rss",
     "title": "Finland allocated nearly 1,300 euros per inhabitant to defense – see the situation in other NATO countries",
@@ -535,17 +546,6 @@
     "analysis": "Argument: The government granted 35 million euros in funding without a standard application process. Criticism: This procedure undermines the credibility of public administration and calls into question the principle of equality in public finance. By bypassing standard bureaucratic processes, the government sets a dangerous precedent where political maneuvering replaces objective needs assessment and cost-benefit analysis. \n\nArgument: The project has personal and financial ties to the governing party (National Coalition Party). Criticism: Even if the connections are not proven to be illegal, their existence creates a serious conflict of interest. Allocating state funding to a project managed by a former party politician and involving major party donors as developers erodes public trust in the decision-making process. It creates the impression of a 'revolving door' policy where taxpayer money is funneled into insider projects without transparent competitive bidding.",
     "publishedAt": "Tue, 30 Jun 2026 13:36:39 +0300",
     "category": "Politics/Governance",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20234105",
-    "sourceUrl": "https://yle.fi/a/74-20234105?origin=rss",
-    "title": "Six complaints filed with the Chancellor of Justice regarding the Garden Arena funding decision",
-    "originalSummary": "Petteri Orpo on kommentoinut prosessin vastanneen pääpiirteiltään Tampereen areenalle myönnettyä tukea.",
-    "analysis": "The decision to grant 35 million euros in state aid to the Garden Arena project represents questionable industrial policy, where public funds are diverted toward private, commercial ventures. Such direct subsidies distort market competition and set a dangerous precedent in which the state picks winners and losers. It is legitimate to ask why taxpayer money is being used for a project whose viability should be based on market-based financing and private capital. The lack of transparency in the decision-making process raises serious concerns about the potential influence of cronyist networks on government decisions.\n\nFrom a strategic perspective, this type of support is an inefficient use of resources. When the state acts as a risk-taker in private ventures, it assumes the liabilities without a corresponding opportunity for return. The comparison to the Tampere Deck Arena is a weak attempt at justification; past decisions do not validate current errors if the process is not sustainable or justifiable. The government should focus on creating favorable general conditions for business instead of acting as a direct financier for individual mega-projects, which ultimately undermines fiscal discipline and trust in public administration.",
-    "publishedAt": "Tue, 30 Jun 2026 11:39:33 +0300",
-    "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
