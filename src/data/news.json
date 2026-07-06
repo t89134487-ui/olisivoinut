@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20235155",
+    "sourceUrl": "https://yle.fi/a/74-20235155?origin=rss",
+    "title": "Stubb to Financial Times: Public opinion on the war is changing in Russia",
+    "originalSummary": "",
+    "analysis": "In a recent interview with the Financial Times, Finnish President Alexander Stubb observed that public opinion regarding the war in Ukraine is beginning to shift within Russia. Stubb argued that Russia is unlikely to halt its war of aggression solely due to massive battlefield casualties or the degradation of its domestic economy. Instead, he posited that a transformation in Russian public sentiment, accelerated by recent events, represents the most plausible catalyst for ending the conflict. This assessment comes amidst escalating Ukrainian drone strikes targeting strategic assets deep inside Russian territory, contrasted with intense Russian aerial bombardments of Ukrainian cities like Kyiv.\n\nFrom an analytical perspective, Stubb’s focus on domestic public opinion as the primary pressure point aligns with established political science models of autocratic resilience. Authoritarian regimes are often highly insulated from the immediate economic pain of sanctions and can absorb immense human costs due to total control over domestic media and repressive state apparatuses. However, the stability of such regimes ultimately relies on passive public acquiescence or a social contract where the public trades political freedom for stability and security. When the war directly disrupts life within Russia—through drone strikes, localized economic shocks, or mobilization fears—this contract begins to fray. Therefore, targeting the psychological security of the Russian population by demonstrating the Kremlin's inability to protect its own borders is a highly strategic lever, making Stubb’s assessment both realistic and necessary for refining Western strategy.\n\nTo capitalize on this dynamic, Western policy—including Finland's foreign policy stance—must shift from mere defensive containment to actively enabling Ukraine to puncture the Kremlin's domestic information bubble. This requires Western allies to systematically lift restrictions on Ukraine's use of supplied weapons for targeted military strikes deep within Russian territory. Maintaining restrictions only serves to prolong the war by shielding the Russian public from its consequences. Furthermore, Finland and its European allies must double down on countering Russian state disinformation and supporting independent Russian-language journalism from exile to ensure that domestic discontent is channeled into a coherent understanding of the war's futility, rather than nationalist rally-around-the-flag effects.",
+    "publishedAt": "Tue, 07 Jul 2026 00:54:36 +0300",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20235148",
     "sourceUrl": "https://yle.fi/a/74-20235148?origin=rss",
     "title": "IL: Orpo Encouraged Vapaavuori to Meet Purra Regarding the Helsinki Garden Project",
@@ -535,17 +546,6 @@
     "analysis": "Argument: LKAB's offer covers the municipality's financial deficit in the relocation project in exchange for control over infrastructure and construction projects. Criticism: This sets a dangerous precedent where a private interest (even if state-owned) hijacks core functions of public authority. The municipality's ability to act as a democratic representative weakens when urban planning is subordinated to a company's balance sheet and efficiency mandates, effectively sidelining the long-term needs of the citizens.\n\nArgument: The agreement was approved by the municipal council by an extremely narrow margin, despite warnings from civil servants regarding the erosion of self-government. Criticism: The decision-making process reveals extreme shortsightedness; the councilors appear to have prioritized immediate financial survival over local democracy and future autonomy. This 'forced marriage' with the corporation binds the municipality for decades to the company's strategic goals, effectively turning the municipality into a corporate subsidiary rather than an independent administrative unit.",
     "publishedAt": "Tue, 30 Jun 2026 13:57:03 +0300",
     "category": "Economics and Local Government",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20234095",
-    "sourceUrl": "https://yle.fi/a/74-20234095?origin=rss",
-    "title": "Professor Emeritus: Investment aid for Helsinki's Garden project may meet the criteria for structural corruption",
-    "originalSummary": "Rikos- ja prosessioikeuden professori emeritus Pekka Viljasen mukaan julkisuudessa olleiden tietojen perusteella tukipäätöksessä voi olla kyse korruptiosta.",
-    "analysis": "Argument: The government granted 35 million euros in funding without a standard application process. Criticism: This procedure undermines the credibility of public administration and calls into question the principle of equality in public finance. By bypassing standard bureaucratic processes, the government sets a dangerous precedent where political maneuvering replaces objective needs assessment and cost-benefit analysis. \n\nArgument: The project has personal and financial ties to the governing party (National Coalition Party). Criticism: Even if the connections are not proven to be illegal, their existence creates a serious conflict of interest. Allocating state funding to a project managed by a former party politician and involving major party donors as developers erodes public trust in the decision-making process. It creates the impression of a 'revolving door' policy where taxpayer money is funneled into insider projects without transparent competitive bidding.",
-    "publishedAt": "Tue, 30 Jun 2026 13:36:39 +0300",
-    "category": "Politics/Governance",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
