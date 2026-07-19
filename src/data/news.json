@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20237060",
+    "sourceUrl": "https://yle.fi/a/74-20237060?origin=rss",
+    "title": "Government meets today over Garden Helsinki dispute",
+    "originalSummary": "",
+    "analysis": "The Finnish Government is convening an extraordinary plenary session to address the ongoing controversy surrounding a conditional €35 million state aid package granted to the Garden Helsinki arena project. This development has led to an exceptional interruption of the Parliament's summer recess, prompted by demands from the political opposition and a formal request from Prime Minister Petteri Orpo. The primary source of friction stems from the preparation and decision-making process behind the subsidy, which was approved by the government in the spring of last year. In response to these concerns, the government is scheduled to deliver a formal statement to Parliament to clarify the details and justification of the funding.\n\nFrom an economic and public policy perspective, state subsidies for large-scale private sports and entertainment infrastructure warrant deep skepticism. Extensive economic research suggests that public funding for stadium and arena projects rarely generates the localized economic growth, employment, or tax revenues promised by project developers. Instead, such entertainment spending tends to displace existing consumer expenditure from other local businesses, offering a poor return on public investment. In this context, allocating €35 million in conditional state aid raises significant questions about utility, distributive fairness, and market distortion, particularly when public finances are under pressure. Transparent and rigorous preparatory processes are crucial to ensure that public funds are not used to subsidize projects that should otherwise rely on private capital markets.\n\nTo resolve this dispute and protect public finances, the government should subject the Garden Helsinki subsidy to an independent, comprehensive cost-benefit analysis before any funds are disbursed. If the evaluation reveals that the project lacks clear, non-displaced public utility or that the preparatory process was compromised, the funding should be rescinded. For any future infrastructure projects of this scale, the state should transition away from direct, non-repayable grants toward competitive, low-interest loan schemes or equity-stake models. This approach would ensure that taxpayers share in the financial success of the venue while minimizing the moral hazard and inefficiency associated with direct corporate subsidies.",
+    "publishedAt": "Mon, 20 Jul 2026 02:07:34 +0300",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20231297",
     "sourceUrl": "https://yle.fi/a/74-20231297?origin=rss",
     "title": "CEO Aapo Mäki, 32, Doesn't Understand Why He Should Have Stayed Home with His Children",
@@ -537,16 +548,5 @@
     "category": "Social Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20233572",
-    "sourceUrl": "https://yle.fi/a/74-20233572?origin=rss",
-    "title": "Insane Waste of Money, Says Joni Kallojärvi, Suffering from Aggressive Lung Cancer, About the Accelerating Kela Taxi Rally",
-    "originalSummary": "Syöpäsairas Joni Kallojärvi kulkee jo nyt hoidoissa ympäri Lappia. Taksiralli kiihtynee, kun Kallojärven asuinkunnan Tervolan vuodeosasto pian suljetaan.",
-    "analysis": "The article outlines the financial and logistical consequences of cost-cutting measures implemented by the Lapland Welfare Area (Lapha). In an effort to achieve eight million euros in savings by the end of 2028, Lapha is gradually closing municipal inpatient wards, such as the one in Tervola. As a result, patients are forced to travel hundreds of kilometers to centralized facilities. Joni Kallojärvi, a 41-year-old lung cancer patient, and local taxi drivers criticize this centralization, pointing out that the state-subsidized Kela taxi system is being heavily strained. Kallojärvi’s own transport costs quickly exceeded his annual copayment limit, leaving taxpayers to fund highly expensive, long-distance taxi transfers. Lapha’s administration defends the policy, arguing that centralized beds combined with newly established mobile \"home hospitals\" are more efficient than maintaining underutilized municipal wards, and that keeping patients in central emergency departments is even more costly.\n\nFrom a public economics perspective, this situation highlights a severe sub-optimization and cost-shifting issue within the Finnish public sector. Under the current multi-channel funding system, welfare areas bear the direct cost of maintaining hospital wards, whereas the Social Insurance Institution (Kela)—funded by the central government and taxpayers—covers non-emergency medical transportation. By closing local wards, Lapha effectively externalizes its operational expenses onto the national transport budget. While Lapha's balance sheet may show savings, the net cost to the taxpayer does not necessarily decrease and may even rise due to the immense geographical distances in Lapland. This dynamic violates basic principles of public sector efficiency, as decision-makers are insulated from the financial consequences of their structural reorganizations, leading to a waste of public funds on long-distance transit instead of direct patient care.\n\nTo resolve this systemic failure, the funding of medical transport must be structurally integrated with the healthcare service budgets of the welfare areas. If welfare areas were financially responsible for the Kela taxi rides generated by their clinical decisions, they would be forced to internalize the true cost of centralization. This fiscal integration would incentivize Lapha and other regional authorities to perform holistic cost-benefit analyses before shutting down local clinics. In sparsely populated regions, maintaining a network of flexible, low-intensity local beds is often more cost-effective than financing daily, multi-hour taxi transfers for vulnerable patients. Policymakers should halt blanket closures of rural wards and instead transition them into integrated community care hubs that combine limited inpatient capacity with outpatient and digital services, thereby mitigating both the financial and human costs of the current system.",
-    "publishedAt": "Mon, 13 Jul 2026 12:16:46 +0300",
-    "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
   }
 ]
