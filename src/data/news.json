@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20237600",
+    "sourceUrl": "https://yle.fi/a/74-20237600?origin=rss",
+    "title": "Uutissuomalainen: Finland's Imports from Russia Grew Despite Sanctions",
+    "originalSummary": "",
+    "analysis": "Data from Finnish Customs reveals that Finland's imports from Russia experienced a temporary uptick in the first four months of the year, reaching 285 million euros, which is 15 million euros higher than during the same period in the previous year. This trade consists of unsanctioned goods, primarily nickel and nickel-related products in terms of monetary value, and ammonia by volume. Ammonia, a crucial component in agricultural fertilizers, is expected to see declining import volumes moving forward due to recent European Union sanction packages and increased Russian railway transit tariffs. Overall, Finland's annual import volume from Russia has plummeted drastically from approximately nine billion euros prior to 2022 down to around one billion euros.\n\nFrom a policy perspective, the existence of non-sanctioned trade flows highlights the fundamental tension in economic sanctions regimes between maximizing economic pressure on an adversary and protecting domestic industrial sectors from severe input shortages. Strategic industrial inputs like nickel and agricultural feedstocks like ammonia were initially excluded from strict prohibitions to avoid immediate supply disruptions and cost spikes in European energy, manufacturing, and agricultural sectors. However, allowing selective trade to persist creates persistent revenue streams for the target nation and can undermine the broader deterrent effect and moral coherence of sanctions policy. Relying on piecemeal, reactive sanction expansions creates regulatory uncertainty for domestic firms while delaying the necessary structural transition away from strategic dependencies.\n\nTo address these dynamics effectively, European and Finnish policy should shift from a reactive approach to a structured, time-bound phase-out strategy for all remaining critical raw material imports from Russia. Policymakers should couple expanding sanction lists with target-oriented industrial policies that facilitate long-term supply diversification, such as supporting alternative trade partnerships and incentivizing domestic recycling or production of strategic materials like nickel and fertilizer inputs. Furthermore, anticipating economic friction by utilizing strategic reserves and transitional adjustment assistance for affected sectors would allow decision-makers to close sanction loopholes more rapidly without risking domestic economic instability.",
+    "publishedAt": "Thu, 23 Jul 2026 05:01:45 +0300",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20237592",
     "sourceUrl": "https://yle.fi/a/74-20237592?origin=rss",
     "title": "Citizens' Initiative on Security of Supply for Critical Digital Services Advances to Parliament",
@@ -536,17 +547,6 @@
     "publishedAt": "Fri, 17 Jul 2026 06:30:39 +0300",
     "category": "Social Policy",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20236729",
-    "sourceUrl": "https://yle.fi/a/74-20236729?origin=rss",
-    "title": "Jani Mäkelä in A-studio: The Prime Minister's situation can be reassessed if something new emerges about the Garden project",
-    "originalSummary": "SDP:n, keskustan, perussuomalaisten ja kokoomuksen edustajat keskustelevat Garden-hankkeen rahoituksesta ja hallituksen tilasta illan A-studiossa.",
-    "analysis": "The article reports on an upcoming political debate on the current affairs program A-studio, where representatives from the Social Democratic Party (SDP), the Centre Party, the Finns Party, and the National Coalition Party discuss the funding of the Helsinki Garden arena project and the broader status of the government. Finns Party MP Jani Mäkelä suggests that the Prime Minister's political standing could face reassessment should novel details surface regarding the controversial development project.\n\nEvaluating the policy implications of large-scale urban infrastructure projects like the Helsinki Garden requires a rigorous cost-benefit lens. Proponents of public-private partnerships in entertainment and sports arenas often argue that they catalyze local economic growth, boost tourism, and revitalize urban centers. However, extensive economic research indicates that public subsidies or financial guarantees for sports arenas rarely yield the projected macroeconomic benefits. Instead of generating net-new economic activity, they frequently displace existing consumer spending from other local entertainment sectors. Therefore, any direct or indirect public financial commitment to such high-risk commercial endeavors represents an inefficient allocation of taxpayers' funds, particularly during times of fiscal constraint.\n\nTo address this issue effectively, decision-makers should adopt a policy of strict financial neutrality toward commercial arena developments. Public involvement should be confined to regulatory facilitation, such as zoning approvals and coordinating public transport integration, rather than providing direct subsidies or loan guarantees. If public backing is deemed absolutely necessary due to broader urban development goals, it must be legally bound to equity-sharing models, ensuring that taxpayers participate in the financial upside and are protected from project insolvencies. Transparent financial vetting of private partners must be a prerequisite for any municipal cooperation to prevent stalled developments on premium public land.",
-    "publishedAt": "Thu, 16 Jul 2026 20:25:46 +0300",
-    "category": "Economics",
-    "isFromSummary": true,
     "model": "gemini-flash-latest"
   }
 ]
