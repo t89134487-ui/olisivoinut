@@ -4,5 +4,6 @@
   "read_more": "Read original article",
   "no_news": "No policy analysis available yet. Run the scraper to populate data.",
   "language": "Language",
-  "from_summary": "Analysis based on article summary"
+  "from_summary": "Analysis based on article summary",
+  "scroll_to_top": "Scroll to top"
 }
