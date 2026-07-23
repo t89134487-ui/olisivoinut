@@ -1,7 +1,106 @@
-import { For } from "solid-js";
+import { For, createSignal, onMount, onCleanup, Show } from "solid-js";
 import { I18nProvider, useI18n } from "./i18n/context";
 import newsData from "./data/news.json";
 import "./App.css";
+
+function ScrollToTop() {
+  const { t } = useI18n();
+  const [visible, setVisible] = createSignal(false);
+  const [tooltipVisible, setTooltipVisible] = createSignal(false);
+  let buttonRef: HTMLButtonElement | undefined;
+
+  const handleScroll = () => {
+    setVisible(window.scrollY > 300);
+  };
+
+  const handleDocumentClick = (e: Event) => {
+    if (buttonRef && !buttonRef.contains(e.target as Node)) {
+      if (tooltipVisible()) {
+        setTooltipVisible(false);
+      }
+    }
+  };
+
+  onMount(() => {
+    window.addEventListener("scroll", handleScroll);
+    document.addEventListener("click", handleDocumentClick);
+
+    onCleanup(() => {
+      window.removeEventListener("scroll", handleScroll);
+      document.removeEventListener("click", handleDocumentClick);
+    });
+  });
+
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+    setTooltipVisible(false);
+  };
+
+  const handleButtonClick = (e: MouseEvent) => {
+    scrollToTop();
+  };
+
+  const handleTouchEnd = (e: TouchEvent) => {
+    if (!tooltipVisible()) {
+      e.preventDefault();
+      setTooltipVisible(true);
+    } else {
+      e.preventDefault();
+      scrollToTop();
+    }
+  };
+
+  const handleMouseEnter = (e: MouseEvent) => {
+    setTooltipVisible(true);
+  };
+
+  const handleMouseLeave = (e: MouseEvent) => {
+    setTooltipVisible(false);
+  };
+
+  return (
+    <div
+      class={`fixed bottom-6 right-6 z-50 transition-all duration-300 transform ${
+        visible()
+          ? "opacity-100 translate-y-0 pointer-events-auto"
+          : "opacity-0 translate-y-4 pointer-events-none"
+      }`}
+    >
+      <div class="relative">
+        <Show when={tooltipVisible()}>
+          <div class="absolute bottom-14 left-1/2 -translate-x-1/2 bg-gray-900 text-white text-xs font-semibold px-3 py-1.5 rounded-lg shadow-md whitespace-nowrap pointer-events-none transition-opacity duration-200">
+            {t("scroll_to_top")}
+            <div class="absolute left-1/2 -translate-x-1/2 bottom-[-4px] w-2 h-2 bg-gray-900 rotate-45"></div>
+          </div>
+        </Show>
+        <button
+          ref={buttonRef}
+          onClick={handleButtonClick}
+          onTouchEnd={handleTouchEnd}
+          onMouseEnter={handleMouseEnter}
+          onMouseLeave={handleMouseLeave}
+          aria-label={t("scroll_to_top")}
+          class="bg-white hover:bg-gray-100 text-gray-700 active:bg-gray-200 border border-gray-200 shadow-lg w-12 h-12 rounded-full flex items-center justify-center focus:outline-none focus:ring-2 focus:ring-blue-500 transition-colors duration-200"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke-width="2.5"
+            stroke="currentColor"
+            class="w-6 h-6"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="M4.5 10.5 12 3m0 0 7.5 7.5M12 3v18"
+            />
+          </svg>
+        </button>
+      </div>
+    </div>
+  );
+}
 
 function Content() {
   const { t } = useI18n();
@@ -65,6 +164,7 @@ function Content() {
           )}
         </For>
       </div>
+      <ScrollToTop />
     </main>
   );
 }
