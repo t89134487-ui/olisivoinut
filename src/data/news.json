@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20238977",
+    "sourceUrl": "https://yle.fi/a/74-20238977?origin=rss",
+    "title": "Experts Interviewed by The New York Times Criticize US Icebreaker Deals with Finland",
+    "originalSummary": "Yhdysvaltalaiset asiantuntijat pitävät Donald Trumpin 11 jäänmurtajan kauppaa liian suurena ja huonosti valmisteltuna. Neljä jäänmurtajista rakennetaan Suomessa.",
+    "analysis": "A report published by The New York Times highlights growing expert criticism regarding United States President Donald Trump's deal to procure eleven icebreakers, four of which are scheduled to be built in Finland—specifically two in Helsinki and two in Rauma. According to the reporting, the deal was facilitated by Finnish President Alexander Stubb and aligns with Trump's long-standing interest in icebreakers, dating back to a 1992 visit to Helsinki. American experts and observers have raised concerns over how Congressional Republicans earmarked funding for Finnish-built vessels within the major budget bill known as the 'One Big Beautiful Bill.' This legislative framework granted the administration sweeping authority to allocate billions of dollars toward specific procurement projects with minimal institutional oversight. Crucially, the US Coast Guard had previously estimated its actual requirement to be only four to five new icebreakers, leading critics to question the necessity and scale of the eleven-vessel deal signed in October 2025, which aims to deliver vessels by 2028.\n\nFrom a economic and industrial policy perspective, the agreement offers a significant short-term boost to Finland's maritime manufacturing sector, securing high-value industrial jobs and expanding export revenues in key shipbuilding hubs. However, from an international procurement and governance standpoint, the transaction exposes vulnerabilities inherent in dealmaking driven by political rapport rather than standardized, needs-based procurement frameworks. Contracting four vessels to foreign yards while exceeding the purchasing nation's stated operational requirements creates substantial political exposure in the US, which could lead to legislative friction or contract renegotiations if political control changes. For Finland, heavy reliance on tight delivery deadlines by 2028 poses capacity and supply chain risks for domestic shipyards, which must expand production rapidly without compromising quality or operational timelines.\n\nTo safeguard Finnish industrial and strategic interests, policymakers and shipyard management should ensure that the contracts include robust, legally binding financial protections and cancellation indemnities to buffer domestic yards against potential US budgetary shifts or policy reversals. Rather than viewing this deal as a singular political event, Finnish leadership should use it to establish a formal, multi-lateral framework for Arctic maritime cooperation that binds transatlantic partners through standardized defense and commercial standards. By prioritizing institutionalized trade agreements and ensuring domestic shipyards receive necessary infrastructure support, Finland can solidify its strategic position as a global leader in icebreaking technology while minimizing exposure to volatile political cycles abroad.",
+    "publishedAt": "Sat, 01 Aug 2026 17:09:12 +0300",
+    "category": "Industrial Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20238951",
     "sourceUrl": "https://yle.fi/a/74-20238951?origin=rss",
     "title": "Spanish Police Escorted Tens of Thousands of People Back to Morocco – What We Know About the Situation in Ceuta Now",
@@ -536,17 +547,6 @@
     "publishedAt": "Tue, 21 Jul 2026 11:00:39 +0300",
     "category": "Economics",
     "isFromSummary": true,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20237313",
-    "sourceUrl": "https://yle.fi/a/74-20237313?origin=rss",
-    "title": "HS: Jan Vapaavuori Resigns from Lobbying Firm",
-    "originalSummary": "",
-    "analysis": "Former National Coalition Party politician Jan Vapaavuori has resigned from the lobbying-focused law firm Geradin Partners following a controversy surrounding the Garden Helsinki arena project. The resignation came after the Finnish government decided not to grant a proposed 35 million euro state subsidy to the multi-purpose arena project. Vapaavuori had actively lobbied for the funding by directly contacting the Prime Minister, which sparked significant public debate and scrutiny over the ethics of political lobbying. Consequently, Vapaavuori stepped down from his position, acknowledging that the resulting controversy made it impossible for him to continue effectively in his role.\n\nFrom a public policy and economic perspective, the government's decision to withhold the 35 million euro subsidy from the Garden Helsinki project represents a sound fiscal choice. Public subsidies for commercial entertainment and sports arenas are highly inefficient. Empirical research consistently demonstrates that the economic multiplier effects of such facilities are overstated, as they primarily redirect existing local entertainment spending rather than generating new macroeconomic growth. Directing scarce public resources to private infrastructure projects of this nature distorts market competition and diverts funds from crucial public goods such as education, healthcare, or basic transport infrastructure, which yield far higher long-term societal returns.\n\nTo prevent similar controversies and ensure the integrity of public finance, Finland must implement stricter institutional frameworks governing both political lobbying and infrastructure subsidies. A mandatory, robust \"cooling-off\" period should be established for former high-level politicians before they can transition into lobbying roles, reducing the risk of undue influence and insider access. Furthermore, the allocation of state subsidies to major projects must be bound to transparent, independent cost-benefit analyses rather than political connections. Establishing a comprehensive lobbyist register that documents all direct ministerial communications would enhance democratic accountability and ensure that public capital is allocated strictly on the basis of objective societal utility.",
-    "publishedAt": "Tue, 21 Jul 2026 10:47:33 +0300",
-    "category": "Economics",
-    "isFromSummary": false,
     "model": "gemini-flash-latest"
   }
 ]
