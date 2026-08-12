@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20240530",
+    "sourceUrl": "https://yle.fi/a/74-20240530?origin=rss",
+    "title": "Initiative Demanding Dismissal of Committee Chair Advances to Akaa Council – He Does Not Intend to Resign Voluntarily",
+    "originalSummary": "11 akaalaisvaltuutettua vaatii Anton Murolan (ps.) erottamista tarkastuslautakunnan puheenjohtajan tehtävästä rasististen somekirjoitusten vuoksi.",
+    "analysis": "The city board of Akaa has voted to submit a proposal to the city council to set up a temporary committee tasked with preparing the dismissal of the leadership of the city's audit committee. This decision follows an initiative signed by eleven local councillors demanding the removal of Anton Murola, a member of the Finns Party, from his role as chair of the audit committee after he repeatedly posted racist and derogatory comments about immigrants on social media. Under Finnish municipal law, a city council has the legal authority to dismiss the leadership of a municipal body before the end of their term if they no longer enjoy the council's trust. Murola has stated that he will not resign voluntarily, maintaining that his personal social media activity is entirely separate from his official role as an elected official and that he has committed no administrative errors in office. While the local Finns Party parliamentary group supports Murola, the city administration has reinforced its commitment to equal treatment and human dignity.\n\nFrom a public administration and political perspective, the integrity and reputation of municipal institutions depend heavily on the public trust invested in their leaders. Audit committees, in particular, hold a vital oversight role in local governance, requiring a high standard of objectivity, credibility, and adherence to legal and ethical norms. Public officials who engage in hate speech or dehumanizing language undermine the foundational democratic principles of non-discrimination and equality enshrined in Finnish law. From an institutional viewpoint, separating a politician's public mandate from their public statements on open platforms is unviable, as public trust is holistic. Allowing individuals in key supervisory roles to retain office while expressing discriminatory views risks degrading citizen trust in public institutions and can impair the functional efficiency of municipal administration.\n\nTo safeguard institutional integrity, local councils should decisively utilize the administrative procedures provided by the Municipal Act when public trust has been compromised. Rather than relying on voluntary resignations, local governance bodies must demonstrate that ethical boundaries and statutory principles of equality are actively enforced. The creation of a temporary committee provides a structured, legally sound, and transparent mechanism to assess whether the loss of trust justifies formal dismissal, ensuring due process while upholding democratic accountability. Municipalities should also strengthen local codes of conduct and ethical frameworks to clearly signal that positions of public trust carry inherent responsibilities regarding public discourse and non-discrimination.",
+    "publishedAt": "Wed, 12 Aug 2026 09:13:48 +0300",
+    "category": "Governance",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20239389",
     "sourceUrl": "https://yle.fi/a/74-20239389?origin=rss",
     "title": "A Family in East Helsinki Opted into a School Many Avoid – 'The Discussion Has Had a Racist Undertone'",
@@ -536,17 +547,6 @@
     "publishedAt": "Tue, 04 Aug 2026 12:00:35 +0300",
     "category": "Education Policy",
     "isFromSummary": false,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20239242",
-    "sourceUrl": "https://yle.fi/a/74-20239242?origin=rss",
-    "title": "Riikka Purra: Economic Growth Will 'Not Significantly Affect' Next Year's State Budget – Negotiations Begin",
-    "originalSummary": "Neuvottelut pohjustavat hallituksen viimeistä budjettiriihtä, joka pidetään syyskuussa. Uusia sopeutuksia ei ministerin mukaan ole tulossa.",
-    "analysis": "Finnish Minister of Finance Riikka Purra has initiated preliminary negotiations for the government's upcoming budget session scheduled for September. Purra stated that anticipated economic growth will not substantially alter the state budget framework for the coming year, as economic recovery remains modest and existing fiscal constraints persist. Crucially, she confirmed that no new major adjustment or austerity measures are planned for this session, following the extensive expenditure cuts and structural reforms previously agreed upon by the administration.\n\nFrom a macroeconomic perspective, the decision not to implement further austerity measures in the short term presents both opportunities and risks. Refraining from additional fiscal tightening avoids further dampening domestic demand during a sensitive period of early economic recovery. However, assuming that mild economic growth will offset underlying structural deficits can be overly optimistic. If baseline revenue increases fail to keep pace with demographic pressures and rising debt-servicing costs, postponing fiscal adjustments risks expanding the deficit and weakening Finland's long-term public finance buffers.\n\nTo ensure fiscal sustainability, the government should ensure that the absence of new austerity measures does not translate into budget drift or relaxed spending discipline. The upcoming budget session should focus strictly on maximizing the efficiency of implemented policies, removing administrative barriers to labor productivity, and ensuring rigid compliance with spending ceilings. Relying on passive economic growth is an unreliable strategy for fiscal consolidation; therefore, policy efforts must remain anchored in rigorous spending oversight and targeted structural reforms that foster real private sector growth without adding to the national debt burden.",
-    "publishedAt": "Tue, 04 Aug 2026 07:02:46 +0300",
-    "category": "Economics",
-    "isFromSummary": true,
     "model": "gemini-flash-latest"
   }
 ]
