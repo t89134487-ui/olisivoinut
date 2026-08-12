@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20240718",
+    "sourceUrl": "https://yle.fi/a/74-20240718?origin=rss",
+    "title": "Agriculture and Forestry Committee Holds Meeting on African Swine Fever",
+    "originalSummary": "",
+    "analysis": "The Finnish Parliament's Agriculture and Forestry Committee is convening to address the serious threat posed by the spread of African Swine Fever (ASF). Committee Chair Ritva Elomaa stated that the committee seeks up-to-date information on the evolving situation. To evaluate the risks and potential response measures, the committee plans to hear expert testimony from both the Finnish Food Authority (Ruokavirasto) and the Ministry of Agriculture and Forestry.\n\nFrom a policy perspective, proactive parliamentary oversight and expert consultations regarding infectious animal diseases are vital for protecting domestic agriculture and national food security. African Swine Fever is a highly contagious viral disease affecting domestic and wild pigs, carrying devastating economic consequences for swine farming and meat exports. Given the absence of a widely available vaccine, prevention relies almost entirely on strict biosecurity protocols, population management of wild boars, and rapid containment mechanisms. Parliamentary engagement ensures that regulatory bodies and ministries receive appropriate resources and legal backing to implement stringent preventive measures before an outbreak occurs within national borders.\n\nTo effectively safeguard the agricultural sector, policy responses should focus on reinforcing biosecurity standards across swine production facilities and enhancing monitoring of wild boar vectors along border regions. Authorities must maintain clear, rapid-response communication channels with farm operators, ensuring that biosecurity guidelines are rigorously enforced. Furthermore, coordination between the Ministry of Agriculture and Forestry, border control authorities, and local veterinary services should be optimized to facilitate early detection and swift quarantine procedures, thereby minimizing systemic economic damage to the food supply chain.",
+    "publishedAt": "Wed, 12 Aug 2026 17:38:44 +0300",
+    "category": "Agriculture",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20240230",
     "sourceUrl": "https://yle.fi/a/74-20240230?origin=rss",
     "title": "Registration for the Sámi Parliament electoral roll underway – young people especially encouraged to apply",
@@ -537,16 +548,5 @@
     "category": "Education Policy",
     "isFromSummary": false,
     "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20239341",
-    "sourceUrl": "https://yle.fi/a/74-20239341?origin=rss",
-    "title": "Names Collected in Akaa to Dismiss Council Member from Board Leadership – Racist Writings Behind the Move",
-    "originalSummary": "Akaan valtuutetuilta on pyydetty nimiä aloitteeseen Anton Murolan (ps.) erottamiseksi. Murola on kirjoittanut somessa rasistisia viestejä.",
-    "analysis": "Akaa city councillor Anton Murola (Finns Party) faces potential removal from his position as the chair of the auditing board following public exposure of his racist and derogatory social media posts. An initiative to form a temporary committee tasked with preparing the removal of the board's leadership has been circulated among city councillors, spearheaded by councillor Laura Väisänen (Green League) and backed by major political figures such as SDP group leader Harri Rämö, who declared that trust in Murola has been broken. While Murola has defended his communication as personal and separate from his official duties, municipal law in Finland permits the city council to dismiss the chair of a municipal body mid-term if they lose the council's trust. The situation highlights a growing institutional tension regarding the boundaries of acceptable public discourse for elected officials and the mechanisms local governments possess to enforce ethical standards.\n\nFrom a governance and institutional efficiency perspective, the removal mechanism provided by the Finnish Municipal Act serves as an essential accountability safeguard. Local authorities rely heavily on public trust and normative legitimacy to function effectively; when a representative occupying a leadership role in an oversight body—such as an auditing board—engages in publicly documented hate speech or racist rhetoric, it directly undermines the perceived impartiality and integrity of that institution. Research in public administration consistently demonstrates that organizational trust is a prerequisite for compliance and public cooperation. Allowing individuals who promote discriminatory views to retain positions of institutional oversight creates a conflict of interest with democratic norms and anti-discrimination obligations mandated by law. Therefore, evaluating the necessity of such a dismissal must weigh the protection of institutional reputation and democratic integrity against the representative's freedom of expression, noting that holding public office entails heightened ethical responsibilities that naturally limit certain forms of public behavior.\n\nThe municipal council of Akaa should proceed with the formation of the temporary committee and execute the dismissal of Murola from the auditing board leadership if the threshold of lost trust is met. Freedom of speech protects individuals from criminal prosecution for many types of speech, but it does not guarantee a right to public office or institutional leadership positions where impartiality and adherence to human dignity are core prerequisites. Failing to act against documented racism within leadership ranks signals institutional tolerance for discriminatory behavior, which can degrade civic trust and internal organizational cohesion. At the same time, the process must strictly adhere to the procedural guarantees outlined in the Municipal Act to ensure due process and withstand legal scrutiny. Establishing clear ethical boundaries through consistent enforcement strengthens local democracy and reinforces the principle that public power must be exercised with integrity.",
-    "publishedAt": "Tue, 04 Aug 2026 16:00:18 +0300",
-    "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
   }
 ]
