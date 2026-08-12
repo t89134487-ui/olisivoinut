@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20239389",
+    "sourceUrl": "https://yle.fi/a/74-20239389?origin=rss",
+    "title": "A Family in East Helsinki Opted into a School Many Avoid – 'The Discussion Has Had a Racist Undertone'",
+    "originalSummary": "Helsingin kaupungin päätös muuttaa koulupiirirajoja on herättänyt kiivasta keskustelua muun muassa koulushoppailusta.",
+    "analysis": "The article details the public debate surrounding the redrawing of primary school catchment areas in Eastern Helsinki, a policy decision taken by the municipal education committee to redistribute student capacity and curb socio-ethnic school segregation. Under the new boundaries, children from neighborhoods such as Herttoniemi and Myllypuro will gradually be assigned to Itäkeskus Primary School, where 65 percent of pupils—and 84 percent of first-graders—currently speak Finnish as a second language (S2). While some local parents praise the school's broad language offerings and positive learning environment, criticizing public skepticism as biased, affected parents in Herttoniemi have mounted formal legal appeals. Their primary objections center on significantly longer and riskier walking routes across busy roads, alongside concerns about language support needs in high-S2 classrooms. Urban researchers noted in the article emphasize that parent mobility away from diverse areas is predominantly driven by public order and safety concerns rather than low trust in local schools.\n\nFrom an educational and municipal policy standpoint, using administrative redistricting to balance school enrollment and prevent socio-spatial segregation is a recognized governance tool. Educational equity research demonstrates that extreme concentration of language support needs can stretch teaching resources and exacerbate disparities in educational attainment across neighborhoods. However, relying on boundary redrawing as a primary solution often proves inefficient when it runs counter to parental preferences and urban geography. Forcing young children onto longer and more perilous commute paths imposes real operational burdens on households, which risks triggering unintended consequences such as increased school shopping, flight to private or specialized schools, or residential mobility out of the district. Furthermore, boundary shifts treat the symptoms of neighborhood segregation rather than the structural drivers, such as housing policy, concentrated social housing, and localized public order issues.\n\nTo manage public education effectively, municipal decision-makers should refine their approach by prioritizing voluntary incentives and holistic urban planning over rigid administrative redistricting. Cities should focus on enhancing the intrinsic attraction of schools in socio-economically diverse areas through targeted financial weighting, reduced class sizes, specialized language immersion programs, or focused academic tracks. This incentivizes organic integration without burdening young students with longer commutes. Additionally, municipal authorities must coordinate education policy with housing and public safety measures to address the environmental factors—such as public substance use and safety perceptions—that drive residential flight. When catchment area adjustments are strictly necessary due to school building capacities, they must be paired with safe transit infrastructure improvements and introduced with proactive community dialogue to preserve public trust in the local school system.",
+    "publishedAt": "Wed, 12 Aug 2026 05:30:35 +0300",
+    "category": "Education Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20240369",
     "sourceUrl": "https://yle.fi/a/74-20240369?origin=rss",
     "title": "Schools Start Today Across Most of the Country: Here Is How Daily Life Changes",
@@ -536,17 +547,6 @@
     "publishedAt": "Tue, 04 Aug 2026 07:02:46 +0300",
     "category": "Economics",
     "isFromSummary": true,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20239218",
-    "sourceUrl": "https://yle.fi/a/74-20239218?origin=rss",
-    "title": "Party Vice-Chairs in A-Studio Discussing the Ceuta Situation – Watch Live Starting at 21:00",
-    "originalSummary": "Espanjalle kuuluvaan kaupunkiin on saapunut luvatta kymmeniä tuhansia siirtolaisia.",
-    "analysis": "The article previews an A-studio current affairs broadcast featuring Finnish political party vice-chairs Karoliina Partanen (National Coalition Party), Joakim Vigelius (Finns Party), and Nasima Razmyar (Social Democratic Party). The primary focus of the discussion is the migration influx into Ceuta, a Spanish enclave bordering Morocco, where thousands of migrants have arrived without authorization. The political debate follows recent controversial remarks by Finnish Interior Minister Mari Rantanen (Finns Party), who expressed support for Italian Prime Minister Giorgia Meloni's proposal to suspend Spain from the Schengen border-free area due to its handling of the border situation. In addition to border security and migration policy, the panel is slated to discuss the current state of the Finnish economy.\n\nThe debate over suspending a member state from the Schengen zone underscores persistent friction within European migration policy and external border governance. From a structural perspective, threatening to exclude key frontline states like Spain from Schengen over localized migration pressure risks severely undermining the integrity of the European free movement framework. While the Schengen Borders Code permits temporary internal border checks under exceptional circumstances, outright suspension lacks a clear legal apparatus and risks imposing significant economic friction on intra-EU trade and mobility. Furthermore, penalizing frontline states fails to address the underlying drivers of irregular migration, which require coordinated external border protection, robust intelligence sharing, and integrated processing facilities rather than border closures inside the block.\n\nFinnish political leaders should avoid supporting measures that weaken core EU institutions like Schengen and instead channel diplomatic efforts toward robust, rule-based border enforcement. Finland should advocate for the full implementation of unified European asylum procedures and enhanced logistical and financial support for Frontex along high-pressure external borders. Rather than suggesting punitive exclusions that divide member states, Finland's policy posture should emphasize shared responsibility, stringent external border controls, and diplomatic engagement with transit and origin countries to manage irregular flows effectively.",
-    "publishedAt": "Mon, 03 Aug 2026 20:23:36 +0300",
-    "category": "Immigration & Foreign Policy",
-    "isFromSummary": false,
     "model": "gemini-flash-latest"
   }
 ]
