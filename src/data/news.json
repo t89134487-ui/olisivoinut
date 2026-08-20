@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20242022",
+    "sourceUrl": "https://yle.fi/a/74-20242022?origin=rss",
+    "title": "Finnish company signed a letter of intent to manufacture Ukrainian drones in Finland",
+    "originalSummary": "Droonien valmistuksessa hyödynnettäisiin ukrainalaisyrityksen teknologista asiantuntemusta. Droonit menisivät Ukrainan asevoimien käyttöön.",
+    "analysis": "The Finnish technology company Innokas has signed a letter of intent with the Ukrainian drone manufacturer Airlogix to establish production capacities for unmanned aerial systems in Finland. This agreement falls under the 'Build with Ukraine' initiative, which aims to boost European production capacity to supply military equipment directly to the Ukrainian armed forces. According to Innokas CEO Janne Kostamo, the partnership serves as a practical contribution to supporting Ukraine by leveraging Airlogix's combat-proven technology and scaling up manufacturing output. The agreement was formalized at a defense industry exhibition in Denmark.\n\nThis industrial defense cooperation represents a highly pragmatic and efficient approach to bolstering both European security and Ukraine's defense capabilities. By integrating combat-proven Ukrainian drone designs into European manufacturing ecosystems, the initiative bridges the gap between frontline combat innovation and Western industrial scale. Modern warfare heavily relies on cost-effective, adaptable unmanned aerial systems, and the ability to manufacture these systems within the EU enhances supply chain resilience while reducing reliance on distant or vulnerable procurement lines. Furthermore, this collaboration provides Finnish defense industries with invaluable technological transfer and real-world feedback loops derived directly from active conflict zones, which significantly strengthens domestic defense preparedness.\n\nTo maximize the utility of this initiative, policymakers and industrial actors should actively streamline regulatory frameworks and funding mechanisms to accelerate the transition from letters of intent to full-scale production. Rather than viewing defense production purely through the lens of traditional heavy armaments, national governments should integrate agile drone manufacturing into broader national security strategies. Policymakers should support such public-private industrial partnerships through targeted innovation grants and streamlined procurement pathways, ensuring that technological adaptations can be rapidly scaled. Additionally, integrating these production networks across Nordic and European frameworks will enhance interoperability and collective deterrence, making such bilateral industrial initiatives a cornerstone of modern European defense policy.",
+    "publishedAt": "Thu, 20 Aug 2026 11:57:13 +0300",
+    "category": "Defense Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20241979",
     "sourceUrl": "https://yle.fi/a/74-20241979?origin=rss",
     "title": "12 councillors left in the middle of the meeting – cited \"other reason\" when the city board demanded an explanation",
@@ -537,16 +548,5 @@
     "category": "Social Policy",
     "isFromSummary": false,
     "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20241148",
-    "sourceUrl": "https://yle.fi/a/74-20241148?origin=rss",
-    "title": "Ministry of Finance Initiates Evaluation Procedure with the Town of Pyhäjärvi",
-    "originalSummary": "Ratkaisuun on päädytty kaupungin liian alijäämäisen taloustilanteen takia.",
-    "analysis": "The Ministry of Finance has initiated an evaluation procedure regarding the town of Pyhäjärvi due to unsustainable financial deficits that exceed the critical thresholds established by the state. Located in Northern Ostrobothnia with a population of under 5,000, Pyhäjärvi's per capita deficit has triggered a formal mechanism wherein a dedicated evaluation group—comprising representatives from the town, the ministry, and an independent chair—will assess whether the municipality can independently fulfill its legally mandated public duties. Following this investigation, the ministry will determine whether Pyhäjärvi can continue operating under its current municipal structure or if a municipal merger (kuntajakoselvitys) must be initiated to guarantee the long-term continuity of essential public services for its residents.\n\nThis administrative intervention highlights the structural economic challenges facing small, aging Finnish municipalities with shrinking tax bases. The municipal evaluation procedure serves as a critical fiscal backstop in Finland's decentralized welfare model, where local governments are legally obligated to provide core services such as primary healthcare, social welfare, and basic education. When demographic shifts—characterized by out-migration and an aging population—severely erode a municipality's revenue streams, structural deficits become practically insurmountable through local tax hikes alone, as higher rates further discourage residency and investment. While municipal mergers can generate administrative cost efficiencies and pool resources, they often face local political resistance due to fears of reduced democratic representation and the centralization of services away from rural peripheries. Nevertheless, intervention is economically necessary to prevent disorderly municipal insolvency and to ensure that statutory welfare standards are uniformly upheld across the country.\n\nTo address systemic municipal insolvency cases like Pyhäjärvi's, the central government must pair the evaluation procedure with constructive structural support rather than viewing amalgamation merely as a punitive accounting exercise. The evaluation group should prioritize a rigorous audit of service delivery costs to identify genuine efficiencies, such as shared administrative services with neighboring municipalities, before recommending a forced merger. If a municipality fundamentally lacks the economic foundation to sustain its independent statutory obligations, the transition toward a broader regional consolidation must be managed with targeted transitional funding to cushion the impact on local employment and service accessibility. Ultimately, while fiscal discipline must be maintained to protect the macroeconomic stability of the public sector, structural reforms should focus on long-term regional economic revitalization and sustainable burden-sharing between the state and local authorities.",
-    "publishedAt": "Fri, 14 Aug 2026 18:44:22 +0300",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
   }
 ]
