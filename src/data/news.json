@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20251733",
+    "sourceUrl": "https://yle.fi/a/74-20251733?origin=rss",
+    "title": "Professor: Data Centers Will Raise Household Electricity Prices Anyway",
+    "originalSummary": "Torstai-illan A-talkissa keskusteltiin muun muassa datakeskusbuumin vaikutuksista. Asiantuntijan mukaan keskukset nostavat sähkön hintaa vaikka uutta tuotantoa tulisi markkinoille.",
+    "analysis": "The article addresses the economic and energy policy implications of the data center boom in Finland, focusing on whether foreign tech investments benefit the national economy or merely exploit cheap energy and land resources while driving up consumer electricity prices. While proponents argue that data centers drive industrial development and finance new renewable energy, critics warn that rising corporate power purchase agreements will inevitably increase household electricity costs and reduce Finland to a raw energy exporter. Policymakers should implement stricter regulatory frameworks and local value-retention requirements to ensure that large-scale foreign digital investments genuinely benefit domestic energy security and public welfare without overburdening ordinary consumers.",
+    "publishedAt": "Thu, 15 Oct 2026 23:06:26 +0300",
+    "category": "Environment",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20251711",
     "sourceUrl": "https://yle.fi/a/74-20251711?origin=rss",
     "title": "Expert: Government package does not lower gasoline prices, but benefits commuters traveling over 60 kilometers",
@@ -537,16 +548,5 @@
     "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20250590",
-    "sourceUrl": "https://yle.fi/a/74-20250590?origin=rss",
-    "title": "Orpo Considers Raising the Retirement Age to 70 Unrealistic",
-    "originalSummary": "Hän kommentoi asiaa kyselytunnilla eduskunnassa.",
-    "analysis": "Finnish Prime Minister Petteri Orpo has firmly dismissed a civil servant proposal from the Ministry of Finance to raise the minimum statutory retirement age to 70, characterizing the idea as completely unrealistic during a parliamentary question time. The recommendation was published as part of the ministry's extensive memorandum outlining potential fiscal adjustment measures and structural economic reforms intended to stabilize public finances for the incoming government administration.\n\nFrom a macroeconomic perspective, extending working careers is a conventional mechanism for mitigating the demographic pressures of an aging population, as it simultaneously bolsters tax revenues and reduces the duration of pension disbursements. However, an aggressive, uniform hike of the lowest retirement age to 70 fails to account for critical disparities in healthy life expectancy and occupational demands. While overall life expectancy has risen, healthy working years vary drastically across socioeconomic groups and professions. Imposing a blanket threshold of 70 risks pushing individuals in physically strenuous or hazardous labor into disability pensions, extended sickness allowances, or long-term unemployment rather than keeping them productively employed. Consequently, such a measure would largely shift the financial burden from pension funds onto the state's social security and healthcare budgets, creating substantial deadweight losses and exacerbating health inequalities without yielding the anticipated fiscal gains.\n\nPrime Minister Orpo is justified in rejecting a blanket increase of the statutory pension age to 70, but policymakers cannot afford to ignore the underlying sustainability gap that prompted the ministry's proposal. The appropriate response should focus on closing the gap between the actual effective retirement age and the existing statutory limits rather than mechanically raising the threshold to an unachievable level. Reforms must concentrate on occupational health interventions, ergonomic workplace adaptations, and targeted retraining to preserve work ability in later stages of careers. Additionally, implementing flexible, phased retirement models and enhancing financial incentives for those who voluntarily choose to work past the minimum retirement age would provide a far more sustainable and equitable outcome than an arbitrary statutory mandate.",
-    "publishedAt": "Thu, 08 Oct 2026 18:26:28 +0300",
-    "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
   }
 ]
