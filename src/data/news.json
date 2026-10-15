@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20251711",
+    "sourceUrl": "https://yle.fi/a/74-20251711?origin=rss",
+    "title": "Expert: Government package does not lower gasoline prices, but benefits commuters traveling over 60 kilometers",
+    "originalSummary": "Ajoneuvoveron kevennys, työmatkakuluvähennyksen ylärajan nosto ja yritysten kustannustuki helpottavat autoilijan menoja hieman.",
+    "analysis": "The Finnish government agreed on a 60 million euro support package for motorists, featuring vehicle tax reductions, an increased ceiling for commuting travel deductions, and business cost support, while avoiding a reduction in the distribution obligation for biofuels. While targeted tax adjustments and deductions offer localized relief for long-distance commuters and transport sectors, they fail to provide immediate relief at the pump and offer negligible general savings. The decision to preserve the biofuel distribution obligation is economically sound, as it protects long-term investments in low-emission energy. Therefore, the government's package should be supported for prioritizing structural green transitions over superficial pump-price interventions, though future relief should focus strictly on targeted, efficient measures rather than broad tax cuts.",
+    "publishedAt": "Thu, 15 Oct 2026 19:25:00 +0300",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20251698",
+    "sourceUrl": "https://yle.fi/a/74-20251698?origin=rss",
+    "title": "How Politicians Reacted to the Government's Fuel Package",
+    "originalSummary": "SDP:n Joona Räsänen ja perussuomalaisten Jani Mäkelä kritisoivat sitä, ettei bensasopu hyödytä valtaosaa kansalaisista.",
+    "analysis": "The Finnish government agreed on a 60-million-euro relief package to mitigate high fuel prices through vehicle tax cuts, commuting deduction limits, and targeted support for transport and agriculture, drawing criticism from both the opposition and government ranks. While the package aims to ease the burden on commuters and vital sectors without exacerbating heavy state debt, targeted micro-subsidies and tax tweaks offer limited relief against broader market-driven fuel prices while risking trade-offs like reduced basic road maintenance funding. The proposed measures should be rejected in favor of broader structural solutions or allowed to lapse, as minor tinkering with vehicle taxes and narrow subsidies fails to efficiently address high pump prices while compromising public infrastructure.",
+    "publishedAt": "Thu, 15 Oct 2026 16:57:08 +0300",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20250946",
     "sourceUrl": "https://yle.fi/a/74-20250946?origin=rss",
     "title": "Marco Casagrande Designs Underground Schools in Ukraine and Warns About Russia: \"This is Not About Civilization\"",
@@ -526,27 +548,5 @@
     "category": "Social Policy",
     "isFromSummary": false,
     "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20250487",
-    "sourceUrl": "https://yle.fi/a/74-20250487?origin=rss",
-    "title": "Can Health Endure Working Until Age 70? Some Can Run, Others Can't Even Walk",
-    "originalSummary": "Valtiovarainministeriö ehdotti, että eläkkeelle jäätäisiin aikaisintaan 70-vuotiaana. Yli puolet 65–74-vuotiasta kokee itsensä täysin työkykyisiksi.",
-    "analysis": "The article examines a proposal by the Ministry of Finance's civil servants to raise Finland's lowest retirement age to 70, starting in 2032 with a pace of six months per birth cohort, aimed at increasing employment by 50,000 to 120,000 workers. Proponents, including the Finnish Centre for Pensions (ETK), argue that life expectancy is increasing by two to three years every decade, pointing to Denmark as a precedent for tying retirement age to longevity and noting that many older adults already feel capable of working. Conversely, opponents like the opposition party SDP have strongly dismissed the idea, and researchers from the Finnish Institute for Health and Welfare (THL) emphasize vast health disparities among older populations, where functional capacities range widely despite statistical gains in life expectancy.\n\nRaising the statutory retirement age in response to demographic aging is a standard economic lever designed to mitigate fiscal pressures on public finances and maintain labor supply as dependency ratios worsen. However, tying retirement age strictly to aggregate life expectancy without accounting for socioeconomic and health disparities creates severe equity issues. While highly educated individuals in knowledge-based sectors often experience healthier aging and can extend their careers comfortably, blue-collar workers and those in physically or mentally demanding occupations frequently face cumulative wear and tear that precludes safe, prolonged labor market participation. Consequently, a blanket age increase risks penalizing populations with lower baseline health and shorter life expectancies, exacerbating social inequality and potentially shifting the burden from pension expenditures to disability and social welfare systems.\n\nRather than adopting an aggressive and rigid schedule to push the statutory retirement age to 70, Finnish policymakers should pursue a more nuanced, flexible framework that accommodates heterogeneous working capacities. The pace of any retirement age adjustments must be significantly slowed down from the Ministry of Finance's proposed timeline to align with realistic health trajectories and labor market adaptations. Furthermore, structural reforms should focus on improving work ability, occupational health, and retention mechanisms for older workers, alongside creating more phased or partial retirement pathways. This ensures that prolonged working lives are driven by genuine capacity and incentive rather than administrative compulsion, protecting vulnerable groups while still addressing long-term fiscal sustainability.",
-    "publishedAt": "Thu, 08 Oct 2026 15:55:54 +0300",
-    "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20248750",
-    "sourceUrl": "https://yle.fi/a/74-20248750?origin=rss",
-    "title": "Vantaa's cooperation negotiations concluded, but the city will withhold layoff details for a long time",
-    "originalSummary": "Vantaan kaupungin lähes kahdeksan viikkoa kestäneet yhteistoimintaneuvottelut on saatu päätökseen.",
-    "analysis": "The city of Vantaa has concluded its nearly eight-week-long cooperation negotiations (yt-neuvottelut), aimed at addressing severe financial deficits by reducing personnel expenses. While the negotiations have ended, the specific details regarding layoffs and personnel impacts will not be publicly disclosed until the city board formally reviews and approves the outcome. The negotiations were initiated in August with a target of saving up to 15 million euros in personnel costs, initially estimating that up to 200 employees could face layoffs, while up to 700 others could be affected by furloughs, part-time shifts, or changes to employment terms. Approximately 8,500 municipal employees fell under the scope of the negotiations, though statutory educational and teaching staff were largely shielded from direct cuts. Trade union representative Jaakko Perttunen criticized the outcome as a disappointment, issuing an official dissenting opinion and warning that further staffing reductions will inevitably degrade service quality and municipal welfare, leaving remaining workers under severe mental strain. Vantaa's severe financial crisis stems from a combination of structural municipal reforms—specifically the social and healthcare (sote) reform and the employment service reform—alongside broader macroeconomic challenges, including high unemployment, a depressed construction sector, and a deeply negative fiscal trajectory that resulted in Vantaa recording the largest deficit among all Finnish municipalities last year.\n\nMunicipal austerity measures driven by structural fiscal deficits present a profound trade-off between macroeconomic stabilization and public service degradation. Local governments in Finland have faced acute financial pressures following recent legislative reforms, such as the sote reform, which stripped municipalities of tax-raising healthcare responsibilities while leaving them with rigid expenditure obligations, shrinking tax bases, and heightened sensitivity to regional economic downturns. While cost-cutting through personnel reductions or wage adjustments can provide a short-term nominal balance on a municipal balance sheet, it frequently generates negative externalities that undermine long-term public efficiency. Personnel reductions in local government often fail to account for the hidden costs of increased workloads on remaining staff, including higher rates of absenteeism, burnout, and diminished administrative capacity. Furthermore, because municipal workers provide localized public goods—such as education, infrastructure maintenance, and social support—broad workforce contractions can directly impair the quality of life for residents, rendering the municipality less attractive to families and businesses, which in turn depresses future tax revenues and deepens the structural deficit over time.\n\nAddressing Vantaa's ongoing fiscal distress requires a strategic pivot away from reactive, across-the-board personnel cuts toward structural productivity enhancements and revenue optimization. Rather than relying on headcount reductions that compromise core service delivery, municipalities facing systemic deficits should prioritize operational streamlining through digital transformation, administrative consolidation, and targeted service prioritization. This means protecting frontline personnel while aggressively auditing internal bureaucratic redundancies and optimizing real estate and capital expenditures. At the national level, the central government must re-examine the fiscal framework governing municipalities, ensuring that major structural overhauls like the sote reform do not leave urban centers structurally underfunded or vulnerable to localized economic shocks in the construction and employment sectors. Ultimately, long-term fiscal sustainability cannot be achieved by shrinking municipal capacity below the threshold required to deliver essential public services; instead, it demands a coordinated strategy of productivity-driven modernization and sustainable revenue alignment.",
-    "publishedAt": "Thu, 08 Oct 2026 15:33:42 +0300",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
   }
 ]
