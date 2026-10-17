@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20251926",
+    "sourceUrl": "https://yle.fi/a/74-20251926?origin=rss",
+    "title": "Left Alliance's Minja Koskela Would Reinstate Tax Deductibility of Union Dues 'Double'",
+    "originalSummary": "Puolueen puheenjohtaja kertoi asiasta puoluevaltuuston kokouksessa.",
+    "analysis": "Left Alliance leader Minja Koskela proposes reinstating the tax deductibility of union membership dues at double the rate to boost organized labor. While collective bargaining underpins labor market stability, using the tax code to subsidize private association fees distorts fiscal neutrality and burdens public finances during a period of necessary consolidation. Providing a double deduction is particularly inefficient and regressive in revenue terms. This proposal should be rejected; unions should maintain their appeal through member services rather than state-funded tax privileges, keeping tax policy neutral.",
+    "publishedAt": "Sat, 17 Oct 2026 11:27:39 +0300",
+    "category": "Taxation",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20251922",
+    "sourceUrl": "https://yle.fi/a/74-20251922?origin=rss",
+    "title": "Christian Democrats Leader Sari Essayah: Israel Has the Right to Defend Itself and Its Citizens",
+    "originalSummary": "Hallituksen sorvaama 60 miljoonan euron tukipaketti autoilijoille on Essayhin mielestä ”siedettävä”.",
+    "analysis": "Minister Sari Essayah addressed the government's 60 million euro motorist relief package, expressing disappointment over the failure to lower the renewable fuel distribution mandate while urging increased EU funding for domestic agriculture. Broad cost-relief packages and altered commuting deductions provide fleeting relief but distort price mechanisms and dilute long-term climate obligations. Rather than weakening renewable blending targets or subsidizing general motoring, policy should reject blanket fuel relief and instead strictly focus resources on agricultural supply security and supply-chain fair competition.",
+    "publishedAt": "Sat, 17 Oct 2026 10:37:24 +0300",
+    "category": "Economic Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20251319",
     "sourceUrl": "https://yle.fi/a/74-20251319?origin=rss",
     "title": "Preparation of Länsirata and Airport Line May End – Wind-Down on Next Government's Table",
@@ -526,27 +548,5 @@
     "category": "Governance",
     "isFromSummary": false,
     "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20248277",
-    "sourceUrl": "https://yle.fi/a/74-20248277?origin=rss",
-    "title": "Brakes Applied to Data Center Boom – Ministry: We Decided Discrimination Can Be Justified",
-    "originalSummary": "Uusi laki voi viivästyttää uusien datakeskuksien rakentamista jopa vuoden.",
-    "analysis": "The Finnish Ministry of Economic Affairs and Employment (TEM) is advancing a fast-tracked legislative amendment designed to intentionally de-prioritize data centers in the queue for electrical grid connections. Under current regulations, the national transmission system operator Fingrid and regional distribution operators allocate grid access on a first-come, first-served basis. However, an unexpected surge in connection requests—particularly in southern Finland where grid capacity is virtually exhausted—has led the ministry to propose an administrative hierarchy. The draft law establishes four distinct priority tiers: the first tier includes households and small businesses, whose applications will continue to be processed immediately; the second includes moderate-sized industrial facilities and smaller data centers; the third comprises large data centers and heavy industry; and the fourth consists of energy storage systems. Applications in tiers two through four would only be reviewed semi-annually, potentially introducing connection delays of several years. Furthermore, while large facilities can advance one tier if they provide their own flexible power generation, data centers face stricter thresholds (requiring flexible generation at 1 megawatt compared to 3 megawatts for other industries). The policy has sparked strong pushback from the data center sector, which argues that picking specific industries for disadvantageous treatment harms Finland's investment climate and jeopardizes already committed projects, while grid operator Fingrid strongly supports the reform as a necessary tool to prevent grid congestion and encourage development in northern and central regions.\n\nFrom an economic and energy policy perspective, the fundamental objective of preventing grid exhaustion is legitimate and necessary, but the proposed mechanism relies on blunt administrative discrimination rather than economically efficient signals. When transmission capacity is scarce, administrative queuing systems based on arbitrary sectoral categories distort capital allocation and introduce high levels of political risk. Categorizing data centers as inherently less deserving of power access than traditional industrial sites ignores the digital economy's value-added contributions, while also discouraging energy storage—a critical flexibility tool for integrating renewable energy—by relegating it to the lowest priority tier. Furthermore, granting priority to facilities that supply on-site generation creates perverse environmental incentives, as operators may install fossil-fueled backup generators simply to climb the regulatory queue. While learning from the acute grid crises in Dublin and Denmark is prudent, adopting administrative rationing risks undermining Finland's competitive advantage in attracting foreign direct investment in green digital infrastructure.\n\nInstead of an administrative rationing system based on industrial classification, policymakers should pivot toward market-based mechanisms and objective grid-system metrics. Transmission capacity constraints are fundamentally a locational and temporal pricing problem. Finland should introduce transparent locational connection fees or dynamic capacity-sharing agreements, where users who can dynamically modulate load or accept curtailable capacity receive accelerated access, regardless of whether they are a data center, a steel mill, or a battery storage facility. If priority tiers are retained during a transitional period, the criteria should be defined strictly by technical characteristics—such as system-level grid services provided, waste heat utilization in local district heating networks, and demand-response capabilities—rather than the sector of the end-user. Additionally, existing projects with binding commitments, such as acquired land or advanced environmental permits, must be protected by grandfathering clauses to avoid abrupt regulatory expropriation and safeguard Finland's reputation as a stable, predictable investment environment.",
-    "publishedAt": "Sat, 10 Oct 2026 05:45:36 +0300",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20250680",
-    "sourceUrl": "https://yle.fi/a/74-20250680?origin=rss",
-    "title": "Enontekiö Plans to Brand Itself as the Monaco of Finland – Residents Do Not Quite Understand Why",
-    "originalSummary": "Monaco-lempinimeä on tarjottu Suomessa eri paikoille eri syistä. Sillä voi olla pilkallinenkin sävy. Kunnanjohtaja ei pelkää sloganin kääntyvän itseään vastaan.",
-    "analysis": "The municipality of Enontekiö has introduced a new municipal strategy leading up to 2031, centered around the slogan \"Enontekiö – son Suomen Monaco\" (Enontekiö is the Monaco of Finland). The municipal board proposed this plan to emphasize Enontekiö as a dream destination, contrasting Monaco's density with the municipality's vast space and pristine nature. However, local residents have met the idea with skepticism and confusion, questioning the relevance of the comparison given the stark differences in climate, economy, and lifestyle, though some acknowledged it as a playful nod to visiting Formula 1 drivers like Valtteri Bottas who spend time in the region. Municipal manager Eero Ylitalo defended the slogan, arguing that it is intentionally provocative to generate media attention and public engagement, maintaining that the main goal is to keep Enontekiö visible in public discourse. He emphasized that the strategy was crafted collectively through village meetings rather than by outside consultants, aiming to highlight the area's positive attributes.\n\nFrom a public administration and regional marketing perspective, using provocative or hyperbolic branding is a common tactic to cut through the noise of intense municipal competition for tourism and residents. Small, remote municipalities face severe demographic challenges, including aging populations and outward migration, making visibility a scarce and valuable commodity. However, relying on a paradoxical slogan like \"the Monaco of Finland\" for an Arctic, nature-focused wilderness municipality risks creating cognitive dissonance among target audiences. Monaco connotes high-density luxury, urban glamour, and extreme wealth, which is the exact opposite of Enontekiö's core value proposition: solitude, untouched wilderness, and Arctic authenticity. While the strategy successfully generated immediate media coverage, leveraging irony as a foundational economic and tourism identity can dilute a region's authentic brand equity, confusing potential tourists who seek genuine nature experiences rather than tongue-in-cheek coastal European metaphors.\n\nEnontekiö should drop the \"Finland's Monaco\" slogan and pivot its municipal branding toward highlighting its genuine comparative advantages, such as authentic Arctic wilderness, Sámi culture, and outdoor recreation. While generating initial debate is a legitimate strategy for community engagement, municipal branding must be cohesive and truthful to long-term economic development goals. Attempting to draw a parallel to a tax haven and jet-set playground undermines the credibility of a municipality whose primary assets are ecological and cultural. Instead of relying on gimmicks that alienate residents and confuse visitors, the municipality should channel the high local engagement sparked by this debate into building a community-driven brand rooted in sustainable Arctic tourism and local quality of life.",
-    "publishedAt": "Fri, 09 Oct 2026 19:33:17 +0300",
-    "category": "Regional Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
   }
 ]
