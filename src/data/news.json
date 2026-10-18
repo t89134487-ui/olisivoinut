@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20250481",
+    "sourceUrl": "https://yle.fi/a/74-20250481?origin=rss",
+    "title": "Gender Still Has a Major Impact on Paid Family Leave – Check the Situation in Your Sector",
+    "originalSummary": "Perhevapaiden palkallisuudessa on yhä isoja eroja. Lapsen kanssa kotiin jäänyt Matias Mäkynen (sd.) muuttaisi vielä lakia, jos erot eivät tasaannu.",
+    "analysis": "A review of Finland's 2022 family leave reform shows that while non-transferable quotas have increased fathers' leave uptake, significant disparities persist because collective agreements often provide fewer fully paid days in male-dominated, lower-wage sectors. In response, MP Matias Mäkynen has suggested raising statutory parental allowances or intervening legislatively if labor market negotiations fail to close the gap. Relying solely on collective bargaining exacerbates disparities between professional tiers, directly undermining the egalitarian objectives of family policy. However, rather than expanding state fiscal liabilities through higher flat daily allowances, policymakers should establish statutory minimum paid leave periods or condition employer reimbursements on gender neutrality to effectively ensure parity across all sectors.",
+    "publishedAt": "Sun, 18 Oct 2026 05:30:35 +0300",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20251926",
     "sourceUrl": "https://yle.fi/a/74-20251926?origin=rss",
     "title": "Left Alliance's Minja Koskela Would Reinstate Tax Deductibility of Union Dues 'Double'",
@@ -537,16 +548,5 @@
     "category": "Economics and Public Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20248952",
-    "sourceUrl": "https://yle.fi/a/74-20248952?origin=rss",
-    "title": "Wealthy Gravel King Has a Reputation as a Gentleman – Recordings Reveal the Other Side of Power",
-    "originalSummary": "Juhani Sjöblom on entinen kansanedustaja ja Tuusulan johtava kuntapoliitikko. Hänet tunnetaan myös kokoomuksen vaalirahoittajana ja suurmaanomistajana, jolla on lahjustuomio.",
-    "analysis": "The article details investigative findings regarding Juhani Sjöblom, a prominent Finnish businessman, former National Coalition Party (Kokoomus) member of parliament, and long-time municipal power broker in Tuusula. Known as the 'gravel king' through his family firm Seepsula, Sjöblom built a vast multi-million-euro enterprise by extracting gravel and subsequently rezoning the excavated land into industrial and commercial parks in cooperation with local municipal authorities. Audio recordings from a bribery trial illustrate Sjöblom's aggressive behind-the-scenes methods to advance his commercial interests. In 2023, Sjöblom was fined for bribing the former chairman of the Vantaa city board in connection with pre-emption rights over commercial properties, during which he exerted intense personal pressure on local politicians. His dual role as a major landowner and political leader historically triggered extensive disqualification disputes, culminating in a 2011 Supreme Administrative Court ruling that barred him from chairing the Tuusula municipal executive board due to systemic conflicts of interest. The entanglements persisted into recent municipal cycles: in May 2025, Tuusula municipal council dismissed Mayor Kalle Ikkelä, Sjöblom's former son-in-law, following accusations that he improperly favored Sjöblom's properties in commercial land allocations. Although Ikkelä denied wrongdoing and police declined to open a formal pre-trial investigation, civil servants who corroborated instances of pressure subsequently faced internal institutional pushback and threatened workplace repercussions. Reactions among Tuusula politicians remain polarized between those who commend Sjöblom's economic dynamism and tax contributions and those who warn against opaque land governance and blurred ethical boundaries.\n\nFrom a public administration and political economy perspective, the scenario highlights the acute risks of regulatory capture and rent-seeking inherent in decentralized municipal governance. When municipal land use, zoning approvals, and commercial development are governed by informal political networks rather than strict arm's-length procedures, the integrity of local public administration is severely undermined. While private enterprise and entrepreneurship are indispensable for municipal tax bases and employment generation, allowing substantial local commercial interests to overlap directly with public decision-making distorts market competition, drives up transaction costs for non-connected market entrants, and risks sub-optimal allocation of public land resources. Furthermore, the vulnerability of municipal civil servants to administrative pressure when reporting ethical violations indicates an institutional imbalance where political executives can override bureaucratic impartiality. The structural absence of independent oversight mechanisms at the local level converts zoning power—one of the most economically valuable functions of Finnish municipalities—into a vehicle for private value extraction rather than equitable regional development.\n\nTo resolve these systemic governance deficiencies, national legislative frameworks governing municipal administration must be substantially tightened. The Local Government Act should be amended to establish mandatory, legally binding cooling-off periods for municipal leaders and executive board members transitioning between municipal governance and private businesses that operate within the municipality's regulatory or land-use sphere. Furthermore, municipal zoning and commercial land allocation should be subjected to standardized, open digital auction mechanisms and transparent criteria that preclude discretionary bilateral favoritism. Independent regional ethics ombudsmen or an expanded role for the Chancellor of Justice should be established to investigate municipal conflicts of interest and provide robust, enforceable whistleblower protection for local public officials who report improper political interference. Without institutional firewalls separating private real estate investments from municipal administrative authority, public trust in local democracy will continue to erode, compromising both economic efficiency and procedural justice.",
-    "publishedAt": "Sat, 10 Oct 2026 06:00:35 +0300",
-    "category": "Governance",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
   }
 ]
