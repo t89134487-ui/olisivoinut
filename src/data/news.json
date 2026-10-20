@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20251270",
+    "sourceUrl": "https://yle.fi/a/74-20251270?origin=rss",
+    "title": "National Coalition Party Leadership Lured Jutta Urpilainen into Their Ranks: “I Received Several Inquiries”",
+    "originalSummary": "Kokoomuksesta ehdotettiin Urpilaiselle puolueloikkausta. Urpilainen kertoo tuoreessa kirjassaan kokeneensa, että hänet oli jätetty SDP:ssä syrjään.",
+    "analysis": "In her upcoming book, former SDP leader and EU Commissioner Jutta Urpilainen reveals that figures within the National Coalition Party's leadership previously approached her with offers to cross the aisle and join their party. This revelation highlights the fluid nature of political alliances and ideological boundaries within Finnish politics. Attempting to recruit a prominent figure from a rival center-left party reflects strategic maneuvering to consolidate political capital and broaden electoral appeal. While such cross-party overtures are a standard tactical play to weaken opponents and strengthen a party's moderate credentials, they ultimately risk diluting ideological clarity. Political parties should focus on building cohesive platforms rooted in distinct policy visions rather than relying on high-profile recruitment, ensuring that voter trust is maintained through consistent ideological representation.",
+    "publishedAt": "Wed, 21 Oct 2026 00:01:35 +0300",
+    "category": "Politics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20251566",
     "sourceUrl": "https://yle.fi/a/74-20251566?origin=rss",
     "title": "Finnish Security Intelligence Service: Russia frequently uses third countries to bypass sanctions",
@@ -537,16 +548,5 @@
     "category": "Administration",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251113",
-    "sourceUrl": "https://yle.fi/a/74-20251113?origin=rss",
-    "title": "Metsähallitus to Cut Staff and Outsource Services – Changes Ahead for the Haltia Nature Centre in Nuuksio, Espoo",
-    "originalSummary": "Metsähallituksen Luontopalvelut käynnistää muutosneuvottelut, jotka voivat johtaa irtisanomisiin ja työehtojen muutoksiin.",
-    "analysis": "Metsähallitus Parks & Wildlife Finland is initiating change negotiations that could result in the termination of up to 12 employees and substantial contract alterations for 13 others. The restructuring primarily affects nationwide customer service operations and specifically the Haltia Nature Centre in Nuuksio, Espoo. According to Metsähallitus management, these measures are driven by state-mandated productivity targets, necessitating operational cost reductions of roughly five million euros by 2030, with these current negotiations targeting permanent annual savings of approximately one million euros. While management maintains that core public offerings, such as nature exhibitions and school visits, will persist through purchased commercial services rather than in-house personnel, union representatives have voiced skepticism. Chief shop steward Pia-Maria Thomssen argued that replacing permanent staff with external contractors may fail to produce genuine net savings, given the significant overhead required for contractor orientation, monitoring, and quality control, alongside the disruption of established institutional expertise.\n\nThe policy logic of achieving public expenditure savings by mandating universal productivity cuts and encouraging commercial outsourcing often conflicts with microeconomic realities in specialized public bodies. In high-specialization, public-facing services like environmental education and national park stewardship, contracting out frequently introduces friction described by transaction cost economics. The administrative apparatus required to draft rigorous tenders, continuously oversee private contractor compliance, and train transient private personnel often offsets nominal reductions in direct wage bills. Furthermore, private service providers must incorporate their own operating margins and value-added tax liabilities, which can inflate net unit costs relative to direct public employment. When public organizations pursue mechanical cuts simply to meet rigid fiscal quotas, they risk trading durable, cross-functional organizational competence for fragile, fragmented contract management that erodes service quality without yielding authentic public savings.\n\nRather than applying blunt, across-the-board savings targets that force agencies into potentially suboptimal contracting arrangements, state fiscal oversight should evaluate productivity dynamically based on total cost of ownership and public value delivery. The productivity program targeting Metsähallitus should grant the agency structural flexibility in how it achieves efficiency gains, prioritizing digitalization of administrative overhead and internal process consolidation over the arbitrary outsourcing of core educational and frontline personnel. Furthermore, any transition toward purchased services must be contingent on explicit, ex-ante cost-benefit and risk assessments that verify whether the local private market possesses the requisite competence and competitive depth to deliver these services more cheaply without compromising service continuity. If an objective procurement evaluation reveals that the overhead of supplier management diminishes projected margins, Metsähallitus should be allowed to retain in-house core staffing while focusing rationalization efforts on back-office operations and collaborative funding mechanisms.",
-    "publishedAt": "Mon, 12 Oct 2026 17:30:59 +0300",
-    "category": "Public Administration",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
   }
 ]
