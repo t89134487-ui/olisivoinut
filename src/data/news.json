@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://yle.fi/a/74-20252327",
+    "sourceUrl": "https://yle.fi/a/74-20252327?origin=rss",
+    "title": "Severe Financial Threat Worked in Kouvola – Fiber Optic Company Speeds Up Cleanup of Excavation Sites",
+    "originalSummary": "Kaupunki päätti kesällä Global Connect -yhtiölle yli 100 000 euron uhkasakosta. Osa summasta voi tulla vielä yhtiön maksettavaksi.",
+    "analysis": "The city of Kouvola successfully leveraged a substantial conditional fine of over 100,000 euros to compel a private fiber optic contractor, Global Connect, to finally complete long-delayed restoration and safety work on public and private grounds. This case demonstrates that strict municipal enforcement mechanisms and financial penalties are highly effective policy instruments for holding private infrastructure providers accountable for public space maintenance. Cities should routinely utilize enforceable financial liabilities to prevent stalled projects, ensuring public safety and minimizing citizen disruption without bearing the financial burden of incomplete private work.",
+    "publishedAt": "Wed, 21 Oct 2026 09:17:06 +0300",
+    "category": "Municipal Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20252264",
+    "sourceUrl": "https://yle.fi/a/74-20252264?origin=rss",
+    "title": "Vantaa is terminating municipal family daycare – caregiver describes the process as heavy and sad",
+    "originalSummary": "Vantaalla on nykyisin työsuhteessa 17 kunnallista perhepäivähoitajaa. Päätös liittyy kaupungin muutosneuvotteluihin.",
+    "analysis": "The city of Vantaa is moving to entirely abolish municipal family daycare as part of broader change negotiations, risking the positions of remaining municipal family daycare workers. While aimed at municipal cost-savings, cutting small-scale, home-like care options risks reducing diversity in early childhood education and increasing reliance on institutional alternatives that may not suit all children. Dismantling specialized care models based purely on administrative consolidation is economically and socially inefficient if it degrades service quality and parental trust. The proposal should be rejected in favor of preserving diverse, localized early childhood options that offer high-value care for young children.",
+    "publishedAt": "Wed, 21 Oct 2026 08:23:15 +0300",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20251842",
+    "sourceUrl": "https://yle.fi/a/74-20251842?origin=rss",
+    "title": "Unemployment has been solved the wrong way for years, says economist Elina Pylkkänen who left the Ministry of Employment and the Economy",
+    "originalSummary": "Elina Pylkkänen siirtyi lokakuussa ministeriöstä ammattijärjestön ekonomistiksi. Nyt hän kertoo, miten Suomen työttömyyttä on vuosikaudet hoidettu väärin.",
+    "analysis": "Former Ministry official Elina Pylkkänen criticizes Finland's heavy reliance on punitive unemployment policies, advocating instead for the Danish flexicurity model that combines weaker dismissal protection, higher unemployment benefits, and active labor market support. Relying solely on tightening benefit conditions fails to address the root causes of structural unemployment and neglects human capital development. Finland should adopt the flexicurity framework, integrating automated social security and targeted technological transfer centers for R&D tax credits, as this shifts the focus toward efficient workforce transitions and sustainable economic growth.",
+    "publishedAt": "Wed, 21 Oct 2026 07:39:07 +0300",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20252471",
+    "sourceUrl": "https://yle.fi/a/74-20252471?origin=rss",
+    "title": "HS Poll: Finns Party Closes in Further on National Coalition",
+    "originalSummary": "SDP jatkaa suosituimpana puolueena.",
+    "analysis": "The latest Helsingin Sanomat poll reveals that the Finns Party has narrowed the gap with the governing National Coalition Party to under one percentage point, with the Social Democrats remaining the most popular party. This shifting public opinion underscores growing electoral volatility as voters react to ongoing economic pressures and government reforms. Maintaining fiscal discipline while addressing social concerns is vital for restoring voter trust and ensuring long-term legislative stability.",
+    "publishedAt": "Wed, 21 Oct 2026 06:12:52 +0300",
+    "category": "Domestic Politics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20251270",
     "sourceUrl": "https://yle.fi/a/74-20251270?origin=rss",
     "title": "National Coalition Party Leadership Lured Jutta Urpilainen into Their Ranks: “I Received Several Inquiries”",
@@ -502,50 +546,6 @@
     "analysis": "The Ministry of Transport and Communications proposes ending state purchase subsidies for domestic regional flights after current contracts expire in 2028, citing annual losses of 20 million euros and declining passenger numbers. Subsidizing unprofitable regional routes strains public finances and diverts resources from internationally critical airports, justifying the withdrawal of state support. The proposal should be supported, as aviation subsidies should be market-driven, and local authorities who directly benefit from regional connectivity are better positioned to fund these services.",
     "publishedAt": "Wed, 14 Oct 2026 08:00:42 +0300",
     "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20249564",
-    "sourceUrl": "https://yle.fi/a/74-20249564?origin=rss",
-    "title": "Ministry proposes transport tax reform: higher bill for electric car drivers, congestion charges for cities",
-    "originalSummary": "Autokannan sähköistyminen syö valtion verotuloja liikenteestä. Liikenne- ja viestintäministeriön mukaan seuraavan hallituksen on pakko uudistaa verotusta.",
-    "analysis": "The Ministry of Transport and Communications has proposed a comprehensive transport tax reform to counteract shrinking state revenues as the vehicle fleet electrifies, suggesting higher levies on electric vehicles, new user fees for major infrastructure projects, and urban congestion charges. While shifting the tax burden to offset falling fuel tax revenues is fiscally necessary to maintain critical road and rail infrastructure, penalizing zero-emission vehicles risks conflicting with broader climate objectives. This proposal should be supported with modifications that decouple the transition to clean mobility from punitive taxation, ensuring that infrastructure funding relies more heavily on direct user-pays principles while preserving financial incentives for green transport adoption.",
-    "publishedAt": "Wed, 14 Oct 2026 08:00:35 +0300",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20250900",
-    "sourceUrl": "https://yle.fi/a/74-20250900?origin=rss",
-    "title": "Today Begins the Trial Testing All of Europe – Traces of Nord Stream Saboteurs Lead to Ukraine",
-    "originalSummary": "Oikeudenkäynnissä ratkotaan myös Suomen turvallisuudelle keskeisiä asioita. Tämä juttu tiivistää, mistä on kyse.",
-    "analysis": "The start of the German trial regarding the Nord Stream pipeline sabotage places European nations in a difficult diplomatic dilemma, forcing them to balance unwavering support for Ukraine against the strict enforcement of international law and accountability for critical infrastructure attacks. Investigating and prosecuting acts of sabotage regardless of the perpetrator's nationality is essential for deterring future attacks and securing vital maritime energy networks. This judicial process must be fully supported to uphold the rule of law, as ignoring unlawful actions by allies undermines the credibility of European security architecture and strains intra-European trust.",
-    "publishedAt": "Wed, 14 Oct 2026 05:00:35 +0300",
-    "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251346",
-    "sourceUrl": "https://yle.fi/a/74-20251346?origin=rss",
-    "title": "How Politicians Would Prevent a Repetition of the Google Incident",
-    "originalSummary": "Kokoomuksen, keskustan ja vihreiden kansanedustajat hämmästelivät yhdessä A-studiossa, miten Google on voinut hakata metsää ilman ympäristövaikutusten arviointia.",
-    "analysis": "Following illegal logging at Google's datacenter sites, Finnish politicians from multiple parties united to criticize the company and demand stricter environmental oversight and heavier sanctions for bypassing impact assessments. The incident highlights critical vulnerabilities in regulatory enforcement and municipal resources when handling massive industrial investments. Closing legislative loopholes and increasing penalties for unauthorized actions are necessary steps to deter corporate non-compliance, but oversight must be streamlined at the state level to ensure large-scale projects do not bypass statutory environmental requirements.",
-    "publishedAt": "Tue, 13 Oct 2026 22:21:40 +0300",
-    "category": "Environment",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251238",
-    "sourceUrl": "https://yle.fi/a/74-20251238?origin=rss",
-    "title": "Muhos's Lead Building Inspector Faces Threat of Dismissal: Suspects Retaliation for Google Interview, Municipality Cites Probationary Period",
-    "originalSummary": "Johtavan rakennustarkastajan ja kunnan näkemys mahdollisesta virkasuhteen purusta koeajalla eroavat toisistaan. Asiasta ei ole vielä virallisesti päätetty.",
-    "analysis": "The municipality of Muhos moved to dismiss its lead building inspector following his media comments criticizing local handling of Google's unpermitted data center site preparations. This situation highlights a severe breakdown in administrative transparency and accountability regarding municipal oversight of industrial investments. Transparent regulatory enforcement is vital for public trust, and penalizing officials for raising legality concerns undermines good governance. The municipality's actions regarding the probationary dismissal should be rejected to ensure that local administrative processes remain open, legally compliant, and free from intimidation.",
-    "publishedAt": "Tue, 13 Oct 2026 14:32:29 +0300",
-    "category": "Administration",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
