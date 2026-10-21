@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://yle.fi/a/74-20252601",
+    "sourceUrl": "https://yle.fi/a/74-20252601?origin=rss",
+    "title": "Parkkipate employees to go on strike",
+    "originalSummary": "Ammattiliitto JHL:n mukaan voittoa tekevässä yhtiössä ei ole voimassa olevaa työehtosopimusta.",
+    "analysis": "Members of the trade union JHL are launching a strike at the private parking enforcement company Parkkipate due to the lack of a collective agreement and the employer's alleged unwillingness to negotiate. Labor disputes in unregulated private sectors highlight the ongoing tension between market competitiveness and standard labor protections. Establishing baseline collective agreements is essential for ensuring fair compensation and stable labor relations, which ultimately benefit both workers and industry standards. Therefore, institutional support for structured collective bargaining in this sector is justified to prevent market imbalances and secure equitable labor conditions.",
+    "publishedAt": "Wed, 21 Oct 2026 15:01:40 +0300",
+    "category": "Labor Market",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20252512",
+    "sourceUrl": "https://yle.fi/a/74-20252512?origin=rss",
+    "title": "Stubb Outlined European Goals: Ukraine, Russia, and the United States Must Be Brought to Negotiate on Territorial Issues",
+    "originalSummary": "Stubb puhuu Atlantti-seuran tilaisuudessa Helsingin yliopistolla.",
+    "analysis": "President Alexander Stubb detailed high-level diplomatic efforts in Oslo involving Finland, Norway, Ukraine, and US envoy Steve Witkoff to align Western peace strategies and establish bilateral or trilateral talks addressing core territorial questions and US security guarantees. Engaging the US, Ukraine, and Russia directly is a necessary diplomatic prerequisite for any sustainable settlement, as excluding key actors undermines the credibility of security architectures. This multi-track mediation approach should be strongly supported to bridge transatlantic differences and ensure European security interests are actively factored into the eventual postwar framework.",
+    "publishedAt": "Wed, 21 Oct 2026 13:30:35 +0300",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20252573",
+    "sourceUrl": "https://yle.fi/a/74-20252573?origin=rss",
+    "title": "EU investigates Booking.com for alleged cybersecurity and transparency violations",
+    "originalSummary": "",
+    "analysis": "The European Commission has launched an investigation into Booking.com over potential failures in preventing phishing and fake offers, as well as the unclear labeling of paid search result listings under EU digital market rules. This enforcement action is necessary to protect consumers from digital fraud and ensure fair competition and transparency in the online travel market. The EU should firmly enforce these digital regulations to maintain consumer trust, requiring platforms to clearly distinguish commercial rankings and rigorously filter out fraudulent listings.",
+    "publishedAt": "Wed, 21 Oct 2026 13:21:54 +0300",
+    "category": "Regulation and Digital Markets",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20252327",
     "sourceUrl": "https://yle.fi/a/74-20252327?origin=rss",
     "title": "Severe Financial Threat Worked in Kouvola – Fiber Optic Company Speeds Up Cleanup of Excavation Sites",
@@ -515,38 +548,5 @@
     "category": "Foreign Policy",
     "isFromSummary": false,
     "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20250451",
-    "sourceUrl": "https://yle.fi/a/74-20250451?origin=rss",
-    "title": "Specialized Training Solved the Emergency Doctor Shortage in Lappeenranta – Here Is How It Works",
-    "originalSummary": "Päivystysakatemia antaa nuorille lääkäreille tukea ja kokemusta. Koulutus auttoi Etelä-Karjalan päivystystä luopumaan kalliista ostolääkäreistä.",
-    "analysis": "South Karelia's wellbeing services county successfully eliminated costly outsourced doctors in its hospital emergency unit by launching the \"Emergency Academy,\" a six-month mentorship and training program for recently graduated physicians. This targeted pedagogical approach bridges the gap left by historical healthcare reforms, proving that structured onboarding effectively boosts domestic recruitment and operational self-sufficiency. Such proactive capacity-building is an efficient, high-utility model that should be broadly supported and replicated across regional health districts to alleviate national physician shortages without relying on expensive temporary agency labor.",
-    "publishedAt": "Wed, 14 Oct 2026 16:26:03 +0300",
-    "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251465",
-    "sourceUrl": "https://yle.fi/a/74-20251465?origin=rss",
-    "title": "Party Colleagues Rebuke Limnell for Publicizing Home Break-in",
-    "originalSummary": "Kokoomuksen kansanedustaja Jarno Limnell kertoi keskiviikkona, että hän on yksi poliitikoista, joiden kotiin on tunkeuduttu.",
-    "analysis": "National Coalition Party MP Jarno Limnell faced criticism from fellow politicians across party lines for publicly revealing that his home was targeted in a suspected break-in, a matter currently under police investigation. Critics argued that discussing security breaches in public offers no new information, may play into the hands of perpetrators, and violates standard protocols for handling sensitive security matters. Publicizing such incidents without concrete findings or actionable conclusions undermines ongoing investigations and risks compromising the safety of representatives and their workplaces. Security-related incidents involving elected officials should be handled strictly through proper investigative channels rather than public speculation, as premature disclosure serves media interests rather than operational security.",
-    "publishedAt": "Wed, 14 Oct 2026 14:14:06 +0300",
-    "category": "Security Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251128",
-    "sourceUrl": "https://yle.fi/a/74-20251128?origin=rss",
-    "title": "Ministry proposes ending state subsidies for regional flights, shifting financial responsibility to municipalities",
-    "originalSummary": "Liikenne- ja viestintäministeriö ehdottaa, että valtion sijaan kunnat voisivat kustantaa kannattamattomat lennot Helsinki-Vantaan ja maakuntakenttien välillä.",
-    "analysis": "The Ministry of Transport and Communications proposes ending state purchase subsidies for domestic regional flights after current contracts expire in 2028, citing annual losses of 20 million euros and declining passenger numbers. Subsidizing unprofitable regional routes strains public finances and diverts resources from internationally critical airports, justifying the withdrawal of state support. The proposal should be supported, as aviation subsidies should be market-driven, and local authorities who directly benefit from regional connectivity are better positioned to fund these services.",
-    "publishedAt": "Wed, 14 Oct 2026 08:00:42 +0300",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
   }
 ]
