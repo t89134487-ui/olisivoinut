@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://yle.fi/a/74-20252665",
+    "sourceUrl": "https://yle.fi/a/74-20252665?origin=rss",
+    "title": "\"Finland's Monaco\" was rejected by the Enontekiö municipal council",
+    "originalSummary": "Enontekiön valtuusto päätti jatkaa kunnan uuden sloganin työstämistä. ”Enontekiö – son Suomen Monaco” -lauseesta on tullut liian paljon negatiivista palautetta.",
+    "analysis": "The Enontekiö municipal council decided to return its proposed new strategy slogan, \"Enontekiö – son Suomen Monaco,\" for re-preparation after sparking largely negative public debate. While the broader municipal strategy was approved, the rejected branding highlights the friction between provocative municipal marketing and public consensus. Utilizing sensationalist branding can mobilize civic engagement, but local identity is better served by authentic representation rather than hyperbolic comparisons. Municipalities should pursue inclusive ideation processes, such as open competitions, to ensure that public branding genuinely reflects local strengths and secures broad community backing.",
+    "publishedAt": "Wed, 21 Oct 2026 20:43:15 +0300",
+    "category": "Regional Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20252104",
+    "sourceUrl": "https://yle.fi/a/74-20252104?origin=rss",
+    "title": "Veteran Police Officer Demands Action from Decision-Makers: How People Could Be Searched Without a Crime Suspicion",
+    "originalSummary": "Tanskassa ja Ruotsissa poliisi voi tietyillä alueilla pysäyttää ja tarkastaa ihmisiä.",
+    "analysis": "A veteran Finnish police officer calls for the adoption of security zones modeled after Sweden and Denmark, granting police the authority to conduct personal searches without a prior crime suspicion to combat rising gang violence. Implementing targeted stop-and-search zones can enhance preventative policing by disrupting criminal networks and firearm trafficking early, provided safeguards are established to prevent overreach. Such temporary, geographically limited enforcement tools should be supported to proactively protect public safety before decentralized criminal networks become entrenched.",
+    "publishedAt": "Wed, 21 Oct 2026 20:01:42 +0300",
+    "category": "Justice and Security",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20251658",
+    "sourceUrl": "https://yle.fi/a/74-20251658?origin=rss",
+    "title": "Helsinki's Auditor Generates Millions in Extra Business with the City – Authorities See Risks in the Phenomenon",
+    "originalSummary": "Helsingin palveluostot sen tilintarkastajalta KPMG:ltä ovat kasvaneet räjähdysmäisesti, vaikka laki vaatii riippumattomuutta.",
+    "analysis": "The article highlights a growing conflict of interest where KPMG, Helsinki's auditor, earns millions from non-audit consulting services provided to the city, prompting regulatory concerns about independence. While statutory rules restrict such practices in financial and listed sectors, public bodies lack equivalent caps. This creates a clear threat to the impartiality and oversight functions essential for public auditing. To safeguard democratic accountability and public trust, regulations governing public sector audits should mirror stricter EU-level rules applied to financial institutions, capping non-audit services to prevent potential conflicts of interest.",
+    "publishedAt": "Wed, 21 Oct 2026 19:05:15 +0300",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20252601",
     "sourceUrl": "https://yle.fi/a/74-20252601?origin=rss",
     "title": "Parkkipate employees to go on strike",
@@ -515,38 +548,5 @@
     "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20250472",
-    "sourceUrl": "https://yle.fi/a/74-20250472?origin=rss",
-    "title": "Wood Industry Suffers from Talent Shortage – Youth Interest Must Be Revived",
-    "originalSummary": "Ammatillisessa koulutuksessa puuteollisuuden perustutkinnon järjestäjien määrä on puolittunut muutamassa vuodessa.",
-    "analysis": "The Finnish wood product industry is facing a severe labor shortage, exacerbated by a declining youth demographic, poor industry reputation, and shrinking vocational training options. This skill gap threatens regional economic vitality and growth in high-tech wood processing. Addressing this requires targeted policy interventions to align vocational and higher education funding with industry needs, alongside active marketing to reframe the sector as a modern, technology-driven career path. Strengthening educational capacity and targeted training models should be supported to ensure domestic labor availability for this critical export sector.",
-    "publishedAt": "Thu, 15 Oct 2026 09:34:27 +0300",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251269",
-    "sourceUrl": "https://yle.fi/a/74-20251269?origin=rss",
-    "title": "Analysis: When the Talk Turns to Money, Finland’s EU Policy Shifts",
-    "originalSummary": "Jäsenmaiden johtajat keskustelevat tänään EU:n rahoituksesta tuleville vuosille. Suomi on leirinsä valinnut, kirjoittaa EU-kirjeenvaihtaja Elli Hiilamo.",
-    "analysis": "Finland has joined the coalition of frugal EU member states seeking substantial cuts to the proposed multiannual financial framework for 2028–2034, pushing back against massive budget increases proposed by the European Commission. While fiscal prudence protects net contributors from mounting domestic financial strains, rigid spending resistance risks hampering the EU's collective capacity to address critical strategic challenges, from security to green and digital transitions. Rather than pursuing blanket reductions that conflict with geopolitical goals, Finland should champion targeted budget restructuring that reallocates funds from legacy subsidies toward high-impact European public goods like defense and competitiveness.",
-    "publishedAt": "Thu, 15 Oct 2026 05:00:35 +0300",
-    "category": "EU Affairs",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251520",
-    "sourceUrl": "https://yle.fi/a/74-20251520?origin=rss",
-    "title": "Analysis: The United States Is Now Pressuring Ukraine – Three Confusing Weeks May Lie Ahead",
-    "originalSummary": "Yhdysvallat valmistautuu vaaleihin ja siksi Donald Trumpin hallinto painostaa Ukrainaa, kirjoittaa Ylen Nato-erikoistoimittaja Maria Stenroos.",
-    "analysis": "As the United States applies pressure on Ukraine and softens Russian energy sanctions through a controversial fuel agreement, European allies including Finland are actively countering disruptions through heightened diplomacy and targeted military deliveries. Circumventing multilateral sanctions to manage domestic fuel price concerns undermines collective Western deterrence and destabilizes Ukraine's strategic defense. Finland and its European partners must firmly oppose unilateral sanction rollbacks and accelerate independently funded procurement mechanisms to insulate defense commitments from unpredictable political shifts.",
-    "publishedAt": "Wed, 14 Oct 2026 19:38:56 +0300",
-    "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
   }
 ]
