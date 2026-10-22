@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20252820",
+    "sourceUrl": "https://yle.fi/a/74-20252820?origin=rss",
+    "title": "SDP Criticizes Finns Party's Austerity List: \"Right-Wing Parties Are Attacking Finnish Pensioners' Wallets\"",
+    "originalSummary": "Oppositiopuolueiden mukaan perussuomalaisten ehdotus leikata eläkkeitä lisää epävarmuutta ja rapauttaa suomalaisten luottamusta.",
+    "analysis": "The Finns Party proposed a nine billion euro fiscal adjustment plan for the next parliamentary term, featuring a 1.6 billion euro saving target on pensions by capping annual index increases for pensions exceeding 2,000 euros. Opposition parties, including the SDP, Centre Party, Greens, and Left Alliance, heavily criticized the measures for targeting pensions, welfare, and public services while excluding tax increases on high earners. Targeting pension indexing is a structurally logical method to curb long-term public spending growth in aging societies, yet doing so abruptly risks undermining social trust and intergenerational contract stability. Such pension adjustments should ideally be balanced with broader structural reforms rather than implemented in isolation.",
+    "publishedAt": "Thu, 22 Oct 2026 18:25:07 +0300",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20252611",
     "sourceUrl": "https://yle.fi/a/74-20252611?origin=rss",
     "title": "Jussi Halla-aho as guest on Ykkösaamu – what do you want to ask?",
@@ -535,17 +546,6 @@
     "analysis": "The Finnish government agreed on a 60-million-euro relief package to mitigate high fuel prices through vehicle tax cuts, commuting deduction limits, and targeted support for transport and agriculture, drawing criticism from both the opposition and government ranks. While the package aims to ease the burden on commuters and vital sectors without exacerbating heavy state debt, targeted micro-subsidies and tax tweaks offer limited relief against broader market-driven fuel prices while risking trade-offs like reduced basic road maintenance funding. The proposed measures should be rejected in favor of broader structural solutions or allowed to lapse, as minor tinkering with vehicle taxes and narrow subsidies fails to efficiently address high pump prices while compromising public infrastructure.",
     "publishedAt": "Thu, 15 Oct 2026 16:57:08 +0300",
     "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20250946",
-    "sourceUrl": "https://yle.fi/a/74-20250946?origin=rss",
-    "title": "Marco Casagrande Designs Underground Schools in Ukraine and Warns About Russia: \"This is Not About Civilization\"",
-    "originalSummary": "Ukrainalainen kansanedustaja ja erikoisjoukkojen edustaja tutustuivat espoolaisen väestönsuojaan, jossa he vaikuttuivat näkemästään.",
-    "analysis": "Architect Marco Casagrande highlights Finland's national crisis resilience and civil defense infrastructure as vital models for Ukraine, which is actively studying Finnish bomb shelters and societal unity. Robust civil defense and societal resilience are indispensable assets for national security and deterrence against external aggression. Finland's long-standing strategy of comprehensive security should be strongly maintained, actively shared with vulnerable democracies like Ukraine, and continuously updated to counter evolving modern threats.",
-    "publishedAt": "Thu, 15 Oct 2026 15:10:30 +0300",
-    "category": "Foreign Policy and Security",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
