@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20252611",
+    "sourceUrl": "https://yle.fi/a/74-20252611?origin=rss",
+    "title": "Jussi Halla-aho as guest on Ykkösaamu – what do you want to ask?",
+    "originalSummary": "",
+    "analysis": "Parliament Speaker Jussi Halla-aho appeared on Yle's Ykkösaamua to discuss the prospects for peace in Ukraine and the necessary conditions and concessions required from the warring parties. Engaging in high-level diplomatic assessments regarding international conflicts is crucial for aligning foreign policy stances with geopolitical realities. Halla-aho's expertise provides a realistic framework for evaluating security guarantees and territorial integrity, which should be supported to ensure that any future peace negotiations do not reward aggression or compromise European stability.",
+    "publishedAt": "Thu, 22 Oct 2026 13:31:00 +0300",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20252797",
+    "sourceUrl": "https://yle.fi/a/74-20252797?origin=rss",
+    "title": "Tornio's Cooperation Negotiations: Up to 28 Could Lose Their Jobs",
+    "originalSummary": "Tornio hakee säästöjä, sillä vuosien 2027–2029 ennusteen mukaan kaupungin talous on yli 20 miljoonaa euroa alijäämäinen.",
+    "analysis": "Cooperation negotiations in the city of Tornio have concluded with plans to reduce personnel by up to 28 full-time equivalents and alter employment terms for nearly 60 workers, aiming to save roughly 1.1 million euros annually to combat a projected multi-million euro deficit. Municipal expenditure adjustments are fundamentally necessary to address structural deficits driven by unfavourable economic forecasts, ensuring local government fiscal sustainability. While these painful labor reductions directly impact municipal workers, the underlying budget consolidation must be supported to maintain long-term financial stability and prevent even harsher cuts in essential public services.",
+    "publishedAt": "Thu, 22 Oct 2026 12:46:27 +0300",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20252662",
     "sourceUrl": "https://yle.fi/a/74-20252662?origin=rss",
     "title": "Petteri Orpo is in Ukraine",
@@ -524,28 +546,6 @@
     "analysis": "Architect Marco Casagrande highlights Finland's national crisis resilience and civil defense infrastructure as vital models for Ukraine, which is actively studying Finnish bomb shelters and societal unity. Robust civil defense and societal resilience are indispensable assets for national security and deterrence against external aggression. Finland's long-standing strategy of comprehensive security should be strongly maintained, actively shared with vulnerable democracies like Ukraine, and continuously updated to counter evolving modern threats.",
     "publishedAt": "Thu, 15 Oct 2026 15:10:30 +0300",
     "category": "Foreign Policy and Security",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251675",
-    "sourceUrl": "https://yle.fi/a/74-20251675?origin=rss",
-    "title": "Minister Multala Confirms: Agreement Reached on Fuel Package",
-    "originalSummary": "Hallitus on löytänyt sovun tukipaketista, jolla pyritään vastaamaan polttoaineiden hintojen nousuun.",
-    "analysis": "The Finnish government has agreed on a 60 million euro support package aimed at mitigating high fuel prices, focusing on commuter and professional traffic while keeping the contentious distribution obligation framework largely intact with added flexibility. Targeted relief for transport-dependent sectors can temporarily ease cost pressures without severely undermining long-term climate targets. However, relying on ad hoc spending packages rather than structural adjustments risks inefficient resource allocation and fiscal strain. Policymakers should support this compromise as a pragmatic short-term measure to protect mobility, provided it is strictly time-bound and does not derail broader emission reduction commitments.",
-    "publishedAt": "Thu, 15 Oct 2026 14:45:44 +0300",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251676",
-    "sourceUrl": "https://yle.fi/a/74-20251676?origin=rss",
-    "title": "Sexpo to Lay Off Entire Staff",
-    "originalSummary": "Sexpon mukaan irtisanomiset tulevat portaittain voimaan kevään 2027 aikana, mikäli toimintaan ei myönnetä ensi vuodeksi tarvittavaa rahoitusta.",
-    "analysis": "The Sexpo Foundation, which provides sexual counselling and information, has announced plans to lay off its entire staff due to significant grant cuts proposed by the Funding Centre for Social Welfare and Health Organisations, known as STEA. While fiscal consolidation is necessary, dismantling established preventative health and counselling services risks shifting higher long-term costs onto public healthcare systems. STEA funding allocations should prioritize organizations with proven preventative impact, and transitional public support should be considered to preserve critical specialized expertise while structural funding models are reformed.",
-    "publishedAt": "Thu, 15 Oct 2026 14:35:39 +0300",
-    "category": "Social Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
