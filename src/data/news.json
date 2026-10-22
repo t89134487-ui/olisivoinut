@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20252565",
+    "sourceUrl": "https://yle.fi/a/74-20252565?origin=rss",
+    "title": "Labore Report: Employed Workers' Purchasing Power Recovers, Unemployed Lack Funds for a Reasonable Standard of Living",
+    "originalSummary": "Grafiikat näyttävät, miten työssäkäyvien ja työttömien ostovoima erkaantuu rajusti tulevina vuosina.",
+    "analysis": "A report by the Labore Institute indicates a sharp divergence in Finnish purchasing power, driven by recent government income tax cuts benefiting wage earners and significant reductions to unemployment benefits. While lowering labor taxation enhances incentives to work and bolsters economic activity, aggressively slashing the safety net below basic subsistence budgets threatens long-term employability, mental well-being, and social cohesion. Policymakers should refine these cuts by establishing an adequate floor for basic security, ensuring that fiscal consolidation does not permanently degrade the human capital necessary for an effective labor supply.",
+    "publishedAt": "Thu, 22 Oct 2026 00:01:39 +0300",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20252665",
     "sourceUrl": "https://yle.fi/a/74-20252665?origin=rss",
     "title": "\"Finland's Monaco\" was rejected by the Enontekiö municipal council",
@@ -535,17 +546,6 @@
     "analysis": "Social Democrat leader Magdalena Andersson failed to secure the necessary backing in the Swedish Riksdag to form a single-party minority government, with 248 MPs voting against her nomination. The stalemate highlights deep ideological fractures among the center-left and center parties, particularly disputes involving the Left Party and the Centre Party over government participation and influence. Resolving this parliamentary deadlock requires either policy compromises that bridge these partisan divides or risking new elections, which would introduce further economic and political uncertainty for Sweden's legislative agenda.",
     "publishedAt": "Thu, 15 Oct 2026 13:50:47 +0300",
     "category": "Politics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251627",
-    "sourceUrl": "https://yle.fi/a/74-20251627?origin=rss",
-    "title": "HS: Espoo to lay off employees – Mayor Mykkänen declines to comment",
-    "originalSummary": "Kaupungin yt-neuvottelut päättyivät keskiviikkona.",
-    "analysis": "The city of Espoo has concluded its cooperation negotiations, resulting in planned staff reductions and employment condition changes affecting approximately 130 individuals to achieve around 10 million euros in savings. While downsizing municipal workforces imposes immediate costs on affected employees and risks service quality, such targeted administrative cuts are often a necessary fiscal adjustment for local governments facing budgetary constraints. From a policy perspective, these efficiency measures should be supported, provided the city simultaneously optimizes core municipal services to protect essential resident welfare and educational functions.",
-    "publishedAt": "Thu, 15 Oct 2026 13:09:09 +0300",
-    "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
