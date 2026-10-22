@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://yle.fi/a/74-20252662",
+    "sourceUrl": "https://yle.fi/a/74-20252662?origin=rss",
+    "title": "Petteri Orpo is in Ukraine",
+    "originalSummary": "Ponnistelut rauhan saamiseksi Ukrainaan ovat tiivistyneet tällä viikolla.",
+    "analysis": "Prime Minister Petteri Orpo is visiting Ukraine amidst intensified international diplomatic efforts involving Finnish leadership to secure peace. Sustained high-level engagement reinforces Finland's strategic commitment to European security and diplomatic resolution. This active diplomatic posture is essential for aligning international peace initiatives with regional security interests, and the visit should be supported to maintain a strong, unified European stance supporting Ukrainian sovereignty.",
+    "publishedAt": "Thu, 22 Oct 2026 08:31:58 +0300",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20252154",
+    "sourceUrl": "https://yle.fi/a/74-20252154?origin=rss",
+    "title": "New Data: Severe Basic Social Assistance Cuts Hit Men in Small Localities Particularly Hard",
+    "originalSummary": "Kela ohjasi yli 50 000 tuensaajaa joko työllisyyspalveluihin tai hakemaan ensisijaisia etuuksia. Kumpaakin kehotusta noudatti 12 500 ihmistä.",
+    "analysis": "Recent data from Kela shows that tightened basic social assistance conditions, including benefit cuts for failing to register as jobseekers, disproportionately impact men in small rural municipalities. While the sanctions have successfully directed some younger adults toward primary benefits, persistent cuts among marginalized groups highlight difficulties in reaching individuals with complex life management challenges. From a policy perspective, conditional welfare mechanisms effectively incentivize compliance among able-bodied recipients, but stricter enforcement must be carefully balanced with proactive social support to prevent chronic destitution among vulnerable populations who struggle to navigate bureaucratic requirements.",
+    "publishedAt": "Thu, 22 Oct 2026 08:30:35 +0300",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20252562",
+    "sourceUrl": "https://yle.fi/a/74-20252562?origin=rss",
+    "title": "The Finns Party to Release Its Adjustment List on Thursday, Here Are the Proposals Heard from Other Parties",
+    "originalSummary": "Velkajarruun sitoutuneista puolueista vain kokoomus on esitellyt sopeutuslistansa. Myös vasemmistoliitto on kertonut, miten se hoitaisi julkista taloutta.",
+    "analysis": "Finnish political parties are outlining competing strategies to meet the upcoming electoral term's 8 to 11 billion euro debt-brake adjustment target, ranging from the National Coalition Party's pure spending cuts to the Left Alliance's tax-based consolidation. Relying solely on either deep expenditure cuts or aggressive tax hikes risks damaging core public services or stifling economic growth, respectively. A balanced consolidation strategy combining targeted expenditure restraint with growth-friendly structural reforms is essential to achieve fiscal sustainability without undermining Finland's long-term economic competitiveness.",
+    "publishedAt": "Thu, 22 Oct 2026 05:30:52 +0300",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20252565",
     "sourceUrl": "https://yle.fi/a/74-20252565?origin=rss",
     "title": "Labore Report: Employed Workers' Purchasing Power Recovers, Unemployed Lack Funds for a Reasonable Standard of Living",
@@ -513,39 +546,6 @@
     "analysis": "The Sexpo Foundation, which provides sexual counselling and information, has announced plans to lay off its entire staff due to significant grant cuts proposed by the Funding Centre for Social Welfare and Health Organisations, known as STEA. While fiscal consolidation is necessary, dismantling established preventative health and counselling services risks shifting higher long-term costs onto public healthcare systems. STEA funding allocations should prioritize organizations with proven preventative impact, and transitional public support should be considered to preserve critical specialized expertise while structural funding models are reformed.",
     "publishedAt": "Thu, 15 Oct 2026 14:35:39 +0300",
     "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251620",
-    "sourceUrl": "https://yle.fi/a/74-20251620?origin=rss",
-    "title": "Audit Committee Proposes Teacher Registry and National Exams for Finland",
-    "originalSummary": "Oppimistulokset ovat romahtaneet poikkeuksellisen jyrkästi. Tarkastusvaliokunnan mukaan asiaan on vaikeaa puuttua, koska kouluista ei ole riittävästi tietoa.",
-    "analysis": "The Finnish Parliament's Audit Committee has proposed establishing a centralized national teacher registry and piloting standardized national exams to address declining learning outcomes and growing regional disparities in basic education. Implementing systemic assessments and tracking teacher qualifications are necessary policy measures to provide reliable data for resource allocation, given that current evaluation mechanisms are insufficient to combat falling educational standards. These proposals should be supported as essential tools for evidence-based educational planning, enabling policymakers to target interventions effectively and safeguard educational equality across different regions and demographics.",
-    "publishedAt": "Thu, 15 Oct 2026 14:13:05 +0300",
-    "category": "Education Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251670",
-    "sourceUrl": "https://yle.fi/a/74-20251670?origin=rss",
-    "title": "Vantaa Plans to Lay Off Over 120 People and Alter Dozens of Job Roles",
-    "originalSummary": "Kaupunki on luopunut lomautusaikeista, koska ne eivät toisi pysyvää säästöä.",
-    "analysis": "The city of Vantaa has concluded its cooperation negotiations, resulting in plans to lay off 122 employees, alter roles for dozens of others, and cut services such as family daycare to achieve nearly 12 million euros in personnel cost savings. While municipal belt-tightening is often necessary to address structural deficits and fiscal sustainability during economic downturns, broad layoffs in core public sectors risk degrading service quality for residents. Such expenditure cuts should be approached with caution, prioritizing administrative streamlining over frontline welfare and educational services to maintain long-term community resilience.",
-    "publishedAt": "Thu, 15 Oct 2026 14:06:10 +0300",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251669",
-    "sourceUrl": "https://yle.fi/a/74-20251669?origin=rss",
-    "title": "Magdalena Andersson Failed to Gain Support as Swedish Prime Minister",
-    "originalSummary": "Hallituspula jatkuu puhemiehen esityksen kaaduttua.",
-    "analysis": "Social Democrat leader Magdalena Andersson failed to secure the necessary backing in the Swedish Riksdag to form a single-party minority government, with 248 MPs voting against her nomination. The stalemate highlights deep ideological fractures among the center-left and center parties, particularly disputes involving the Left Party and the Centre Party over government participation and influence. Resolving this parliamentary deadlock requires either policy compromises that bridge these partisan divides or risking new elections, which would introduce further economic and political uncertainty for Sweden's legislative agenda.",
-    "publishedAt": "Thu, 15 Oct 2026 13:50:47 +0300",
-    "category": "Politics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
