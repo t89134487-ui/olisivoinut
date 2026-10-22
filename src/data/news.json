@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://yle.fi/a/74-20252919",
+    "sourceUrl": "https://yle.fi/a/74-20252919?origin=rss",
+    "title": "Iceye and Nokia to Collaborate with Ukraine's Ministry of Defense",
+    "originalSummary": "Tavoite on tukea Ukrainaa itsenäisen satelliittiviestinnän rakentamisessa.",
+    "analysis": "Finnish technology companies Iceye and Nokia signed a memorandum of understanding with Ukraine's Ministry of Defense to support the development of independent and secure satellite communication systems. This initiative coincides with Prime Minister Petteri Orpo's visit to Ukraine and addresses critical operational needs highlighted by front-line disruptions. Strengthening Ukraine's independent communication infrastructure is vital for its defense capability and resilience against foreign interference. Public-private partnerships leveraging Finnish technological expertise should be strongly supported, as they enhance allied security cooperation while demonstrating industrial leadership in critical infrastructure domains.",
+    "publishedAt": "Thu, 22 Oct 2026 21:01:36 +0300",
+    "category": "Foreign Policy and Defense",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20252855",
+    "sourceUrl": "https://yle.fi/a/74-20252855?origin=rss",
+    "title": "Trade Union JHL Considers Potential Layoffs at Hamina-Kotka Port a Security Risk",
+    "originalSummary": "HaminaKotka Satama oy saattaa irtisanoa kolmanneksen työntekijöistään muutosneuvotteluissa. JHL kertoo neuvotteluiden olevan loppusuoralla.",
+    "analysis": "Public and Welfare Sectors Union JHL warns that potential layoffs affecting a third of the workforce in Hamina-Kotka port's mooring services could compromise port security due to increased subcontracting and unverified backgrounds. While port authorities attribute the change negotiations to the end of Russian fertilizer transport and EU port services regulations, relying on external labor in critical maritime infrastructure poses legitimate national security vulnerabilities. Therefore, outsourcing these vital functions should be restricted, and background checks must remain rigorous to safeguard critical logistics hubs against potential security threats.",
+    "publishedAt": "Thu, 22 Oct 2026 19:11:21 +0300",
+    "category": "Transport and Security Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20252903",
+    "sourceUrl": "https://yle.fi/a/74-20252903?origin=rss",
+    "title": "Entire Opposition Demands Government Answer on Gasoline Prices, Healthcare Fee Increases, and Electricity Price Risks",
+    "originalSummary": "Hallitus saa jälleen vastattavakseen välikysymyksen eduskunnassa. Oppositio kysyy SDP:n aloitteesta hallituksen toimista arjen kustannusten helpottamiseksi.",
+    "analysis": "Finland's entire parliamentary opposition has united to file an interpellation challenging the government over rising living costs, specifically targeting fuel prices, healthcare fee hikes, and potential electricity price increases linked to data center expansion. While the government defends its recent support package and points to previous policy inconsistencies by the opposition, targeted relief measures often fail to address deeper structural economic pressures efficiently. Opposition interpellations serve a vital parliamentary function to hold the executive accountable, but the proposed policy adjustments regarding fuel and healthcare must be carefully weighed against broader fiscal sustainability rather than relying on short-term subsidies that distort market pricing.",
+    "publishedAt": "Thu, 22 Oct 2026 18:48:29 +0300",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20252820",
     "sourceUrl": "https://yle.fi/a/74-20252820?origin=rss",
     "title": "SDP Criticizes Finns Party's Austerity List: \"Right-Wing Parties Are Attacking Finnish Pensioners' Wallets\"",
@@ -512,39 +545,6 @@
     "originalSummary": "",
     "analysis": "Prime Minister Petteri Orpo stated that EU member states remain far from reaching a consensus on the 2028-2034 union budget, as divergent national priorities clash with the presidency's baseline proposal and a strict year-end deadline approaches due to the French electoral cycle. Timely budgetary agreements are vital for fiscal predictability and efficient long-term resource allocation across the bloc, preventing costly delays in strategic funding. Member states should support structured compromise to finalize the framework efficiently, ensuring that upcoming political transitions in key nations do not paralyze essential union-wide financial planning.",
     "publishedAt": "Fri, 16 Oct 2026 01:52:59 +0300",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251733",
-    "sourceUrl": "https://yle.fi/a/74-20251733?origin=rss",
-    "title": "Professor: Data Centers Will Raise Household Electricity Prices Anyway",
-    "originalSummary": "Torstai-illan A-talkissa keskusteltiin muun muassa datakeskusbuumin vaikutuksista. Asiantuntijan mukaan keskukset nostavat sähkön hintaa vaikka uutta tuotantoa tulisi markkinoille.",
-    "analysis": "The article addresses the economic and energy policy implications of the data center boom in Finland, focusing on whether foreign tech investments benefit the national economy or merely exploit cheap energy and land resources while driving up consumer electricity prices. While proponents argue that data centers drive industrial development and finance new renewable energy, critics warn that rising corporate power purchase agreements will inevitably increase household electricity costs and reduce Finland to a raw energy exporter. Policymakers should implement stricter regulatory frameworks and local value-retention requirements to ensure that large-scale foreign digital investments genuinely benefit domestic energy security and public welfare without overburdening ordinary consumers.",
-    "publishedAt": "Thu, 15 Oct 2026 23:06:26 +0300",
-    "category": "Environment",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251711",
-    "sourceUrl": "https://yle.fi/a/74-20251711?origin=rss",
-    "title": "Expert: Government package does not lower gasoline prices, but benefits commuters traveling over 60 kilometers",
-    "originalSummary": "Ajoneuvoveron kevennys, työmatkakuluvähennyksen ylärajan nosto ja yritysten kustannustuki helpottavat autoilijan menoja hieman.",
-    "analysis": "The Finnish government agreed on a 60 million euro support package for motorists, featuring vehicle tax reductions, an increased ceiling for commuting travel deductions, and business cost support, while avoiding a reduction in the distribution obligation for biofuels. While targeted tax adjustments and deductions offer localized relief for long-distance commuters and transport sectors, they fail to provide immediate relief at the pump and offer negligible general savings. The decision to preserve the biofuel distribution obligation is economically sound, as it protects long-term investments in low-emission energy. Therefore, the government's package should be supported for prioritizing structural green transitions over superficial pump-price interventions, though future relief should focus strictly on targeted, efficient measures rather than broad tax cuts.",
-    "publishedAt": "Thu, 15 Oct 2026 19:25:00 +0300",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251698",
-    "sourceUrl": "https://yle.fi/a/74-20251698?origin=rss",
-    "title": "How Politicians Reacted to the Government's Fuel Package",
-    "originalSummary": "SDP:n Joona Räsänen ja perussuomalaisten Jani Mäkelä kritisoivat sitä, ettei bensasopu hyödytä valtaosaa kansalaisista.",
-    "analysis": "The Finnish government agreed on a 60-million-euro relief package to mitigate high fuel prices through vehicle tax cuts, commuting deduction limits, and targeted support for transport and agriculture, drawing criticism from both the opposition and government ranks. While the package aims to ease the burden on commuters and vital sectors without exacerbating heavy state debt, targeted micro-subsidies and tax tweaks offer limited relief against broader market-driven fuel prices while risking trade-offs like reduced basic road maintenance funding. The proposed measures should be rejected in favor of broader structural solutions or allowed to lapse, as minor tinkering with vehicle taxes and narrow subsidies fails to efficiently address high pump prices while compromising public infrastructure.",
-    "publishedAt": "Thu, 15 Oct 2026 16:57:08 +0300",
     "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
