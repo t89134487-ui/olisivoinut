@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20251011",
+    "sourceUrl": "https://yle.fi/a/74-20251011?origin=rss",
+    "title": "Data Center Boss Says the Debate Feels Like Mordor Despite Being a Growth Industry",
+    "originalSummary": "Antti Poikola on vihreä, joka edistää työkseen datakeskusten asiaa. Hänen mielestään on ilmaston kannalta parasta, että datakeskukset nousevat juuri Suomeen.",
+    "analysis": "A surge in data center projects has prompted Finnish policymakers to prepare new regulations, including a mandatory registry and legislation prioritizing electricity grid connections amid rising public and political scrutiny. While regulating intensive energy consumers is necessary to prevent extreme price volatility and protect grid capacity, overly blunt restrictions risk driving valuable digital infrastructure away from Finland's low-carbon grid to more polluting regions. Policymakers should refine grid prioritization to incentivize facilities that integrate waste-heat recovery and demand-flexibility, rather than creating discriminatory barriers that deter clean industrial investment.",
+    "publishedAt": "Fri, 23 Oct 2026 09:32:45 +0300",
+    "category": "Energy and Digital Infrastructure",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20252932",
+    "sourceUrl": "https://yle.fi/a/74-20252932?origin=rss",
+    "title": "Opposition files an interpellation over rising everyday costs",
+    "originalSummary": "SDP:n, keskustan, vihreiden, vasemmistoliiton ja Liike Nytin edustajat esittelevät välikysymyksen sisällön tänään perjantaina.",
+    "analysis": "Finland's opposition parties have jointly submitted an interpellation scrutinizing the government's role in the rising cost of everyday living. Scrutinizing the distributional impact of policy is necessary during periods of fiscal tightening, as unmitigated increases in basic living expenses risk depressing domestic consumption and disproportionately burdening low- and middle-income households. This policy intervention should be supported to compel a rigorous, data-driven assessment of how current fiscal measures affect household purchasing power, though the resulting debate must move beyond symbolic protest toward concrete, targeted cost-mitigation adjustments.",
+    "publishedAt": "Fri, 23 Oct 2026 07:02:34 +0300",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20252919",
     "sourceUrl": "https://yle.fi/a/74-20252919?origin=rss",
     "title": "Iceye and Nokia to Collaborate with Ukraine's Ministry of Defense",
@@ -524,28 +546,6 @@
     "analysis": "The National Coalition Party's parliamentary group released a new immigration policy program proposing to move asylum application processing outside the European Union, tighten family reunification criteria, and tie unemployment benefits to work performed in Finland alongside stricter pension conditions. Shifting asylum processing externally aims to reduce irregular migration and strengthen border control, though practical implementation depends heavily on international cooperation and legal frameworks. While tying welfare benefits to domestic work can incentivize labor market integration, overly restrictive measures risk creating administrative bottlenecks and societal friction. The proposal requires careful calibration to balance economic incentives with humanitarian obligations.",
     "publishedAt": "Fri, 16 Oct 2026 10:39:16 +0300",
     "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251715",
-    "sourceUrl": "https://yle.fi/a/74-20251715?origin=rss",
-    "title": "USU: National Coalition Party, SDP, and Greens would abandon home care allowance",
-    "originalSummary": "",
-    "analysis": "A survey by Uutissuomalainen reveals that the National Coalition Party, the SDP, and the Green League support abolishing the current home care allowance for families with children under three years old, contrasting with opposition from the Centre Party, Left Alliance, Christian Democrats, and Movement Now. Eliminating this allowance could streamline public expenditures and accelerate parents' return to the labor market, thereby boosting employment rates and tax revenues. Dismantling the support mechanism is a rational step toward increasing overall labor supply and gender equality in employment, provided that sufficient, affordable municipal childcare is guaranteed to accommodate the resulting surge in demand.",
-    "publishedAt": "Fri, 16 Oct 2026 05:00:35 +0300",
-    "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251738",
-    "sourceUrl": "https://yle.fi/a/74-20251738?origin=rss",
-    "title": "Orpo on EU budget negotiations: Still a long way to an agreement",
-    "originalSummary": "",
-    "analysis": "Prime Minister Petteri Orpo stated that EU member states remain far from reaching a consensus on the 2028-2034 union budget, as divergent national priorities clash with the presidency's baseline proposal and a strict year-end deadline approaches due to the French electoral cycle. Timely budgetary agreements are vital for fiscal predictability and efficient long-term resource allocation across the bloc, preventing costly delays in strategic funding. Member states should support structured compromise to finalize the framework efficiently, ensuring that upcoming political transitions in key nations do not paralyze essential union-wide financial planning.",
-    "publishedAt": "Fri, 16 Oct 2026 01:52:59 +0300",
-    "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
