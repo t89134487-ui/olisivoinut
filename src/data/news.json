@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://yle.fi/a/74-20253054",
+    "sourceUrl": "https://yle.fi/a/74-20253054?origin=rss",
+    "title": "Sanna Marin on New Ukraine Peace Probes: Peace Cannot Be Achieved on This Path",
+    "originalSummary": "Entinen pääministeri kommentoi ajankohtaista tilannetta Helsingin kirjamessuilla.",
+    "analysis": "Former Finnish Prime Minister Sanna Marin criticized recent diplomatic efforts and peace negotiations regarding Ukraine, arguing that Russian leadership only responds to force rather than voluntary agreements. She contended that Western appeasement and delayed military support have emboldened Vladimir Putin's imperial ambitions. Western nations must abandon naive diplomatic paths and instead enforce strict deterrence, as failing to demonstrate resolute strength directly invites further Russian aggression against democratic states.",
+    "publishedAt": "Fri, 23 Oct 2026 14:53:06 +0300",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20252990",
+    "sourceUrl": "https://yle.fi/a/74-20252990?origin=rss",
+    "title": "Lappajärvi laid off and dismissed personnel – dozens of residents rose to oppose austerity measures",
+    "originalSummary": "Kuntalaiset protestoivat kunnanhallituksen päättämiä lomautuksia ja irtisanomisia vastaan. Niitä pidetään perusteettomina ja päätöksentekoa hätäisenä.",
+    "analysis": "The municipality of Lappajärvi enacted widespread layoffs and staff dismissals to combat persistent structural deficits, triggering intense pushback, multiple administrative appeals, and a citizen petition from local residents questioning the legality and justification of the process. While municipal austerity is often a painful necessity to prevent long-term insolvency when deficits threaten accumulated surpluses, hurried restructuring without transparent consultation undermines democratic legitimacy and community trust. Local authorities should reject arbitrary cuts in favor of collaborative, evidence-based fiscal adjustments that balance necessary budgetary consolidation with procedural fairness.",
+    "publishedAt": "Fri, 23 Oct 2026 14:19:16 +0300",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20253035",
+    "sourceUrl": "https://yle.fi/a/74-20253035?origin=rss",
+    "title": "Binding Debt Brake Target for the Next Electoral Term to Be Decided in January",
+    "originalSummary": "Työryhmä suunnitteli alun perin päivittävänsä tavoitteen joulukuussa.",
+    "analysis": "Finland's parliamentary debt brake working group has postponed finalizing its binding fiscal adjustment target of 8–11 billion euros for the next electoral term until late January, awaiting updated forecasts from the European Commission and the Ministry of Finance. Structuring multi-year fiscal discipline around credible, up-to-date macroeconomic baselines is crucial for ensuring public debt sustainability under EU fiscal frameworks. However, setting overly rigid targets reliant strictly on immediate spending cuts and tax increases risks exacerbating economic downturns. The initiative to establish a binding target should be supported, but it must be refined to include counter-cyclical flexibility so fiscal consolidation does not choke off medium-term economic growth.",
+    "publishedAt": "Fri, 23 Oct 2026 13:00:40 +0300",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20251011",
     "sourceUrl": "https://yle.fi/a/74-20251011?origin=rss",
     "title": "Data Center Boss Says the Debate Feels Like Mordor Despite Being a Growth Industry",
@@ -513,39 +546,6 @@
     "analysis": "The article details a political showdown within the Finnish government regarding the distribution obligation for renewable fuels, with government sources claiming the Finns Party tacitly accepted a minor adjustment while publicly feigning outrage for electoral posturing. While reducing the mandate could slightly lower fuel prices, structural constraints like EU targets and tight state finances limit viable alternatives. The distribution obligation is an inefficient tool for targeted consumer relief compared to broad tax cuts, but given fiscal realities and climate commitments, maintaining the current framework is pragmatic, and the proposed cosmetic adjustments should be resisted in favor of transparent long-term energy policies.",
     "publishedAt": "Fri, 16 Oct 2026 17:26:50 +0300",
     "category": "Environment",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251588",
-    "sourceUrl": "https://yle.fi/a/74-20251588?origin=rss",
-    "title": "Only a small help for private motorists from the fuel package – calculate how you benefit from the commute deduction increase",
-    "originalSummary": "Orpon hallitus paikkaa 60 miljoonalla eurolla kallistuneiden polttoaineiden haittoja. Katso, miten työmatkavähennyksen korotus keventää verotustasi.",
-    "analysis": "The Finnish government agreed on a 60 million euro support package to ease motorist burdens, primarily by raising the commuting expense deduction ceiling from 7,000 to 7,800 euros for long-distance drivers and allocating funds for older cars and market competition reviews, financed through reallocated green transition funds and reduced road maintenance. While targeted tax relief provides necessary, rapid relief to high-mileage commuters facing high fuel prices, reallocating funds from infrastructure maintenance and carbon capture initiatives creates questionable long-term trade-offs. The commute deduction increase is a sensible, direct mechanism to offset unavoidable travel costs, but funding it should not come at the expense of crucial basic infrastructure upkeep.",
-    "publishedAt": "Fri, 16 Oct 2026 15:44:31 +0300",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251787",
-    "sourceUrl": "https://yle.fi/a/74-20251787?origin=rss",
-    "title": "Constitutional Law Committee Gives Green Light to Extend Border Security Law",
-    "originalSummary": "Laki välineellistetyn maahantulon torjumiseksi astui voimaan vuonna 2024.",
-    "analysis": "The Finnish Constitutional Law Committee has concluded that the temporary border security law can be extended by two years until the end of 2028 as an exceptional law, despite criticisms regarding scarce justifications and lack of practical application. While maintaining preparedness against instrumentalized migration is strategically prudent in a severe security environment, extending emergency legislation without having utilized its powers warrants tighter judicial oversight. The proposal should be supported to secure national borders against hybrid threats, provided that regular legislative reviews are enforced to protect constitutional safeguards.",
-    "publishedAt": "Fri, 16 Oct 2026 13:23:25 +0300",
-    "category": "Security and Legal Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251782",
-    "sourceUrl": "https://yle.fi/a/74-20251782?origin=rss",
-    "title": "The National Coalition Party Published Its Immigration Policy Programme",
-    "originalSummary": "Linjaukset kuuluvat kokoomuksen maahanmuuttopoliittiseen ohjelmaan.",
-    "analysis": "The National Coalition Party's parliamentary group released a new immigration policy program proposing to move asylum application processing outside the European Union, tighten family reunification criteria, and tie unemployment benefits to work performed in Finland alongside stricter pension conditions. Shifting asylum processing externally aims to reduce irregular migration and strengthen border control, though practical implementation depends heavily on international cooperation and legal frameworks. While tying welfare benefits to domestic work can incentivize labor market integration, overly restrictive measures risk creating administrative bottlenecks and societal friction. The proposal requires careful calibration to balance economic incentives with humanitarian obligations.",
-    "publishedAt": "Fri, 16 Oct 2026 10:39:16 +0300",
-    "category": "Social Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
