@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20253162",
+    "sourceUrl": "https://yle.fi/a/74-20253162?origin=rss",
+    "title": "MP Wants to Criminalize 'Trash Streaming' – We Asked a Criminal Law Expert if It Is Possible",
+    "originalSummary": "Rappiostriimaamisen ylilyönteihin voitaisiin puuttua jo nykyisellä lainsäädännöllä, uskoo Turun yliopiston rikosoikeuden apulaisprofessori Tatu Hyttinen.",
+    "analysis": "Finnish MP Marko Kilpi has proposed exploring legislation to criminalize 'trash streaming' following fatal and severe incidents during live broadcasts. However, creating a bespoke criminal offense is redundant and inefficient, as current Finnish law already penalizes physical violence, endangerment, and criminal incitement. Expanding penal statutes to target morally distasteful behavior risks encroaching on basic freedom of expression without curtailing foreign content. The proposal should be rejected in favor of strictly enforcing existing criminal provisions and pursuing platform accountability.",
+    "publishedAt": "Sat, 24 Oct 2026 19:32:12 +0300",
+    "category": "Justice",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20253134",
     "sourceUrl": "https://yle.fi/a/74-20253134?origin=rss",
     "title": "Halla-aho: New Guidelines Established for the Security of MPs",
@@ -535,17 +546,6 @@
     "analysis": "A memo from Finland's Ministry of Transport and Communications suggests that the next government should consider winding down major rail project companies, including Länsirata and Lentorata, to prioritize the repair and maintenance of the existing transport network amid strict fiscal constraints. Investing billions into new high-speed megaprojects offers questionable economic returns and marginal travel time reductions, particularly when core transit infrastructure suffers from a chronic maintenance backlog. The proposal to freeze these projects and dissolve the project companies should be supported, as public resources are far more effectively utilized by eliminating the infrastructure deficit and upgrading existing rail corridors rather than committing scarce capital to debt-heavy new lines.",
     "publishedAt": "Sat, 17 Oct 2026 07:01:26 +0300",
     "category": "Infrastructure",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251281",
-    "sourceUrl": "https://yle.fi/a/74-20251281?origin=rss",
-    "title": "Lappeenranta Mayor Tuomo Sallinen: Eastern Finland Subsidies Are Directed to the Wrong Regions",
-    "originalSummary": "Sallinen arvostelee valtiota, ettei rajaseudun ongelmia ymmärretä Suomessa. Hänen mielestään  Etelä-Karjala on jäänyt tukipolitiikassa muiden alueiden jalkoihin.",
-    "analysis": "Lappeenranta's mayor argues that state aid meant for Eastern Finland is poorly targeted, allowing less-impacted regions to benefit while acute border zones bear the full economic fallout from the closed Russian border. Defining aid eligibility through overly broad regional concepts creates fiscal inefficiencies and misallocates scarce public funds away from communities experiencing severe structural disruption. Government support should be strictly redefined to target specific border municipalities rather than broad administrative regions, ensuring public resources directly offset localized geopolitical shocks instead of diluting their impact.",
-    "publishedAt": "Fri, 16 Oct 2026 18:34:16 +0300",
-    "category": "Regional Policy",
     "isFromSummary": false,
     "model": "gemini-flash-latest"
   }
