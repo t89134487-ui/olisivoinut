@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20253134",
+    "sourceUrl": "https://yle.fi/a/74-20253134?origin=rss",
+    "title": "Halla-aho: New Guidelines Established for the Security of MPs",
+    "originalSummary": "Eduskunnan puhemies Jussi Halla-aho (ps.) vierailee Ylen Ykkösaamussa.",
+    "analysis": "Following reports of suspected intrusions into lawmakers' homes, Parliament's administrative commission has updated security guidelines, with Speaker Jussi Halla-aho urging vigilance against potential foreign hybrid threats and warning against European appeasement toward Russia. Strengthening security protocols for elected officials is essential to protect democratic integrity against covert intimidation and hybrid warfare. These measures must be supported and swiftly implemented, ensuring that institutional defense mechanisms evolve to safeguard democratic decision-makers without compromising public transparency.",
+    "publishedAt": "Sat, 24 Oct 2026 10:03:41 +0300",
+    "category": "Security Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20251666",
+    "sourceUrl": "https://yle.fi/a/74-20251666?origin=rss",
+    "title": "Maarit Samateh, 56, from Lappeenranta Has Never Had a Permanent Job",
+    "originalSummary": "Pitkäaikaistyöttömien määrä on ollut pitkään kasvussa Suomessa. Etelä-Karjalassa pitkäaikaistyöttömyys on onnistuttu kääntämään laskuun.",
+    "analysis": "The decentralization of Finnish public employment services to municipalities has exposed critical flaws in its financing structure, where escalating municipal penalty fees for prolonged unemployment have inadvertently discouraged councils from offering rehabilitative and subsidized activation services. While shifting administrative responsibility closer to local labor markets is intended to increase efficiency, penalizing municipalities strictly on open-market placements creates a perverse incentive to abandon difficult-to-employ jobseekers when immediate hiring cannot be guaranteed. The current funding framework should be improved by incorporating intermediate milestones, ensuring that wage-subsidized positions and activation programs mitigate financial penalties rather than burdening local budgets.",
+    "publishedAt": "Sat, 24 Oct 2026 07:00:35 +0300",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20253054",
     "sourceUrl": "https://yle.fi/a/74-20253054?origin=rss",
     "title": "Sanna Marin on New Ukraine Peace Probes: Peace Cannot Be Achieved on This Path",
@@ -526,27 +548,5 @@
     "category": "Regional Policy",
     "isFromSummary": false,
     "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251440",
-    "sourceUrl": "https://yle.fi/a/74-20251440?origin=rss",
-    "title": "Finland Hopes for Zero Tolerance for Russian Visas – Watch the Press Conference Live",
-    "originalSummary": "EU-johtajat keskustelivat tänään Ukrainan tilanteesta sekä Venäjän kiihtyneistä hybridi-iskuista.",
-    "analysis": "Prime Minister Petteri Orpo announced at an EU summit that Finland advocates for an EU-level zero-tolerance policy on Russian visas for tourists and former combatants, while also pushing to utilize frozen Russian assets for Ukrainian aid. Pursuing a unified visa ban closes security loopholes and strengthens the enforceability of Western sanctions, making it an efficient deterrent. This proposal should be strongly supported, as a collective EU-wide visa restriction is a necessary and proportionate step to enhance regional security and maintain pressure on the aggressor state.",
-    "publishedAt": "Fri, 16 Oct 2026 19:38:17 +0300",
-    "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251709",
-    "sourceUrl": "https://yle.fi/a/74-20251709?origin=rss",
-    "title": "Analysis: The Finns Party is bluffing with the distribution obligation",
-    "originalSummary": "Ylen tietojen mukaan perussuomalaiset ei ollut vaatinut jakeluvelvoitteen laskemista enää pitkään aikaan, kirjoittaa Ylen politiikan toimittaja Hannele Muilu.",
-    "analysis": "The article details a political showdown within the Finnish government regarding the distribution obligation for renewable fuels, with government sources claiming the Finns Party tacitly accepted a minor adjustment while publicly feigning outrage for electoral posturing. While reducing the mandate could slightly lower fuel prices, structural constraints like EU targets and tight state finances limit viable alternatives. The distribution obligation is an inefficient tool for targeted consumer relief compared to broad tax cuts, but given fiscal realities and climate commitments, maintaining the current framework is pragmatic, and the proposed cosmetic adjustments should be resisted in favor of transparent long-term energy policies.",
-    "publishedAt": "Fri, 16 Oct 2026 17:26:50 +0300",
-    "category": "Environment",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
   }
 ]
