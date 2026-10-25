@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20253214",
+    "sourceUrl": "https://yle.fi/a/74-20253214?origin=rss",
+    "title": "Christian Democrats demand permits for Christian schools – \"No special treatment,\" says Adlercreutz",
+    "originalSummary": "Kristillisdemokraatit vaatii ministeriä edistämään kristillisten koulujen lupia.",
+    "analysis": "The Christian Democrats have urged Education Minister Anders Adlercreutz to grant operating licenses to Christian schools under clear criteria, while opposing his push to make homeschooling subject to permit rather than mere notification. While ensuring pluralism in education is valuable, conditioning school permits solely on municipal capacity risks stifling legitimate alternatives, though distinguishing mainstream religious education from radicalized home-schooling environments remains a valid security concern. The proposal to streamline Christian school permits should be supported, provided they meet standard educational and oversight requirements, while tightening home-schooling oversight is a prudent measure to prevent educational neglect.",
+    "publishedAt": "Sun, 25 Oct 2026 15:54:40 +0200",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20250574",
     "sourceUrl": "https://yle.fi/a/74-20250574?origin=rss",
     "title": "Will Finland Become a Banana Republic for Data Centers?",
@@ -535,17 +546,6 @@
     "analysis": "Left Alliance leader Minja Koskela proposes reinstating the tax deductibility of union membership dues at double the rate to boost organized labor. While collective bargaining underpins labor market stability, using the tax code to subsidize private association fees distorts fiscal neutrality and burdens public finances during a period of necessary consolidation. Providing a double deduction is particularly inefficient and regressive in revenue terms. This proposal should be rejected; unions should maintain their appeal through member services rather than state-funded tax privileges, keeping tax policy neutral.",
     "publishedAt": "Sat, 17 Oct 2026 11:27:39 +0300",
     "category": "Taxation",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251922",
-    "sourceUrl": "https://yle.fi/a/74-20251922?origin=rss",
-    "title": "Christian Democrats Leader Sari Essayah: Israel Has the Right to Defend Itself and Its Citizens",
-    "originalSummary": "Hallituksen sorvaama 60 miljoonan euron tukipaketti autoilijoille on Essayhin mielestä ”siedettävä”.",
-    "analysis": "Minister Sari Essayah addressed the government's 60 million euro motorist relief package, expressing disappointment over the failure to lower the renewable fuel distribution mandate while urging increased EU funding for domestic agriculture. Broad cost-relief packages and altered commuting deductions provide fleeting relief but distort price mechanisms and dilute long-term climate obligations. Rather than weakening renewable blending targets or subsidizing general motoring, policy should reject blanket fuel relief and instead strictly focus resources on agricultural supply security and supply-chain fair competition.",
-    "publishedAt": "Sat, 17 Oct 2026 10:37:24 +0300",
-    "category": "Economic Policy",
     "isFromSummary": false,
     "model": "gemini-flash-latest"
   }
