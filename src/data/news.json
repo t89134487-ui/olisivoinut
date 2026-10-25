@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20253228",
+    "sourceUrl": "https://yle.fi/a/74-20253228?origin=rss",
+    "title": "Historian: The Koivisto Tapes Are Invaluable for Political History Researchers",
+    "originalSummary": "Mauno Koiviston elämäkertaa kirjoittava professori Tapio Bergholm sanoo digiaineiston syventävän historiantutkimusta, kun keskustelun tunnelma on kuunneltavissa.",
+    "analysis": "Newly released audio archives from late President Mauno Koivisto and his cabinet provide unprecedented primary source material on critical Finnish foreign policy decisions, including the recognition of Baltic independence in 1991. Preserving and studying such historical governance records is essential for institutional transparency and understanding executive decision-making. Making these audio archives publicly and academically accessible should be strongly supported, as it deepens public understanding of constitutional processes and foreign policy strategy without compromising national security.",
+    "publishedAt": "Sun, 25 Oct 2026 19:31:51 +0200",
+    "category": "Political History",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20253214",
     "sourceUrl": "https://yle.fi/a/74-20253214?origin=rss",
     "title": "Christian Democrats demand permits for Christian schools – \"No special treatment,\" says Adlercreutz",
@@ -535,17 +546,6 @@
     "analysis": "A review of Finland's 2022 family leave reform shows that while non-transferable quotas have increased fathers' leave uptake, significant disparities persist because collective agreements often provide fewer fully paid days in male-dominated, lower-wage sectors. In response, MP Matias Mäkynen has suggested raising statutory parental allowances or intervening legislatively if labor market negotiations fail to close the gap. Relying solely on collective bargaining exacerbates disparities between professional tiers, directly undermining the egalitarian objectives of family policy. However, rather than expanding state fiscal liabilities through higher flat daily allowances, policymakers should establish statutory minimum paid leave periods or condition employer reimbursements on gender neutrality to effectively ensure parity across all sectors.",
     "publishedAt": "Sun, 18 Oct 2026 05:30:35 +0300",
     "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251926",
-    "sourceUrl": "https://yle.fi/a/74-20251926?origin=rss",
-    "title": "Left Alliance's Minja Koskela Would Reinstate Tax Deductibility of Union Dues 'Double'",
-    "originalSummary": "Puolueen puheenjohtaja kertoi asiasta puoluevaltuuston kokouksessa.",
-    "analysis": "Left Alliance leader Minja Koskela proposes reinstating the tax deductibility of union membership dues at double the rate to boost organized labor. While collective bargaining underpins labor market stability, using the tax code to subsidize private association fees distorts fiscal neutrality and burdens public finances during a period of necessary consolidation. Providing a double deduction is particularly inefficient and regressive in revenue terms. This proposal should be rejected; unions should maintain their appeal through member services rather than state-funded tax privileges, keeping tax policy neutral.",
-    "publishedAt": "Sat, 17 Oct 2026 11:27:39 +0300",
-    "category": "Taxation",
     "isFromSummary": false,
     "model": "gemini-flash-latest"
   }
