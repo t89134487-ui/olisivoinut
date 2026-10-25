@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20250574",
+    "sourceUrl": "https://yle.fi/a/74-20250574?origin=rss",
+    "title": "Will Finland Become a Banana Republic for Data Centers?",
+    "originalSummary": "Google muutti suhteemme datakeskuksiin. Lähdimme paperiteollisuuden raunioille selvittämään, tekevätkö keskukset Suomesta onnelan vai tekoälyajan banaanivaltion.",
+    "analysis": "Finland is experiencing a massive surge in foreign data center investments, prompting government legislative proposals to screen projects exceeding 100 megawatts and deprioritize them in electricity grid queuing. While these projects offer short-term construction activity, their immense power demand risks straining the national grid and raising electricity prices while generating minimal permanent local value or employment. The government's regulatory shift toward investment screening and grid prioritization should be supported and strengthened. Rather than passively hosting low-margin infrastructure, Finland must condition future permits on mandatory waste-heat utilization and research partnerships, ensuring that the country's clean energy assets translate into genuine, high-value economic gains.",
+    "publishedAt": "Sun, 25 Oct 2026 05:30:35 +0200",
+    "category": "Economic Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20253162",
     "sourceUrl": "https://yle.fi/a/74-20253162?origin=rss",
     "title": "MP Wants to Criminalize 'Trash Streaming' – We Asked a Criminal Law Expert if It Is Possible",
@@ -535,17 +546,6 @@
     "analysis": "Minister Sari Essayah addressed the government's 60 million euro motorist relief package, expressing disappointment over the failure to lower the renewable fuel distribution mandate while urging increased EU funding for domestic agriculture. Broad cost-relief packages and altered commuting deductions provide fleeting relief but distort price mechanisms and dilute long-term climate obligations. Rather than weakening renewable blending targets or subsidizing general motoring, policy should reject blanket fuel relief and instead strictly focus resources on agricultural supply security and supply-chain fair competition.",
     "publishedAt": "Sat, 17 Oct 2026 10:37:24 +0300",
     "category": "Economic Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251319",
-    "sourceUrl": "https://yle.fi/a/74-20251319?origin=rss",
-    "title": "Preparation of Länsirata and Airport Line May End – Wind-Down on Next Government's Table",
-    "originalSummary": "Seuraava hallitus päättää, etenevätkö suuret raidehankkeet. Myös itäradan suunnittelu voidaan lopettaa, selviää ministeriön muistiosta.",
-    "analysis": "A memo from Finland's Ministry of Transport and Communications suggests that the next government should consider winding down major rail project companies, including Länsirata and Lentorata, to prioritize the repair and maintenance of the existing transport network amid strict fiscal constraints. Investing billions into new high-speed megaprojects offers questionable economic returns and marginal travel time reductions, particularly when core transit infrastructure suffers from a chronic maintenance backlog. The proposal to freeze these projects and dissolve the project companies should be supported, as public resources are far more effectively utilized by eliminating the infrastructure deficit and upgrading existing rail corridors rather than committing scarce capital to debt-heavy new lines.",
-    "publishedAt": "Sat, 17 Oct 2026 07:01:26 +0300",
-    "category": "Infrastructure",
     "isFromSummary": false,
     "model": "gemini-flash-latest"
   }
