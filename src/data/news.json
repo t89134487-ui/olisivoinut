@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20253465",
+    "sourceUrl": "https://yle.fi/a/74-20253465?origin=rss",
+    "title": "Bolsonaro, Who Lost the Election, Intends to Lead the Brazilian Opposition",
+    "originalSummary": "Brasilian entisen presidentin Jair Bolsonaron poika Flávio Bolsonaro sanoi myös, että hän on joutunut luovuttamaan passinsa.",
+    "analysis": "Following his defeat in the Brazilian presidential election, Flávio Bolsonaro announced plans to lead the opposition against President-elect Luiz Inácio Lula da Silva while also facing legal scrutiny and travel restrictions related to ongoing investigations. The emergence of a determined opposition led by the former ruling faction signals a polarized political landscape that could hinder legislative efficiency and economic reforms. A constructive political environment requires loyal opposition rather than attempts to invalidate democratic outcomes, ensuring accountability without destabilizing governance.",
+    "publishedAt": "Mon, 26 Oct 2026 23:22:01 +0200",
+    "category": "International Politics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20253449",
     "sourceUrl": "https://yle.fi/a/74-20253449?origin=rss",
     "title": "Kalliola Settlement Foundation Files for Bankruptcy in Helsinki",
@@ -535,17 +546,6 @@
     "analysis": "Finnish Minister of Education Anders Adlercreutz has presented a review proposing stricter oversight of homeschooling, including replacing the current notification procedure with municipal administrative approval and enforcing standardized competency evaluations. A surge in homeschoolers combined with a lack of formal degree completion creates legitimate concerns over educational neglect and uneven municipal supervision. Establishing binding national oversight and mandatory annual competence tests should be supported to safeguard children's educational rights, though outright bans should be avoided to preserve parental choice for legitimate individual needs.",
     "publishedAt": "Mon, 19 Oct 2026 12:55:35 +0300",
     "category": "Education Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251840",
-    "sourceUrl": "https://yle.fi/a/74-20251840?origin=rss",
-    "title": "Vantaa City Board Gathers to Finalize Cuts – Protesters Attempted to Influence Until the Last Moment",
-    "originalSummary": "Muutosneuvottelujen perusteella Vantaa on irtisanomassa 122 henkilöä. Päätös tarvitsee vielä poliittisen sinetin.",
-    "analysis": "Vantaa's city board is finalizing structural cuts resulting in teacher layoffs at local art and music schools, sparking protests over reduced youth services and the potential loss of state subsidies. While municipal fiscal balancing is necessary under tightening budgets, cutting basic art education is economically counterproductive if it forfeits matching central government funding and undermines youth development. These specific staff reductions should be rejected or restructured to preserve external funding streams and maintain essential extracurricular educational standards.",
-    "publishedAt": "Mon, 19 Oct 2026 12:33:55 +0300",
-    "category": "Education",
     "isFromSummary": false,
     "model": "gemini-flash-latest"
   }
