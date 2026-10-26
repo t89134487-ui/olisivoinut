@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20253449",
+    "sourceUrl": "https://yle.fi/a/74-20253449?origin=rss",
+    "title": "Kalliola Settlement Foundation Files for Bankruptcy in Helsinki",
+    "originalSummary": "Setlementtijärjestö on toiminut vuodesta 1919 lähtien.",
+    "analysis": "Kalliola Settlement Association, a historic social and rehabilitation services provider operating since 1919, has filed for bankruptcy due to insurmountable debts exceeding its assets and the loss of its revenue streams, despite receiving substantial STEA grants. This collapse underscores structural vulnerabilities in funding third-sector welfare services, highlighting the risks when non-profit social operators face acute financial insolvency. Maintaining essential civic and rehabilitative services requires a more resilient public-private partnership framework to prevent sudden institutional failures that disrupt vulnerable client groups.",
+    "publishedAt": "Mon, 26 Oct 2026 19:28:11 +0200",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20253007",
     "sourceUrl": "https://yle.fi/a/74-20253007?origin=rss",
     "title": "Budget Manager: Lack of courage has plagued us – Ministry lists cuts to child benefits and income support",
@@ -535,17 +546,6 @@
     "analysis": "Vantaa's city board is finalizing structural cuts resulting in teacher layoffs at local art and music schools, sparking protests over reduced youth services and the potential loss of state subsidies. While municipal fiscal balancing is necessary under tightening budgets, cutting basic art education is economically counterproductive if it forfeits matching central government funding and undermines youth development. These specific staff reductions should be rejected or restructured to preserve external funding streams and maintain essential extracurricular educational standards.",
     "publishedAt": "Mon, 19 Oct 2026 12:33:55 +0300",
     "category": "Education",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252060",
-    "sourceUrl": "https://yle.fi/a/74-20252060?origin=rss",
-    "title": "Helsinki Mayor's Budget Proposal: More Funding for Schools and Healthcare, Curbing HSL Ticket Price Hikes",
-    "originalSummary": "Helsinki palkkaa lisää lääkäreitä ja hoitajia perusterveydenhuoltoon. Investointeja katsotaan tarkalla silmällä.",
-    "analysis": "Helsinki Mayor Daniel Sazonov has introduced a budget proposal that keeps tax rates steady while boosting spending on early education, primary healthcare access, and public transport subsidies, alongside plans to prune capital investments to manage growing debt. Prioritizing frontline services like primary school literacy and healthcare staffing targets fundamental public needs efficiently, and curbing transit fare hikes supports city mobility. However, maintaining heavy operational increases while financing over 1.2 billion euros in investments through debt creates long-term structural strain. The city should support this budget but rigorously accelerate the reprioritization of non-essential infrastructure projects to prevent borrowing from undermining future fiscal sustainability.",
-    "publishedAt": "Mon, 19 Oct 2026 12:09:37 +0300",
-    "category": "Fiscal Policy",
     "isFromSummary": false,
     "model": "gemini-flash-latest"
   }
