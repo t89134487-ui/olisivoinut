@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://yle.fi/a/74-20253007",
+    "sourceUrl": "https://yle.fi/a/74-20253007?origin=rss",
+    "title": "Budget Manager: Lack of courage has plagued us – Ministry lists cuts to child benefits and income support",
+    "originalSummary": "Valtiovarainministeriön kartoituksia käytetään ensi kevään hallitusneuvottelujen apuna. Päivitimme juttuun ministeriön tiedotustilaisuuden keskeisen annin.",
+    "analysis": "Finland's Ministry of Finance has released sweeping expenditure, structural, and tax surveys proposing hundreds of consolidation measures, including cuts to social security, healthcare reforms, and tax increases to address severe public debt. While targeted fiscal consolidation is economically necessary to stabilize public finances and maintain creditworthiness, broad-based spending freezes and benefit cuts risk disproportionately impacting vulnerable populations without structural growth reforms. These proposals should be supported selectively, prioritizing efficiency gains and tax base broadening while safeguarding core welfare investments to ensure long-term economic resilience.",
+    "publishedAt": "Mon, 26 Oct 2026 12:00:39 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20253281",
+    "sourceUrl": "https://yle.fi/a/74-20253281?origin=rss",
+    "title": "Parties Reach Agreement: How Helsinki Plans to Spend Money Next Year",
+    "originalSummary": "Talousarvio vaatii vielä Helsingin kaupunginhallituksen ja -valtuuston hyväksynnän.",
+    "analysis": "Helsinki's city council groups have agreed on next year's budget, maintaining tax rates while prioritizing primary education, healthcare access, and youth services through targeted funding and avoiding cuts. Freezing municipal and property taxes while increasing investments in core public services is a pragmatic approach that safeguards social welfare without imposing additional fiscal burdens on residents. This budget proposal strikes the right balance between fiscal restraint and necessary public investment, and it should be supported as it effectively addresses urban community needs and service delivery.",
+    "publishedAt": "Mon, 26 Oct 2026 11:52:54 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20253297",
+    "sourceUrl": "https://yle.fi/a/74-20253297?origin=rss",
+    "title": "Jokilaaksojen koulutuskuntayhtymä must repay over two million euros in state subsidies",
+    "originalSummary": "OPM:n tarkastuksessa selvisi, että kolmansien maiden kansalaisten opintojen järjestämisessä on ollut puutteita. Siksi rahoja peritään JEDU:lta takaisin.",
+    "analysis": "The Ministry of Education and Culture is reclaiming over 2.2 million euros in unjustified state subsidies from the Jokilaaksojen municipal education and training consortium following an audit that revealed widespread, systemic failures in vocational education administration and documentation for third-country nationals during 2022–2023. Such strict financial enforcement is essential for maintaining the integrity and accountability of public funding allocations in education. Robust oversight ensures that educational providers adhere strictly to legislative standards, preventing the misuse of taxpayer money. This clawback decision should be supported to reinforce regulatory compliance and signal that administrative negligence in public service delivery carries concrete financial consequences.",
+    "publishedAt": "Mon, 26 Oct 2026 10:42:12 +0200",
+    "category": "Education Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20253228",
     "sourceUrl": "https://yle.fi/a/74-20253228?origin=rss",
     "title": "Historian: The Koivisto Tapes Are Invaluable for Political History Researchers",
@@ -513,39 +546,6 @@
     "analysis": "Helsinki Mayor Daniel Sazonov has introduced a budget proposal that keeps tax rates steady while boosting spending on early education, primary healthcare access, and public transport subsidies, alongside plans to prune capital investments to manage growing debt. Prioritizing frontline services like primary school literacy and healthcare staffing targets fundamental public needs efficiently, and curbing transit fare hikes supports city mobility. However, maintaining heavy operational increases while financing over 1.2 billion euros in investments through debt creates long-term structural strain. The city should support this budget but rigorously accelerate the reprioritization of non-essential infrastructure projects to prevent borrowing from undermining future fiscal sustainability.",
     "publishedAt": "Mon, 19 Oct 2026 12:09:37 +0300",
     "category": "Fiscal Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251800",
-    "sourceUrl": "https://yle.fi/a/74-20251800?origin=rss",
-    "title": "Analysis: American Santa Claus Promised Electricity and Track Lighting – and Took the Forests With Him",
-    "originalSummary": "Googlen Suomen-seikkailua on leimannut vahvasti amerikkalainen kulttuuri. Siihen kuuluvat lahjalistat ja pääkonttorin vaikeneminen, kirjoittaa politiikan toimittaja Hannele Muilu.",
-    "analysis": "Google's multi-billion-euro data center investments, championed by Prime Minister Petteri Orpo, face growing scrutiny over environmental permit violations and scaled-back economic projections. While attracting foreign tech capital provides valuable regional vitality, circumventing environmental impact assessments and relying on corporate charity undermines Finland's regulatory integrity.\n\nIndustrial policy must not compromise statutory oversight for political prestige. Public support for major data center projects should be maintained but strictly improved by enforcing rigorous environmental standards, transparent economic vetting, and binding requirements for corporate accountability.",
-    "publishedAt": "Mon, 19 Oct 2026 11:35:25 +0300",
-    "category": "Economic Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251055",
-    "sourceUrl": "https://yle.fi/a/74-20251055?origin=rss",
-    "title": "Without Legal Flexibility, Electricity Distribution Prices Could Spike Sharply in Some Areas",
-    "originalSummary": "Pohjois-Karjalassa toimivan sähkönsiirtoyhtiön mukaan sähkönsiirtomaksut pitäisi lähes kaksinkertaistaa, jotta lain vaatimat investoinnit voitaisiin rahoittaa.",
-    "analysis": "Rural electricity distribution companies are urging legislative changes to the Electricity Market Act to extend mandatory 2036 grid security deadlines, warning that compliance will force customer transmission fees to surge by over 80 percent. Imposing uniform, rigid cabling requirements across sparsely populated and demographically declining regions is economically inefficient, burdening rural households with exorbitant costs for marginal gains in reliability. Lawmakers should support amending the law to extend investment timelines and introduce regional flexibility, allowing companies to avoid stranded assets while shielding consumers from unreasonable price hikes.",
-    "publishedAt": "Mon, 19 Oct 2026 05:30:35 +0300",
-    "category": "Energy Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20250481",
-    "sourceUrl": "https://yle.fi/a/74-20250481?origin=rss",
-    "title": "Gender Still Has a Major Impact on Paid Family Leave – Check the Situation in Your Sector",
-    "originalSummary": "Perhevapaiden palkallisuudessa on yhä isoja eroja. Lapsen kanssa kotiin jäänyt Matias Mäkynen (sd.) muuttaisi vielä lakia, jos erot eivät tasaannu.",
-    "analysis": "A review of Finland's 2022 family leave reform shows that while non-transferable quotas have increased fathers' leave uptake, significant disparities persist because collective agreements often provide fewer fully paid days in male-dominated, lower-wage sectors. In response, MP Matias Mäkynen has suggested raising statutory parental allowances or intervening legislatively if labor market negotiations fail to close the gap. Relying solely on collective bargaining exacerbates disparities between professional tiers, directly undermining the egalitarian objectives of family policy. However, rather than expanding state fiscal liabilities through higher flat daily allowances, policymakers should establish statutory minimum paid leave periods or condition employer reimbursements on gender neutrality to effectively ensure parity across all sectors.",
-    "publishedAt": "Sun, 18 Oct 2026 05:30:35 +0300",
-    "category": "Social Policy",
     "isFromSummary": false,
     "model": "gemini-flash-latest"
   }
