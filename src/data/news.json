@@ -1,5 +1,71 @@
 [
   {
+    "id": "https://yle.fi/a/74-20253601",
+    "sourceUrl": "https://yle.fi/a/74-20253601?origin=rss",
+    "title": "Analysis: Four years ago Stubb said he wouldn't answer Putin – now Stubb called him himself",
+    "originalSummary": "Koska puhumattomuus ei ole tuonut rauhaa, Stubb päätti kokeilla puhumista.",
+    "analysis": "Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre broke a multi-year diplomatic freeze by calling Russian President Vladimir Putin to discuss peace efforts in Ukraine and regional security. While the uncoordinated call risked European unity and yielded no concessions from Moscow, maintaining a total diplomatic blackout has proven equally ineffective at altering the trajectory of the war. Direct communication channels are a necessary pragmatic tool in high-stakes diplomacy, and while such outreach must be carefully coordinated with European allies to prevent appearing weak or divided, exploring every avenue to halt hostilities remains in the strategic interest of Finland and Europe.",
+    "publishedAt": "Tue, 27 Oct 2026 20:35:33 +0200",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20253662",
+    "sourceUrl": "https://yle.fi/a/74-20253662?origin=rss",
+    "title": "A-studio: What does Stubb's phone call to Putin signify? Watch the live broadcast at 21.00",
+    "originalSummary": "Kansainvälisen politiikan professori Tuomas Forsberg ja entinen ulkoministeri Timo Soini analysoivat Stubbin ja Støren puhelua Putinille.",
+    "analysis": "Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre held a lengthy phone call with Russia's Vladimir Putin to discuss limiting hostilities regarding energy infrastructure and food security, while coordinating with Ukraine and the US ahead of upcoming talks in Abu Dhabi. While direct diplomatic engagement carries inherent risks of legitimizing an aggressor, maintaining high-level channels synchronized with key allies is a necessary mechanism to explore de-escalation pathways and practical risk-reduction measures. This diplomatic outreach should be supported as a calculated, pragmatic effort to anchor European security interests in future negotiations rather than leaving dialogue monopolized entirely by external powers.",
+    "publishedAt": "Tue, 27 Oct 2026 20:31:03 +0200",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20253602",
+    "sourceUrl": "https://yle.fi/a/74-20253602?origin=rss",
+    "title": "Finnair CEO: The company can fly domestically without state support if the route is profitable",
+    "originalSummary": "Finnairin toimitusjohtajan Turkka Kuusiston mukaan yhtiö tutkii, voisiko se lentää nykyisin valtion ostamia reittejä ilman tukia.",
+    "analysis": "The Ministry of Transport and Communications proposed ending state purchases of unprofitable domestic flights after 2028, prompting Finnair to state it could operate some of these routes commercially if market demand proves sufficient. Ending direct state subsidies for regional routes promotes fiscal responsibility and market efficiency, shifting the burden of unprofitable operations away from taxpayers toward commercial viability. This policy shift should be supported, as aviation subsidies distort the transport market and public funds are better allocated toward maintaining essential infrastructure rather than propping up non-viable commercial airline routes.",
+    "publishedAt": "Tue, 27 Oct 2026 19:40:31 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20253592",
+    "sourceUrl": "https://yle.fi/a/74-20253592?origin=rss",
+    "title": "National Coalition Party Criticizes Finance Ministry Official's Statement on Budget Adjustment: \"Ill-Considered and Unsuccessful\"",
+    "originalSummary": "Kokoomuksen kansanedustaja syyttää Ylen Politiikkaradiossa valtiovarainministeriön budjettipäällikköä poliitikkojen tontille astumisesta.",
+    "analysis": "National Coalition Party MP Henrik Vuornos criticized Finance Ministry Budget Chief Mika Niemelä for stating that Finland's fiscal adjustment requires both spending cuts and tax hikes, arguing that tax increases should be excluded. Relying exclusively on spending cuts to close a multi-billion euro deficit risks severe social friction and execution failure, making a balanced approach combining targeted expenditure reductions and revenue enhancements economically more pragmatic. The rigid rejection of tax adjustments limits necessary fiscal flexibility, and policymakers should pursue a mixed adjustment strategy to ensure macroeconomic stability while protecting essential public services.",
+    "publishedAt": "Tue, 27 Oct 2026 18:47:47 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20253560",
+    "sourceUrl": "https://yle.fi/a/74-20253560?origin=rss",
+    "title": "Bizarre situation in Sysmä: Municipal manager's employment ended by court decision – now he was elected again",
+    "originalSummary": "Sysmän kunnanvaltuusto valitsi Lasse Peltosen hoitamaan kunnanjohtajan tehtäviä siihen asti, kunnes uusi kunnanjohtaja saadaan valittua.",
+    "analysis": "Sysmä municipal council reappointed Lasse Peltonen as temporary municipal manager after courts annulled his previous appointment due to gender equality concerns in the hiring process. This recurring administrative turmoil underscores the vulnerability of municipal governance to prolonged legal disputes and appointment procedures. To ensure efficient local administration and legal certainty, municipal appointment processes must strictly adhere to administrative law and non-discrimination mandates from the outset to prevent costly and disruptive leadership vacuums.",
+    "publishedAt": "Tue, 27 Oct 2026 18:35:03 +0200",
+    "category": "Local Government",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20253603",
+    "sourceUrl": "https://yle.fi/a/74-20253603?origin=rss",
+    "title": "From Traditional Finnish Engineering Shop to Digital Company – AI Boom Pushes Wärtsilä's Order Books to Record Highs",
+    "originalSummary": "Wärtsilän osavuosikatsaus näytti lähes joka mittarilla vihreää, mutta osakekurssi painui punaiselle.",
+    "analysis": "Wärtsilä's pivot toward energy solutions driven by the global data center and AI boom highlights how industrial policy intersects with technological shifts. Government considerations, such as proposed Finnish energy production investment supports for quick-starting biogas turbines, reinforce the synergy between state backing and industrial adaptation. Such targeted subsidies are economically justified to secure grid stability amid the rapid expansion of renewable energy and data infrastructure, bolstering high-value domestic manufacturing. These support measures should be endorsed to maintain Finland's competitive edge in the global green transition.",
+    "publishedAt": "Tue, 27 Oct 2026 18:31:47 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20253604",
     "sourceUrl": "https://yle.fi/a/74-20253604?origin=rss",
     "title": "President Stubb discusses phone call with Putin – watch live starting at 16.15",
@@ -480,72 +546,6 @@
     "analysis": "In her upcoming book, former SDP leader and EU Commissioner Jutta Urpilainen reveals that figures within the National Coalition Party's leadership previously approached her with offers to cross the aisle and join their party. This revelation highlights the fluid nature of political alliances and ideological boundaries within Finnish politics. Attempting to recruit a prominent figure from a rival center-left party reflects strategic maneuvering to consolidate political capital and broaden electoral appeal. While such cross-party overtures are a standard tactical play to weaken opponents and strengthen a party's moderate credentials, they ultimately risk diluting ideological clarity. Political parties should focus on building cohesive platforms rooted in distinct policy visions rather than relying on high-profile recruitment, ensuring that voter trust is maintained through consistent ideological representation.",
     "publishedAt": "Wed, 21 Oct 2026 00:01:35 +0300",
     "category": "Politics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251566",
-    "sourceUrl": "https://yle.fi/a/74-20251566?origin=rss",
-    "title": "Finnish Security Intelligence Service: Russia frequently uses third countries to bypass sanctions",
-    "originalSummary": "MOT kertoi kahden Suomen kansalaisen vieneen Venäjälle kymmenillä miljoonilla elektroniikkaa Serbian ja Hongkongin kautta.",
-    "analysis": "The Finnish Security Intelligence Service (Supo) warns that Russia utilizes complex international networks, including third countries like Serbia and Hong Kong, to illegally acquire western dual-use electronics and technology for its military industry. This circumvention of sanctions severely undermines international trade restrictions and poses a direct, long-term national security threat to Finland by directly supporting Russian armed forces. To effectively counter this, authorities must strengthen export controls, enhance international intelligence sharing, and increase corporate compliance requirements to close loopholes exploited by sophisticated procurement networks.",
-    "publishedAt": "Tue, 20 Oct 2026 19:45:53 +0300",
-    "category": "National Security",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252342",
-    "sourceUrl": "https://yle.fi/a/74-20252342?origin=rss",
-    "title": "Conscripts or reservists could end up training abroad in the future without asking for consent",
-    "originalSummary": "Suomi lähettäisi suostumuksensa antaneita reserviläisiä Naton maajoukkoihin, puolustushallinto suunnittelee.",
-    "analysis": "Finland is advancing a major legislative reform to align its defense with NATO, allowing conscripts to be sent to neighboring countries like Sweden and Norway for training without individual consent, while enabling volunteer reservists to participate in NATO land forces. While this integration is necessary for credible collective defense and fulfilling alliance obligations, bypassing consent raises constitutional concerns and strips labor unions of collective bargaining rights regarding deployment conditions. The proposal should be supported to ensure military readiness and treaty compliance, but improved by addressing the constitutional ambiguities raised by the Chancellor of Justice and maintaining consultative mechanisms with labor organizations to secure long-term personnel commitment.",
-    "publishedAt": "Tue, 20 Oct 2026 19:04:02 +0300",
-    "category": "Defense and Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252393",
-    "sourceUrl": "https://yle.fi/a/74-20252393?origin=rss",
-    "title": "Unemployment Rose in September – Experts Explain Why Economic Growth Has Not Translated to the Labor Market",
-    "originalSummary": "Asiantuntijat uskovat, että työmarkkinoilla nähdään piristymistä viimeistään ensi vuonna. Työministerin mukaan syyskuun notkahdus on monen tekijän summa.",
-    "analysis": "Despite emerging macroeconomic growth in Finland, unemployment rose in September, highlighting a sluggish labor market recovery driven by export-heavy industries rather than labor-intensive service sectors. While the government defends its strategy pointing to enacted tax cuts and broader economic reforms, the persistent rise in long-term and male unemployment indicates structural rigidities that broader fiscal stimuli alone cannot immediately fix. Policymakers should focus on targeted retraining programs for declining industrial sectors and structural labor reforms to better match labor supply with evolving service-sector demands, rather than relying solely on macro-level tax adjustments.",
-    "publishedAt": "Tue, 20 Oct 2026 18:45:40 +0300",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252401",
-    "sourceUrl": "https://yle.fi/a/74-20252401?origin=rss",
-    "title": "Chancellor of Justice: Police Acted Lawfully in Not Starting Criminal Investigation into Teemu Keskisarja's Speech",
-    "originalSummary": "Kansanedustaja Teemu Keskisarja (ps.) puhui Ylen A-studiossa elokuussa 2025 väestönvaihdosta totena ja kutsui maahanmuuttajia ”enimmäkseen heikkolaatuisiksi”.",
-    "analysis": "The Chancellor of Justice concluded that police acted lawfully by not initiating a pre-trial investigation into MP Teemu Keskisarja's controversial remarks on immigration in the A-studio program, aligning with the Prosecutor General's earlier assessment that the statements did not cross the threshold for incitement against an ethnic group. This decision reinforces the legal boundary between offensive political rhetoric and punishable hate speech, prioritizing freedom of expression in public debate. While robust political discourse is essential for a healthy democracy, maintaining clear legal protections against incitement remains necessary to prevent social fragmentation. The decision should be supported as it relies on a careful legal interpretation rather than political expediency, upholding the principle that offensive or generalized opinions must be addressed through political debate rather than criminal prosecution.",
-    "publishedAt": "Tue, 20 Oct 2026 18:31:57 +0300",
-    "category": "Justice and Legal Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252445",
-    "sourceUrl": "https://yle.fi/a/74-20252445?origin=rss",
-    "title": "Minister Purra: Preparation of the tourist tax law will not proceed to Parliament",
-    "originalSummary": "Lain odotettiin aiemmin tulevan voimaan aikaisintaan vuonna 2027.",
-    "analysis": "Finance Minister Riikka Purra announced that the government's proposed tourist tax will not proceed to Parliament, halting the initiative for the current term due to a lack of consensus. The tax was initially designed to help popular tourist regions like Lapland cover infrastructure costs, but faced heavy criticism during the consultation round for potentially harming competitiveness and increasing accommodation expenses. While local tourism hubs face genuine funding pressures for municipal infrastructure used by visitors, implementing a localized tourist tax risks distorting domestic competition and dampening overnight stays. The decision to scrap the proposal is justified given the severe lack of robust impact assessments and the strong pushback from municipalities, meaning the current model should be rejected in favor of exploring alternative, less burdensome local funding mechanisms.",
-    "publishedAt": "Tue, 20 Oct 2026 18:02:59 +0300",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252144",
-    "sourceUrl": "https://yle.fi/a/74-20252144?origin=rss",
-    "title": "Mikkeli Started Investing 300,000 Euros Annually in Playgrounds and Noticed the Benefits: Prevents Regional Inequality",
-    "originalSummary": "Mikkeli on kunnostanut leikkipuistoja järjestelmällisesti viime vuosina. Kaupunki aikoo hyödyntää leikkipuistoja jatkossa vanhojen asuinalueiden kehittämisessä.",
-    "analysis": "The city of Mikkeli allocates approximately 300,000 euros annually to renovate playgrounds, utilizing urban development programs to maintain neighborhood livability and counter regional inequality amid low new construction rates. Research confirms that free public playgrounds significantly boost parental well-being and enhance neighborhood attractiveness regardless of socioeconomic background. Investing municipal funds into localized recreational infrastructure is an efficient, targeted method for maintaining social cohesion and municipal vitality. Such capital allocation should be strongly supported, as low-cost public amenities yield high returns in community welfare and prevent the decline of older residential areas.",
-    "publishedAt": "Tue, 20 Oct 2026 17:38:09 +0300",
-    "category": "Social Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
