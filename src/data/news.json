@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://yle.fi/a/74-20253604",
+    "sourceUrl": "https://yle.fi/a/74-20253604?origin=rss",
+    "title": "President Stubb discusses phone call with Putin – watch live starting at 16.15",
+    "originalSummary": "Presidentti Alexander Stubb keskusteli Norjan pääministerin Jonas Gahr Støren kera puhelimitse Venäjän presidentin Vladimir Putinin kanssa tänään tiistaina.",
+    "analysis": "President Alexander Stubb, alongside Norwegian Prime Minister Jonas Gahr Støre, held a telephone conversation with Russian President Vladimir Putin to address attacks on Ukraine's energy infrastructure and lay groundwork for upcoming trilateral talks in Abu Dhabi. Engaging directly with adversaries to demand cessation of critical infrastructure attacks serves as a necessary diplomatic leverage point to prevent further humanitarian catastrophe. This diplomatic initiative should be supported, as maintaining high-level communication channels while coordinating European representation alongside the US and Ukraine is essential for securing viable ceasefire terms and protecting regional stability.",
+    "publishedAt": "Tue, 27 Oct 2026 15:42:39 +0200",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20253629",
+    "sourceUrl": "https://yle.fi/a/74-20253629?origin=rss",
+    "title": "President Stubb: Call with Putin lasted about an hour and a half, and all Nordic countries were informed in advance",
+    "originalSummary": "Tasavallan presidentti Alexander Stubb kertoi Norjan pääministerin kanssa Putinille soitetusta puhelusta Pohjoismaiden neuvostolle.",
+    "analysis": "President Alexander Stubb defended his and Norway's Prime Minister Jonas Gahr Støre's direct phone call with Vladimir Putin, noting it aimed to clarify border-region positions and was coordinated with Ukraine, despite criticism from other Nordic leaders regarding prior notification. Direct diplomatic engagement by frontline states with aggressor nations is a necessary utility for mitigating misunderstandings and signaling regional red lines directly. This diplomatic outreach should be supported as a pragmatic tool for border stability, provided it remains strictly aligned with broader allied strategies and unwavering support for Ukrainian sovereignty.",
+    "publishedAt": "Tue, 27 Oct 2026 15:08:34 +0200",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20252390",
+    "sourceUrl": "https://yle.fi/a/74-20252390?origin=rss",
+    "title": "We Reviewed Espoo City Manager's Budget Proposal – Read About the Savings and Investments",
+    "originalSummary": "Hallinnostaan leikkaava Espoo käyttää ensi vuonna palveluihin 40 miljoona suuremman summa kuin tänä vuonna.",
+    "analysis": "Espoo's proposed budget by City Manager Kai Mykkänen balances a strict financial consolidation program with targeted investments in education, employment services, and urban infrastructure. While aiming to reduce long-term borrowing and administrative overhead, the budget prudently increases funding for schools and early childhood education. This approach effectively maintains fiscal discipline without sacrificing core municipal services for children and families. The budget proposal represents a sound and pragmatic fiscal strategy that deserves support, as it successfully addresses structural deficit reduction while preserving necessary investments in human capital and regional growth.",
+    "publishedAt": "Tue, 27 Oct 2026 15:00:35 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20253615",
+    "sourceUrl": "https://yle.fi/a/74-20253615?origin=rss",
+    "title": "Analysis: One sentence in the presidential press release is telling",
+    "originalSummary": "Tämänpäiväinen puhelu voi uhata yhtenäisyyttä, jota Venäjä-kysymyksissä vaalitaan, kirjoittaa EU-kirjeenvaihtaja Elli Hiilamo.",
+    "analysis": "Finnish President Alexander Stubb held a phone call with Russia's Vladimir Putin alongside Norway's Prime Minister, carefully clarifying that they acted as national leaders rather than European representatives. This unilateral diplomatic outreach has sparked friction and criticism among Nordic and EU partners over maintaining a unified front against Russia, highlighting ongoing tensions regarding when and how European dialogue with Moscow should be re-engaged.\n\nInitiating direct communication with an aggressor nation risks fracturing Western unity unless coordinated tightly with broader multilateral frameworks. While diplomatic channels must eventually reopen, unilateral overtures by individual member states undermine collective leverage and play directly into opposing strategic interests. Finland should pursue such high-stakes foreign policy engagements strictly through unified European mechanisms to ensure maximum diplomatic efficacy.",
+    "publishedAt": "Tue, 27 Oct 2026 14:37:20 +0200",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20253537",
+    "sourceUrl": "https://yle.fi/a/74-20253537?origin=rss",
+    "title": "Politicians Criticize Defense Arguments in Sexual Offense Trial Involving Amirkhani – Defense Counsel: \"Improper\"",
+    "originalSummary": "Ministeri Karoliina Partanen (kok.) syyttää puolustusta Mira Luodin nöyryyttämisestä oikeudenkäynnissä.",
+    "analysis": "Politicians from various parties criticized the defense strategy in a sexual offense trial involving mixed martial artist Makwan Amirkhani and musician Mira Luoti, where the defense questioned the victim's desirability based on her age. While the defense argued that political commentary on an ongoing trial violates the presumption of innocence and separation of powers, the public backlash highlights broader concerns regarding courtroom ethics and the trivialization of harassment. Public officials commenting on active judicial proceedings risk undermining trust in the independence of the judiciary, yet debates over trial conduct touch upon essential standards of dignity and respect in legal processes.",
+    "publishedAt": "Tue, 27 Oct 2026 14:17:57 +0200",
+    "category": "Justice Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20253467",
     "sourceUrl": "https://yle.fi/a/74-20253467?origin=rss",
     "title": "Save the Children: Government's social security cuts are felt in the everyday lives of low-income families",
@@ -491,61 +546,6 @@
     "analysis": "The city of Mikkeli allocates approximately 300,000 euros annually to renovate playgrounds, utilizing urban development programs to maintain neighborhood livability and counter regional inequality amid low new construction rates. Research confirms that free public playgrounds significantly boost parental well-being and enhance neighborhood attractiveness regardless of socioeconomic background. Investing municipal funds into localized recreational infrastructure is an efficient, targeted method for maintaining social cohesion and municipal vitality. Such capital allocation should be strongly supported, as low-cost public amenities yield high returns in community welfare and prevent the decline of older residential areas.",
     "publishedAt": "Tue, 20 Oct 2026 17:38:09 +0300",
     "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252260",
-    "sourceUrl": "https://yle.fi/a/74-20252260?origin=rss",
-    "title": "Unemployment Started to Grow Again",
-    "originalSummary": "Työttömiä oli  syyskuussa lähes 300 000, mikä oli 39 000 enemmän kuin vuosi sitten, kertoo Tilastokeskus.",
-    "analysis": "Statistics Finland reports that employment figures have worsened despite economic growth, with rising unemployment particularly affecting men and the industrial sector, alongside an increase in long-term unemployed. This lag between broader economic growth and labor market recovery highlights the structural rigidities hindering swift job creation, as businesses delay recruitment amid lingering geopolitical and domestic demand uncertainties. To address this persistent lag, targeted policies should focus on lowering hiring barriers and enhancing active labor market programs to reintegrate the long-term unemployed, ensuring that economic recovery more rapidly translates into tangible job opportunities.",
-    "publishedAt": "Tue, 20 Oct 2026 08:07:53 +0300",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252254",
-    "sourceUrl": "https://yle.fi/a/74-20252254?origin=rss",
-    "title": "Finland's Pension System Ranking Drops One Spot on Comparison List",
-    "originalSummary": "Suomen kokonaispisteet nousivat hieman, mutta sijoitus laski yhdellä sijalla yhdeksänneksi, kertoo Eläketurvakeskus.",
-    "analysis": "Finland's pension system dropped to ninth place in the international Marsh CFA Institute Global Pension Index, despite a slight increase in its overall score driven by rising minimum pensions relative to average wages. While Finland continues to excel in administrative reliability, transparency, and regulation, other nations advanced faster in adequacy and asset accumulation. The high trust in Finland's governance is a structural strength that ensures long-term institutional stability, but systemic pressure on financial sustainability remains a challenge. Policymakers should focus on enhancing investment returns and structural flexibility rather than altering the core administration, ensuring that benefit adequacy does not outpace the economic capacity of the labor market.",
-    "publishedAt": "Tue, 20 Oct 2026 07:38:50 +0300",
-    "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251132",
-    "sourceUrl": "https://yle.fi/a/74-20251132?origin=rss",
-    "title": "More people want to become police officers, but the path often fails due to poor physical fitness or a failed essay",
-    "originalSummary": "Poliisiammattikorkeakoulun hakijamäärä on kasvussa. Valmentavaa koulutusta vuosia antaneiden entisten poliisien mukaan moni kompastuu kirjalliseen osioon.",
-    "analysis": "A record number of applicants are applying to the Police University College in Finland amid declining intake numbers, with physical fitness tests and written essays serving as major bottlenecks. While rigorous standards ensure high-quality recruits, the shrinking quota of student places alongside stringent entrance hurdles risks exacerbating future police shortages. The state should carefully calibrate entrance requirements and training capacities to match societal security needs without unnecessarily filtering out capable candidates.",
-    "publishedAt": "Tue, 20 Oct 2026 06:28:35 +0300",
-    "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252148",
-    "sourceUrl": "https://yle.fi/a/74-20252148?origin=rss",
-    "title": "Leader of Luhanka's turbulent municipal politics steps down, citing impending blindness",
-    "originalSummary": "Luhangan kuntapolitiikka on riitaisaa, ja kunnassa on tullut ilmi häirintätapauksia viime vuosina. Aki Virtaniemi on saanut huomautuksen seksiviesteistään.",
-    "analysis": "Aki Virtaniemi, a prominent National Coalition Party politician in Luhanka, has resigned from all municipal trust positions due to progressive vision loss, while denying that local political friction or past harassment allegations influenced his departure. Virtaniemi's exit removes a central figure from a local administration deeply fractured by administrative conflicts and leadership disputes. Municipal governance relies heavily on health-based continuity, and a leader facing debilitating medical conditions cannot effectively execute complex local oversight or public duties. Transparent transitions and early resignations in the face of incapacitating health issues are necessary to restore administrative functionality and maintain public trust in local democratic institutions.",
-    "publishedAt": "Mon, 19 Oct 2026 19:08:14 +0300",
-    "category": "Local Politics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252213",
-    "sourceUrl": "https://yle.fi/a/74-20252213?origin=rss",
-    "title": "Image of the National Coalition Party Collapsed, SDP Takes First Place – Yle Obtains Parties' Image Comparison",
-    "originalSummary": "Yle sai haltuunsa eduskuntapuolueiden tilaaman imago-tutkimuksen. Mielikuva kokoomuksesta on sen mukaan romahtanut kuuden suurimman puolueen vertailussa huonoimmaksi.",
-    "analysis": "A leaked Verian image survey reveals that the governing National Coalition Party's overall public image has dropped to the worst among Finland's six largest parties, driven by voter perceptions of arrogance and diminished trust, while the opposition SDP maintains the top ranking. This significant drop reflects public dissatisfaction with the current government's political direction and economic austerity measures. Restoring public confidence requires the administration to improve communication transparency and demonstrate tangible policy benefits to citizens rather than relying solely on fiscal consolidation.",
-    "publishedAt": "Mon, 19 Oct 2026 18:41:46 +0300",
-    "category": "Politics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
