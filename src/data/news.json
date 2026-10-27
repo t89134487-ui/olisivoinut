@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20253467",
+    "sourceUrl": "https://yle.fi/a/74-20253467?origin=rss",
+    "title": "Save the Children: Government's social security cuts are felt in the everyday lives of low-income families",
+    "originalSummary": "Pelastakaa Lapset vaati hallitusta arvioimaan sosiaaliturvaleikkausten vaikutukset lapsiin ja perumaan toimet, jotka lisäävät lapsiperheköyhyyttä.",
+    "analysis": "A recent survey by the Save the Children organization reveals that over eighty percent of children in low-income families report a worsened financial situation over the past year, with nearly half attributing this directly to government social security cuts. While fiscal consolidation is necessary to stabilize public finances, concentrating austerity measures on vulnerable households risks exacerbating long-term inequality and child poverty, which ultimately incurs higher societal costs in health and welfare services. Therefore, the government should carefully reassess these specific benefit cuts and introduce targeted mitigations to protect children from the direct impacts of fiscal balancing.",
+    "publishedAt": "Tue, 27 Oct 2026 03:02:04 +0200",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20253376",
+    "sourceUrl": "https://yle.fi/a/74-20253376?origin=rss",
+    "title": "A Host of Measures from the Climate Panel: Fuel Distribution Mandate Up to 100% Increasing Petrol Prices, Forest Logging Under Scrutiny",
+    "originalSummary": "Suomen ilmastopaneeli julkaisi listan keinoista, joita seuraavan hallituksen olisi Suomessa tehtävä päästöjen vähentämiseksi ja hiilinielujen kasvattamiseksi.",
+    "analysis": "The Finnish Climate Change Panel has proposed aggressive policy measures to reach climate targets, including raising the fuel distribution mandate to 100% by 2045, introducing congestion charges, and restricting forestry harvests through enforceable sanctions. While decisive action is needed to restore Finland's declining carbon sinks, an extreme distribution mandate and rigid logging curbs risk imposing severe costs on logistics and vital export industries. Lawmakers should refine this package by prioritizing high-impact, cost-effective steps like rewetting marginal peatlands and accelerating transport electrification, while rejecting overly punitive mandates that undermine economic competitiveness.",
+    "publishedAt": "Tue, 27 Oct 2026 01:00:35 +0200",
+    "category": "Environment",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20253465",
     "sourceUrl": "https://yle.fi/a/74-20253465?origin=rss",
     "title": "Bolsonaro, Who Lost the Election, Intends to Lead the Brazilian Opposition",
@@ -526,27 +548,5 @@
     "category": "Politics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251275",
-    "sourceUrl": "https://yle.fi/a/74-20251275?origin=rss",
-    "title": "Study Voucher Divides Higher Education Institutions – Tamika Martiskainen Welcomes Free Course",
-    "originalSummary": "Erityisesti ammattikorkeakoulut ovat huolissaan siitä, että kokeiluun varatut miljoonat jakautuvat epätasaisesti.",
-    "analysis": "Finland's new 50-million-euro study voucher pilot grants recent secondary graduates free access to open higher education to accelerate transition into degrees. However, early outcomes show clear inefficiencies and deadweight loss, as funds disproportionately benefit traditional universities and academic high school graduates competing for already oversubscribed fields, largely bypassing vocational students. The policy should be improved rather than scrapped: voucher criteria must be better targeted toward vocational graduates and tied directly to credible articulation pathways into degree programs, ensuring public investment actually expands higher education access rather than merely subsidizing existing demand.",
-    "publishedAt": "Mon, 19 Oct 2026 14:31:23 +0300",
-    "category": "Education Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252065",
-    "sourceUrl": "https://yle.fi/a/74-20252065?origin=rss",
-    "title": "Minister of Education Wants to Tighten Access to Homeschooling",
-    "originalSummary": "Kotiopetuksessa olevien oppivelvollisten määrä on kolminkertaistunut vajaassa vuosikymmenessä.",
-    "analysis": "Finnish Minister of Education Anders Adlercreutz has presented a review proposing stricter oversight of homeschooling, including replacing the current notification procedure with municipal administrative approval and enforcing standardized competency evaluations. A surge in homeschoolers combined with a lack of formal degree completion creates legitimate concerns over educational neglect and uneven municipal supervision. Establishing binding national oversight and mandatory annual competence tests should be supported to safeguard children's educational rights, though outright bans should be avoided to preserve parental choice for legitimate individual needs.",
-    "publishedAt": "Mon, 19 Oct 2026 12:55:35 +0300",
-    "category": "Education Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
   }
 ]
