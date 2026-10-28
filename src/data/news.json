@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20249933",
+    "sourceUrl": "https://yle.fi/a/74-20249933?origin=rss",
+    "title": "Stormwater Fees Will Soon Arrive for Residents from Two Different Authorities in Vantaa and Espoo – Resident Association: \"Annoying\"",
+    "originalSummary": "Yhä useampi kunta kuittaa sade- ja sulamisvesistä koituvia kuluja kiinteistönomistajilta perittävillä hulevesimaksuilla.",
+    "analysis": "Municipalities in the Uusimaa region are increasingly implementing stormwater fees to cover the rising costs of managing melt and rainwater, with some cities like Vantaa and Espoo charging residents through both the municipality and the local water utility. While separating these environmental costs from general taxation can improve transparency and create better financial incentives for stormwater management, overlapping collection mechanisms frustrate citizens and increase administrative friction. Local authorities should streamline these fees into a single, unified billing process to reduce public backlash and administrative overhead while maintaining necessary infrastructure funding.",
+    "publishedAt": "Wed, 28 Oct 2026 11:44:16 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20252836",
+    "sourceUrl": "https://yle.fi/a/74-20252836?origin=rss",
+    "title": "Muhos Dismisses Lead Building Inspector Who Suspected Firing Was Retaliation for Google Interview",
+    "originalSummary": "Jultuz Änwär toimi Muhoksen kunnan palveluksessa elokuun alusta asti. Yhdyskuntalautakunta päätti hänen virkasuhteensa purkamisesta maanantaina.",
+    "analysis": "The municipality of Muhos unanimously terminated the probationary employment of its lead building inspector, Jultuz Änwär, following controversy over preparatory works for Google's datacenter project. While officials cited standard suitability assessments, the dismissal raises concerns regarding administrative transparency and the protection of civil servants discussing public interest matters. Protecting independent regulatory oversight is crucial for upholding the rule of law in large industrial investments, and punitive measures against critical officials undermine public trust in local governance.",
+    "publishedAt": "Wed, 28 Oct 2026 09:59:28 +0200",
+    "category": "Public Administration",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20253601",
     "sourceUrl": "https://yle.fi/a/74-20253601?origin=rss",
     "title": "Analysis: Four years ago Stubb said he wouldn't answer Putin – now Stubb called him himself",
@@ -524,28 +546,6 @@
     "analysis": "Former Ministry official Elina Pylkkänen criticizes Finland's heavy reliance on punitive unemployment policies, advocating instead for the Danish flexicurity model that combines weaker dismissal protection, higher unemployment benefits, and active labor market support. Relying solely on tightening benefit conditions fails to address the root causes of structural unemployment and neglects human capital development. Finland should adopt the flexicurity framework, integrating automated social security and targeted technological transfer centers for R&D tax credits, as this shifts the focus toward efficient workforce transitions and sustainable economic growth.",
     "publishedAt": "Wed, 21 Oct 2026 07:39:07 +0300",
     "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252471",
-    "sourceUrl": "https://yle.fi/a/74-20252471?origin=rss",
-    "title": "HS Poll: Finns Party Closes in Further on National Coalition",
-    "originalSummary": "SDP jatkaa suosituimpana puolueena.",
-    "analysis": "The latest Helsingin Sanomat poll reveals that the Finns Party has narrowed the gap with the governing National Coalition Party to under one percentage point, with the Social Democrats remaining the most popular party. This shifting public opinion underscores growing electoral volatility as voters react to ongoing economic pressures and government reforms. Maintaining fiscal discipline while addressing social concerns is vital for restoring voter trust and ensuring long-term legislative stability.",
-    "publishedAt": "Wed, 21 Oct 2026 06:12:52 +0300",
-    "category": "Domestic Politics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251270",
-    "sourceUrl": "https://yle.fi/a/74-20251270?origin=rss",
-    "title": "National Coalition Party Leadership Lured Jutta Urpilainen into Their Ranks: “I Received Several Inquiries”",
-    "originalSummary": "Kokoomuksesta ehdotettiin Urpilaiselle puolueloikkausta. Urpilainen kertoo tuoreessa kirjassaan kokeneensa, että hänet oli jätetty SDP:ssä syrjään.",
-    "analysis": "In her upcoming book, former SDP leader and EU Commissioner Jutta Urpilainen reveals that figures within the National Coalition Party's leadership previously approached her with offers to cross the aisle and join their party. This revelation highlights the fluid nature of political alliances and ideological boundaries within Finnish politics. Attempting to recruit a prominent figure from a rival center-left party reflects strategic maneuvering to consolidate political capital and broaden electoral appeal. While such cross-party overtures are a standard tactical play to weaken opponents and strengthen a party's moderate credentials, they ultimately risk diluting ideological clarity. Political parties should focus on building cohesive platforms rooted in distinct policy visions rather than relying on high-profile recruitment, ensuring that voter trust is maintained through consistent ideological representation.",
-    "publishedAt": "Wed, 21 Oct 2026 00:01:35 +0300",
-    "category": "Politics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
