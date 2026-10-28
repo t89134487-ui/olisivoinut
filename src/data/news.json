@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://yle.fi/a/74-20253804",
+    "sourceUrl": "https://yle.fi/a/74-20253804?origin=rss",
+    "title": "Professor Finds Clear Reasons for Criticism Stubb Received from Denmark",
+    "originalSummary": "Stubbin ja Støren puhelu Putinin kanssa kirvoitti kritiikkiä. Asiantuntijan mukaan puhelu oli sekä voitto Venäjälle että kipeästi tarvittu keskustelunavaus.",
+    "analysis": "President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre faced sharp criticism from Denmark and Sweden after holding a phone call with Russian President Vladimir Putin to address stalled Ukrainian peace negotiations. While critics like Danish Prime Minister Mette Frederiksen labeled the move uncoordinated solo diplomacy that risks handing Russia a propaganda victory, Finnish and Norwegian leaders defended it as pragmatic realpolitik necessary to prevent the conflict from escalating in the North and to ensure Europe remains engaged alongside the United States as winter approaches.\n\nEngaging in direct diplomatic channels with an adversary carries inherent risks of exploitation, yet maintaining independent communication lines is essential when regional security and imminent humanitarian crises in Ukraine hang in the balance. European nations must balance unity with pragmatic urgency to avoid leaving critical peace efforts solely to external actors like the US administration. Therefore, this diplomatic outreach should be supported as a necessary tactical intervention, provided it remains closely coordinated with broader European and Ukrainian priorities.",
+    "publishedAt": "Wed, 28 Oct 2026 17:45:14 +0200",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20253834",
+    "sourceUrl": "https://yle.fi/a/74-20253834?origin=rss",
+    "title": "Espoo is acquiring luxury cars for its executives amid budget cuts – looks bad, politicians say",
+    "originalSummary": "Valtuutettujen mielestä myös johtajien autoedut pitäisi käydä läpi, kun kaupungissa etsitään säästöjä.",
+    "analysis": "The City of Espoo is procuring high-end electric lease cars worth up to four million euros for its leadership amid strict austerity measures and recent layoffs. While honoring existing contractual compensation frameworks provides short-term legal stability, maintaining luxury perks during a fiscal contraction undermines public trust and organizational morale. Local authorities should reform executive compensation by replacing costly vehicle fringe benefits with transparent, performance-based base salaries to align administrative costs with prevailing economic realities.",
+    "publishedAt": "Wed, 28 Oct 2026 17:22:09 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20253288",
+    "sourceUrl": "https://yle.fi/a/74-20253288?origin=rss",
+    "title": "Fortum has eight gigawatts of renewable projects – construction awaits buyers",
+    "originalSummary": "Fortum on myynyt Googlelle puolet Loviisan ydinvoimalan sähkön tuotannosta vuosikymmeniksi. Sähkön kysynnän kasvuun Fortum vastaa lisäämällä tuotantoa.",
+    "analysis": "Fortum's long-term power purchase agreement with Google highlights Finland's attractiveness for energy-intensive industrial investments due to competitive electricity prices. This market-driven approach secures stable cash flows for Fortum, enabling future investments in renewables and nuclear power without heavy reliance on state subsidies. Leveraging private-sector demand to finance clean energy expansion is an efficient mechanism that strengthens Finland's industrial competitiveness while supporting broader green transition goals. This model of market-backed green infrastructure development should be supported as a sustainable alternative to direct public funding.",
+    "publishedAt": "Wed, 28 Oct 2026 17:20:20 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20249933",
     "sourceUrl": "https://yle.fi/a/74-20249933?origin=rss",
     "title": "Stormwater Fees Will Soon Arrive for Residents from Two Different Authorities in Vantaa and Espoo – Resident Association: \"Annoying\"",
@@ -513,39 +546,6 @@
     "analysis": "The European Commission has launched an investigation into Booking.com over potential failures in preventing phishing and fake offers, as well as the unclear labeling of paid search result listings under EU digital market rules. This enforcement action is necessary to protect consumers from digital fraud and ensure fair competition and transparency in the online travel market. The EU should firmly enforce these digital regulations to maintain consumer trust, requiring platforms to clearly distinguish commercial rankings and rigorously filter out fraudulent listings.",
     "publishedAt": "Wed, 21 Oct 2026 13:21:54 +0300",
     "category": "Regulation and Digital Markets",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252327",
-    "sourceUrl": "https://yle.fi/a/74-20252327?origin=rss",
-    "title": "Severe Financial Threat Worked in Kouvola – Fiber Optic Company Speeds Up Cleanup of Excavation Sites",
-    "originalSummary": "Kaupunki päätti kesällä Global Connect -yhtiölle yli 100 000 euron uhkasakosta. Osa summasta voi tulla vielä yhtiön maksettavaksi.",
-    "analysis": "The city of Kouvola successfully leveraged a substantial conditional fine of over 100,000 euros to compel a private fiber optic contractor, Global Connect, to finally complete long-delayed restoration and safety work on public and private grounds. This case demonstrates that strict municipal enforcement mechanisms and financial penalties are highly effective policy instruments for holding private infrastructure providers accountable for public space maintenance. Cities should routinely utilize enforceable financial liabilities to prevent stalled projects, ensuring public safety and minimizing citizen disruption without bearing the financial burden of incomplete private work.",
-    "publishedAt": "Wed, 21 Oct 2026 09:17:06 +0300",
-    "category": "Municipal Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252264",
-    "sourceUrl": "https://yle.fi/a/74-20252264?origin=rss",
-    "title": "Vantaa is terminating municipal family daycare – caregiver describes the process as heavy and sad",
-    "originalSummary": "Vantaalla on nykyisin työsuhteessa 17 kunnallista perhepäivähoitajaa. Päätös liittyy kaupungin muutosneuvotteluihin.",
-    "analysis": "The city of Vantaa is moving to entirely abolish municipal family daycare as part of broader change negotiations, risking the positions of remaining municipal family daycare workers. While aimed at municipal cost-savings, cutting small-scale, home-like care options risks reducing diversity in early childhood education and increasing reliance on institutional alternatives that may not suit all children. Dismantling specialized care models based purely on administrative consolidation is economically and socially inefficient if it degrades service quality and parental trust. The proposal should be rejected in favor of preserving diverse, localized early childhood options that offer high-value care for young children.",
-    "publishedAt": "Wed, 21 Oct 2026 08:23:15 +0300",
-    "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251842",
-    "sourceUrl": "https://yle.fi/a/74-20251842?origin=rss",
-    "title": "Unemployment has been solved the wrong way for years, says economist Elina Pylkkänen who left the Ministry of Employment and the Economy",
-    "originalSummary": "Elina Pylkkänen siirtyi lokakuussa ministeriöstä ammattijärjestön ekonomistiksi. Nyt hän kertoo, miten Suomen työttömyyttä on vuosikaudet hoidettu väärin.",
-    "analysis": "Former Ministry official Elina Pylkkänen criticizes Finland's heavy reliance on punitive unemployment policies, advocating instead for the Danish flexicurity model that combines weaker dismissal protection, higher unemployment benefits, and active labor market support. Relying solely on tightening benefit conditions fails to address the root causes of structural unemployment and neglects human capital development. Finland should adopt the flexicurity framework, integrating automated social security and targeted technological transfer centers for R&D tax credits, as this shifts the focus toward efficient workforce transitions and sustainable economic growth.",
-    "publishedAt": "Wed, 21 Oct 2026 07:39:07 +0300",
-    "category": "Social Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
