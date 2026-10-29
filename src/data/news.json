@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20253767",
+    "sourceUrl": "https://yle.fi/a/74-20253767?origin=rss",
+    "title": "THL would shake up the basis of healthcare funding: diagnosis would weigh less than before",
+    "originalSummary": "Selvityksessä on neljä erilaista mallia, joiden perusteella hyvinvointialueiden rahoitusta voitaisiin jakaa. Nykymalli on vääristänyt alueiden rahoitusta.",
+    "analysis": "The Finnish Institute for Health and Welfare proposes reforming wellbeing services counties' funding model by reducing the weight of diagnoses and focusing more on broader demographic needs and chronic conditions to curb perverse incentives. While diagnosis-based funding has led to administrative gaming and revenue volatility, shifting toward a simpler, needs-based model is essential for financial stability and equitable service delivery. Policymakers should support this structural overhaul to eliminate zero-sum budget games and ensure predictable, equitable resource allocation across all regions.",
+    "publishedAt": "Thu, 29 Oct 2026 00:01:35 +0200",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20253804",
     "sourceUrl": "https://yle.fi/a/74-20253804?origin=rss",
     "title": "Professor Finds Clear Reasons for Criticism Stubb Received from Denmark",
@@ -535,17 +546,6 @@
     "analysis": "President Alexander Stubb detailed high-level diplomatic efforts in Oslo involving Finland, Norway, Ukraine, and US envoy Steve Witkoff to align Western peace strategies and establish bilateral or trilateral talks addressing core territorial questions and US security guarantees. Engaging the US, Ukraine, and Russia directly is a necessary diplomatic prerequisite for any sustainable settlement, as excluding key actors undermines the credibility of security architectures. This multi-track mediation approach should be strongly supported to bridge transatlantic differences and ensure European security interests are actively factored into the eventual postwar framework.",
     "publishedAt": "Wed, 21 Oct 2026 13:30:35 +0300",
     "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252573",
-    "sourceUrl": "https://yle.fi/a/74-20252573?origin=rss",
-    "title": "EU investigates Booking.com for alleged cybersecurity and transparency violations",
-    "originalSummary": "",
-    "analysis": "The European Commission has launched an investigation into Booking.com over potential failures in preventing phishing and fake offers, as well as the unclear labeling of paid search result listings under EU digital market rules. This enforcement action is necessary to protect consumers from digital fraud and ensure fair competition and transparency in the online travel market. The EU should firmly enforce these digital regulations to maintain consumer trust, requiring platforms to clearly distinguish commercial rankings and rigorously filter out fraudulent listings.",
-    "publishedAt": "Wed, 21 Oct 2026 13:21:54 +0300",
-    "category": "Regulation and Digital Markets",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
