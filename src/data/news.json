@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20253873",
+    "sourceUrl": "https://yle.fi/a/74-20253873?origin=rss",
+    "title": "Will There Be an Engagement? The EU and Canada's Romance Takes a New Step",
+    "originalSummary": "EU-johtajat matkustavat Kanadaan syventämään liekkeihin roihahtanutta rakkautta.",
+    "analysis": "The article examines the deepening diplomatic and economic ties between the EU and Canada, including potential associate membership for Canada, the ratification of long-pending free trade agreements, and cooperation in AI, critical minerals, and support for Ukraine. Finland's strong public backing and shared strategic interests with Canada highlight the geopolitical necessity of multilateral alliances in an unstable global environment. Deepening this institutional partnership enhances Western democratic resilience and trade security, making the proposed integration a pragmatic and mutually beneficial policy path that should be strongly supported.",
+    "publishedAt": "Thu, 29 Oct 2026 08:02:35 +0200",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20253767",
     "sourceUrl": "https://yle.fi/a/74-20253767?origin=rss",
     "title": "THL would shake up the basis of healthcare funding: diagnosis would weigh less than before",
@@ -535,17 +546,6 @@
     "analysis": "Members of the trade union JHL are launching a strike at the private parking enforcement company Parkkipate due to the lack of a collective agreement and the employer's alleged unwillingness to negotiate. Labor disputes in unregulated private sectors highlight the ongoing tension between market competitiveness and standard labor protections. Establishing baseline collective agreements is essential for ensuring fair compensation and stable labor relations, which ultimately benefit both workers and industry standards. Therefore, institutional support for structured collective bargaining in this sector is justified to prevent market imbalances and secure equitable labor conditions.",
     "publishedAt": "Wed, 21 Oct 2026 15:01:40 +0300",
     "category": "Labor Market",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252512",
-    "sourceUrl": "https://yle.fi/a/74-20252512?origin=rss",
-    "title": "Stubb Outlined European Goals: Ukraine, Russia, and the United States Must Be Brought to Negotiate on Territorial Issues",
-    "originalSummary": "Stubb puhuu Atlantti-seuran tilaisuudessa Helsingin yliopistolla.",
-    "analysis": "President Alexander Stubb detailed high-level diplomatic efforts in Oslo involving Finland, Norway, Ukraine, and US envoy Steve Witkoff to align Western peace strategies and establish bilateral or trilateral talks addressing core territorial questions and US security guarantees. Engaging the US, Ukraine, and Russia directly is a necessary diplomatic prerequisite for any sustainable settlement, as excluding key actors undermines the credibility of security architectures. This multi-track mediation approach should be strongly supported to bridge transatlantic differences and ensure European security interests are actively factored into the eventual postwar framework.",
-    "publishedAt": "Wed, 21 Oct 2026 13:30:35 +0300",
-    "category": "Foreign Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
