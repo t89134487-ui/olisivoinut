@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://yle.fi/a/74-20253969",
+    "sourceUrl": "https://yle.fi/a/74-20253969?origin=rss",
+    "title": "Alexander Stubb as guest on Ykkösaamu – what do you want to ask?",
+    "originalSummary": "Presidentti Stubb ja Norjan pääministeri Jonas Gahr Støre soittivat Venäjän presidentti Vladimir Putinille. Miksi puhelu Moskovaan soitettiin?",
+    "analysis": "President Alexander Stubb's upcoming interview addresses the controversial phone call made by Finnish and Norwegian leadership to Russia, which drew mixed reactions from Nordic allies. Engaging directly with foreign adversaries requires balancing diplomatic dialogue with allied unity, raising questions about the strategic utility of unilateral outreach. While maintaining communication channels can prevent escalation, such actions must be carefully coordinated within the Nordic and Western architecture to avoid signaling division. Therefore, such diplomatic initiatives should be supported only when tightly synchronized with collective security strategies to maximize leverage and prevent diplomatic friction among close partners.",
+    "publishedAt": "Thu, 29 Oct 2026 15:16:20 +0200",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20254076",
+    "sourceUrl": "https://yle.fi/a/74-20254076?origin=rss",
+    "title": "The Finnish Defense Forces Test VR Glasses in Drone Defense Training",
+    "originalSummary": "Suomalaisen Varjon VR-lasien ympärille rakennettua simulaatioympäristöä on rakennettu keväästä lähtien. Varjo kertoo tuovansa laitetuotannon Suomeen.",
+    "analysis": "The Finnish Defense Forces have partnered with virtual reality company Varjo to train soldiers in countering drone threats using advanced XR-4 headsets, marking the inaugural project of the military's new innovation unit. Integrating immersive virtual simulations into combat readiness addresses the urgent tactical realities of modern warfare where rapid reaction to airborne hazards is critical. This initiative represents a highly efficient and cost-effective method for scaling realistic combat training while leveraging domestic technological expertise. The collaboration should be strongly supported, as it directly enhances national defense capabilities and secures critical security-of-supply chains by localizing production.",
+    "publishedAt": "Thu, 29 Oct 2026 15:12:40 +0200",
+    "category": "Defense",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20253971",
+    "sourceUrl": "https://yle.fi/a/74-20253971?origin=rss",
+    "title": "European Central Bank President Christine Lagarde Explains Reasons for Resignation: \"I Want to Express My Opinions More Freely\"",
+    "originalSummary": "Pääjohtaja Lagarde jättää paikkansa hetkellä, jolloin euroalueella on uuden rahoituskriisin vaara. Lue tästä jutusta, mitä hänen lähtönsä merkitsee.",
+    "analysis": "European Central Bank President Christine Lagarde is stepping down early in February to speak freely on non-monetary issues, coinciding with French political instability and potential succession battles ahead of French presidential elections. Central bank independence is vital for credible monetary policy, and synchronizing leadership changes with domestic political cycles risks compromising the institution's perceived neutrality. The early departure should be managed carefully to ensure that the ECB's governance remains insulated from partisan pressures, preserving long-term macroeconomic stability across the eurozone.",
+    "publishedAt": "Thu, 29 Oct 2026 15:02:19 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20253873",
     "sourceUrl": "https://yle.fi/a/74-20253873?origin=rss",
     "title": "Will There Be an Engagement? The EU and Canada's Romance Takes a New Step",
@@ -513,39 +546,6 @@
     "analysis": "The Enontekiö municipal council decided to return its proposed new strategy slogan, \"Enontekiö – son Suomen Monaco,\" for re-preparation after sparking largely negative public debate. While the broader municipal strategy was approved, the rejected branding highlights the friction between provocative municipal marketing and public consensus. Utilizing sensationalist branding can mobilize civic engagement, but local identity is better served by authentic representation rather than hyperbolic comparisons. Municipalities should pursue inclusive ideation processes, such as open competitions, to ensure that public branding genuinely reflects local strengths and secures broad community backing.",
     "publishedAt": "Wed, 21 Oct 2026 20:43:15 +0300",
     "category": "Regional Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252104",
-    "sourceUrl": "https://yle.fi/a/74-20252104?origin=rss",
-    "title": "Veteran Police Officer Demands Action from Decision-Makers: How People Could Be Searched Without a Crime Suspicion",
-    "originalSummary": "Tanskassa ja Ruotsissa poliisi voi tietyillä alueilla pysäyttää ja tarkastaa ihmisiä.",
-    "analysis": "A veteran Finnish police officer calls for the adoption of security zones modeled after Sweden and Denmark, granting police the authority to conduct personal searches without a prior crime suspicion to combat rising gang violence. Implementing targeted stop-and-search zones can enhance preventative policing by disrupting criminal networks and firearm trafficking early, provided safeguards are established to prevent overreach. Such temporary, geographically limited enforcement tools should be supported to proactively protect public safety before decentralized criminal networks become entrenched.",
-    "publishedAt": "Wed, 21 Oct 2026 20:01:42 +0300",
-    "category": "Justice and Security",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251658",
-    "sourceUrl": "https://yle.fi/a/74-20251658?origin=rss",
-    "title": "Helsinki's Auditor Generates Millions in Extra Business with the City – Authorities See Risks in the Phenomenon",
-    "originalSummary": "Helsingin palveluostot sen tilintarkastajalta KPMG:ltä ovat kasvaneet räjähdysmäisesti, vaikka laki vaatii riippumattomuutta.",
-    "analysis": "The article highlights a growing conflict of interest where KPMG, Helsinki's auditor, earns millions from non-audit consulting services provided to the city, prompting regulatory concerns about independence. While statutory rules restrict such practices in financial and listed sectors, public bodies lack equivalent caps. This creates a clear threat to the impartiality and oversight functions essential for public auditing. To safeguard democratic accountability and public trust, regulations governing public sector audits should mirror stricter EU-level rules applied to financial institutions, capping non-audit services to prevent potential conflicts of interest.",
-    "publishedAt": "Wed, 21 Oct 2026 19:05:15 +0300",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252601",
-    "sourceUrl": "https://yle.fi/a/74-20252601?origin=rss",
-    "title": "Parkkipate employees to go on strike",
-    "originalSummary": "Ammattiliitto JHL:n mukaan voittoa tekevässä yhtiössä ei ole voimassa olevaa työehtosopimusta.",
-    "analysis": "Members of the trade union JHL are launching a strike at the private parking enforcement company Parkkipate due to the lack of a collective agreement and the employer's alleged unwillingness to negotiate. Labor disputes in unregulated private sectors highlight the ongoing tension between market competitiveness and standard labor protections. Establishing baseline collective agreements is essential for ensuring fair compensation and stable labor relations, which ultimately benefit both workers and industry standards. Therefore, institutional support for structured collective bargaining in this sector is justified to prevent market imbalances and secure equitable labor conditions.",
-    "publishedAt": "Wed, 21 Oct 2026 15:01:40 +0300",
-    "category": "Labor Market",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
