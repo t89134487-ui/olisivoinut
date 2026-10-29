@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://yle.fi/a/74-20254128",
+    "sourceUrl": "https://yle.fi/a/74-20254128?origin=rss",
+    "title": "Tytti Tuppurainen on A-talk: We do not rule out examining certain indices",
+    "originalSummary": "Valtiovarainministeriön kartoituksia on tarkoitus käyttää ensi kevään hallitusneuvottelujen apuna.",
+    "analysis": "Finnish political parties debate a massive 8 to 11 billion euro adjustment for the upcoming parliamentary term, focusing heavily on spending cuts, index freezes, and corporate subsidies proposed by the Ministry of Finance. Reviewing automatic index-linked spending is a fiscally responsible mechanism to curb structural deficits, as rigid automatic increases often disconnect public spending from broader economic realities. Freezing or selectively modifying these indices should be supported to ensure long-term fiscal sustainability without exclusively targeting vulnerable demographics or essential public services.",
+    "publishedAt": "Thu, 29 Oct 2026 20:30:35 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20253977",
+    "sourceUrl": "https://yle.fi/a/74-20253977?origin=rss",
+    "title": "Analysis: Timo Jutila is already a rarity, few celebrities bother to run for office anymore",
+    "originalSummary": "Kansanedustajuus ei houkuttele enää julkkiksia. Samaan aikaan Suomessa olisi syytä pohtia, riittäisikö vähempikin lainsäätäjämäärä.",
+    "analysis": "The article discusses the declining trend of celebrity candidates in Finnish parliamentary elections, driven by a harsher political climate, increased social media scrutiny, and the demanding nature of legislative work. While some celebrity candidates successfully transition into capable lawmakers or ministers, the overall decrease reflects a necessary shift toward candidates equipped with long-term commitment and analytical endurance. The diminishing presence of non-traditional candidates is a positive development that elevates the professional standards of parliament, as governance requires rigorous policy expertise and resilience rather than mere name recognition. Consequently, the trend toward policy-focused professionals over superficial popularity contests should be welcomed to ensure higher legislative competence.",
+    "publishedAt": "Thu, 29 Oct 2026 20:03:52 +0200",
+    "category": "Politics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20254016",
+    "sourceUrl": "https://yle.fi/a/74-20254016?origin=rss",
+    "title": "Employees Must Soon Be Informed of the Basis of Their Salary",
+    "originalSummary": "Hallituksen esitys EU:n palkka-avoimuusdirektiivin hyväksymisestä on eduskunnan käsittelyssä.",
+    "analysis": "The upcoming EU pay transparency directive will require Finnish employers to disclose starting salaries or salary ranges in job advertisements and prohibit asking about a candidate's salary history. This regulatory shift enhances market transparency and reduces information asymmetries between employers and job seekers, which generally improves labor market efficiency. Such mandates should be supported as they foster fairer compensation practices, reduce unjustified wage gaps, and strengthen employee bargaining power without imposing excessive administrative burdens on firms.",
+    "publishedAt": "Thu, 29 Oct 2026 19:55:55 +0200",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20254103",
+    "sourceUrl": "https://yle.fi/a/74-20254103?origin=rss",
+    "title": "Human trafficking victim Grace and her children face deportation to Nigeria, reports Yle",
+    "originalSummary": "Nigerialainen nainen pakeni lastensa kanssa väkivaltaisia parittajia Suomeen. Maahanmuuttoviraston mukaan heidät voidaan turvallisesti palauttaa Nigeriaan.",
+    "analysis": "The Finnish Immigration Service plans to deport a recognized Nigerian human trafficking victim and her children, despite legal challenges and concerns over lack of support networks in Nigeria. This case highlights the friction between Finland's tightened asylum policies and the humanitarian protection needs of vulnerable trafficking victims. While administrative efficiency in processing immigration decisions is necessary, rigid deportation policies risk exposing vulnerable individuals to renewed harm and undermine broader human rights commitments. The deportation order should be suspended to allow a more thorough assessment of the family's actual safety risks and the children's best interests.",
+    "publishedAt": "Thu, 29 Oct 2026 19:24:57 +0200",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20254126",
+    "sourceUrl": "https://yle.fi/a/74-20254126?origin=rss",
+    "title": "Cold Shower from China on Pork Exports – ”Take Care of the Disease, Then We Can Continue Negotiations”",
+    "originalSummary": "Kiina pitää sianlihan vientitiet suljettuina afrikkalaisen sikaruton vuoksi. Lintuinfluenssaneuvottelut Suomen kanssa etenevät.",
+    "analysis": "China has halted negotiations regarding Finnish pork exports following an outbreak of African swine fever, demanding the disease be eradicated before talks resume and refusing to accept regionalized export models. This poses a significant economic challenge for Finland's agricultural sector, as specific cuts traditionally exported to Asian markets cannot easily be redirected domestically or to new international destinations due to stringent regulatory hurdles. While biosecurity and disease eradication must remain the absolute priority for public health and agricultural integrity, diplomatic efforts should focus on expanding alternative markets and advocating for science-based regionalization standards internationally to mitigate heavy losses for domestic producers.",
+    "publishedAt": "Thu, 29 Oct 2026 19:03:59 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20253969",
     "sourceUrl": "https://yle.fi/a/74-20253969?origin=rss",
     "title": "Alexander Stubb as guest on Ykkösaamu – what do you want to ask?",
@@ -491,61 +546,6 @@
     "analysis": "Cooperation negotiations in the city of Tornio have concluded with plans to reduce personnel by up to 28 full-time equivalents and alter employment terms for nearly 60 workers, aiming to save roughly 1.1 million euros annually to combat a projected multi-million euro deficit. Municipal expenditure adjustments are fundamentally necessary to address structural deficits driven by unfavourable economic forecasts, ensuring local government fiscal sustainability. While these painful labor reductions directly impact municipal workers, the underlying budget consolidation must be supported to maintain long-term financial stability and prevent even harsher cuts in essential public services.",
     "publishedAt": "Thu, 22 Oct 2026 12:46:27 +0300",
     "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252662",
-    "sourceUrl": "https://yle.fi/a/74-20252662?origin=rss",
-    "title": "Petteri Orpo is in Ukraine",
-    "originalSummary": "Ponnistelut rauhan saamiseksi Ukrainaan ovat tiivistyneet tällä viikolla.",
-    "analysis": "Prime Minister Petteri Orpo is visiting Ukraine amidst intensified international diplomatic efforts involving Finnish leadership to secure peace. Sustained high-level engagement reinforces Finland's strategic commitment to European security and diplomatic resolution. This active diplomatic posture is essential for aligning international peace initiatives with regional security interests, and the visit should be supported to maintain a strong, unified European stance supporting Ukrainian sovereignty.",
-    "publishedAt": "Thu, 22 Oct 2026 08:31:58 +0300",
-    "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252154",
-    "sourceUrl": "https://yle.fi/a/74-20252154?origin=rss",
-    "title": "New Data: Severe Basic Social Assistance Cuts Hit Men in Small Localities Particularly Hard",
-    "originalSummary": "Kela ohjasi yli 50 000 tuensaajaa joko työllisyyspalveluihin tai hakemaan ensisijaisia etuuksia. Kumpaakin kehotusta noudatti 12 500 ihmistä.",
-    "analysis": "Recent data from Kela shows that tightened basic social assistance conditions, including benefit cuts for failing to register as jobseekers, disproportionately impact men in small rural municipalities. While the sanctions have successfully directed some younger adults toward primary benefits, persistent cuts among marginalized groups highlight difficulties in reaching individuals with complex life management challenges. From a policy perspective, conditional welfare mechanisms effectively incentivize compliance among able-bodied recipients, but stricter enforcement must be carefully balanced with proactive social support to prevent chronic destitution among vulnerable populations who struggle to navigate bureaucratic requirements.",
-    "publishedAt": "Thu, 22 Oct 2026 08:30:35 +0300",
-    "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252562",
-    "sourceUrl": "https://yle.fi/a/74-20252562?origin=rss",
-    "title": "The Finns Party to Release Its Adjustment List on Thursday, Here Are the Proposals Heard from Other Parties",
-    "originalSummary": "Velkajarruun sitoutuneista puolueista vain kokoomus on esitellyt sopeutuslistansa. Myös vasemmistoliitto on kertonut, miten se hoitaisi julkista taloutta.",
-    "analysis": "Finnish political parties are outlining competing strategies to meet the upcoming electoral term's 8 to 11 billion euro debt-brake adjustment target, ranging from the National Coalition Party's pure spending cuts to the Left Alliance's tax-based consolidation. Relying solely on either deep expenditure cuts or aggressive tax hikes risks damaging core public services or stifling economic growth, respectively. A balanced consolidation strategy combining targeted expenditure restraint with growth-friendly structural reforms is essential to achieve fiscal sustainability without undermining Finland's long-term economic competitiveness.",
-    "publishedAt": "Thu, 22 Oct 2026 05:30:52 +0300",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252565",
-    "sourceUrl": "https://yle.fi/a/74-20252565?origin=rss",
-    "title": "Labore Report: Employed Workers' Purchasing Power Recovers, Unemployed Lack Funds for a Reasonable Standard of Living",
-    "originalSummary": "Grafiikat näyttävät, miten työssäkäyvien ja työttömien ostovoima erkaantuu rajusti tulevina vuosina.",
-    "analysis": "A report by the Labore Institute indicates a sharp divergence in Finnish purchasing power, driven by recent government income tax cuts benefiting wage earners and significant reductions to unemployment benefits. While lowering labor taxation enhances incentives to work and bolsters economic activity, aggressively slashing the safety net below basic subsistence budgets threatens long-term employability, mental well-being, and social cohesion. Policymakers should refine these cuts by establishing an adequate floor for basic security, ensuring that fiscal consolidation does not permanently degrade the human capital necessary for an effective labor supply.",
-    "publishedAt": "Thu, 22 Oct 2026 00:01:39 +0300",
-    "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252665",
-    "sourceUrl": "https://yle.fi/a/74-20252665?origin=rss",
-    "title": "\"Finland's Monaco\" was rejected by the Enontekiö municipal council",
-    "originalSummary": "Enontekiön valtuusto päätti jatkaa kunnan uuden sloganin työstämistä. ”Enontekiö – son Suomen Monaco” -lauseesta on tullut liian paljon negatiivista palautetta.",
-    "analysis": "The Enontekiö municipal council decided to return its proposed new strategy slogan, \"Enontekiö – son Suomen Monaco,\" for re-preparation after sparking largely negative public debate. While the broader municipal strategy was approved, the rejected branding highlights the friction between provocative municipal marketing and public consensus. Utilizing sensationalist branding can mobilize civic engagement, but local identity is better served by authentic representation rather than hyperbolic comparisons. Municipalities should pursue inclusive ideation processes, such as open competitions, to ensure that public branding genuinely reflects local strengths and secures broad community backing.",
-    "publishedAt": "Wed, 21 Oct 2026 20:43:15 +0300",
-    "category": "Regional Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
