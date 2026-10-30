@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20254246",
+    "sourceUrl": "https://yle.fi/a/74-20254246?origin=rss",
+    "title": "Adlercreutz aims to bring STT's situation to the government table: \"I hope alternatives can still be reviewed\"",
+    "originalSummary": "Suomen tietotoimiston uutistoiminta on päättymässä maaliskuussa. 139 vuotta toiminut STT kertoi eilen irtisanovansa lähes kaikki työntekijänsä.",
+    "analysis": "Minister of Education Anders Adlercreutz and other politicians are calling for government action to address the impending closure of Finland's national news agency STT, citing its critical role in national security and information integrity. While market failures challenge the commercial viability of legacy news agencies, state intervention risks propping up uncompetitive structures. However, given STT's foundational role in supporting regional media and mitigating disinformation, targeted policy measures to safeguard core national news infrastructure are justified. Policymakers should support a temporary, transparent transition framework to secure domestic news plurality without creating permanent state dependency.",
+    "publishedAt": "Fri, 30 Oct 2026 17:36:12 +0200",
+    "category": "Media Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20254198",
     "sourceUrl": "https://yle.fi/a/74-20254198?origin=rss",
     "title": "Finland remained at the top of EU unemployment statistics in September",
@@ -535,17 +546,6 @@
     "analysis": "Finland's entire parliamentary opposition has united to file an interpellation challenging the government over rising living costs, specifically targeting fuel prices, healthcare fee hikes, and potential electricity price increases linked to data center expansion. While the government defends its recent support package and points to previous policy inconsistencies by the opposition, targeted relief measures often fail to address deeper structural economic pressures efficiently. Opposition interpellations serve a vital parliamentary function to hold the executive accountable, but the proposed policy adjustments regarding fuel and healthcare must be carefully weighed against broader fiscal sustainability rather than relying on short-term subsidies that distort market pricing.",
     "publishedAt": "Thu, 22 Oct 2026 18:48:29 +0300",
     "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252820",
-    "sourceUrl": "https://yle.fi/a/74-20252820?origin=rss",
-    "title": "SDP Criticizes Finns Party's Austerity List: \"Right-Wing Parties Are Attacking Finnish Pensioners' Wallets\"",
-    "originalSummary": "Oppositiopuolueiden mukaan perussuomalaisten ehdotus leikata eläkkeitä lisää epävarmuutta ja rapauttaa suomalaisten luottamusta.",
-    "analysis": "The Finns Party proposed a nine billion euro fiscal adjustment plan for the next parliamentary term, featuring a 1.6 billion euro saving target on pensions by capping annual index increases for pensions exceeding 2,000 euros. Opposition parties, including the SDP, Centre Party, Greens, and Left Alliance, heavily criticized the measures for targeting pensions, welfare, and public services while excluding tax increases on high earners. Targeting pension indexing is a structurally logical method to curb long-term public spending growth in aging societies, yet doing so abruptly risks undermining social trust and intergenerational contract stability. Such pension adjustments should ideally be balanced with broader structural reforms rather than implemented in isolation.",
-    "publishedAt": "Thu, 22 Oct 2026 18:25:07 +0300",
-    "category": "Social Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
