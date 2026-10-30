@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20254198",
+    "sourceUrl": "https://yle.fi/a/74-20254198?origin=rss",
+    "title": "Finland remained at the top of EU unemployment statistics in September",
+    "originalSummary": "Suomen työttömyys synkkeni vuoden heikoimmalle tasolle EU:ssa. Suomi, Espanja ja Ruotsi olivat syyskuussa yhä pahimmat työttömyysmaat EU:ssa.",
+    "analysis": "Finland's unemployment rate rose to 11 percent in September, placing the country at the top of the EU unemployment rankings once again. Persistently high unemployment highlights structural rigidities in the Finnish labor market and points to lagging economic momentum compared to the EU average. Addressing this disparity requires a renewed focus on growth-oriented structural reforms, targeted employment incentives, and reduced regulatory barriers to hiring. Policymakers should prioritize labor market flexibility and skills matching to stimulate job creation and reduce long-term structural joblessness.",
+    "publishedAt": "Fri, 30 Oct 2026 12:04:17 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20254205",
+    "sourceUrl": "https://yle.fi/a/74-20254205?origin=rss",
+    "title": "Old Rauma Detailed Plan Remains in Force – Appeals Dismissed",
+    "originalSummary": "Turun hallinto-oikeuteen tehtiin yhdeksän valitusta Vanhan-Rauman asemakaavamuutoksesta.",
+    "analysis": "The Turku Administrative Court upheld Rauma's detailed town plan, ruling that the municipality can mandate comprehensive interior protections across roughly 600 historic buildings without individual inventories due to the area's UNESCO World Heritage status. Protecting entire historic milieus en bloc prevents the gradual erosion of cultural heritage and avoids the prohibitive costs and delays of inspecting every private interior prior to zoning. However, blanket restrictions without inventorying impose significant limits on property rights and complicate routine maintenance for owners. The policy strikes an acceptable balance given the exceptional global heritage value, but the municipality should provide streamlined, transparent permit procedures to minimize friction for property owners.",
+    "publishedAt": "Fri, 30 Oct 2026 10:46:32 +0200",
+    "category": "Urban Planning",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20254128",
     "sourceUrl": "https://yle.fi/a/74-20254128?origin=rss",
     "title": "Tytti Tuppurainen on A-talk: We do not rule out examining certain indices",
@@ -524,28 +546,6 @@
     "analysis": "The Finns Party proposed a nine billion euro fiscal adjustment plan for the next parliamentary term, featuring a 1.6 billion euro saving target on pensions by capping annual index increases for pensions exceeding 2,000 euros. Opposition parties, including the SDP, Centre Party, Greens, and Left Alliance, heavily criticized the measures for targeting pensions, welfare, and public services while excluding tax increases on high earners. Targeting pension indexing is a structurally logical method to curb long-term public spending growth in aging societies, yet doing so abruptly risks undermining social trust and intergenerational contract stability. Such pension adjustments should ideally be balanced with broader structural reforms rather than implemented in isolation.",
     "publishedAt": "Thu, 22 Oct 2026 18:25:07 +0300",
     "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252611",
-    "sourceUrl": "https://yle.fi/a/74-20252611?origin=rss",
-    "title": "Jussi Halla-aho as guest on Ykkösaamu – what do you want to ask?",
-    "originalSummary": "",
-    "analysis": "Parliament Speaker Jussi Halla-aho appeared on Yle's Ykkösaamua to discuss the prospects for peace in Ukraine and the necessary conditions and concessions required from the warring parties. Engaging in high-level diplomatic assessments regarding international conflicts is crucial for aligning foreign policy stances with geopolitical realities. Halla-aho's expertise provides a realistic framework for evaluating security guarantees and territorial integrity, which should be supported to ensure that any future peace negotiations do not reward aggression or compromise European stability.",
-    "publishedAt": "Thu, 22 Oct 2026 13:31:00 +0300",
-    "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252797",
-    "sourceUrl": "https://yle.fi/a/74-20252797?origin=rss",
-    "title": "Tornio's Cooperation Negotiations: Up to 28 Could Lose Their Jobs",
-    "originalSummary": "Tornio hakee säästöjä, sillä vuosien 2027–2029 ennusteen mukaan kaupungin talous on yli 20 miljoonaa euroa alijäämäinen.",
-    "analysis": "Cooperation negotiations in the city of Tornio have concluded with plans to reduce personnel by up to 28 full-time equivalents and alter employment terms for nearly 60 workers, aiming to save roughly 1.1 million euros annually to combat a projected multi-million euro deficit. Municipal expenditure adjustments are fundamentally necessary to address structural deficits driven by unfavourable economic forecasts, ensuring local government fiscal sustainability. While these painful labor reductions directly impact municipal workers, the underlying budget consolidation must be supported to maintain long-term financial stability and prevent even harsher cuts in essential public services.",
-    "publishedAt": "Thu, 22 Oct 2026 12:46:27 +0300",
-    "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
