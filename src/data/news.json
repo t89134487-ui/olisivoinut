@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20254428",
+    "sourceUrl": "https://yle.fi/a/74-20254428?origin=rss",
+    "title": "Handling fee required for e-commerce purchases from outside the EU",
+    "originalSummary": "Tullauksen yhteydessä maksettava käsittelymaksu ei tule asiakkaan maksettavaksi, jos tavaran myyjä kuuluu IOSS-järjestelmään.",
+    "analysis": "Finnish Customs has implemented a two-euro handling fee for all e-commerce shipments arriving from outside the European Union, aiming to curb the exponential growth of low-cost imports and overconsumption. While the fee creates administrative friction, it helps level the playing field for domestic and EU-based retailers by removing unfair cost advantages associated with cheap foreign imports. This policy should be supported as a necessary environmental and economic measure to disincentivize unsustainable consumption patterns, provided that digital customs processes remain streamlined for compliant sellers using the IOSS system.",
+    "publishedAt": "Sun, 01 Nov 2026 02:09:50 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20254246",
     "sourceUrl": "https://yle.fi/a/74-20254246?origin=rss",
     "title": "Adlercreutz aims to bring STT's situation to the government table: \"I hope alternatives can still be reviewed\"",
@@ -535,17 +546,6 @@
     "analysis": "Public and Welfare Sectors Union JHL warns that potential layoffs affecting a third of the workforce in Hamina-Kotka port's mooring services could compromise port security due to increased subcontracting and unverified backgrounds. While port authorities attribute the change negotiations to the end of Russian fertilizer transport and EU port services regulations, relying on external labor in critical maritime infrastructure poses legitimate national security vulnerabilities. Therefore, outsourcing these vital functions should be restricted, and background checks must remain rigorous to safeguard critical logistics hubs against potential security threats.",
     "publishedAt": "Thu, 22 Oct 2026 19:11:21 +0300",
     "category": "Transport and Security Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252903",
-    "sourceUrl": "https://yle.fi/a/74-20252903?origin=rss",
-    "title": "Entire Opposition Demands Government Answer on Gasoline Prices, Healthcare Fee Increases, and Electricity Price Risks",
-    "originalSummary": "Hallitus saa jälleen vastattavakseen välikysymyksen eduskunnassa. Oppositio kysyy SDP:n aloitteesta hallituksen toimista arjen kustannusten helpottamiseksi.",
-    "analysis": "Finland's entire parliamentary opposition has united to file an interpellation challenging the government over rising living costs, specifically targeting fuel prices, healthcare fee hikes, and potential electricity price increases linked to data center expansion. While the government defends its recent support package and points to previous policy inconsistencies by the opposition, targeted relief measures often fail to address deeper structural economic pressures efficiently. Opposition interpellations serve a vital parliamentary function to hold the executive accountable, but the proposed policy adjustments regarding fuel and healthcare must be carefully weighed against broader fiscal sustainability rather than relying on short-term subsidies that distort market pricing.",
-    "publishedAt": "Thu, 22 Oct 2026 18:48:29 +0300",
-    "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
