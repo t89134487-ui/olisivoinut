@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20252359",
+    "sourceUrl": "https://yle.fi/a/74-20252359?origin=rss",
+    "title": "Why These Nurses Left for Norway and Won't Return to Finland Permanently – Behind It Are These Weighty Reasons",
+    "originalSummary": "Tilastojen mukaan satakunta suomalaista sairaanhoitajaa käy vuosittain töissä Norjassa. Ulkomaille heitä houkuttelee parempi palkka ja työolot.",
+    "analysis": "Finnish healthcare professionals are increasingly migrating to Norway due to better wages, flexible work cultures, and less professional burnout compared to Finland's strained wellbeing services counties. This talent drain highlights systemic inefficiencies in Finland's public healthcare management, where heavy workloads and rigid scheduling alienate experienced staff. Finland must urgently reform healthcare working conditions, improve wage competitiveness, and grant nurses greater autonomy over rosters to stem the ongoing loss of essential medical personnel to neighboring Nordic countries.",
+    "publishedAt": "Sun, 01 Nov 2026 13:01:35 +0200",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20254428",
     "sourceUrl": "https://yle.fi/a/74-20254428?origin=rss",
     "title": "Handling fee required for e-commerce purchases from outside the EU",
@@ -535,17 +546,6 @@
     "analysis": "Finnish technology companies Iceye and Nokia signed a memorandum of understanding with Ukraine's Ministry of Defense to support the development of independent and secure satellite communication systems. This initiative coincides with Prime Minister Petteri Orpo's visit to Ukraine and addresses critical operational needs highlighted by front-line disruptions. Strengthening Ukraine's independent communication infrastructure is vital for its defense capability and resilience against foreign interference. Public-private partnerships leveraging Finnish technological expertise should be strongly supported, as they enhance allied security cooperation while demonstrating industrial leadership in critical infrastructure domains.",
     "publishedAt": "Thu, 22 Oct 2026 21:01:36 +0300",
     "category": "Foreign Policy and Defense",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252855",
-    "sourceUrl": "https://yle.fi/a/74-20252855?origin=rss",
-    "title": "Trade Union JHL Considers Potential Layoffs at Hamina-Kotka Port a Security Risk",
-    "originalSummary": "HaminaKotka Satama oy saattaa irtisanoa kolmanneksen työntekijöistään muutosneuvotteluissa. JHL kertoo neuvotteluiden olevan loppusuoralla.",
-    "analysis": "Public and Welfare Sectors Union JHL warns that potential layoffs affecting a third of the workforce in Hamina-Kotka port's mooring services could compromise port security due to increased subcontracting and unverified backgrounds. While port authorities attribute the change negotiations to the end of Russian fertilizer transport and EU port services regulations, relying on external labor in critical maritime infrastructure poses legitimate national security vulnerabilities. Therefore, outsourcing these vital functions should be restricted, and background checks must remain rigorous to safeguard critical logistics hubs against potential security threats.",
-    "publishedAt": "Thu, 22 Oct 2026 19:11:21 +0300",
-    "category": "Transport and Security Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
