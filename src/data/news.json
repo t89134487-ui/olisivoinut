@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20254677",
+    "sourceUrl": "https://yle.fi/a/74-20254677?origin=rss",
+    "title": "Salo City Council Approves West Railway Decisions for a Second Time",
+    "originalSummary": "Valtuusto hyväksyi länsirataa koskevat päätökset jo kertaalleen, mutta hallinto-oikeus hylkäsi ne. Maanantai-illan kokouksessa päätökset säilyivät samoina.",
+    "analysis": "Salo City Council has reaffirmed its commitment to the Länsirata railway project by approving the shareholder agreement for the construction phase and rejecting a municipal referendum, resolving earlier procedural invalidations. High-speed rail investments can drive long-term regional economic integration and emissions reductions, but their enormous public costs and financial risks require robust justification and community trust. While maintaining municipal involvement in strategic transport corridors is sound, dismissing a referendum on a fiscally momentous project risks democratic deficit; the city should maintain its involvement only under strict cost-ceiling guarantees and transparent oversight to safeguard local taxpayers.",
+    "publishedAt": "Mon, 02 Nov 2026 20:19:19 +0200",
+    "category": "Infrastructure",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20254606",
+    "sourceUrl": "https://yle.fi/a/74-20254606?origin=rss",
+    "title": "Forget a Safe Career: AI Is Transforming the Labor Market",
+    "originalSummary": "Kysyimme, mitä kannattaisi opiskella, kun melkein minkä tahansa alan työllisyystilanne voi muuttua hetkessä.",
+    "analysis": "To address structural unemployment and rapid technological disruption, the Finnish government has increased higher education intake by over a thousand slots, while student organizations urge wider use of hiring subsidies and criticize the abolition of adult education allowances. Expanding study places addresses long-term educational attainment, yet simply churning out degrees risks inefficiency when practical training bottlenecks persist and market needs shift unpredictably due to AI. Increasing study places should be supported, but education policy must prioritize flexible lifelong reskilling and targeted internships rather than rigid degree quotas to truly match market demands.",
+    "publishedAt": "Mon, 02 Nov 2026 19:03:53 +0200",
+    "category": "Education",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20254552",
     "sourceUrl": "https://yle.fi/a/74-20254552?origin=rss",
     "title": "Häme Loses an MP, Southwest Finland Gains a Seat: Spring Election Seat Distributions Finalized",
@@ -526,27 +548,5 @@
     "category": "Security Policy",
     "isFromSummary": false,
     "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251666",
-    "sourceUrl": "https://yle.fi/a/74-20251666?origin=rss",
-    "title": "Maarit Samateh, 56, from Lappeenranta Has Never Had a Permanent Job",
-    "originalSummary": "Pitkäaikaistyöttömien määrä on ollut pitkään kasvussa Suomessa. Etelä-Karjalassa pitkäaikaistyöttömyys on onnistuttu kääntämään laskuun.",
-    "analysis": "The decentralization of Finnish public employment services to municipalities has exposed critical flaws in its financing structure, where escalating municipal penalty fees for prolonged unemployment have inadvertently discouraged councils from offering rehabilitative and subsidized activation services. While shifting administrative responsibility closer to local labor markets is intended to increase efficiency, penalizing municipalities strictly on open-market placements creates a perverse incentive to abandon difficult-to-employ jobseekers when immediate hiring cannot be guaranteed. The current funding framework should be improved by incorporating intermediate milestones, ensuring that wage-subsidized positions and activation programs mitigate financial penalties rather than burdening local budgets.",
-    "publishedAt": "Sat, 24 Oct 2026 07:00:35 +0300",
-    "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253054",
-    "sourceUrl": "https://yle.fi/a/74-20253054?origin=rss",
-    "title": "Sanna Marin on New Ukraine Peace Probes: Peace Cannot Be Achieved on This Path",
-    "originalSummary": "Entinen pääministeri kommentoi ajankohtaista tilannetta Helsingin kirjamessuilla.",
-    "analysis": "Former Finnish Prime Minister Sanna Marin criticized recent diplomatic efforts and peace negotiations regarding Ukraine, arguing that Russian leadership only responds to force rather than voluntary agreements. She contended that Western appeasement and delayed military support have emboldened Vladimir Putin's imperial ambitions. Western nations must abandon naive diplomatic paths and instead enforce strict deterrence, as failing to demonstrate resolute strength directly invites further Russian aggression against democratic states.",
-    "publishedAt": "Fri, 23 Oct 2026 14:53:06 +0300",
-    "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
   }
 ]
