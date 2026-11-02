@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://yle.fi/a/74-20254552",
+    "sourceUrl": "https://yle.fi/a/74-20254552?origin=rss",
+    "title": "Häme Loses an MP, Southwest Finland Gains a Seat: Spring Election Seat Distributions Finalized",
+    "originalSummary": "Kansanedustajien määrä vaalipiireissä lasketaan lokakuun lopun väestötilastojen perusteella.",
+    "analysis": "Population shifts based on Finnish citizenship have altered the electoral district seat allocation for the upcoming parliamentary election, with Southwest Finland gaining one seat at the expense of Häme. This demographic adjustment ensures proportional representation aligns with population movements, maintaining the constitutional principle of equal voting weight across districts. While mechanical seat reallocation is necessary for democratic equity, continuous shrinkage in peripheral districts highlights the broader challenge of regional demographic concentration, suggesting that future electoral reforms should consider broader multi-member districts or regional grouping to mitigate rising effective thresholds for representation.",
+    "publishedAt": "Mon, 02 Nov 2026 13:35:10 +0200",
+    "category": "Electoral Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20254564",
+    "sourceUrl": "https://yle.fi/a/74-20254564?origin=rss",
+    "title": "Live Broadcast: Ministry of the Interior outlines Finland's preparedness threats – \"Cyber attacks are possible\"",
+    "originalSummary": "Sisäministeriö julkaisee tänään maanantaina päivitetyn riskiarvionsa tuleville vuosille. Toimintakenttä on muuttunut merkittävästi viime riskiarviosta.",
+    "analysis": "The Finnish Ministry of the Interior has released its updated risk assessment, identifying 24 significant societal threats, including supply chain disruptions, hybrid influence, and AI-driven cyber attacks. This comprehensive risk mapping is a necessary administrative tool that enhances national resilience by aligning civil preparedness with a rapidly changing geopolitical and technological landscape. Systematically updating these preparedness baselines is crucial for mitigating vulnerabilities, and the proactive inclusion of emerging threats like data availability and AI dependency should be strongly supported to ensure long-term societal security.",
+    "publishedAt": "Mon, 02 Nov 2026 12:38:38 +0200",
+    "category": "National Security",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20253827",
+    "sourceUrl": "https://yle.fi/a/74-20253827?origin=rss",
+    "title": "Rautalampi Industrial Area Budget Exceeded by 850,000 Euros – Decision-Makers Received Misinformation",
+    "originalSummary": "Ulkopuolinen selvitys paljastaa, että teollisuusalueen rakentamisen budjetointi ja päätöksenteko pettivät laajasti. Asiantuntija pitää budjetointia lainvastaisena.",
+    "analysis": "Rautalampi municipality faced a major budget overrun and procurement irregularities in its industrial area project due to flawed net budgeting, faulty administrative information, and unauthorized contract alterations. Such governance failures undermine fiscal transparency and risk EU funding clawbacks, highlighting a concerning lack of legal and financial expertise in small municipalities. Municipalities must enforce strict gross budgeting, clear cost tracking, and rigorous adherence to procurement laws to restore accountability, protect public funds, and ensure administrative competence.",
+    "publishedAt": "Mon, 02 Nov 2026 12:15:09 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20254533",
+    "sourceUrl": "https://yle.fi/a/74-20254533?origin=rss",
+    "title": "Sports Minister Poutala: \"Time is not right for Russia to return to ice hockey\"",
+    "originalSummary": "Mika Poutalan mukaan Venäjä ei ole tervetullut jääkiekon MM-turnauksiin.",
+    "analysis": "Finnish Sports Minister Mika Poutala stated that Russia and its national symbols remain unwelcome in international sports, aligning with Sweden's position despite a recent sports arbitration court ruling allowing Russian participation in World Championships. While international sports courts set baseline eligibility, maintaining restrictions on national symbols is a necessary political and ethical stance against ongoing aggression in Ukraine, serving to uphold the moral credibility of international competitions. Consequently, Finland and like-minded nations should continue to politically discourage participation and support sporting bodies that prioritize human rights and security over commercial or competitive normalization.",
+    "publishedAt": "Mon, 02 Nov 2026 10:34:36 +0200",
+    "category": "Foreign Policy and Sports",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20254509",
     "sourceUrl": "https://yle.fi/a/74-20254509?origin=rss",
     "title": "Large enterprises warn in OP Pohjola survey: Data centers tighten competition for electricity",
@@ -504,49 +548,5 @@
     "category": "Foreign Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252990",
-    "sourceUrl": "https://yle.fi/a/74-20252990?origin=rss",
-    "title": "Lappajärvi laid off and dismissed personnel – dozens of residents rose to oppose austerity measures",
-    "originalSummary": "Kuntalaiset protestoivat kunnanhallituksen päättämiä lomautuksia ja irtisanomisia vastaan. Niitä pidetään perusteettomina ja päätöksentekoa hätäisenä.",
-    "analysis": "The municipality of Lappajärvi enacted widespread layoffs and staff dismissals to combat persistent structural deficits, triggering intense pushback, multiple administrative appeals, and a citizen petition from local residents questioning the legality and justification of the process. While municipal austerity is often a painful necessity to prevent long-term insolvency when deficits threaten accumulated surpluses, hurried restructuring without transparent consultation undermines democratic legitimacy and community trust. Local authorities should reject arbitrary cuts in favor of collaborative, evidence-based fiscal adjustments that balance necessary budgetary consolidation with procedural fairness.",
-    "publishedAt": "Fri, 23 Oct 2026 14:19:16 +0300",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253035",
-    "sourceUrl": "https://yle.fi/a/74-20253035?origin=rss",
-    "title": "Binding Debt Brake Target for the Next Electoral Term to Be Decided in January",
-    "originalSummary": "Työryhmä suunnitteli alun perin päivittävänsä tavoitteen joulukuussa.",
-    "analysis": "Finland's parliamentary debt brake working group has postponed finalizing its binding fiscal adjustment target of 8–11 billion euros for the next electoral term until late January, awaiting updated forecasts from the European Commission and the Ministry of Finance. Structuring multi-year fiscal discipline around credible, up-to-date macroeconomic baselines is crucial for ensuring public debt sustainability under EU fiscal frameworks. However, setting overly rigid targets reliant strictly on immediate spending cuts and tax increases risks exacerbating economic downturns. The initiative to establish a binding target should be supported, but it must be refined to include counter-cyclical flexibility so fiscal consolidation does not choke off medium-term economic growth.",
-    "publishedAt": "Fri, 23 Oct 2026 13:00:40 +0300",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251011",
-    "sourceUrl": "https://yle.fi/a/74-20251011?origin=rss",
-    "title": "Data Center Boss Says the Debate Feels Like Mordor Despite Being a Growth Industry",
-    "originalSummary": "Antti Poikola on vihreä, joka edistää työkseen datakeskusten asiaa. Hänen mielestään on ilmaston kannalta parasta, että datakeskukset nousevat juuri Suomeen.",
-    "analysis": "A surge in data center projects has prompted Finnish policymakers to prepare new regulations, including a mandatory registry and legislation prioritizing electricity grid connections amid rising public and political scrutiny. While regulating intensive energy consumers is necessary to prevent extreme price volatility and protect grid capacity, overly blunt restrictions risk driving valuable digital infrastructure away from Finland's low-carbon grid to more polluting regions. Policymakers should refine grid prioritization to incentivize facilities that integrate waste-heat recovery and demand-flexibility, rather than creating discriminatory barriers that deter clean industrial investment.",
-    "publishedAt": "Fri, 23 Oct 2026 09:32:45 +0300",
-    "category": "Energy and Digital Infrastructure",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252932",
-    "sourceUrl": "https://yle.fi/a/74-20252932?origin=rss",
-    "title": "Opposition files an interpellation over rising everyday costs",
-    "originalSummary": "SDP:n, keskustan, vihreiden, vasemmistoliiton ja Liike Nytin edustajat esittelevät välikysymyksen sisällön tänään perjantaina.",
-    "analysis": "Finland's opposition parties have jointly submitted an interpellation scrutinizing the government's role in the rising cost of everyday living. Scrutinizing the distributional impact of policy is necessary during periods of fiscal tightening, as unmitigated increases in basic living expenses risk depressing domestic consumption and disproportionately burdening low- and middle-income households. This policy intervention should be supported to compel a rigorous, data-driven assessment of how current fiscal measures affect household purchasing power, though the resulting debate must move beyond symbolic protest toward concrete, targeted cost-mitigation adjustments.",
-    "publishedAt": "Fri, 23 Oct 2026 07:02:34 +0300",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
   }
 ]
