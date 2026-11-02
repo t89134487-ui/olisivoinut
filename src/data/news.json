@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20254509",
+    "sourceUrl": "https://yle.fi/a/74-20254509?origin=rss",
+    "title": "Large enterprises warn in OP Pohjola survey: Data centers tighten competition for electricity",
+    "originalSummary": "40 prosenttia vastaajista lakkauttaisi ulkomaisten datakeskusten valtiontuet heikkojen työllisyys- ja verohyötyjen takia.",
+    "analysis": "Large Finnish enterprises are increasingly concerned that rapid data center investments will heighten competition for electricity, raising industrial power costs. While over eighty percent demand a level playing field between data centers and traditional industry, opinions remain divided on state support for foreign tech investments due to low employment and tax yields. Ensuring equitable energy access is critical for maintaining Finland's industrial competitiveness, making it vital to condition public support on verifiable local economic benefits and robust grid infrastructure expansion rather than curtailing high-tech growth outright.",
+    "publishedAt": "Mon, 02 Nov 2026 04:10:45 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20252359",
     "sourceUrl": "https://yle.fi/a/74-20252359?origin=rss",
     "title": "Why These Nurses Left for Norway and Won't Return to Finland Permanently – Behind It Are These Weighty Reasons",
@@ -537,16 +548,5 @@
     "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252919",
-    "sourceUrl": "https://yle.fi/a/74-20252919?origin=rss",
-    "title": "Iceye and Nokia to Collaborate with Ukraine's Ministry of Defense",
-    "originalSummary": "Tavoite on tukea Ukrainaa itsenäisen satelliittiviestinnän rakentamisessa.",
-    "analysis": "Finnish technology companies Iceye and Nokia signed a memorandum of understanding with Ukraine's Ministry of Defense to support the development of independent and secure satellite communication systems. This initiative coincides with Prime Minister Petteri Orpo's visit to Ukraine and addresses critical operational needs highlighted by front-line disruptions. Strengthening Ukraine's independent communication infrastructure is vital for its defense capability and resilience against foreign interference. Public-private partnerships leveraging Finnish technological expertise should be strongly supported, as they enhance allied security cooperation while demonstrating industrial leadership in critical infrastructure domains.",
-    "publishedAt": "Thu, 22 Oct 2026 21:01:36 +0300",
-    "category": "Foreign Policy and Defense",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
   }
 ]
