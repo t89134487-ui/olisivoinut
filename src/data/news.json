@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20254709",
+    "sourceUrl": "https://yle.fi/a/74-20254709?origin=rss",
+    "title": "Supreme Court Rejected Trump Administration's Request to Set Aside Thousands of California Votes",
+    "originalSummary": "",
+    "analysis": "The US Supreme Court summarily rejected the Trump administration's late bid to disqualify over 20,000 mail-in ballots in California over unproven citizenship concerns ahead of the midterms. This judicial decision protected voting access by preventing last-minute disenfranchisement based on unsubstantiated claims, upholding the integrity of established electoral administration procedures. Proposals to invalidate votes without due process or verified evidence should be firmly rejected to maintain public trust in democratic institutions.",
+    "publishedAt": "Tue, 03 Nov 2026 05:08:17 +0200",
+    "category": "Elections and Democracy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20254677",
     "sourceUrl": "https://yle.fi/a/74-20254677?origin=rss",
     "title": "Salo City Council Approves West Railway Decisions for a Second Time",
@@ -535,17 +546,6 @@
     "analysis": "Finnish MP Marko Kilpi has proposed exploring legislation to criminalize 'trash streaming' following fatal and severe incidents during live broadcasts. However, creating a bespoke criminal offense is redundant and inefficient, as current Finnish law already penalizes physical violence, endangerment, and criminal incitement. Expanding penal statutes to target morally distasteful behavior risks encroaching on basic freedom of expression without curtailing foreign content. The proposal should be rejected in favor of strictly enforcing existing criminal provisions and pursuing platform accountability.",
     "publishedAt": "Sat, 24 Oct 2026 19:32:12 +0300",
     "category": "Justice",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253134",
-    "sourceUrl": "https://yle.fi/a/74-20253134?origin=rss",
-    "title": "Halla-aho: New Guidelines Established for the Security of MPs",
-    "originalSummary": "Eduskunnan puhemies Jussi Halla-aho (ps.) vierailee Ylen Ykkösaamussa.",
-    "analysis": "Following reports of suspected intrusions into lawmakers' homes, Parliament's administrative commission has updated security guidelines, with Speaker Jussi Halla-aho urging vigilance against potential foreign hybrid threats and warning against European appeasement toward Russia. Strengthening security protocols for elected officials is essential to protect democratic integrity against covert intimidation and hybrid warfare. These measures must be supported and swiftly implemented, ensuring that institutional defense mechanisms evolve to safeguard democratic decision-makers without compromising public transparency.",
-    "publishedAt": "Sat, 24 Oct 2026 10:03:41 +0300",
-    "category": "Security Policy",
     "isFromSummary": false,
     "model": "gemini-flash-latest"
   }
