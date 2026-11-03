@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://yle.fi/a/74-20254887",
+    "sourceUrl": "https://yle.fi/a/74-20254887?origin=rss",
+    "title": "New assessment: Improving the state of forests and reducing species endangerment yields over one billion euros in annual economic benefits",
+    "originalSummary": "Suomen Luontopaneeli kehottaa nostamaan luontotoimet mukaan päätöksentekoon.",
+    "analysis": "The Finnish Nature Panel reports that improving biodiversity—specifically restoring forests, agricultural environments, and the Baltic Sea—generates hundreds of millions to over a billion euros in annual economic benefits while enhancing societal resilience. Monetizing these ecosystem services provides a crucial baseline for integrating natural capital into decision-making, countering the projected macroeconomic risks of environmental degradation. This proposal should be strongly supported, as incorporating ecological values into cost-benefit frameworks ensures efficient resource allocation and safeguards long-term fiscal stability against environmental shocks.",
+    "publishedAt": "Wed, 04 Nov 2026 01:00:35 +0200",
+    "category": "Environment",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20254645",
+    "sourceUrl": "https://yle.fi/a/74-20254645?origin=rss",
+    "title": "THL's Diagnosis of Social and Welfare Services: Ongoing Shortfalls in Services for Children, Disabled, and Elderly",
+    "originalSummary": "Voimakkaat erot hyvinvointialueiden taloustilanteessa ja asukkaiden palvelutarpeessa vaikuttavat kaikkeen niiden toimintaan.",
+    "analysis": "A recent evaluation by the Finnish Institute for Health and Welfare (THL) reveals persistent structural shortcomings across well-being services counties, particularly in children's mental health, disability support, and elderly care, despite improving overall financial balances. While total regional surpluses and slower cost growth indicate stabilizing macro-level finances, growing regional disparities and unmet service needs threaten citizen equity and long-term preventative goals. Addressing these systemic inefficiencies requires transcending regional borders to streamline hospital networks and elderly care structures. Structural reforms must prioritize expanding preventative and primary-level care capacity to alleviate the escalating burden on heavy specialized services and ensure equitable access nationwide.",
+    "publishedAt": "Wed, 04 Nov 2026 00:01:35 +0200",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20254937",
+    "sourceUrl": "https://yle.fi/a/74-20254937?origin=rss",
+    "title": "Massive Logistics Center Planned for Sipoo – Promises Over 200 Jobs",
+    "originalSummary": "Sipoon rakennus- ja ympäristövaliokunta suhtautui tiistaina myönteisesti yli 70 000 neliön logistiikkakeskuksen rakennuslupaan. Hanke toisi yli 200 työpaikkaa.",
+    "analysis": "The Sipoo building and environment committee has issued a favorable preliminary review for a massive 70,000-square-meter logistics center project by Kiinteistö Oy Sipoon Boxi, set to bring over 200 permanent jobs and significant municipal land development. Facilitating large-scale industrial investments through streamlined zoning and permitting processes is an efficient way to boost regional employment and tax bases without direct public subsidies. This permitting initiative should be supported as it leverages pre-approved zoning to foster economic growth and private sector job creation.",
+    "publishedAt": "Tue, 03 Nov 2026 23:22:29 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20254904",
     "sourceUrl": "https://yle.fi/a/74-20254904?origin=rss",
     "title": "Kemijärvi investigates dismissal of city board, leadership already changed earlier in the summer",
@@ -513,39 +546,6 @@
     "analysis": "Helsinki's city council groups have agreed on next year's budget, maintaining tax rates while prioritizing primary education, healthcare access, and youth services through targeted funding and avoiding cuts. Freezing municipal and property taxes while increasing investments in core public services is a pragmatic approach that safeguards social welfare without imposing additional fiscal burdens on residents. This budget proposal strikes the right balance between fiscal restraint and necessary public investment, and it should be supported as it effectively addresses urban community needs and service delivery.",
     "publishedAt": "Mon, 26 Oct 2026 11:52:54 +0200",
     "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253297",
-    "sourceUrl": "https://yle.fi/a/74-20253297?origin=rss",
-    "title": "Jokilaaksojen koulutuskuntayhtymä must repay over two million euros in state subsidies",
-    "originalSummary": "OPM:n tarkastuksessa selvisi, että kolmansien maiden kansalaisten opintojen järjestämisessä on ollut puutteita. Siksi rahoja peritään JEDU:lta takaisin.",
-    "analysis": "The Ministry of Education and Culture is reclaiming over 2.2 million euros in unjustified state subsidies from the Jokilaaksojen municipal education and training consortium following an audit that revealed widespread, systemic failures in vocational education administration and documentation for third-country nationals during 2022–2023. Such strict financial enforcement is essential for maintaining the integrity and accountability of public funding allocations in education. Robust oversight ensures that educational providers adhere strictly to legislative standards, preventing the misuse of taxpayer money. This clawback decision should be supported to reinforce regulatory compliance and signal that administrative negligence in public service delivery carries concrete financial consequences.",
-    "publishedAt": "Mon, 26 Oct 2026 10:42:12 +0200",
-    "category": "Education Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253228",
-    "sourceUrl": "https://yle.fi/a/74-20253228?origin=rss",
-    "title": "Historian: The Koivisto Tapes Are Invaluable for Political History Researchers",
-    "originalSummary": "Mauno Koiviston elämäkertaa kirjoittava professori Tapio Bergholm sanoo digiaineiston syventävän historiantutkimusta, kun keskustelun tunnelma on kuunneltavissa.",
-    "analysis": "Newly released audio archives from late President Mauno Koivisto and his cabinet provide unprecedented primary source material on critical Finnish foreign policy decisions, including the recognition of Baltic independence in 1991. Preserving and studying such historical governance records is essential for institutional transparency and understanding executive decision-making. Making these audio archives publicly and academically accessible should be strongly supported, as it deepens public understanding of constitutional processes and foreign policy strategy without compromising national security.",
-    "publishedAt": "Sun, 25 Oct 2026 19:31:51 +0200",
-    "category": "Political History",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253214",
-    "sourceUrl": "https://yle.fi/a/74-20253214?origin=rss",
-    "title": "Christian Democrats demand permits for Christian schools – \"No special treatment,\" says Adlercreutz",
-    "originalSummary": "Kristillisdemokraatit vaatii ministeriä edistämään kristillisten koulujen lupia.",
-    "analysis": "The Christian Democrats have urged Education Minister Anders Adlercreutz to grant operating licenses to Christian schools under clear criteria, while opposing his push to make homeschooling subject to permit rather than mere notification. While ensuring pluralism in education is valuable, conditioning school permits solely on municipal capacity risks stifling legitimate alternatives, though distinguishing mainstream religious education from radicalized home-schooling environments remains a valid security concern. The proposal to streamline Christian school permits should be supported, provided they meet standard educational and oversight requirements, while tightening home-schooling oversight is a prudent measure to prevent educational neglect.",
-    "publishedAt": "Sun, 25 Oct 2026 15:54:40 +0200",
-    "category": "Social Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
