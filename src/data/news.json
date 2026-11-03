@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20254904",
+    "sourceUrl": "https://yle.fi/a/74-20254904?origin=rss",
+    "title": "Kemijärvi investigates dismissal of city board, leadership already changed earlier in the summer",
+    "originalSummary": "Kuntapolitiikan kuohut jatkuvat Kemijärvellä, jossa tilapäinen valiokunta alkaa selvittää, nauttiiko hallitus valtuuston luottamusta. Äänestys oli tiukka.",
+    "analysis": "The Kemijärvi city council voted to establish a temporary committee to investigate the dismissal of the city board following a profound loss of trust, compounding earlier leadership changes in the summer. Such internal administrative paralysis undermines local governance efficiency, stalling decision-making and wasting municipal resources on persistent political infighting. The municipal council was entirely justified in launching a formal inquiry to restore accountability, and the temporary committee should be supported to swiftly resolve allegations of misconduct and reinstate stable, transparent local administration.",
+    "publishedAt": "Tue, 03 Nov 2026 20:25:32 +0200",
+    "category": "Local Government",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20254864",
+    "sourceUrl": "https://yle.fi/a/74-20254864?origin=rss",
+    "title": "Parkano City Manager Agrees to Resign in Exchange for Approximately €90,000 Severance Compensation",
+    "originalSummary": "Parkanon kaupunginhallitus päättää kaupunginjohtaja Aki Viitasaaren erosopimuksesta torstaina.",
+    "analysis": "Parkano City Manager Aki Viitasaari is set to resign following a breakdown in cooperation with the city board, with a severance package of around €91,000 based on his leadership contract. Utilizing financial buyouts to swiftly resolve leadership friction and avoid protracted legal or political battles is pragmatically efficient for municipal governance. However, reliance on generous severance clauses in fixed-term executive contracts creates moral hazard and strains local public finances. Such agreements should be reformed to tie payouts strictly to performance metrics and clear, transparent thresholds rather than facilitating frictionless exits for managerial misalignment.",
+    "publishedAt": "Tue, 03 Nov 2026 19:16:44 +0200",
+    "category": "Local Government",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20254709",
     "sourceUrl": "https://yle.fi/a/74-20254709?origin=rss",
     "title": "Supreme Court Rejected Trump Administration's Request to Set Aside Thousands of California Votes",
@@ -526,27 +548,5 @@
     "category": "Social Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20250574",
-    "sourceUrl": "https://yle.fi/a/74-20250574?origin=rss",
-    "title": "Will Finland Become a Banana Republic for Data Centers?",
-    "originalSummary": "Google muutti suhteemme datakeskuksiin. Lähdimme paperiteollisuuden raunioille selvittämään, tekevätkö keskukset Suomesta onnelan vai tekoälyajan banaanivaltion.",
-    "analysis": "Finland is experiencing a massive surge in foreign data center investments, prompting government legislative proposals to screen projects exceeding 100 megawatts and deprioritize them in electricity grid queuing. While these projects offer short-term construction activity, their immense power demand risks straining the national grid and raising electricity prices while generating minimal permanent local value or employment. The government's regulatory shift toward investment screening and grid prioritization should be supported and strengthened. Rather than passively hosting low-margin infrastructure, Finland must condition future permits on mandatory waste-heat utilization and research partnerships, ensuring that the country's clean energy assets translate into genuine, high-value economic gains.",
-    "publishedAt": "Sun, 25 Oct 2026 05:30:35 +0200",
-    "category": "Economic Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253162",
-    "sourceUrl": "https://yle.fi/a/74-20253162?origin=rss",
-    "title": "MP Wants to Criminalize 'Trash Streaming' – We Asked a Criminal Law Expert if It Is Possible",
-    "originalSummary": "Rappiostriimaamisen ylilyönteihin voitaisiin puuttua jo nykyisellä lainsäädännöllä, uskoo Turun yliopiston rikosoikeuden apulaisprofessori Tatu Hyttinen.",
-    "analysis": "Finnish MP Marko Kilpi has proposed exploring legislation to criminalize 'trash streaming' following fatal and severe incidents during live broadcasts. However, creating a bespoke criminal offense is redundant and inefficient, as current Finnish law already penalizes physical violence, endangerment, and criminal incitement. Expanding penal statutes to target morally distasteful behavior risks encroaching on basic freedom of expression without curtailing foreign content. The proposal should be rejected in favor of strictly enforcing existing criminal provisions and pursuing platform accountability.",
-    "publishedAt": "Sat, 24 Oct 2026 19:32:12 +0300",
-    "category": "Justice",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
   }
 ]
