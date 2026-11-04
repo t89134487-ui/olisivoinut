@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://yle.fi/a/74-20255041",
+    "sourceUrl": "https://yle.fi/a/74-20255041?origin=rss",
+    "title": "Tampere University Criticized Over Termination of Researcher's Resource Agreement – Rector Stands by Decision",
+    "originalSummary": "Yliopiston pääluottamusmies ei ymmärrä yliopiston päätöstä. Myös Tieteentekijöiden liitto kritisoi ratkaisua.",
+    "analysis": "Tampere University terminated a doctoral researcher's resource agreement over critical social media posts, sparking widespread concern from unions regarding academic freedom and free speech. While institutions hold a duty to protect staff from harassment, using unilateral contract terminations without transparent justification creates a chilling effect that undermines open academic discourse. University authorities should prioritize transparent dialogue and clear evidentiary standards rather than punitive measures that risk suppressing legitimate critique within the scientific community.",
+    "publishedAt": "Wed, 04 Nov 2026 19:12:40 +0200",
+    "category": "Education Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20255133",
+    "sourceUrl": "https://yle.fi/a/74-20255133?origin=rss",
+    "title": "The Democrats' Landslide Victory Also Affects Europe – We Listed Four Things",
+    "originalSummary": "Demokraattien murskavoitto välivaaleissa heijastuu Eurooppaan monin tavoin, kirjoittavat Eurooppa-kirjeenvaihtaja Anna Karismo ja EU-kirjeenvaihtaja Elli Hiilamo.",
+    "analysis": "The US midterms and the Democrats' congressional gains provide leverage for European nations advocating robust support for Ukraine and offer a check against unilateral foreign policies. While trade tensions and transatlantic friction persist, a divided US government strengthens congressional oversight on foreign aid and empowers European allies like Finland to coordinate with American legislators. Leveraging this institutional balance is essential for maintaining Western security unity and ensuring stable geopolitical deterrence against Russian aggression.",
+    "publishedAt": "Wed, 04 Nov 2026 18:49:24 +0200",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20255066",
+    "sourceUrl": "https://yle.fi/a/74-20255066?origin=rss",
+    "title": "Analysis: Finnair made a bold decision – soon five routes will succeed commercially",
+    "originalSummary": "Finnair aloittaa vuosien tauon jälkeen kaupalliset lennot viidelle maakuntakentälle. Se voi viimein olla myös kannattavaa, kirjoittaa toimittaja Jari Tanskanen.",
+    "analysis": "Finnair announced plans to operate commercial flights to five regional airports after state-subsidized purchase contracts end in 2028, while Pori and Savonlinna remain excluded due to lower demand. State intervention during the pandemic successfully preserved critical regional infrastructure that is now becoming commercially viable as business travel rebounds. The state should phase out direct operating subsidies where commercial viability is proven, while exploring cost-sharing models or municipal cooperation for remaining peripheral routes to maintain essential connectivity without creating permanent fiscal burdens.",
+    "publishedAt": "Wed, 04 Nov 2026 18:01:06 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20254985",
     "sourceUrl": "https://yle.fi/a/74-20254985?origin=rss",
     "title": "Democrats Secure Historic Victory in the United States - Experts Discuss the Significance of Election Results on Yle Morning",
@@ -512,39 +545,6 @@
     "originalSummary": "Pelastakaa Lapset vaati hallitusta arvioimaan sosiaaliturvaleikkausten vaikutukset lapsiin ja perumaan toimet, jotka lisäävät lapsiperheköyhyyttä.",
     "analysis": "A recent survey by the Save the Children organization reveals that over eighty percent of children in low-income families report a worsened financial situation over the past year, with nearly half attributing this directly to government social security cuts. While fiscal consolidation is necessary to stabilize public finances, concentrating austerity measures on vulnerable households risks exacerbating long-term inequality and child poverty, which ultimately incurs higher societal costs in health and welfare services. Therefore, the government should carefully reassess these specific benefit cuts and introduce targeted mitigations to protect children from the direct impacts of fiscal balancing.",
     "publishedAt": "Tue, 27 Oct 2026 03:02:04 +0200",
-    "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253376",
-    "sourceUrl": "https://yle.fi/a/74-20253376?origin=rss",
-    "title": "A Host of Measures from the Climate Panel: Fuel Distribution Mandate Up to 100% Increasing Petrol Prices, Forest Logging Under Scrutiny",
-    "originalSummary": "Suomen ilmastopaneeli julkaisi listan keinoista, joita seuraavan hallituksen olisi Suomessa tehtävä päästöjen vähentämiseksi ja hiilinielujen kasvattamiseksi.",
-    "analysis": "The Finnish Climate Change Panel has proposed aggressive policy measures to reach climate targets, including raising the fuel distribution mandate to 100% by 2045, introducing congestion charges, and restricting forestry harvests through enforceable sanctions. While decisive action is needed to restore Finland's declining carbon sinks, an extreme distribution mandate and rigid logging curbs risk imposing severe costs on logistics and vital export industries. Lawmakers should refine this package by prioritizing high-impact, cost-effective steps like rewetting marginal peatlands and accelerating transport electrification, while rejecting overly punitive mandates that undermine economic competitiveness.",
-    "publishedAt": "Tue, 27 Oct 2026 01:00:35 +0200",
-    "category": "Environment",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253465",
-    "sourceUrl": "https://yle.fi/a/74-20253465?origin=rss",
-    "title": "Bolsonaro, Who Lost the Election, Intends to Lead the Brazilian Opposition",
-    "originalSummary": "Brasilian entisen presidentin Jair Bolsonaron poika Flávio Bolsonaro sanoi myös, että hän on joutunut luovuttamaan passinsa.",
-    "analysis": "Following his defeat in the Brazilian presidential election, Flávio Bolsonaro announced plans to lead the opposition against President-elect Luiz Inácio Lula da Silva while also facing legal scrutiny and travel restrictions related to ongoing investigations. The emergence of a determined opposition led by the former ruling faction signals a polarized political landscape that could hinder legislative efficiency and economic reforms. A constructive political environment requires loyal opposition rather than attempts to invalidate democratic outcomes, ensuring accountability without destabilizing governance.",
-    "publishedAt": "Mon, 26 Oct 2026 23:22:01 +0200",
-    "category": "International Politics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253449",
-    "sourceUrl": "https://yle.fi/a/74-20253449?origin=rss",
-    "title": "Kalliola Settlement Foundation Files for Bankruptcy in Helsinki",
-    "originalSummary": "Setlementtijärjestö on toiminut vuodesta 1919 lähtien.",
-    "analysis": "Kalliola Settlement Association, a historic social and rehabilitation services provider operating since 1919, has filed for bankruptcy due to insurmountable debts exceeding its assets and the loss of its revenue streams, despite receiving substantial STEA grants. This collapse underscores structural vulnerabilities in funding third-sector welfare services, highlighting the risks when non-profit social operators face acute financial insolvency. Maintaining essential civic and rehabilitative services requires a more resilient public-private partnership framework to prevent sudden institutional failures that disrupt vulnerable client groups.",
-    "publishedAt": "Mon, 26 Oct 2026 19:28:11 +0200",
     "category": "Social Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
