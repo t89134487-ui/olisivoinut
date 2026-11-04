@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20254985",
+    "sourceUrl": "https://yle.fi/a/74-20254985?origin=rss",
+    "title": "Democrats Secure Historic Victory in the United States - Experts Discuss the Significance of Election Results on Yle Morning",
+    "originalSummary": "Ylen aamussa vieraina olleiden asiantuntijoiden mukaan välivaalien tuloksella voi olla kauaskantoiset seuraukset Yhdysvaltojen talous- ja ulkopolitiikkaan.",
+    "analysis": "The article discusses the US midterm elections where the Democratic Party secured majorities in both the House and Senate, delivering a decisive rebuke to Donald Trump's administration, foreign policy, and economic agenda. A divided government alters legislative checks and balances, potentially curbing executive overreach in foreign policy and introducing tighter regulation on emerging technologies like artificial intelligence. Restoring robust congressional oversight is a fundamental institutional necessity for democratic governance, ensuring effective checks on executive power. Reestablishing this constitutional balance should be supported to promote policy stability and accountability in US governance.",
+    "publishedAt": "Wed, 04 Nov 2026 13:08:39 +0200",
+    "category": "International Politics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20255033",
+    "sourceUrl": "https://yle.fi/a/74-20255033?origin=rss",
+    "title": "You Asked About the US Midterms – We Compiled the Answers",
+    "originalSummary": "Ylen USA-chattiin tuli satoja kysymyksiä.",
+    "analysis": "This article reviews the mechanics and implications of the US midterm elections through an expert Q and A, addressing legislative power balances, economic impacts, and political oversight regarding the administration. The division of power between the Senate and the House of Representatives acts as a vital constitutional check, forcing policy compromises and constraining unilateral executive actions. Maintaining this institutional friction is essential for democratic stability, preventing administrative overreach and ensuring broader consensus on critical legislative and fiscal measures.",
+    "publishedAt": "Wed, 04 Nov 2026 11:57:40 +0200",
+    "category": "International Politics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20254887",
     "sourceUrl": "https://yle.fi/a/74-20254887?origin=rss",
     "title": "New assessment: Improving the state of forests and reducing species endangerment yields over one billion euros in annual economic benefits",
@@ -524,28 +546,6 @@
     "analysis": "Kalliola Settlement Association, a historic social and rehabilitation services provider operating since 1919, has filed for bankruptcy due to insurmountable debts exceeding its assets and the loss of its revenue streams, despite receiving substantial STEA grants. This collapse underscores structural vulnerabilities in funding third-sector welfare services, highlighting the risks when non-profit social operators face acute financial insolvency. Maintaining essential civic and rehabilitative services requires a more resilient public-private partnership framework to prevent sudden institutional failures that disrupt vulnerable client groups.",
     "publishedAt": "Mon, 26 Oct 2026 19:28:11 +0200",
     "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253007",
-    "sourceUrl": "https://yle.fi/a/74-20253007?origin=rss",
-    "title": "Budget Manager: Lack of courage has plagued us – Ministry lists cuts to child benefits and income support",
-    "originalSummary": "Valtiovarainministeriön kartoituksia käytetään ensi kevään hallitusneuvottelujen apuna. Päivitimme juttuun ministeriön tiedotustilaisuuden keskeisen annin.",
-    "analysis": "Finland's Ministry of Finance has released sweeping expenditure, structural, and tax surveys proposing hundreds of consolidation measures, including cuts to social security, healthcare reforms, and tax increases to address severe public debt. While targeted fiscal consolidation is economically necessary to stabilize public finances and maintain creditworthiness, broad-based spending freezes and benefit cuts risk disproportionately impacting vulnerable populations without structural growth reforms. These proposals should be supported selectively, prioritizing efficiency gains and tax base broadening while safeguarding core welfare investments to ensure long-term economic resilience.",
-    "publishedAt": "Mon, 26 Oct 2026 12:00:39 +0200",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253281",
-    "sourceUrl": "https://yle.fi/a/74-20253281?origin=rss",
-    "title": "Parties Reach Agreement: How Helsinki Plans to Spend Money Next Year",
-    "originalSummary": "Talousarvio vaatii vielä Helsingin kaupunginhallituksen ja -valtuuston hyväksynnän.",
-    "analysis": "Helsinki's city council groups have agreed on next year's budget, maintaining tax rates while prioritizing primary education, healthcare access, and youth services through targeted funding and avoiding cuts. Freezing municipal and property taxes while increasing investments in core public services is a pragmatic approach that safeguards social welfare without imposing additional fiscal burdens on residents. This budget proposal strikes the right balance between fiscal restraint and necessary public investment, and it should be supported as it effectively addresses urban community needs and service delivery.",
-    "publishedAt": "Mon, 26 Oct 2026 11:52:54 +0200",
-    "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
