@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://yle.fi/a/74-20254309",
+    "sourceUrl": "https://yle.fi/a/74-20254309?origin=rss",
+    "title": "Padasjoki's New School Dream Collapsed: Price Tag Twice as High as Desired – The Same Dilemma Plagues Many Small Municipalities",
+    "originalSummary": "Kuntaliiton mukaan on tavallista, että rakennushankkeiden hinnat karkaavat valmistelun aikana. Summat voi arvioida yläkanttiin, mutta sekään ei ole ratkaisu.",
+    "analysis": "Rising construction costs and lengthy administrative procedures have forced Padasjoki to scrap plans for a new multipurpose school and municipal facility because the projected costs exceeded the budget by 50 percent, a challenge facing many Finnish municipalities. While ensuring safe and healthy educational facilities for children is a fundamental municipal duty, rigid public procurement processes combined with volatile market prices expose local governments to severe budget overruns. Municipalities should adopt more flexible, phased construction models and realistic initial cost estimates to prevent prolonged delays and wasted planning resources, while higher levels of government should examine ways to streamline bureaucratic hurdles in public infrastructure projects.",
+    "publishedAt": "Thu, 05 Nov 2026 08:33:29 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20255071",
+    "sourceUrl": "https://yle.fi/a/74-20255071?origin=rss",
+    "title": "The Connection Between Taxes and the Welfare State Has Strengthened, Tax Evasion Condemned",
+    "originalSummary": "Verojen maksaminen on tärkeä kansalaisvelvollisuus lähes jokaiselle suomalaiselle. Veronkierron tuomitsevien osuus on kasvanut.",
+    "analysis": "A recent survey by the Finnish Tax Administration reveals that public support for taxation and the welfare state remains exceptionally high, with 94 percent viewing tax payment as an important civic duty and condemning tax evasion. This strong willingness to pay taxes underscores the high social capital and institutional trust underpinning the Finnish public sector. Preserving this trust requires maintaining transparent public spending, ensuring administrative efficiency, and resisting any policies that erode tax compliance.",
+    "publishedAt": "Thu, 05 Nov 2026 07:10:35 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20255013",
+    "sourceUrl": "https://yle.fi/a/74-20255013?origin=rss",
+    "title": "Analysis: Petteri Orpo's countdown as leader of the National Coalition Party begins at this rate",
+    "originalSummary": "Tuore Ylen kannatuskysely osoittaa, ettei kokoomuksen putoaminen perussuomalaisten taakse ollut tilastopoikkeama, Ylen toimittaja Ari Hakahuhta kirjoittaa.",
+    "analysis": "Recent polls indicate a historic drop in support for Finland's National Coalition Party (Kokoomus), driven by competition from the Finns Party on fiscal conservatism and tough economic adjustments. While the political shifting indicates voter dissatisfaction with current austerity measures, structural economic reforms remain necessary to stabilize national debt. The government should maintain its fiscal consolidation path while better communicating the long-term necessity of these reforms to retain public trust and political viability.",
+    "publishedAt": "Thu, 05 Nov 2026 06:30:35 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20255041",
     "sourceUrl": "https://yle.fi/a/74-20255041?origin=rss",
     "title": "Tampere University Criticized Over Termination of Researcher's Resource Agreement – Rector Stands by Decision",
@@ -513,39 +546,6 @@
     "analysis": "Espoo's proposed budget by City Manager Kai Mykkänen balances a strict financial consolidation program with targeted investments in education, employment services, and urban infrastructure. While aiming to reduce long-term borrowing and administrative overhead, the budget prudently increases funding for schools and early childhood education. This approach effectively maintains fiscal discipline without sacrificing core municipal services for children and families. The budget proposal represents a sound and pragmatic fiscal strategy that deserves support, as it successfully addresses structural deficit reduction while preserving necessary investments in human capital and regional growth.",
     "publishedAt": "Tue, 27 Oct 2026 15:00:35 +0200",
     "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253615",
-    "sourceUrl": "https://yle.fi/a/74-20253615?origin=rss",
-    "title": "Analysis: One sentence in the presidential press release is telling",
-    "originalSummary": "Tämänpäiväinen puhelu voi uhata yhtenäisyyttä, jota Venäjä-kysymyksissä vaalitaan, kirjoittaa EU-kirjeenvaihtaja Elli Hiilamo.",
-    "analysis": "Finnish President Alexander Stubb held a phone call with Russia's Vladimir Putin alongside Norway's Prime Minister, carefully clarifying that they acted as national leaders rather than European representatives. This unilateral diplomatic outreach has sparked friction and criticism among Nordic and EU partners over maintaining a unified front against Russia, highlighting ongoing tensions regarding when and how European dialogue with Moscow should be re-engaged.\n\nInitiating direct communication with an aggressor nation risks fracturing Western unity unless coordinated tightly with broader multilateral frameworks. While diplomatic channels must eventually reopen, unilateral overtures by individual member states undermine collective leverage and play directly into opposing strategic interests. Finland should pursue such high-stakes foreign policy engagements strictly through unified European mechanisms to ensure maximum diplomatic efficacy.",
-    "publishedAt": "Tue, 27 Oct 2026 14:37:20 +0200",
-    "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253537",
-    "sourceUrl": "https://yle.fi/a/74-20253537?origin=rss",
-    "title": "Politicians Criticize Defense Arguments in Sexual Offense Trial Involving Amirkhani – Defense Counsel: \"Improper\"",
-    "originalSummary": "Ministeri Karoliina Partanen (kok.) syyttää puolustusta Mira Luodin nöyryyttämisestä oikeudenkäynnissä.",
-    "analysis": "Politicians from various parties criticized the defense strategy in a sexual offense trial involving mixed martial artist Makwan Amirkhani and musician Mira Luoti, where the defense questioned the victim's desirability based on her age. While the defense argued that political commentary on an ongoing trial violates the presumption of innocence and separation of powers, the public backlash highlights broader concerns regarding courtroom ethics and the trivialization of harassment. Public officials commenting on active judicial proceedings risk undermining trust in the independence of the judiciary, yet debates over trial conduct touch upon essential standards of dignity and respect in legal processes.",
-    "publishedAt": "Tue, 27 Oct 2026 14:17:57 +0200",
-    "category": "Justice Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253467",
-    "sourceUrl": "https://yle.fi/a/74-20253467?origin=rss",
-    "title": "Save the Children: Government's social security cuts are felt in the everyday lives of low-income families",
-    "originalSummary": "Pelastakaa Lapset vaati hallitusta arvioimaan sosiaaliturvaleikkausten vaikutukset lapsiin ja perumaan toimet, jotka lisäävät lapsiperheköyhyyttä.",
-    "analysis": "A recent survey by the Save the Children organization reveals that over eighty percent of children in low-income families report a worsened financial situation over the past year, with nearly half attributing this directly to government social security cuts. While fiscal consolidation is necessary to stabilize public finances, concentrating austerity measures on vulnerable households risks exacerbating long-term inequality and child poverty, which ultimately incurs higher societal costs in health and welfare services. Therefore, the government should carefully reassess these specific benefit cuts and introduce targeted mitigations to protect children from the direct impacts of fiscal balancing.",
-    "publishedAt": "Tue, 27 Oct 2026 03:02:04 +0200",
-    "category": "Social Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
