@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20255607",
+    "sourceUrl": "https://yle.fi/a/74-20255607?origin=rss",
+    "title": "ECB Set to Get a Dutch or Spanish President",
+    "originalSummary": "",
+    "analysis": "Two candidates have been nominated to succeed Christine Lagarde as President of the European Central Bank ahead of the deadline: former Dutch central bank chief Klaas Knot and Spaniard Pablo Hernandez de Cos. Selecting a credible, independent central bank leader is essential for maintaining monetary stability and market confidence across the euro area. The appointment process should prioritize demonstrated competence in macroeconomic management and a firm commitment to price stability, ensuring the institution remains resilient amid ongoing European economic challenges.",
+    "publishedAt": "Fri, 06 Nov 2026 19:06:49 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20255090",
     "sourceUrl": "https://yle.fi/a/74-20255090?origin=rss",
     "title": "Heinola's Popular Bird Sanctuary Faces Potential Closure Due to Municipal Budget Pressures",
@@ -535,17 +546,6 @@
     "analysis": "Wärtsilä's pivot toward energy solutions driven by the global data center and AI boom highlights how industrial policy intersects with technological shifts. Government considerations, such as proposed Finnish energy production investment supports for quick-starting biogas turbines, reinforce the synergy between state backing and industrial adaptation. Such targeted subsidies are economically justified to secure grid stability amid the rapid expansion of renewable energy and data infrastructure, bolstering high-value domestic manufacturing. These support measures should be endorsed to maintain Finland's competitive edge in the global green transition.",
     "publishedAt": "Tue, 27 Oct 2026 18:31:47 +0200",
     "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253604",
-    "sourceUrl": "https://yle.fi/a/74-20253604?origin=rss",
-    "title": "President Stubb discusses phone call with Putin – watch live starting at 16.15",
-    "originalSummary": "Presidentti Alexander Stubb keskusteli Norjan pääministerin Jonas Gahr Støren kera puhelimitse Venäjän presidentin Vladimir Putinin kanssa tänään tiistaina.",
-    "analysis": "President Alexander Stubb, alongside Norwegian Prime Minister Jonas Gahr Støre, held a telephone conversation with Russian President Vladimir Putin to address attacks on Ukraine's energy infrastructure and lay groundwork for upcoming trilateral talks in Abu Dhabi. Engaging directly with adversaries to demand cessation of critical infrastructure attacks serves as a necessary diplomatic leverage point to prevent further humanitarian catastrophe. This diplomatic initiative should be supported, as maintaining high-level communication channels while coordinating European representation alongside the US and Ukraine is essential for securing viable ceasefire terms and protecting regional stability.",
-    "publishedAt": "Tue, 27 Oct 2026 15:42:39 +0200",
-    "category": "Foreign Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
