@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20255090",
+    "sourceUrl": "https://yle.fi/a/74-20255090?origin=rss",
+    "title": "Heinola's Popular Bird Sanctuary Faces Potential Closure Due to Municipal Budget Pressures",
+    "originalSummary": "Yli 20 000 kävijää vuodessa houkutteleva lintuhoitola voi joutua lopetusuhan alle. Heinola selvittää nyt toiminnan tulevaisuutta.",
+    "analysis": "The city of Heinola is reviewing the cost structure and future of its popular, free-admission bird sanctuary as part of a municipal change program amid tightening local government finances. While the sanctuary is a major tourism driver with strong welfare and nature values, it relies heavily on municipal funding with annual costs exceeding 400,000 euros. Municipalities face legitimate pressure to prioritize core statutory welfare services over non-statutory amenities during fiscal contractions. However, given the sanctuary's high local popularity, external ministerial grants, and substantial volunteer support, a complete closure may be overly drastic. The policy approach should instead focus on diversifying revenue streams, such as introducing voluntary visitor fees or expanding corporate sponsorships, to preserve this valuable community asset without straining public budgets.",
+    "publishedAt": "Thu, 05 Nov 2026 20:32:45 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20251392",
     "sourceUrl": "https://yle.fi/a/74-20251392?origin=rss",
     "title": "Massive data center construction sites pressure occupational safety: 'A small concern about how many irregularities will be encountered'",
@@ -534,17 +545,6 @@
     "originalSummary": "Presidentti Alexander Stubb keskusteli Norjan pääministerin Jonas Gahr Støren kera puhelimitse Venäjän presidentin Vladimir Putinin kanssa tänään tiistaina.",
     "analysis": "President Alexander Stubb, alongside Norwegian Prime Minister Jonas Gahr Støre, held a telephone conversation with Russian President Vladimir Putin to address attacks on Ukraine's energy infrastructure and lay groundwork for upcoming trilateral talks in Abu Dhabi. Engaging directly with adversaries to demand cessation of critical infrastructure attacks serves as a necessary diplomatic leverage point to prevent further humanitarian catastrophe. This diplomatic initiative should be supported, as maintaining high-level communication channels while coordinating European representation alongside the US and Ukraine is essential for securing viable ceasefire terms and protecting regional stability.",
     "publishedAt": "Tue, 27 Oct 2026 15:42:39 +0200",
-    "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253629",
-    "sourceUrl": "https://yle.fi/a/74-20253629?origin=rss",
-    "title": "President Stubb: Call with Putin lasted about an hour and a half, and all Nordic countries were informed in advance",
-    "originalSummary": "Tasavallan presidentti Alexander Stubb kertoi Norjan pääministerin kanssa Putinille soitetusta puhelusta Pohjoismaiden neuvostolle.",
-    "analysis": "President Alexander Stubb defended his and Norway's Prime Minister Jonas Gahr Støre's direct phone call with Vladimir Putin, noting it aimed to clarify border-region positions and was coordinated with Ukraine, despite criticism from other Nordic leaders regarding prior notification. Direct diplomatic engagement by frontline states with aggressor nations is a necessary utility for mitigating misunderstandings and signaling regional red lines directly. This diplomatic outreach should be supported as a pragmatic tool for border stability, provided it remains strictly aligned with broader allied strategies and unwavering support for Ukrainian sovereignty.",
-    "publishedAt": "Tue, 27 Oct 2026 15:08:34 +0200",
     "category": "Foreign Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
