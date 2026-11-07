@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://yle.fi/a/74-20255635",
+    "sourceUrl": "https://yle.fi/a/74-20255635?origin=rss",
+    "title": "Europe faces hybrid influence operations - President Sauli Niinistö is a guest on Ykkösaamu",
+    "originalSummary": "Ajankohtaisista aiheista presidenttiä haastattelee Seija Vaaherkumpu.",
+    "analysis": "President Sauli Niinistö discusses escalating hybrid warfare in Europe, including false bomb threats and sabotage attributed to Russia, alongside upcoming peace talks between Ukraine and Russia mediated by the United States. Addressing these multi-domain security threats is essential for safeguarding societal resilience and critical infrastructure across democratic nations. Countering hybrid operations requires robust international intelligence sharing, enhanced cybersecurity measures, and a unified diplomatic front to deter malicious state actors and maintain regional stability.",
+    "publishedAt": "Sat, 07 Nov 2026 09:29:43 +0200",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20255067",
+    "sourceUrl": "https://yle.fi/a/74-20255067?origin=rss",
+    "title": "Top British Researcher: \"Putin Thinks Trump Is a Foolish Idiot Who Can Be Exploited\"",
+    "originalSummary": "Tunnettu Venäjä-tutkija pitää Stubbin puhelua Putinille melko turhana. Stubbilla voisi silti olla rooli rauhan edistämisessä.",
+    "analysis": "President Alexander Stubb's phone call to Vladimir Putin has sparked European debate over the utility of direct diplomatic engagement with Russia. While dialogue aims to signal openness to peace, analysts argue that unreciprocated outreach risks projecting European weakness and fails to alter Putin's calculus, as Russia continues to benefit from ongoing conflict and manipulates Western actors. Engaging an aggressive power without credible deterrence or increased economic pressure is strategically ineffective; thus, Finland and the broader EU should prioritize maximum material support for Ukraine rather than pursuing premature diplomatic talks that Moscow weaponizes for propaganda.",
+    "publishedAt": "Sat, 07 Nov 2026 08:34:22 +0200",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20255576",
+    "sourceUrl": "https://yle.fi/a/74-20255576?origin=rss",
+    "title": "Analysis: The government made an \"outrageous\" plan that promises mostly to protect lands already protected",
+    "originalSummary": "Suomen suunnitelma ennallistamisesta oli tutkijoille ja järjestöille vielä odotettuakin isompi pettymys, kirjoittaa toimittaja Kaisa Hietalahti.",
+    "analysis": "The Finnish government presented its draft plan for implementing the EU Nature Restoration Law, drawing severe criticism from researchers and environmental organizations for weakening targets and limiting the non-deterioration obligation strictly to existing Natura areas. By narrowing the definition of natural boreal forests and avoiding mandatory new protections outside current reserves, the policy prioritizes near-term industry interests over ecological necessity. While fiscal caution is understandable, severely diluting conservation commitments undermines both the letter and spirit of binding European environmental standards. The proposal should be rejected in its current form and renegotiated to ensure meaningful ecosystem restoration that aligns with scientific assessments and prevents long-term environmental degradation.",
+    "publishedAt": "Sat, 07 Nov 2026 07:30:35 +0200",
+    "category": "Environment",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20254860",
+    "sourceUrl": "https://yle.fi/a/74-20254860?origin=rss",
+    "title": "Documents Reveal: Google Inquired About Environmental Permits Long Ago, Yet Everything Went Wrong",
+    "originalSummary": "Petteri Orpo valjasti virkakunnan hankkimaan Googlen investoinnin Suomeen. Selvitimme, saiko Google erityiskohtelua.",
+    "analysis": "Internal documents show that tech giant Google engaged in extensive lobbying with Finnish government officials and ministers regarding a massive multi-billion-euro data center investment while simultaneously violating environmental assessment procedures. Despite high-level political backing and coordination from the government's investment unit, the handling of the project highlights friction between aggressive corporate expansion and regulatory compliance. Streamlining administrative processes is essential for attracting foreign direct investment, but expediting bureaucratic pathways must not compromise strict adherence to environmental laws and public oversight. Policymakers should maintain transparent, standardized permitting frameworks rather than affording perceived preferential access, ensuring that large-scale industrial projects align with statutory ecological requirements without creating regulatory loopholes.",
+    "publishedAt": "Sat, 07 Nov 2026 05:30:35 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20255628",
     "sourceUrl": "https://yle.fi/a/74-20255628?origin=rss",
     "title": "Opponents of Data Centers Protest in Several Cities",
@@ -502,50 +546,6 @@
     "analysis": "Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre broke a multi-year diplomatic freeze by calling Russian President Vladimir Putin to discuss peace efforts in Ukraine and regional security. While the uncoordinated call risked European unity and yielded no concessions from Moscow, maintaining a total diplomatic blackout has proven equally ineffective at altering the trajectory of the war. Direct communication channels are a necessary pragmatic tool in high-stakes diplomacy, and while such outreach must be carefully coordinated with European allies to prevent appearing weak or divided, exploring every avenue to halt hostilities remains in the strategic interest of Finland and Europe.",
     "publishedAt": "Tue, 27 Oct 2026 20:35:33 +0200",
     "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253662",
-    "sourceUrl": "https://yle.fi/a/74-20253662?origin=rss",
-    "title": "A-studio: What does Stubb's phone call to Putin signify? Watch the live broadcast at 21.00",
-    "originalSummary": "Kansainvälisen politiikan professori Tuomas Forsberg ja entinen ulkoministeri Timo Soini analysoivat Stubbin ja Støren puhelua Putinille.",
-    "analysis": "Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre held a lengthy phone call with Russia's Vladimir Putin to discuss limiting hostilities regarding energy infrastructure and food security, while coordinating with Ukraine and the US ahead of upcoming talks in Abu Dhabi. While direct diplomatic engagement carries inherent risks of legitimizing an aggressor, maintaining high-level channels synchronized with key allies is a necessary mechanism to explore de-escalation pathways and practical risk-reduction measures. This diplomatic outreach should be supported as a calculated, pragmatic effort to anchor European security interests in future negotiations rather than leaving dialogue monopolized entirely by external powers.",
-    "publishedAt": "Tue, 27 Oct 2026 20:31:03 +0200",
-    "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253602",
-    "sourceUrl": "https://yle.fi/a/74-20253602?origin=rss",
-    "title": "Finnair CEO: The company can fly domestically without state support if the route is profitable",
-    "originalSummary": "Finnairin toimitusjohtajan Turkka Kuusiston mukaan yhtiö tutkii, voisiko se lentää nykyisin valtion ostamia reittejä ilman tukia.",
-    "analysis": "The Ministry of Transport and Communications proposed ending state purchases of unprofitable domestic flights after 2028, prompting Finnair to state it could operate some of these routes commercially if market demand proves sufficient. Ending direct state subsidies for regional routes promotes fiscal responsibility and market efficiency, shifting the burden of unprofitable operations away from taxpayers toward commercial viability. This policy shift should be supported, as aviation subsidies distort the transport market and public funds are better allocated toward maintaining essential infrastructure rather than propping up non-viable commercial airline routes.",
-    "publishedAt": "Tue, 27 Oct 2026 19:40:31 +0200",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253592",
-    "sourceUrl": "https://yle.fi/a/74-20253592?origin=rss",
-    "title": "National Coalition Party Criticizes Finance Ministry Official's Statement on Budget Adjustment: \"Ill-Considered and Unsuccessful\"",
-    "originalSummary": "Kokoomuksen kansanedustaja syyttää Ylen Politiikkaradiossa valtiovarainministeriön budjettipäällikköä poliitikkojen tontille astumisesta.",
-    "analysis": "National Coalition Party MP Henrik Vuornos criticized Finance Ministry Budget Chief Mika Niemelä for stating that Finland's fiscal adjustment requires both spending cuts and tax hikes, arguing that tax increases should be excluded. Relying exclusively on spending cuts to close a multi-billion euro deficit risks severe social friction and execution failure, making a balanced approach combining targeted expenditure reductions and revenue enhancements economically more pragmatic. The rigid rejection of tax adjustments limits necessary fiscal flexibility, and policymakers should pursue a mixed adjustment strategy to ensure macroeconomic stability while protecting essential public services.",
-    "publishedAt": "Tue, 27 Oct 2026 18:47:47 +0200",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253560",
-    "sourceUrl": "https://yle.fi/a/74-20253560?origin=rss",
-    "title": "Bizarre situation in Sysmä: Municipal manager's employment ended by court decision – now he was elected again",
-    "originalSummary": "Sysmän kunnanvaltuusto valitsi Lasse Peltosen hoitamaan kunnanjohtajan tehtäviä siihen asti, kunnes uusi kunnanjohtaja saadaan valittua.",
-    "analysis": "Sysmä municipal council reappointed Lasse Peltonen as temporary municipal manager after courts annulled his previous appointment due to gender equality concerns in the hiring process. This recurring administrative turmoil underscores the vulnerability of municipal governance to prolonged legal disputes and appointment procedures. To ensure efficient local administration and legal certainty, municipal appointment processes must strictly adhere to administrative law and non-discrimination mandates from the outset to prevent costly and disruptive leadership vacuums.",
-    "publishedAt": "Tue, 27 Oct 2026 18:35:03 +0200",
-    "category": "Local Government",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
