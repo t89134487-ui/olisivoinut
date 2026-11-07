@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20255628",
+    "sourceUrl": "https://yle.fi/a/74-20255628?origin=rss",
+    "title": "Opponents of Data Centers Protest in Several Cities",
+    "originalSummary": "",
+    "analysis": "Activists and environmental groups protested in multiple Finnish cities demanding a pause and stricter regulation on new data center projects, highlighting a regulatory lag behind rapid industry growth. While data centers drive digital infrastructure and local economic investments, the lack of timely environmental and spatial planning frameworks creates legitimate risks regarding energy consumption and land use. To balance technological progress with ecological sustainability, the government should establish clear national guidelines rather than halting development entirely, ensuring predictable rules that protect local resources while accommodating necessary digital infrastructure.",
+    "publishedAt": "Sat, 07 Nov 2026 01:29:02 +0200",
+    "category": "Environment",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20255607",
     "sourceUrl": "https://yle.fi/a/74-20255607?origin=rss",
     "title": "ECB Set to Get a Dutch or Spanish President",
@@ -535,17 +546,6 @@
     "analysis": "Sysmä municipal council reappointed Lasse Peltonen as temporary municipal manager after courts annulled his previous appointment due to gender equality concerns in the hiring process. This recurring administrative turmoil underscores the vulnerability of municipal governance to prolonged legal disputes and appointment procedures. To ensure efficient local administration and legal certainty, municipal appointment processes must strictly adhere to administrative law and non-discrimination mandates from the outset to prevent costly and disruptive leadership vacuums.",
     "publishedAt": "Tue, 27 Oct 2026 18:35:03 +0200",
     "category": "Local Government",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253603",
-    "sourceUrl": "https://yle.fi/a/74-20253603?origin=rss",
-    "title": "From Traditional Finnish Engineering Shop to Digital Company – AI Boom Pushes Wärtsilä's Order Books to Record Highs",
-    "originalSummary": "Wärtsilän osavuosikatsaus näytti lähes joka mittarilla vihreää, mutta osakekurssi painui punaiselle.",
-    "analysis": "Wärtsilä's pivot toward energy solutions driven by the global data center and AI boom highlights how industrial policy intersects with technological shifts. Government considerations, such as proposed Finnish energy production investment supports for quick-starting biogas turbines, reinforce the synergy between state backing and industrial adaptation. Such targeted subsidies are economically justified to secure grid stability amid the rapid expansion of renewable energy and data infrastructure, bolstering high-value domestic manufacturing. These support measures should be endorsed to maintain Finland's competitive edge in the global green transition.",
-    "publishedAt": "Tue, 27 Oct 2026 18:31:47 +0200",
-    "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
