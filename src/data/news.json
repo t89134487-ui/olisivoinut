@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20254854",
+    "sourceUrl": "https://yle.fi/a/74-20254854?origin=rss",
+    "title": "Twin Town Activity Almost Died, But Russia's Attack on Ukraine Changed the Situation",
+    "originalSummary": "Ystävyyskuntasopimuksia Ukrainaan on tehty viime vuosina ennätysmäärä. Jyväskylä toivoo, että uusi ystävyys Tšernivtsin kanssa hyödyttäisi molempia kaupunkeja.",
+    "analysis": "Finnish municipalities are actively establishing new twin town relationships with Ukraine, shifting the focus of international municipal cooperation toward solidarity, reconstruction support, and resilience expertise sharing. Russia's invasion sparked this surge, increasing Ukrainian partner cities from three to over thirty, with cities like Jyväskylä allocating the bulk of their international budgets to these ties. This bottom-up municipal diplomacy efficiently channels material aid while fostering mutually beneficial long-term networks in education and technology. Such decentralized partnerships should be strongly supported, as they provide targeted, resilient, and practical bilateral cooperation that complements state-level foreign policy.",
+    "publishedAt": "Sat, 07 Nov 2026 15:42:17 +0200",
+    "category": "Foreign Affairs",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20255635",
     "sourceUrl": "https://yle.fi/a/74-20255635?origin=rss",
     "title": "Europe faces hybrid influence operations - President Sauli Niinistö is a guest on Ykkösaamu",
@@ -535,17 +546,6 @@
     "analysis": "The municipality of Muhos unanimously terminated the probationary employment of its lead building inspector, Jultuz Änwär, following controversy over preparatory works for Google's datacenter project. While officials cited standard suitability assessments, the dismissal raises concerns regarding administrative transparency and the protection of civil servants discussing public interest matters. Protecting independent regulatory oversight is crucial for upholding the rule of law in large industrial investments, and punitive measures against critical officials undermine public trust in local governance.",
     "publishedAt": "Wed, 28 Oct 2026 09:59:28 +0200",
     "category": "Public Administration",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253601",
-    "sourceUrl": "https://yle.fi/a/74-20253601?origin=rss",
-    "title": "Analysis: Four years ago Stubb said he wouldn't answer Putin – now Stubb called him himself",
-    "originalSummary": "Koska puhumattomuus ei ole tuonut rauhaa, Stubb päätti kokeilla puhumista.",
-    "analysis": "Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre broke a multi-year diplomatic freeze by calling Russian President Vladimir Putin to discuss peace efforts in Ukraine and regional security. While the uncoordinated call risked European unity and yielded no concessions from Moscow, maintaining a total diplomatic blackout has proven equally ineffective at altering the trajectory of the war. Direct communication channels are a necessary pragmatic tool in high-stakes diplomacy, and while such outreach must be carefully coordinated with European allies to prevent appearing weak or divided, exploring every avenue to halt hostilities remains in the strategic interest of Finland and Europe.",
-    "publishedAt": "Tue, 27 Oct 2026 20:35:33 +0200",
-    "category": "Foreign Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
