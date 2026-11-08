@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20255741",
+    "sourceUrl": "https://yle.fi/a/74-20255741?origin=rss",
+    "title": "Swedish Social Democrats want a government with the Centre and Green parties",
+    "originalSummary": "",
+    "analysis": "Swedish Social Democratic leader Magdalena Andersson has announced her bid to form a minority government with the Centre and Green parties, relying on the Left Party for support despite their reluctance to act purely as a tacit supporter. This configuration highlights the enduring structural fragmentation of the Swedish parliament, where coalition-building requires delicate compromises among ideologically divergent factions to secure a functional majority. Given the inherent instability of minority governments dependent on reluctant external allies, Andersson's proposed coalition risks policy paralysis and prolonged legislative gridlock. To ensure long-term governance efficiency and coherent policymaking, this alliance should be supported only if it establishes binding legislative agreements that minimize recurrent political extortion from external support parties.",
+    "publishedAt": "Sun, 08 Nov 2026 18:57:23 +0200",
+    "category": "Government Formation",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20255717",
     "sourceUrl": "https://yle.fi/a/74-20255717?origin=rss",
     "title": "Orpo admits: 100,000 jobs may materialize only in coming years",
@@ -534,17 +545,6 @@
     "originalSummary": "Valtuutettujen mielestä myös johtajien autoedut pitäisi käydä läpi, kun kaupungissa etsitään säästöjä.",
     "analysis": "The City of Espoo is procuring high-end electric lease cars worth up to four million euros for its leadership amid strict austerity measures and recent layoffs. While honoring existing contractual compensation frameworks provides short-term legal stability, maintaining luxury perks during a fiscal contraction undermines public trust and organizational morale. Local authorities should reform executive compensation by replacing costly vehicle fringe benefits with transparent, performance-based base salaries to align administrative costs with prevailing economic realities.",
     "publishedAt": "Wed, 28 Oct 2026 17:22:09 +0200",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253288",
-    "sourceUrl": "https://yle.fi/a/74-20253288?origin=rss",
-    "title": "Fortum has eight gigawatts of renewable projects – construction awaits buyers",
-    "originalSummary": "Fortum on myynyt Googlelle puolet Loviisan ydinvoimalan sähkön tuotannosta vuosikymmeniksi. Sähkön kysynnän kasvuun Fortum vastaa lisäämällä tuotantoa.",
-    "analysis": "Fortum's long-term power purchase agreement with Google highlights Finland's attractiveness for energy-intensive industrial investments due to competitive electricity prices. This market-driven approach secures stable cash flows for Fortum, enabling future investments in renewables and nuclear power without heavy reliance on state subsidies. Leveraging private-sector demand to finance clean energy expansion is an efficient mechanism that strengthens Finland's industrial competitiveness while supporting broader green transition goals. This model of market-backed green infrastructure development should be supported as a sustainable alternative to direct public funding.",
-    "publishedAt": "Wed, 28 Oct 2026 17:20:20 +0200",
     "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
