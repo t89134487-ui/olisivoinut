@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20252378",
+    "sourceUrl": "https://yle.fi/a/74-20252378?origin=rss",
+    "title": "Conservatism Is Now a Rebellion Among Young Men, and Toni Haakila Costa, 28, Is Leading It",
+    "originalSummary": "Osa nettideittailuun, krapulaan ja vapaamieliseen maailmaan turhautuneista nuorista miehistä löytää nyt rauhan kristinuskosta.",
+    "analysis": "Christian Democratic Youth leader Toni Haakila Costa advocates for conservative family values, prominently proposing the reinstatement of joint family taxation to support single-earner households and boost birth rates. While intended to alleviate financial pressure on families with young children, joint taxation inherently creates significant disincentives for secondary earners—predominantly women—to enter or remain in the workforce, thereby undermining labor supply and economic autonomy. This outdated tax policy should be rejected, as modernizing family support requires flexible childcare solutions rather than fiscal structures that penalize two-income households and depress overall productivity.",
+    "publishedAt": "Sun, 08 Nov 2026 10:03:58 +0200",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20254854",
     "sourceUrl": "https://yle.fi/a/74-20254854?origin=rss",
     "title": "Twin Town Activity Almost Died, But Russia's Attack on Ukraine Changed the Situation",
@@ -535,17 +546,6 @@
     "analysis": "Municipalities in the Uusimaa region are increasingly implementing stormwater fees to cover the rising costs of managing melt and rainwater, with some cities like Vantaa and Espoo charging residents through both the municipality and the local water utility. While separating these environmental costs from general taxation can improve transparency and create better financial incentives for stormwater management, overlapping collection mechanisms frustrate citizens and increase administrative friction. Local authorities should streamline these fees into a single, unified billing process to reduce public backlash and administrative overhead while maintaining necessary infrastructure funding.",
     "publishedAt": "Wed, 28 Oct 2026 11:44:16 +0200",
     "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252836",
-    "sourceUrl": "https://yle.fi/a/74-20252836?origin=rss",
-    "title": "Muhos Dismisses Lead Building Inspector Who Suspected Firing Was Retaliation for Google Interview",
-    "originalSummary": "Jultuz Änwär toimi Muhoksen kunnan palveluksessa elokuun alusta asti. Yhdyskuntalautakunta päätti hänen virkasuhteensa purkamisesta maanantaina.",
-    "analysis": "The municipality of Muhos unanimously terminated the probationary employment of its lead building inspector, Jultuz Änwär, following controversy over preparatory works for Google's datacenter project. While officials cited standard suitability assessments, the dismissal raises concerns regarding administrative transparency and the protection of civil servants discussing public interest matters. Protecting independent regulatory oversight is crucial for upholding the rule of law in large industrial investments, and punitive measures against critical officials undermine public trust in local governance.",
-    "publishedAt": "Wed, 28 Oct 2026 09:59:28 +0200",
-    "category": "Public Administration",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
