@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20255717",
+    "sourceUrl": "https://yle.fi/a/74-20255717?origin=rss",
+    "title": "Orpo admits: 100,000 jobs may materialize only in coming years",
+    "originalSummary": "Petteri Orpo vastasi ajankohtaisiin kysymyksiin pääministerin haastattelutunnilla.",
+    "analysis": "Prime Minister Petteri Orpo acknowledged during a public interview that the government's target of generating 100,000 new jobs may take several years to materialize rather than happening immediately. This admission highlights the friction between the cabinet's ambitious structural reform timeline and the sluggish economic reality. While structural labor market reforms are necessary to improve long-term employment rates, expecting immediate macroeconomic turnaround from legislative tweaks alone is often overly optimistic. The government should maintain its current reform trajectory aimed at incentivizing work, but temper its timelines with realistic economic forecasting to avoid undermining confidence in its growth strategy.",
+    "publishedAt": "Sun, 08 Nov 2026 13:51:30 +0200",
+    "category": "Economics",
+    "isFromSummary": true,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20252378",
     "sourceUrl": "https://yle.fi/a/74-20252378?origin=rss",
     "title": "Conservatism Is Now a Rebellion Among Young Men, and Toni Haakila Costa, 28, Is Leading It",
@@ -534,17 +545,6 @@
     "originalSummary": "Fortum on myynyt Googlelle puolet Loviisan ydinvoimalan sähkön tuotannosta vuosikymmeniksi. Sähkön kysynnän kasvuun Fortum vastaa lisäämällä tuotantoa.",
     "analysis": "Fortum's long-term power purchase agreement with Google highlights Finland's attractiveness for energy-intensive industrial investments due to competitive electricity prices. This market-driven approach secures stable cash flows for Fortum, enabling future investments in renewables and nuclear power without heavy reliance on state subsidies. Leveraging private-sector demand to finance clean energy expansion is an efficient mechanism that strengthens Finland's industrial competitiveness while supporting broader green transition goals. This model of market-backed green infrastructure development should be supported as a sustainable alternative to direct public funding.",
     "publishedAt": "Wed, 28 Oct 2026 17:20:20 +0200",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20249933",
-    "sourceUrl": "https://yle.fi/a/74-20249933?origin=rss",
-    "title": "Stormwater Fees Will Soon Arrive for Residents from Two Different Authorities in Vantaa and Espoo – Resident Association: \"Annoying\"",
-    "originalSummary": "Yhä useampi kunta kuittaa sade- ja sulamisvesistä koituvia kuluja kiinteistönomistajilta perittävillä hulevesimaksuilla.",
-    "analysis": "Municipalities in the Uusimaa region are increasingly implementing stormwater fees to cover the rising costs of managing melt and rainwater, with some cities like Vantaa and Espoo charging residents through both the municipality and the local water utility. While separating these environmental costs from general taxation can improve transparency and create better financial incentives for stormwater management, overlapping collection mechanisms frustrate citizens and increase administrative friction. Local authorities should streamline these fees into a single, unified billing process to reduce public backlash and administrative overhead while maintaining necessary infrastructure funding.",
-    "publishedAt": "Wed, 28 Oct 2026 11:44:16 +0200",
     "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
