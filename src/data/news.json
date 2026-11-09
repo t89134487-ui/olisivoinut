@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://yle.fi/a/74-20255965",
+    "sourceUrl": "https://yle.fi/a/74-20255965?origin=rss",
+    "title": "Foreign Minister Remembers Lenita Airisto: \"It feels truly empty that she is gone\"",
+    "originalSummary": "Ulkoministerin mukaan Lenita Airistoa kuvasi periksiantamaton yritteliäisyys ja paremman huomisen hakeminen.",
+    "analysis": "Minister for Foreign Affairs Elina Valtonen paid tribute to the late entrepreneur and author Lenita Airisto, highlighting her pioneering role in promoting Finnish exports and building Finland's international brand. Airisto's lifelong dedication to female entrepreneurship and international trade exemplifies the vital synergy between private sector ambition and national economic diplomacy. Supporting policies that reduce bureaucratic friction and actively champion export-oriented small and medium-sized enterprises remains essential for driving Finland's global competitiveness and economic growth.",
+    "publishedAt": "Mon, 09 Nov 2026 19:46:01 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20255828",
+    "sourceUrl": "https://yle.fi/a/74-20255828?origin=rss",
+    "title": "Finnish Experts: Nvidia CEO Scandal Highlights the Risk of Export Restriction Failures",
+    "originalSummary": "Nvidian toimitusjohtajan Jensen Huang on myöntänyt olleensa suhteessa henkilöön, jonka epäillään vakoilleen Kiinalle.",
+    "analysis": "The scandal involving Nvidia CEO Jensen Huang's alleged ties to a suspected Chinese spy has prompted Finnish security experts to warn about corporate vulnerabilities and the circumvention of US tech export controls. This situation underscores how geopolitical competition weaponizes the global economy, exposing critical dependencies on single dominant suppliers like Nvidia for artificial intelligence infrastructure. Managing these human and market concentration risks requires stricter security clearances for executives, rigorous supply chain vetting, and a diversification of the tech ecosystem to safeguard national and economic security against intelligence threats.",
+    "publishedAt": "Mon, 09 Nov 2026 18:35:35 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20255825",
+    "sourceUrl": "https://yle.fi/a/74-20255825?origin=rss",
+    "title": "Orpo Says Tax Hikes Kill Growth, Minja Koskelan Believes Millionaires Also Value Welfare State",
+    "originalSummary": "Menoleikkaukset ja veronkorotukset jakoivat puolueita EK:n paneelissa.",
+    "analysis": "Finnish party leaders debated how to balance the state budget ahead of the elections, dividing sharply between the right-wing reliance on spending cuts and the left-wing push for tax increases, including a millionaire tax. While relying solely on spending risks undermining public services, excessive tax hikes can stifle capital investment and economic growth. A balanced approach combining targeted spending restraint with moderate, predictable revenue adjustments is essential to stabilize public finances without harming business competitiveness.",
+    "publishedAt": "Mon, 09 Nov 2026 18:28:40 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20255778",
     "sourceUrl": "https://yle.fi/a/74-20255778?origin=rss",
     "title": "Chancellor of Justice requests additional clarification from Prime Minister Orpo regarding Garden Helsinki connections – here is how the Prime Minister responds",
@@ -513,39 +546,6 @@
     "analysis": "European Central Bank President Christine Lagarde is stepping down early in February to speak freely on non-monetary issues, coinciding with French political instability and potential succession battles ahead of French presidential elections. Central bank independence is vital for credible monetary policy, and synchronizing leadership changes with domestic political cycles risks compromising the institution's perceived neutrality. The early departure should be managed carefully to ensure that the ECB's governance remains insulated from partisan pressures, preserving long-term macroeconomic stability across the eurozone.",
     "publishedAt": "Thu, 29 Oct 2026 15:02:19 +0200",
     "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253873",
-    "sourceUrl": "https://yle.fi/a/74-20253873?origin=rss",
-    "title": "Will There Be an Engagement? The EU and Canada's Romance Takes a New Step",
-    "originalSummary": "EU-johtajat matkustavat Kanadaan syventämään liekkeihin roihahtanutta rakkautta.",
-    "analysis": "The article examines the deepening diplomatic and economic ties between the EU and Canada, including potential associate membership for Canada, the ratification of long-pending free trade agreements, and cooperation in AI, critical minerals, and support for Ukraine. Finland's strong public backing and shared strategic interests with Canada highlight the geopolitical necessity of multilateral alliances in an unstable global environment. Deepening this institutional partnership enhances Western democratic resilience and trade security, making the proposed integration a pragmatic and mutually beneficial policy path that should be strongly supported.",
-    "publishedAt": "Thu, 29 Oct 2026 08:02:35 +0200",
-    "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253767",
-    "sourceUrl": "https://yle.fi/a/74-20253767?origin=rss",
-    "title": "THL would shake up the basis of healthcare funding: diagnosis would weigh less than before",
-    "originalSummary": "Selvityksessä on neljä erilaista mallia, joiden perusteella hyvinvointialueiden rahoitusta voitaisiin jakaa. Nykymalli on vääristänyt alueiden rahoitusta.",
-    "analysis": "The Finnish Institute for Health and Welfare proposes reforming wellbeing services counties' funding model by reducing the weight of diagnoses and focusing more on broader demographic needs and chronic conditions to curb perverse incentives. While diagnosis-based funding has led to administrative gaming and revenue volatility, shifting toward a simpler, needs-based model is essential for financial stability and equitable service delivery. Policymakers should support this structural overhaul to eliminate zero-sum budget games and ensure predictable, equitable resource allocation across all regions.",
-    "publishedAt": "Thu, 29 Oct 2026 00:01:35 +0200",
-    "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253804",
-    "sourceUrl": "https://yle.fi/a/74-20253804?origin=rss",
-    "title": "Professor Finds Clear Reasons for Criticism Stubb Received from Denmark",
-    "originalSummary": "Stubbin ja Støren puhelu Putinin kanssa kirvoitti kritiikkiä. Asiantuntijan mukaan puhelu oli sekä voitto Venäjälle että kipeästi tarvittu keskustelunavaus.",
-    "analysis": "President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre faced sharp criticism from Denmark and Sweden after holding a phone call with Russian President Vladimir Putin to address stalled Ukrainian peace negotiations. While critics like Danish Prime Minister Mette Frederiksen labeled the move uncoordinated solo diplomacy that risks handing Russia a propaganda victory, Finnish and Norwegian leaders defended it as pragmatic realpolitik necessary to prevent the conflict from escalating in the North and to ensure Europe remains engaged alongside the United States as winter approaches.\n\nEngaging in direct diplomatic channels with an adversary carries inherent risks of exploitation, yet maintaining independent communication lines is essential when regional security and imminent humanitarian crises in Ukraine hang in the balance. European nations must balance unity with pragmatic urgency to avoid leaving critical peace efforts solely to external actors like the US administration. Therefore, this diplomatic outreach should be supported as a necessary tactical intervention, provided it remains closely coordinated with broader European and Ukrainian priorities.",
-    "publishedAt": "Wed, 28 Oct 2026 17:45:14 +0200",
-    "category": "Foreign Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
