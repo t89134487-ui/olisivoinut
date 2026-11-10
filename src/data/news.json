@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://yle.fi/a/74-20256182",
+    "sourceUrl": "https://yle.fi/a/74-20256182?origin=rss",
+    "title": "Phone Salesmen Use Easy Sales Trick Not Prohibited by Law – Consumer Ombudsman Proposes Law Amendment",
+    "originalSummary": "Teleoperaattoreiden viestintäpalvelut on jätetty kuluttajansuojalain puhelinmyyntisääntelyn ulkopuolelle, koska niitä säädellään omalla lailla.",
+    "analysis": "The Finnish Consumer Ombudsman has proposed banning unsolicited cold-calling in telemarketing and reforming rules for telecom services, following a sharp rise in consumer complaints regarding aggressive sales tactics targeting the elderly. Exempting communication services from standard consumer protection rules has created regulatory loopholes that allow operators to deliver sales summaries during calls rather than effectively informing consumers. Implementing a total ban on cold calls and standardizing telemarketing regulations would significantly reduce unfair practices and protect vulnerable demographics. Requiring explicit prior consumer consent for all phone sales is a necessary, efficient measure to restore market transparency and prevent predatory commercial exploitation.",
+    "publishedAt": "Tue, 10 Nov 2026 18:15:46 +0200",
+    "category": "Consumer Protection",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20256195",
+    "sourceUrl": "https://yle.fi/a/74-20256195?origin=rss",
+    "title": "Orpo Blessed Tavio's Actions on Somalia Aid Decisions on X",
+    "originalSummary": "Ministeri Ville Tavio päätti evätä yli 4 miljoonan euron edestä kehitysapurahoja.",
+    "analysis": "Prime Minister Petteri Orpo publicly supported Minister for Foreign Trade and Development Ville Tavio's decision to deny over four million euros in development aid to Somalia due to insufficient return cooperation. While leveraging aid conditionality can incentivize compliance on migration, bypassing civil servant proposals and halting funding after application processes have begun undermines administrative predictability and good governance. Conditioning aid on repatriation is a valid diplomatic tool, but it should be implemented transparently through formal policy guidelines rather than ad hoc ministerial vetoes to maintain legal certainty for NGOs.",
+    "publishedAt": "Tue, 10 Nov 2026 18:13:13 +0200",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20256005",
+    "sourceUrl": "https://yle.fi/a/74-20256005?origin=rss",
+    "title": "Espoo continues managers' car benefits despite criticism: costs over 1.7 million during the contract period",
+    "originalSummary": "Espoon johdon työsuhdeautojen verotusarvo siirtyy ensi vuonna osaksi kokonaispalkkaa. Etua on kritisoitu, koska Espoo on irtisanonut ihmisiä säästöjen vuoksi.",
+    "analysis": "The city of Espoo has decided to maintain its leased car benefit framework for top management, totaling over 1.7 million euros for the contract period, while transitioning to a total compensation model. This decision has sparked criticism from major party leaders, especially as the municipality recently conducted layoffs and sought budget savings. Maintaining executive perks during austerity measures undermines institutional credibility and creates a dissonance in public resource allocation. Eliminating such non-essential fringe benefits during fiscal tightening is necessary to ensure equitable burden-sharing across municipal staff.",
+    "publishedAt": "Tue, 10 Nov 2026 17:15:14 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20255846",
     "sourceUrl": "https://yle.fi/a/74-20255846?origin=rss",
     "title": "Residents Who Lost Their Property Demand Damages from Lakea's Owner Municipalities",
@@ -513,39 +546,6 @@
     "analysis": "The Finnish Immigration Service plans to deport a recognized Nigerian human trafficking victim and her children, despite legal challenges and concerns over lack of support networks in Nigeria. This case highlights the friction between Finland's tightened asylum policies and the humanitarian protection needs of vulnerable trafficking victims. While administrative efficiency in processing immigration decisions is necessary, rigid deportation policies risk exposing vulnerable individuals to renewed harm and undermine broader human rights commitments. The deportation order should be suspended to allow a more thorough assessment of the family's actual safety risks and the children's best interests.",
     "publishedAt": "Thu, 29 Oct 2026 19:24:57 +0200",
     "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254126",
-    "sourceUrl": "https://yle.fi/a/74-20254126?origin=rss",
-    "title": "Cold Shower from China on Pork Exports – ”Take Care of the Disease, Then We Can Continue Negotiations”",
-    "originalSummary": "Kiina pitää sianlihan vientitiet suljettuina afrikkalaisen sikaruton vuoksi. Lintuinfluenssaneuvottelut Suomen kanssa etenevät.",
-    "analysis": "China has halted negotiations regarding Finnish pork exports following an outbreak of African swine fever, demanding the disease be eradicated before talks resume and refusing to accept regionalized export models. This poses a significant economic challenge for Finland's agricultural sector, as specific cuts traditionally exported to Asian markets cannot easily be redirected domestically or to new international destinations due to stringent regulatory hurdles. While biosecurity and disease eradication must remain the absolute priority for public health and agricultural integrity, diplomatic efforts should focus on expanding alternative markets and advocating for science-based regionalization standards internationally to mitigate heavy losses for domestic producers.",
-    "publishedAt": "Thu, 29 Oct 2026 19:03:59 +0200",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253969",
-    "sourceUrl": "https://yle.fi/a/74-20253969?origin=rss",
-    "title": "Alexander Stubb as guest on Ykkösaamu – what do you want to ask?",
-    "originalSummary": "Presidentti Stubb ja Norjan pääministeri Jonas Gahr Støre soittivat Venäjän presidentti Vladimir Putinille. Miksi puhelu Moskovaan soitettiin?",
-    "analysis": "President Alexander Stubb's upcoming interview addresses the controversial phone call made by Finnish and Norwegian leadership to Russia, which drew mixed reactions from Nordic allies. Engaging directly with foreign adversaries requires balancing diplomatic dialogue with allied unity, raising questions about the strategic utility of unilateral outreach. While maintaining communication channels can prevent escalation, such actions must be carefully coordinated within the Nordic and Western architecture to avoid signaling division. Therefore, such diplomatic initiatives should be supported only when tightly synchronized with collective security strategies to maximize leverage and prevent diplomatic friction among close partners.",
-    "publishedAt": "Thu, 29 Oct 2026 15:16:20 +0200",
-    "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254076",
-    "sourceUrl": "https://yle.fi/a/74-20254076?origin=rss",
-    "title": "The Finnish Defense Forces Test VR Glasses in Drone Defense Training",
-    "originalSummary": "Suomalaisen Varjon VR-lasien ympärille rakennettua simulaatioympäristöä on rakennettu keväästä lähtien. Varjo kertoo tuovansa laitetuotannon Suomeen.",
-    "analysis": "The Finnish Defense Forces have partnered with virtual reality company Varjo to train soldiers in countering drone threats using advanced XR-4 headsets, marking the inaugural project of the military's new innovation unit. Integrating immersive virtual simulations into combat readiness addresses the urgent tactical realities of modern warfare where rapid reaction to airborne hazards is critical. This initiative represents a highly efficient and cost-effective method for scaling realistic combat training while leveraging domestic technological expertise. The collaboration should be strongly supported, as it directly enhances national defense capabilities and secures critical security-of-supply chains by localizing production.",
-    "publishedAt": "Thu, 29 Oct 2026 15:12:40 +0200",
-    "category": "Defense",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
