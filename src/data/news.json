@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20256101",
+    "sourceUrl": "https://yle.fi/a/74-20256101?origin=rss",
+    "title": "Short-Term Rental Bill in Parliament: 'This Proposal Does Not Fix the Problems'",
+    "originalSummary": "Lakiehdotuksen tavoite on ollut puuttua lyhytvuokrauksen haittoihin, mutta eduskunnassa käyty keskustelu osoitti, että näillä muutoksilla ei ongelmista päästä.",
+    "analysis": "The Finnish Parliament is debating an amendment to the Building Act that would allow short-term rentals for up to 90 to 180 days per year without a separate permit. While intended to curb housing market distortions, the proposed cap is flawed; it strips tourist hubs like Rovaniemi of crucial regulatory power to address acute rental shortages, while simultaneously imposing unnecessary bureaucracy in less congested areas. The proposal should be revised to grant municipalities greater discretion to tailor rules locally, coupled with a mandatory host registry to effectively tackle the shadow economy.",
+    "publishedAt": "Tue, 10 Nov 2026 20:16:55 +0200",
+    "category": "Housing Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20256182",
     "sourceUrl": "https://yle.fi/a/74-20256182?origin=rss",
     "title": "Phone Salesmen Use Easy Sales Trick Not Prohibited by Law – Consumer Ombudsman Proposes Law Amendment",
@@ -534,17 +545,6 @@
     "originalSummary": "Hallituksen esitys EU:n palkka-avoimuusdirektiivin hyväksymisestä on eduskunnan käsittelyssä.",
     "analysis": "The upcoming EU pay transparency directive will require Finnish employers to disclose starting salaries or salary ranges in job advertisements and prohibit asking about a candidate's salary history. This regulatory shift enhances market transparency and reduces information asymmetries between employers and job seekers, which generally improves labor market efficiency. Such mandates should be supported as they foster fairer compensation practices, reduce unjustified wage gaps, and strengthen employee bargaining power without imposing excessive administrative burdens on firms.",
     "publishedAt": "Thu, 29 Oct 2026 19:55:55 +0200",
-    "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254103",
-    "sourceUrl": "https://yle.fi/a/74-20254103?origin=rss",
-    "title": "Human trafficking victim Grace and her children face deportation to Nigeria, reports Yle",
-    "originalSummary": "Nigerialainen nainen pakeni lastensa kanssa väkivaltaisia parittajia Suomeen. Maahanmuuttoviraston mukaan heidät voidaan turvallisesti palauttaa Nigeriaan.",
-    "analysis": "The Finnish Immigration Service plans to deport a recognized Nigerian human trafficking victim and her children, despite legal challenges and concerns over lack of support networks in Nigeria. This case highlights the friction between Finland's tightened asylum policies and the humanitarian protection needs of vulnerable trafficking victims. While administrative efficiency in processing immigration decisions is necessary, rigid deportation policies risk exposing vulnerable individuals to renewed harm and undermine broader human rights commitments. The deportation order should be suspended to allow a more thorough assessment of the family's actual safety risks and the children's best interests.",
-    "publishedAt": "Thu, 29 Oct 2026 19:24:57 +0200",
     "category": "Social Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
