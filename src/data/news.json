@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20255846",
+    "sourceUrl": "https://yle.fi/a/74-20255846?origin=rss",
+    "title": "Residents Who Lost Their Property Demand Damages from Lakea's Owner Municipalities",
+    "originalSummary": "Lakean Omaksi-asukkaat vaativat korvauksia omistajakunnilta. Heidän mielestään kunnat käyttivät omistajaohjausta, mutta eivät silti valvoneet riittävästi.",
+    "analysis": "Residents who lost their investments in the Lakea housing company bankruptcy are demanding damages from the company's owner municipalities, citing poor oversight and conflicts of interest. While municipalities acted as controlling owners to secure financing, holding them legally liable for corporate bankruptcies sets a challenging precedent that could discourage local governments from participating in housing development models. To maintain trust in state-backed housing schemes, oversight frameworks must be clarified, but holding municipalities financially responsible for private corporate failures is an overreach that could destabilize municipal finances.",
+    "publishedAt": "Tue, 10 Nov 2026 09:48:58 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20255965",
     "sourceUrl": "https://yle.fi/a/74-20255965?origin=rss",
     "title": "Foreign Minister Remembers Lenita Airisto: \"It feels truly empty that she is gone\"",
@@ -535,17 +546,6 @@
     "analysis": "The Finnish Defense Forces have partnered with virtual reality company Varjo to train soldiers in countering drone threats using advanced XR-4 headsets, marking the inaugural project of the military's new innovation unit. Integrating immersive virtual simulations into combat readiness addresses the urgent tactical realities of modern warfare where rapid reaction to airborne hazards is critical. This initiative represents a highly efficient and cost-effective method for scaling realistic combat training while leveraging domestic technological expertise. The collaboration should be strongly supported, as it directly enhances national defense capabilities and secures critical security-of-supply chains by localizing production.",
     "publishedAt": "Thu, 29 Oct 2026 15:12:40 +0200",
     "category": "Defense",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253971",
-    "sourceUrl": "https://yle.fi/a/74-20253971?origin=rss",
-    "title": "European Central Bank President Christine Lagarde Explains Reasons for Resignation: \"I Want to Express My Opinions More Freely\"",
-    "originalSummary": "Pääjohtaja Lagarde jättää paikkansa hetkellä, jolloin euroalueella on uuden rahoituskriisin vaara. Lue tästä jutusta, mitä hänen lähtönsä merkitsee.",
-    "analysis": "European Central Bank President Christine Lagarde is stepping down early in February to speak freely on non-monetary issues, coinciding with French political instability and potential succession battles ahead of French presidential elections. Central bank independence is vital for credible monetary policy, and synchronizing leadership changes with domestic political cycles risks compromising the institution's perceived neutrality. The early departure should be managed carefully to ensure that the ECB's governance remains insulated from partisan pressures, preserving long-term macroeconomic stability across the eurozone.",
-    "publishedAt": "Thu, 29 Oct 2026 15:02:19 +0200",
-    "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
