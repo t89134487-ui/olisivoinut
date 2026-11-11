@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20256179",
+    "sourceUrl": "https://yle.fi/a/74-20256179?origin=rss",
+    "title": "New Report: Orpo's Government Increases Income Inequality – 80 Euros Less Per Month for Low-Income Earners, More Money for High-Income Earners",
+    "originalSummary": "Orpon hallitus on tehnyt kautensa aikana sosiaaliturva- ja veromuutoksia, jotka lisäävät tuloeroja, käy ilmi Terveyden ja hyvinvoinnin laitoksen laskelmista.",
+    "analysis": "A new THL report reveals that the Finnish government's social security cuts and tax reforms will increase overall income inequality, decreasing disposable incomes for the lowest earners by about eight percent while boosting incomes for the top decile. The social security reductions, particularly in unemployment and housing benefits, disproportionately affect vulnerable groups like students and part-time workers, while tax cuts benefit those already employed. While fiscal consolidation and work incentives are necessary, shifting the tax burden away from social support without sufficient employment offsets deepens poverty among low-income households. The government should reconsider the balance of these reforms, ensuring that fiscal incentives for employment do not excessively penalize those unable to work or currently in transition.",
+    "publishedAt": "Wed, 11 Nov 2026 00:05:35 +0200",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20256101",
     "sourceUrl": "https://yle.fi/a/74-20256101?origin=rss",
     "title": "Short-Term Rental Bill in Parliament: 'This Proposal Does Not Fix the Problems'",
@@ -535,17 +546,6 @@
     "analysis": "The article discusses the declining trend of celebrity candidates in Finnish parliamentary elections, driven by a harsher political climate, increased social media scrutiny, and the demanding nature of legislative work. While some celebrity candidates successfully transition into capable lawmakers or ministers, the overall decrease reflects a necessary shift toward candidates equipped with long-term commitment and analytical endurance. The diminishing presence of non-traditional candidates is a positive development that elevates the professional standards of parliament, as governance requires rigorous policy expertise and resilience rather than mere name recognition. Consequently, the trend toward policy-focused professionals over superficial popularity contests should be welcomed to ensure higher legislative competence.",
     "publishedAt": "Thu, 29 Oct 2026 20:03:52 +0200",
     "category": "Politics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254016",
-    "sourceUrl": "https://yle.fi/a/74-20254016?origin=rss",
-    "title": "Employees Must Soon Be Informed of the Basis of Their Salary",
-    "originalSummary": "Hallituksen esitys EU:n palkka-avoimuusdirektiivin hyväksymisestä on eduskunnan käsittelyssä.",
-    "analysis": "The upcoming EU pay transparency directive will require Finnish employers to disclose starting salaries or salary ranges in job advertisements and prohibit asking about a candidate's salary history. This regulatory shift enhances market transparency and reduces information asymmetries between employers and job seekers, which generally improves labor market efficiency. Such mandates should be supported as they foster fairer compensation practices, reduce unjustified wage gaps, and strengthen employee bargaining power without imposing excessive administrative burdens on firms.",
-    "publishedAt": "Thu, 29 Oct 2026 19:55:55 +0200",
-    "category": "Social Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
