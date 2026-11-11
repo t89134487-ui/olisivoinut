@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20255934",
+    "sourceUrl": "https://yle.fi/a/74-20255934?origin=rss",
+    "title": "An Unknown Name is Rising to the Top of High Earners' List",
+    "originalSummary": "Tulolistan kärkipäässä on harvoin maahanmuuttajia ja vielä harvemmin Euroopan ulkopuolelta tulleita. Nyt sinne on nousemassa iranilainen Saber Kordestanchi.",
+    "analysis": "The article highlights Saber Kordestanchi, an immigrant entrepreneur whose multi-million-euro success with the startup Hostaway challenges traditional wealth patterns in Finland, while also sparking a debate on immigration policy. Kordestanchi critiques recent government restrictions—such as the three-month rule for unemployed job-seekers and extended timelines for citizenship—arguing they undermine Finland's attractiveness for global talent and entrepreneurial risk-taking. From a policy perspective, strict immigration timelines for skilled labor can stifle high-growth innovation by discouraging the foundational uncertainty required for startups. Immigration frameworks should be calibrated to support high-potential tech entrepreneurs, ensuring that regulatory hurdles do not inadvertently drive away the very foreign direct investment and talent needed to boost the national economy.",
+    "publishedAt": "Wed, 11 Nov 2026 18:00:35 +0200",
+    "category": "Economic Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20256179",
     "sourceUrl": "https://yle.fi/a/74-20256179?origin=rss",
     "title": "New Report: Orpo's Government Increases Income Inequality – 80 Euros Less Per Month for Low-Income Earners, More Money for High-Income Earners",
@@ -535,17 +546,6 @@
     "analysis": "Finnish political parties debate a massive 8 to 11 billion euro adjustment for the upcoming parliamentary term, focusing heavily on spending cuts, index freezes, and corporate subsidies proposed by the Ministry of Finance. Reviewing automatic index-linked spending is a fiscally responsible mechanism to curb structural deficits, as rigid automatic increases often disconnect public spending from broader economic realities. Freezing or selectively modifying these indices should be supported to ensure long-term fiscal sustainability without exclusively targeting vulnerable demographics or essential public services.",
     "publishedAt": "Thu, 29 Oct 2026 20:30:35 +0200",
     "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253977",
-    "sourceUrl": "https://yle.fi/a/74-20253977?origin=rss",
-    "title": "Analysis: Timo Jutila is already a rarity, few celebrities bother to run for office anymore",
-    "originalSummary": "Kansanedustajuus ei houkuttele enää julkkiksia. Samaan aikaan Suomessa olisi syytä pohtia, riittäisikö vähempikin lainsäätäjämäärä.",
-    "analysis": "The article discusses the declining trend of celebrity candidates in Finnish parliamentary elections, driven by a harsher political climate, increased social media scrutiny, and the demanding nature of legislative work. While some celebrity candidates successfully transition into capable lawmakers or ministers, the overall decrease reflects a necessary shift toward candidates equipped with long-term commitment and analytical endurance. The diminishing presence of non-traditional candidates is a positive development that elevates the professional standards of parliament, as governance requires rigorous policy expertise and resilience rather than mere name recognition. Consequently, the trend toward policy-focused professionals over superficial popularity contests should be welcomed to ensure higher legislative competence.",
-    "publishedAt": "Thu, 29 Oct 2026 20:03:52 +0200",
-    "category": "Politics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
