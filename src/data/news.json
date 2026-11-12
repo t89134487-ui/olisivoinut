@@ -1,5 +1,49 @@
 [
   {
+    "id": "https://yle.fi/a/74-20256400",
+    "sourceUrl": "https://yle.fi/a/74-20256400?origin=rss",
+    "title": "See How Well Wellbeing Services County Directors Earned in 2025",
+    "originalSummary": "Pohjois-Pohjanmaan hyvinvointialueen Ilkka Luoman tulot nousivat suuremmiksi kuin Etelä-Karjalan Sally Leskisen. Päijät-Hämeen Petri Virolainen kiri vuonna 2025.",
+    "analysis": "The article details the 2025 earnings and tax contributions of Finland's wellbeing services county directors, highlighting significant regional wage variations and turnover driven by financial deficits and political pressures. While high compensation reflects the immense administrative and fiscal responsibilities of managing decentralized healthcare regions, wide discrepancies amid severe public sector budget constraints demand tighter standardization. Standardizing executive pay structures relative to regional population size and fiscal performance would improve administrative efficiency and public trust in the sustainability of regional welfare governance.",
+    "publishedAt": "Thu, 12 Nov 2026 14:56:16 +0200",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20256546",
+    "sourceUrl": "https://yle.fi/a/74-20256546?origin=rss",
+    "title": "Restrictions on Russian Athletes' Visas Tightened – Valtonen: Sport is a Tool of Propaganda for Russia",
+    "originalSummary": "Venäläisten urheilijoiden viisumin saannin kiristyksiä on valmistelu ulkoministeriössä pikaisella aikataululla.",
+    "analysis": "The Finnish government has updated its policy principles to restrict short-term work visas for Russian athletes, aligning entry permissions strictly with Finland's national security and vital interests. This measure effectively closes a loophole utilized by professional athletes and neutral-status competitors, reinforcing Finland's stance against utilizing international sports to legitimize the Russian state. Restricting these visas is a necessary and efficient tool to maintain consistent sanctions pressure and prevent the instrumentalization of cultural and athletic exchanges for geopolitical propaganda. Such targeted restrictions should be fully supported as a coherent extension of foreign and security policy, reinforcing national resolve without imposing disproportionate administrative burdens on unrelated sectors.",
+    "publishedAt": "Thu, 12 Nov 2026 13:54:22 +0200",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20256595",
+    "sourceUrl": "https://yle.fi/a/74-20256595?origin=rss",
+    "title": "Defense Committee Chair Autto on the strike on a warship: A new kind of phase in the war between Ukraine and Russia",
+    "originalSummary": "Ukraina kertoi iskeneensä droonilla venäläiseen ohjusalukseen Suomenlahdella, lähellä Suursaarta keskiviikon vastaisena yönä.",
+    "analysis": "Parliamentary Defense Committee Chair Heikki Autto noted that Ukraine's drone strike on a Russian warship in the Gulf of Finland marks a new phase in the conflict, as combat events now touch areas close to Finnish borders. While defending Ukraine's right to eliminate military threats, Autto reassured citizens that Finnish authorities are actively monitoring the situation and ensuring national airspace integrity. This situation underscores the critical necessity of robust national border surveillance and proactive defense readiness in the Baltic Sea region amid escalating geopolitical tensions. Finland must maintain rigorous airspace monitoring and transparent public communication to deter accidental spillover risks while reinforcing deterrence and security reassurance.",
+    "publishedAt": "Thu, 12 Nov 2026 13:52:53 +0200",
+    "category": "Foreign Policy and Defense",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20256607",
+    "sourceUrl": "https://yle.fi/a/74-20256607?origin=rss",
+    "title": "Nordic Countries Prepare New Defense Agreement",
+    "originalSummary": "",
+    "analysis": "Finland and its Nordic neighbors have initiated the drafting of a new defense cooperation agreement in Oslo to strengthen joint military readiness and operational capabilities under NATO. This pact establishes a stronger legal framework for seamless cross-border defense, enhancing regional deterrence and security efficiency through integrated planning. The agreement should be fully supported as a vital step in solidifying northern flank stability, ensuring that allied interoperability translates into a cohesive and rapid collective defense posture.",
+    "publishedAt": "Thu, 12 Nov 2026 13:40:36 +0200",
+    "category": "Foreign and Security Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20249929",
     "sourceUrl": "https://yle.fi/a/74-20249929?origin=rss",
     "title": "Ursula von der Leyen Leads Europe in an Exceptional Way, and That Can Benefit Finland",
@@ -504,49 +548,5 @@
     "category": "Social Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254428",
-    "sourceUrl": "https://yle.fi/a/74-20254428?origin=rss",
-    "title": "Handling fee required for e-commerce purchases from outside the EU",
-    "originalSummary": "Tullauksen yhteydessä maksettava käsittelymaksu ei tule asiakkaan maksettavaksi, jos tavaran myyjä kuuluu IOSS-järjestelmään.",
-    "analysis": "Finnish Customs has implemented a two-euro handling fee for all e-commerce shipments arriving from outside the European Union, aiming to curb the exponential growth of low-cost imports and overconsumption. While the fee creates administrative friction, it helps level the playing field for domestic and EU-based retailers by removing unfair cost advantages associated with cheap foreign imports. This policy should be supported as a necessary environmental and economic measure to disincentivize unsustainable consumption patterns, provided that digital customs processes remain streamlined for compliant sellers using the IOSS system.",
-    "publishedAt": "Sun, 01 Nov 2026 02:09:50 +0200",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254246",
-    "sourceUrl": "https://yle.fi/a/74-20254246?origin=rss",
-    "title": "Adlercreutz aims to bring STT's situation to the government table: \"I hope alternatives can still be reviewed\"",
-    "originalSummary": "Suomen tietotoimiston uutistoiminta on päättymässä maaliskuussa. 139 vuotta toiminut STT kertoi eilen irtisanovansa lähes kaikki työntekijänsä.",
-    "analysis": "Minister of Education Anders Adlercreutz and other politicians are calling for government action to address the impending closure of Finland's national news agency STT, citing its critical role in national security and information integrity. While market failures challenge the commercial viability of legacy news agencies, state intervention risks propping up uncompetitive structures. However, given STT's foundational role in supporting regional media and mitigating disinformation, targeted policy measures to safeguard core national news infrastructure are justified. Policymakers should support a temporary, transparent transition framework to secure domestic news plurality without creating permanent state dependency.",
-    "publishedAt": "Fri, 30 Oct 2026 17:36:12 +0200",
-    "category": "Media Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254198",
-    "sourceUrl": "https://yle.fi/a/74-20254198?origin=rss",
-    "title": "Finland remained at the top of EU unemployment statistics in September",
-    "originalSummary": "Suomen työttömyys synkkeni vuoden heikoimmalle tasolle EU:ssa. Suomi, Espanja ja Ruotsi olivat syyskuussa yhä pahimmat työttömyysmaat EU:ssa.",
-    "analysis": "Finland's unemployment rate rose to 11 percent in September, placing the country at the top of the EU unemployment rankings once again. Persistently high unemployment highlights structural rigidities in the Finnish labor market and points to lagging economic momentum compared to the EU average. Addressing this disparity requires a renewed focus on growth-oriented structural reforms, targeted employment incentives, and reduced regulatory barriers to hiring. Policymakers should prioritize labor market flexibility and skills matching to stimulate job creation and reduce long-term structural joblessness.",
-    "publishedAt": "Fri, 30 Oct 2026 12:04:17 +0200",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254205",
-    "sourceUrl": "https://yle.fi/a/74-20254205?origin=rss",
-    "title": "Old Rauma Detailed Plan Remains in Force – Appeals Dismissed",
-    "originalSummary": "Turun hallinto-oikeuteen tehtiin yhdeksän valitusta Vanhan-Rauman asemakaavamuutoksesta.",
-    "analysis": "The Turku Administrative Court upheld Rauma's detailed town plan, ruling that the municipality can mandate comprehensive interior protections across roughly 600 historic buildings without individual inventories due to the area's UNESCO World Heritage status. Protecting entire historic milieus en bloc prevents the gradual erosion of cultural heritage and avoids the prohibitive costs and delays of inspecting every private interior prior to zoning. However, blanket restrictions without inventorying impose significant limits on property rights and complicate routine maintenance for owners. The policy strikes an acceptable balance given the exceptional global heritage value, but the municipality should provide streamlined, transparent permit procedures to minimize friction for property owners.",
-    "publishedAt": "Fri, 30 Oct 2026 10:46:32 +0200",
-    "category": "Urban Planning",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
   }
 ]
