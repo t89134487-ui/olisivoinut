@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20256566",
+    "sourceUrl": "https://yle.fi/a/74-20256566?origin=rss",
+    "title": "Keminmaa Municipal Council Meeting Filled the Council Chamber with Children Due to a Sports Hall",
+    "originalSummary": "Valtuustosalin lehterin vallannut lapsijoukko seurasi, kun keminmaalaiset päättivät monitoimihallista: halli rakennetaan sittenkin.",
+    "analysis": "The Keminmaan municipal council narrowly voted 17-14 in favor of funding a 6.2 to 6.6 million euro multi-purpose sports hall, reversing an earlier municipal board recommendation to scrap the project. This decision directly addresses a severe regional shortage of winter training facilities affecting up to 1,600 children across Meri-Lappi after several neighboring facilities collapsed or became unavailable. Investing in municipal recreational infrastructure is essential for public health, youth development, and community well-being, yielding long-term social dividends that outweigh initial budget overruns. Local authorities should proceed with construction as planned to secure foundational public goods that the private market fails to provide.",
+    "publishedAt": "Thu, 12 Nov 2026 19:20:03 +0200",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20256400",
     "sourceUrl": "https://yle.fi/a/74-20256400?origin=rss",
     "title": "See How Well Wellbeing Services County Directors Earned in 2025",
@@ -535,17 +546,6 @@
     "analysis": "Large Finnish enterprises are increasingly concerned that rapid data center investments will heighten competition for electricity, raising industrial power costs. While over eighty percent demand a level playing field between data centers and traditional industry, opinions remain divided on state support for foreign tech investments due to low employment and tax yields. Ensuring equitable energy access is critical for maintaining Finland's industrial competitiveness, making it vital to condition public support on verifiable local economic benefits and robust grid infrastructure expansion rather than curtailing high-tech growth outright.",
     "publishedAt": "Mon, 02 Nov 2026 04:10:45 +0200",
     "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252359",
-    "sourceUrl": "https://yle.fi/a/74-20252359?origin=rss",
-    "title": "Why These Nurses Left for Norway and Won't Return to Finland Permanently – Behind It Are These Weighty Reasons",
-    "originalSummary": "Tilastojen mukaan satakunta suomalaista sairaanhoitajaa käy vuosittain töissä Norjassa. Ulkomaille heitä houkuttelee parempi palkka ja työolot.",
-    "analysis": "Finnish healthcare professionals are increasingly migrating to Norway due to better wages, flexible work cultures, and less professional burnout compared to Finland's strained wellbeing services counties. This talent drain highlights systemic inefficiencies in Finland's public healthcare management, where heavy workloads and rigid scheduling alienate experienced staff. Finland must urgently reform healthcare working conditions, improve wage competitiveness, and grant nurses greater autonomy over rosters to stem the ongoing loss of essential medical personnel to neighboring Nordic countries.",
-    "publishedAt": "Sun, 01 Nov 2026 13:01:35 +0200",
-    "category": "Social Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
