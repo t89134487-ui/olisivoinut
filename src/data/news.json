@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20249929",
+    "sourceUrl": "https://yle.fi/a/74-20249929?origin=rss",
+    "title": "Ursula von der Leyen Leads Europe in an Exceptional Way, and That Can Benefit Finland",
+    "originalSummary": "Saksalainen Ursula von der Leyen on Euroopan vaikutusvaltaisin johtaja, joka on kahminut itselleen lisää valtaa. Se ei välttämättä ole huono asia.",
+    "analysis": "European Commission President Ursula von der Leyen has centralized power and expanded her role beyond traditional boundaries to lead the EU through unprecedented crises like the pandemic and the war in Ukraine. While this overreach sometimes creates friction with member states regarding competencies, her assertive leadership strengthens the Commission, which inherently serves as a crucial ally and protector of smaller member states like Finland against dominant national interests of large countries. Finland should support the centralization of agenda-setting power within the Commission, as a robust supranational executive is essential for maintaining EU cohesion and effectively representing the collective interests of smaller nations on the global stage.",
+    "publishedAt": "Thu, 12 Nov 2026 06:31:49 +0200",
+    "category": "EU Politics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20255934",
     "sourceUrl": "https://yle.fi/a/74-20255934?origin=rss",
     "title": "An Unknown Name is Rising to the Top of High Earners' List",
@@ -537,16 +548,5 @@
     "category": "Urban Planning",
     "isFromSummary": false,
     "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254128",
-    "sourceUrl": "https://yle.fi/a/74-20254128?origin=rss",
-    "title": "Tytti Tuppurainen on A-talk: We do not rule out examining certain indices",
-    "originalSummary": "Valtiovarainministeriön kartoituksia on tarkoitus käyttää ensi kevään hallitusneuvottelujen apuna.",
-    "analysis": "Finnish political parties debate a massive 8 to 11 billion euro adjustment for the upcoming parliamentary term, focusing heavily on spending cuts, index freezes, and corporate subsidies proposed by the Ministry of Finance. Reviewing automatic index-linked spending is a fiscally responsible mechanism to curb structural deficits, as rigid automatic increases often disconnect public spending from broader economic realities. Freezing or selectively modifying these indices should be supported to ensure long-term fiscal sustainability without exclusively targeting vulnerable demographics or essential public services.",
-    "publishedAt": "Thu, 29 Oct 2026 20:30:35 +0200",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
   }
 ]
