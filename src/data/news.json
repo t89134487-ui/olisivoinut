@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20255466",
+    "sourceUrl": "https://yle.fi/a/74-20255466?origin=rss",
+    "title": "Ukraine reforms education amid war – Finland supports with 20 million euros",
+    "originalSummary": "Vuosia jatkunut uudistus on edennyt lukiokoulutukseen. Ensi syksynä oppivelvollisuus laajenee Ukrainassa 12 vuoteen nykyisen yhdeksän vuoden sijaan.",
+    "analysis": "Finland has committed 20 million euros through 2029 to support Ukraine's structural education reform, which transitions high school education to a three-year European model. This funding targets teacher training, learning materials, and institutional capacity-building amidst ongoing wartime destruction. Investing in educational infrastructure is a highly efficient and necessary policy measure, as human capital development is foundational for long-term societal resilience and post-war economic reconstruction. This targeted aid should be strongly supported, as bolstering civilian institutions directly reinforces Ukraine's strategic stability and European integration.",
+    "publishedAt": "Fri, 13 Nov 2026 11:13:24 +0200",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20256744",
+    "sourceUrl": "https://yle.fi/a/74-20256744?origin=rss",
+    "title": "Deputy Ombudsman: Significant problems in Migri processing times",
+    "originalSummary": "",
+    "analysis": "The Finnish Deputy Ombudsman revealed that the Finnish Immigration Service fails to meet statutory deadlines for residence permit applications, particularly regarding family ties, due to resource shortages and high application volumes. Failing to meet legally mandated timeframes undermines legal certainty and administrative efficiency for applicants. While authorities face genuine capacity constraints, statutory deadlines exist to protect individuals from indefinite limbo; therefore, the ministries must address these bottlenecks through targeted resource reallocation and process streamlining rather than accepting chronic delays.",
+    "publishedAt": "Fri, 13 Nov 2026 09:41:39 +0200",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20256370",
     "sourceUrl": "https://yle.fi/a/74-20256370?origin=rss",
     "title": "A Wealthy Entrepreneur Family Sustains the Small Municipality of Vieremä in Northern Savonia",
@@ -524,28 +546,6 @@
     "analysis": "The Finnish Ministry of the Interior has released its updated risk assessment, identifying 24 significant societal threats, including supply chain disruptions, hybrid influence, and AI-driven cyber attacks. This comprehensive risk mapping is a necessary administrative tool that enhances national resilience by aligning civil preparedness with a rapidly changing geopolitical and technological landscape. Systematically updating these preparedness baselines is crucial for mitigating vulnerabilities, and the proactive inclusion of emerging threats like data availability and AI dependency should be strongly supported to ensure long-term societal security.",
     "publishedAt": "Mon, 02 Nov 2026 12:38:38 +0200",
     "category": "National Security",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20253827",
-    "sourceUrl": "https://yle.fi/a/74-20253827?origin=rss",
-    "title": "Rautalampi Industrial Area Budget Exceeded by 850,000 Euros – Decision-Makers Received Misinformation",
-    "originalSummary": "Ulkopuolinen selvitys paljastaa, että teollisuusalueen rakentamisen budjetointi ja päätöksenteko pettivät laajasti. Asiantuntija pitää budjetointia lainvastaisena.",
-    "analysis": "Rautalampi municipality faced a major budget overrun and procurement irregularities in its industrial area project due to flawed net budgeting, faulty administrative information, and unauthorized contract alterations. Such governance failures undermine fiscal transparency and risk EU funding clawbacks, highlighting a concerning lack of legal and financial expertise in small municipalities. Municipalities must enforce strict gross budgeting, clear cost tracking, and rigorous adherence to procurement laws to restore accountability, protect public funds, and ensure administrative competence.",
-    "publishedAt": "Mon, 02 Nov 2026 12:15:09 +0200",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254533",
-    "sourceUrl": "https://yle.fi/a/74-20254533?origin=rss",
-    "title": "Sports Minister Poutala: \"Time is not right for Russia to return to ice hockey\"",
-    "originalSummary": "Mika Poutalan mukaan Venäjä ei ole tervetullut jääkiekon MM-turnauksiin.",
-    "analysis": "Finnish Sports Minister Mika Poutala stated that Russia and its national symbols remain unwelcome in international sports, aligning with Sweden's position despite a recent sports arbitration court ruling allowing Russian participation in World Championships. While international sports courts set baseline eligibility, maintaining restrictions on national symbols is a necessary political and ethical stance against ongoing aggression in Ukraine, serving to uphold the moral credibility of international competitions. Consequently, Finland and like-minded nations should continue to politically discourage participation and support sporting bodies that prioritize human rights and security over commercial or competitive normalization.",
-    "publishedAt": "Mon, 02 Nov 2026 10:34:36 +0200",
-    "category": "Foreign Policy and Sports",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
