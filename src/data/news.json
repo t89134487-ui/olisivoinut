@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20256370",
+    "sourceUrl": "https://yle.fi/a/74-20256370?origin=rss",
+    "title": "A Wealthy Entrepreneur Family Sustains the Small Municipality of Vieremä in Northern Savonia",
+    "originalSummary": "Varhaisista epäilyistä huolimatta metsäkoneyhtiö Ponssesta kasvoi Vieremän kunnan taloudellinen selkäranka.",
+    "analysis": "The article highlights the profound economic reliance of the small municipality of Vieremä on the forest machine manufacturer Ponsse and the Vidgrén family, alongside local criticisms of broader regional policy decisions like hospital network cuts and healthcare savings. While corporate-dependent municipal stability drives local prosperity, heavy reliance on a single enterprise exposes communities to structural vulnerabilities when regional and national public services retrench. Policymakers should support regulatory environments that foster localized industrial ecosystems while simultaneously ensuring robust public welfare backstops to insulate single-industry municipalities from macroeconomic volatility.",
+    "publishedAt": "Thu, 12 Nov 2026 19:56:50 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20256566",
     "sourceUrl": "https://yle.fi/a/74-20256566?origin=rss",
     "title": "Keminmaa Municipal Council Meeting Filled the Council Chamber with Children Due to a Sports Hall",
@@ -535,17 +546,6 @@
     "analysis": "Finnish Sports Minister Mika Poutala stated that Russia and its national symbols remain unwelcome in international sports, aligning with Sweden's position despite a recent sports arbitration court ruling allowing Russian participation in World Championships. While international sports courts set baseline eligibility, maintaining restrictions on national symbols is a necessary political and ethical stance against ongoing aggression in Ukraine, serving to uphold the moral credibility of international competitions. Consequently, Finland and like-minded nations should continue to politically discourage participation and support sporting bodies that prioritize human rights and security over commercial or competitive normalization.",
     "publishedAt": "Mon, 02 Nov 2026 10:34:36 +0200",
     "category": "Foreign Policy and Sports",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254509",
-    "sourceUrl": "https://yle.fi/a/74-20254509?origin=rss",
-    "title": "Large enterprises warn in OP Pohjola survey: Data centers tighten competition for electricity",
-    "originalSummary": "40 prosenttia vastaajista lakkauttaisi ulkomaisten datakeskusten valtiontuet heikkojen työllisyys- ja verohyötyjen takia.",
-    "analysis": "Large Finnish enterprises are increasingly concerned that rapid data center investments will heighten competition for electricity, raising industrial power costs. While over eighty percent demand a level playing field between data centers and traditional industry, opinions remain divided on state support for foreign tech investments due to low employment and tax yields. Ensuring equitable energy access is critical for maintaining Finland's industrial competitiveness, making it vital to condition public support on verifiable local economic benefits and robust grid infrastructure expansion rather than curtailing high-tech growth outright.",
-    "publishedAt": "Mon, 02 Nov 2026 04:10:45 +0200",
-    "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
