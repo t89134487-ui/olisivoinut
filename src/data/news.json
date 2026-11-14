@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20256959",
+    "sourceUrl": "https://yle.fi/a/74-20256959?origin=rss",
+    "title": "Law Ensuring Electricity Sufficiency is Delayed from Schedule",
+    "originalSummary": "",
+    "analysis": "The Finnish government's proposed legislation aimed at securing electricity grid capacity and guaranteeing connection rights for households is facing delays after missing its initial parliamentary deadline, though authorities still aim to pass it during the current electoral term. While regulatory delays create short-term uncertainty for grid planning, the underlying policy is essential for managing capacity constraints during the ongoing energy transition. The legislative proposal should be supported and expedited through parliament, as clear regulatory frameworks are vital for efficient grid utilization and protecting consumer access.",
+    "publishedAt": "Sat, 14 Nov 2026 08:06:11 +0200",
+    "category": "Energy Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20256944",
     "sourceUrl": "https://yle.fi/a/74-20256944?origin=rss",
     "title": "Analysis: A turning point is at hand in Ukraine negotiations, but two essential questions remain open",
@@ -535,17 +546,6 @@
     "analysis": "Salo City Council has reaffirmed its commitment to the Länsirata railway project by approving the shareholder agreement for the construction phase and rejecting a municipal referendum, resolving earlier procedural invalidations. High-speed rail investments can drive long-term regional economic integration and emissions reductions, but their enormous public costs and financial risks require robust justification and community trust. While maintaining municipal involvement in strategic transport corridors is sound, dismissing a referendum on a fiscally momentous project risks democratic deficit; the city should maintain its involvement only under strict cost-ceiling guarantees and transparent oversight to safeguard local taxpayers.",
     "publishedAt": "Mon, 02 Nov 2026 20:19:19 +0200",
     "category": "Infrastructure",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254606",
-    "sourceUrl": "https://yle.fi/a/74-20254606?origin=rss",
-    "title": "Forget a Safe Career: AI Is Transforming the Labor Market",
-    "originalSummary": "Kysyimme, mitä kannattaisi opiskella, kun melkein minkä tahansa alan työllisyystilanne voi muuttua hetkessä.",
-    "analysis": "To address structural unemployment and rapid technological disruption, the Finnish government has increased higher education intake by over a thousand slots, while student organizations urge wider use of hiring subsidies and criticize the abolition of adult education allowances. Expanding study places addresses long-term educational attainment, yet simply churning out degrees risks inefficiency when practical training bottlenecks persist and market needs shift unpredictably due to AI. Increasing study places should be supported, but education policy must prioritize flexible lifelong reskilling and targeted internships rather than rigid degree quotas to truly match market demands.",
-    "publishedAt": "Mon, 02 Nov 2026 19:03:53 +0200",
-    "category": "Education",
     "isFromSummary": false,
     "model": "gemini-flash-latest"
   }
