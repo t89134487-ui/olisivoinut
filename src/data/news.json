@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20256944",
+    "sourceUrl": "https://yle.fi/a/74-20256944?origin=rss",
+    "title": "Analysis: A turning point is at hand in Ukraine negotiations, but two essential questions remain open",
+    "originalSummary": "Eurooppalaiset onnistuivat viimeinkin päättämään Ukraina-neuvotteluiden edustuksesta, ja se on tärkeä askel, kirjoittaa EU-kirjeenvaihtaja Elli Hiilamo.",
+    "analysis": "EU leaders have agreed to form a joint European negotiating team, backed by Finnish Prime Minister Petteri Orpo, to ensure the continent is represented in upcoming talks regarding the war in Ukraine. However, uncertainties persist regarding whether Russia will officially accept European participation without dictating regional security terms, and who will ultimately lead the fragmented European delegation. Establishing a unified European diplomatic front is vital to prevent external powers from deciding continental security unilaterally, but success depends on streamlining internal leadership to speak with genuine authority.",
+    "publishedAt": "Fri, 13 Nov 2026 23:43:22 +0200",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20256938",
+    "sourceUrl": "https://yle.fi/a/74-20256938?origin=rss",
+    "title": "Researcher: European military powers could secure peace in Ukraine, which is why they are wanted at the negotiating table with Russia",
+    "originalSummary": "Eurooppaa edustavat Ukrainan rauhanneuvotteluissa E5-maat, eli Ranska, Saksa, Italia, Puola ja Britannia sekä EU-instituutiot.",
+    "analysis": "Prime Minister Petteri Orpo announced that the E5 nations—France, Germany, Italy, Poland, and Britain—alongside EU institutions will represent Europe in potential Ukraine peace negotiations. This structure highlights how European security policy continues to rely heavily on national military power rather than unified supranational defense alone. Relying on key military powers and multinational forces is crucial for providing credible security guarantees that must back any lasting peace agreement. This pragmatic framework should be strongly supported, as integrating major European military capabilities with diplomatic EU leverage is essential for achieving a stable and enforceable resolution to the conflict.",
+    "publishedAt": "Fri, 13 Nov 2026 22:48:49 +0200",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20255466",
     "sourceUrl": "https://yle.fi/a/74-20255466?origin=rss",
     "title": "Ukraine reforms education amid war – Finland supports with 20 million euros",
@@ -526,27 +548,5 @@
     "category": "Education",
     "isFromSummary": false,
     "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254552",
-    "sourceUrl": "https://yle.fi/a/74-20254552?origin=rss",
-    "title": "Häme Loses an MP, Southwest Finland Gains a Seat: Spring Election Seat Distributions Finalized",
-    "originalSummary": "Kansanedustajien määrä vaalipiireissä lasketaan lokakuun lopun väestötilastojen perusteella.",
-    "analysis": "Population shifts based on Finnish citizenship have altered the electoral district seat allocation for the upcoming parliamentary election, with Southwest Finland gaining one seat at the expense of Häme. This demographic adjustment ensures proportional representation aligns with population movements, maintaining the constitutional principle of equal voting weight across districts. While mechanical seat reallocation is necessary for democratic equity, continuous shrinkage in peripheral districts highlights the broader challenge of regional demographic concentration, suggesting that future electoral reforms should consider broader multi-member districts or regional grouping to mitigate rising effective thresholds for representation.",
-    "publishedAt": "Mon, 02 Nov 2026 13:35:10 +0200",
-    "category": "Electoral Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254564",
-    "sourceUrl": "https://yle.fi/a/74-20254564?origin=rss",
-    "title": "Live Broadcast: Ministry of the Interior outlines Finland's preparedness threats – \"Cyber attacks are possible\"",
-    "originalSummary": "Sisäministeriö julkaisee tänään maanantaina päivitetyn riskiarvionsa tuleville vuosille. Toimintakenttä on muuttunut merkittävästi viime riskiarviosta.",
-    "analysis": "The Finnish Ministry of the Interior has released its updated risk assessment, identifying 24 significant societal threats, including supply chain disruptions, hybrid influence, and AI-driven cyber attacks. This comprehensive risk mapping is a necessary administrative tool that enhances national resilience by aligning civil preparedness with a rapidly changing geopolitical and technological landscape. Systematically updating these preparedness baselines is crucial for mitigating vulnerabilities, and the proactive inclusion of emerging threats like data availability and AI dependency should be strongly supported to ensure long-term societal security.",
-    "publishedAt": "Mon, 02 Nov 2026 12:38:38 +0200",
-    "category": "National Security",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
   }
 ]
