@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20256973",
+    "sourceUrl": "https://yle.fi/a/74-20256973?origin=rss",
+    "title": "”For example, a book every month” – Minister of Education Adlercreutz wants clear, quantitative targets for schools",
+    "originalSummary": "Ylen Ykkösaamussa vieraillut Anders Adlercreutz (r.) torjuu uuden ehdotuksen oppimistulosten parantamiseksi.",
+    "analysis": "Minister of Education Anders Adlercreutz proposes introducing clear, quantitative targets into the school curriculum, such as reading a book every month, to improve students' focus and foundational skills amidst declining PISA results, while rejecting nationwide standardized tests due to concerns over increased stress and narrowed teaching. Quantitative benchmarks in foundational education effectively establish minimum competencies and combat falling literacy rates by removing ambiguity from learning outcomes. This specific proposal should be supported as a practical, low-barrier tool to enhance core academic skills, though policymakers must ensure these metrics remain qualitative enough to avoid bureaucratic rigidity.",
+    "publishedAt": "Sat, 14 Nov 2026 12:43:57 +0200",
+    "category": "Education Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20256959",
     "sourceUrl": "https://yle.fi/a/74-20256959?origin=rss",
     "title": "Law Ensuring Electricity Sufficiency is Delayed from Schedule",
@@ -537,16 +548,5 @@
     "category": "Elections and Democracy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254677",
-    "sourceUrl": "https://yle.fi/a/74-20254677?origin=rss",
-    "title": "Salo City Council Approves West Railway Decisions for a Second Time",
-    "originalSummary": "Valtuusto hyväksyi länsirataa koskevat päätökset jo kertaalleen, mutta hallinto-oikeus hylkäsi ne. Maanantai-illan kokouksessa päätökset säilyivät samoina.",
-    "analysis": "Salo City Council has reaffirmed its commitment to the Länsirata railway project by approving the shareholder agreement for the construction phase and rejecting a municipal referendum, resolving earlier procedural invalidations. High-speed rail investments can drive long-term regional economic integration and emissions reductions, but their enormous public costs and financial risks require robust justification and community trust. While maintaining municipal involvement in strategic transport corridors is sound, dismissing a referendum on a fiscally momentous project risks democratic deficit; the city should maintain its involvement only under strict cost-ceiling guarantees and transparent oversight to safeguard local taxpayers.",
-    "publishedAt": "Mon, 02 Nov 2026 20:19:19 +0200",
-    "category": "Infrastructure",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
   }
 ]
