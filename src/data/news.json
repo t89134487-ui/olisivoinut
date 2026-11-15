@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20257090",
+    "sourceUrl": "https://yle.fi/a/74-20257090?origin=rss",
+    "title": "Defense Minister Häkkänen on Estonia's Arson Attempt: Russia Is Desperate",
+    "originalSummary": "Puolustusministeri Antti Häkkänen muistuttaa, että Suomi on jo nostanut valmiutta ja kriittisten kohteiden suojelutasoa.",
+    "analysis": "Finnish Defense Minister Antti Häkkänen confirmed that Finland has elevated its readiness to protect critical infrastructure following increased Russian sabotage threats across Europe, including an arson attempt against a drone company in Estonia. Proactively tightening physical and cyber protection around strategic assets is both necessary and efficient, as it deters covert hybrid attacks designed to erode Western resolve beneath the threshold of open military conflict. This elevated defense posture should be firmly supported and institutionalized into permanent public-private security protocols, ensuring critical networks remain resilient against ongoing asymmetric threats.",
+    "publishedAt": "Sun, 15 Nov 2026 18:21:38 +0200",
+    "category": "Defense Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20256372",
     "sourceUrl": "https://yle.fi/a/74-20256372?origin=rss",
     "title": "”It is not Finns Party style,” says Antti Häkkänen as the National Coalition Party drifts to the right",
@@ -534,17 +545,6 @@
     "originalSummary": "Kuntapolitiikan kuohut jatkuvat Kemijärvellä, jossa tilapäinen valiokunta alkaa selvittää, nauttiiko hallitus valtuuston luottamusta. Äänestys oli tiukka.",
     "analysis": "The Kemijärvi city council voted to establish a temporary committee to investigate the dismissal of the city board following a profound loss of trust, compounding earlier leadership changes in the summer. Such internal administrative paralysis undermines local governance efficiency, stalling decision-making and wasting municipal resources on persistent political infighting. The municipal council was entirely justified in launching a formal inquiry to restore accountability, and the temporary committee should be supported to swiftly resolve allegations of misconduct and reinstate stable, transparent local administration.",
     "publishedAt": "Tue, 03 Nov 2026 20:25:32 +0200",
-    "category": "Local Government",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254864",
-    "sourceUrl": "https://yle.fi/a/74-20254864?origin=rss",
-    "title": "Parkano City Manager Agrees to Resign in Exchange for Approximately €90,000 Severance Compensation",
-    "originalSummary": "Parkanon kaupunginhallitus päättää kaupunginjohtaja Aki Viitasaaren erosopimuksesta torstaina.",
-    "analysis": "Parkano City Manager Aki Viitasaari is set to resign following a breakdown in cooperation with the city board, with a severance package of around €91,000 based on his leadership contract. Utilizing financial buyouts to swiftly resolve leadership friction and avoid protracted legal or political battles is pragmatically efficient for municipal governance. However, reliance on generous severance clauses in fixed-term executive contracts creates moral hazard and strains local public finances. Such agreements should be reformed to tie payouts strictly to performance metrics and clear, transparent thresholds rather than facilitating frictionless exits for managerial misalignment.",
-    "publishedAt": "Tue, 03 Nov 2026 19:16:44 +0200",
     "category": "Local Government",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
