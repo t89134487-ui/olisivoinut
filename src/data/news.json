@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20256372",
+    "sourceUrl": "https://yle.fi/a/74-20256372?origin=rss",
+    "title": "”It is not Finns Party style,” says Antti Häkkänen as the National Coalition Party drifts to the right",
+    "originalSummary": "Jos konservatiiviset arvot kantavat, kokoomuksen Häkkänen voi olla Petteri Orpon seuraaja. Häkkänen sanoo, että puolustusrahoista pitää sopia kulisseissa.",
+    "analysis": "National Coalition Party vice chair and Defense Minister Antti Häkkänen defends his party's rightward shift, emphasizing stricter immigration controls, tougher stances on social security misuse, and increased defense spending amid growing regional threats. Sustaining robust defense capabilities and enforcing stricter integration criteria are logical responses to deteriorating security environments and fiscal constraints. This firm stance on national security and managed immigration should be supported to ensure long-term stability and social cohesion, provided enforcement remains proportionate and fair.",
+    "publishedAt": "Sun, 15 Nov 2026 05:30:36 +0200",
+    "category": "Defense and Immigration Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20256973",
     "sourceUrl": "https://yle.fi/a/74-20256973?origin=rss",
     "title": "”For example, a book every month” – Minister of Education Adlercreutz wants clear, quantitative targets for schools",
@@ -535,17 +546,6 @@
     "analysis": "Parkano City Manager Aki Viitasaari is set to resign following a breakdown in cooperation with the city board, with a severance package of around €91,000 based on his leadership contract. Utilizing financial buyouts to swiftly resolve leadership friction and avoid protracted legal or political battles is pragmatically efficient for municipal governance. However, reliance on generous severance clauses in fixed-term executive contracts creates moral hazard and strains local public finances. Such agreements should be reformed to tie payouts strictly to performance metrics and clear, transparent thresholds rather than facilitating frictionless exits for managerial misalignment.",
     "publishedAt": "Tue, 03 Nov 2026 19:16:44 +0200",
     "category": "Local Government",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254709",
-    "sourceUrl": "https://yle.fi/a/74-20254709?origin=rss",
-    "title": "Supreme Court Rejected Trump Administration's Request to Set Aside Thousands of California Votes",
-    "originalSummary": "",
-    "analysis": "The US Supreme Court summarily rejected the Trump administration's late bid to disqualify over 20,000 mail-in ballots in California over unproven citizenship concerns ahead of the midterms. This judicial decision protected voting access by preventing last-minute disenfranchisement based on unsubstantiated claims, upholding the integrity of established electoral administration procedures. Proposals to invalidate votes without due process or verified evidence should be firmly rejected to maintain public trust in democratic institutions.",
-    "publishedAt": "Tue, 03 Nov 2026 05:08:17 +0200",
-    "category": "Elections and Democracy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
