@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20257239",
+    "sourceUrl": "https://yle.fi/a/74-20257239?origin=rss",
+    "title": "Property Acquired Through Crime Can Soon Be Confiscated by the State",
+    "originalSummary": "Lakimuutos tulee voimaan lähiviikkoina. Se koskee myös kryptovaluuttaa.",
+    "analysis": "Finland is introducing a new law allowing the state to permanently confiscate high-value assets, including cryptocurrencies, identified during criminal investigations without waiting for a final conviction. Aimed primarily at curbing youth and gang crime as well as tax evasion, this policy increases the financial friction of illicit activities by ensuring criminals cannot easily enjoy their proceeds. Such non-conviction-based asset forfeiture is a necessary and efficient tool in modern law enforcement, particularly given the anonymity and mobility of digital assets. This legislative proposal should be supported as it strengthens the rule of law and directly targets the economic incentives driving organized crime.",
+    "publishedAt": "Mon, 16 Nov 2026 19:15:54 +0200",
+    "category": "Law and Order",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20253556",
     "sourceUrl": "https://yle.fi/a/74-20253556?origin=rss",
     "title": "Ramona Nurminen Has Worked at a Library for 1.5 Years Without Pay: 'I Am Being Exploited'",
@@ -535,17 +546,6 @@
     "analysis": "A recent evaluation by the Finnish Institute for Health and Welfare (THL) reveals persistent structural shortcomings across well-being services counties, particularly in children's mental health, disability support, and elderly care, despite improving overall financial balances. While total regional surpluses and slower cost growth indicate stabilizing macro-level finances, growing regional disparities and unmet service needs threaten citizen equity and long-term preventative goals. Addressing these systemic inefficiencies requires transcending regional borders to streamline hospital networks and elderly care structures. Structural reforms must prioritize expanding preventative and primary-level care capacity to alleviate the escalating burden on heavy specialized services and ensure equitable access nationwide.",
     "publishedAt": "Wed, 04 Nov 2026 00:01:35 +0200",
     "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254937",
-    "sourceUrl": "https://yle.fi/a/74-20254937?origin=rss",
-    "title": "Massive Logistics Center Planned for Sipoo – Promises Over 200 Jobs",
-    "originalSummary": "Sipoon rakennus- ja ympäristövaliokunta suhtautui tiistaina myönteisesti yli 70 000 neliön logistiikkakeskuksen rakennuslupaan. Hanke toisi yli 200 työpaikkaa.",
-    "analysis": "The Sipoo building and environment committee has issued a favorable preliminary review for a massive 70,000-square-meter logistics center project by Kiinteistö Oy Sipoon Boxi, set to bring over 200 permanent jobs and significant municipal land development. Facilitating large-scale industrial investments through streamlined zoning and permitting processes is an efficient way to boost regional employment and tax bases without direct public subsidies. This permitting initiative should be supported as it leverages pre-approved zoning to foster economic growth and private sector job creation.",
-    "publishedAt": "Tue, 03 Nov 2026 23:22:29 +0200",
-    "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
