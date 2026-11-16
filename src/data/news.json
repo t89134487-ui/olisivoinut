@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20253556",
+    "sourceUrl": "https://yle.fi/a/74-20253556?origin=rss",
+    "title": "Ramona Nurminen Has Worked at a Library for 1.5 Years Without Pay: 'I Am Being Exploited'",
+    "originalSummary": "Ministeriö pitää 1,5 vuoden palkatonta työssäoppimista pitkänä. Ammatillisen oppilaitoksen ja Vantaan kirjaston mukaan opiskelija ei korvaa työvoimaa.",
+    "analysis": "Finland's vocational education framework permits extended unpaid training contracts without statutory time limits or clear mandates to transition into paid apprenticeships, leading to cases where students perform regular public-sector labor without wages while relying on basic social security. While hands-on workplace learning is vital for skill acquisition, leaving the system unregulated creates perverse incentives for employers to replace permanent staff with unpaid trainees, distorting municipal labor markets and imposing severe economic hardship on career changers. The legislation should be amended to establish strict statutory caps on the duration of unpaid training and enforce mandatory transitions to paid apprenticeships once trainees perform core operational duties independently.",
+    "publishedAt": "Mon, 16 Nov 2026 05:35:35 +0200",
+    "category": "Education Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20257090",
     "sourceUrl": "https://yle.fi/a/74-20257090?origin=rss",
     "title": "Defense Minister Häkkänen on Estonia's Arson Attempt: Russia Is Desperate",
@@ -535,17 +546,6 @@
     "analysis": "The Sipoo building and environment committee has issued a favorable preliminary review for a massive 70,000-square-meter logistics center project by Kiinteistö Oy Sipoon Boxi, set to bring over 200 permanent jobs and significant municipal land development. Facilitating large-scale industrial investments through streamlined zoning and permitting processes is an efficient way to boost regional employment and tax bases without direct public subsidies. This permitting initiative should be supported as it leverages pre-approved zoning to foster economic growth and private sector job creation.",
     "publishedAt": "Tue, 03 Nov 2026 23:22:29 +0200",
     "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254904",
-    "sourceUrl": "https://yle.fi/a/74-20254904?origin=rss",
-    "title": "Kemijärvi investigates dismissal of city board, leadership already changed earlier in the summer",
-    "originalSummary": "Kuntapolitiikan kuohut jatkuvat Kemijärvellä, jossa tilapäinen valiokunta alkaa selvittää, nauttiiko hallitus valtuuston luottamusta. Äänestys oli tiukka.",
-    "analysis": "The Kemijärvi city council voted to establish a temporary committee to investigate the dismissal of the city board following a profound loss of trust, compounding earlier leadership changes in the summer. Such internal administrative paralysis undermines local governance efficiency, stalling decision-making and wasting municipal resources on persistent political infighting. The municipal council was entirely justified in launching a formal inquiry to restore accountability, and the temporary committee should be supported to swiftly resolve allegations of misconduct and reinstate stable, transparent local administration.",
-    "publishedAt": "Tue, 03 Nov 2026 20:25:32 +0200",
-    "category": "Local Government",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
