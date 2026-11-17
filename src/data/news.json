@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20257166",
+    "sourceUrl": "https://yle.fi/a/74-20257166?origin=rss",
+    "title": "Sulkava and Hailuoto facing an unpleasant surprise: funding to be cut if no longer considered full archipelago municipalities",
+    "originalSummary": "Maa- ja metsätalousministeriö valmistelee Sulkavan ja Hailuodon saaristostatuksen muuttamista saaristo-osakunniksi.",
+    "analysis": "The Ministry of Agriculture and Forestry is preparing a regulatory change to reclassify Sulkava and Hailuoto from archipelago municipalities to sub-archipelago municipalities due to newly built bridges, resulting in significant state subsidy cuts from 2028. While updating funding criteria to reflect improved accessibility through fixed infrastructure promotes fiscal efficiency and resource allocation, penalizing municipalities with rigid cuts risks undermining their local vitality and ongoing investments. Linking status changes strictly to bridge completion overlooks lingering permanent cost disadvantages caused by surrounding waterways, suggesting that the reform should be paused until a broader, more holistic evaluation of the archipelago law and regional realities is completed.",
+    "publishedAt": "Tue, 17 Nov 2026 14:51:18 +0200",
+    "category": "Regional Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20257274",
+    "sourceUrl": "https://yle.fi/a/74-20257274?origin=rss",
+    "title": "A Tax Mistake of Nearly 270,000 Euros, Dual Roles, and an 11-Million-Euro Plot: Vaasa Investigates Responsibilities for the Mega-Project Mess",
+    "originalSummary": "Tarkastuslautakunta tutkii useita epäselvyyksiä Vaasan ja YIT:n suurhankkeessa. Lautakunta kuulee kaupungin johtavia viranhaltijoita tiistaina.",
+    "analysis": "The Vaasa audit committee is investigating potential financial engineering in the 2019 municipal accounts, where a city-owned plot was transferred to a subsidiary at an inflated book value of 11.2 million euros to artificially generate a surplus and bypass severe deficit rules. Additionally, the project suffered from severe administrative failures, including a missed transfer tax deadline leading to a heavy penalty interest. Such accounting maneuvers undermine fiscal transparency and prudent municipal governance, prioritizing optics over genuine economic health. This practice of using paper-gain intra-group transfers to mask structural deficits should be firmly rejected to ensure strict fiscal accountability in public administration.",
+    "publishedAt": "Tue, 17 Nov 2026 13:33:58 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20257160",
     "sourceUrl": "https://yle.fi/a/74-20257160?origin=rss",
     "title": "New Proposal: Education Should Be Paid For If Incomes Exceed a Certain Limit",
@@ -524,28 +546,6 @@
     "analysis": "The article discusses the US midterm elections where the Democratic Party secured majorities in both the House and Senate, delivering a decisive rebuke to Donald Trump's administration, foreign policy, and economic agenda. A divided government alters legislative checks and balances, potentially curbing executive overreach in foreign policy and introducing tighter regulation on emerging technologies like artificial intelligence. Restoring robust congressional oversight is a fundamental institutional necessity for democratic governance, ensuring effective checks on executive power. Reestablishing this constitutional balance should be supported to promote policy stability and accountability in US governance.",
     "publishedAt": "Wed, 04 Nov 2026 13:08:39 +0200",
     "category": "International Politics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20255033",
-    "sourceUrl": "https://yle.fi/a/74-20255033?origin=rss",
-    "title": "You Asked About the US Midterms – We Compiled the Answers",
-    "originalSummary": "Ylen USA-chattiin tuli satoja kysymyksiä.",
-    "analysis": "This article reviews the mechanics and implications of the US midterm elections through an expert Q and A, addressing legislative power balances, economic impacts, and political oversight regarding the administration. The division of power between the Senate and the House of Representatives acts as a vital constitutional check, forcing policy compromises and constraining unilateral executive actions. Maintaining this institutional friction is essential for democratic stability, preventing administrative overreach and ensuring broader consensus on critical legislative and fiscal measures.",
-    "publishedAt": "Wed, 04 Nov 2026 11:57:40 +0200",
-    "category": "International Politics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254887",
-    "sourceUrl": "https://yle.fi/a/74-20254887?origin=rss",
-    "title": "New assessment: Improving the state of forests and reducing species endangerment yields over one billion euros in annual economic benefits",
-    "originalSummary": "Suomen Luontopaneeli kehottaa nostamaan luontotoimet mukaan päätöksentekoon.",
-    "analysis": "The Finnish Nature Panel reports that improving biodiversity—specifically restoring forests, agricultural environments, and the Baltic Sea—generates hundreds of millions to over a billion euros in annual economic benefits while enhancing societal resilience. Monetizing these ecosystem services provides a crucial baseline for integrating natural capital into decision-making, countering the projected macroeconomic risks of environmental degradation. This proposal should be strongly supported, as incorporating ecological values into cost-benefit frameworks ensures efficient resource allocation and safeguards long-term fiscal stability against environmental shocks.",
-    "publishedAt": "Wed, 04 Nov 2026 01:00:35 +0200",
-    "category": "Environment",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
