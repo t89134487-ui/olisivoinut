@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20257643",
+    "sourceUrl": "https://yle.fi/a/74-20257643?origin=rss",
+    "title": "Parliament approved the extension of the border security law until the end of 2028",
+    "originalSummary": "Toistamiseen jatkettu väliaikainen laki mahdollistaa turvapaikanhakijoiden käännyttämisen, jos vieras valtio masinoi heitä Suomen rajalle.",
+    "analysis": "The Finnish Parliament extended the temporary border security law allowing the turnback of asylum seekers at the eastern border until the end of 2028, reflecting persistent national security concerns regarding instrumentalized migration. Extending this exceptional legislation is a necessary and efficient measure to protect national sovereignty and manage hybrid threats where traditional asylum procedures can be exploited by foreign actors. This targeted policy tool should be supported as a pragmatic deterrent against hostile border pressure, provided its implementation continues to respect fundamental legal thresholds and human rights obligations.",
+    "publishedAt": "Wed, 18 Nov 2026 14:12:53 +0200",
+    "category": "Security and Immigration",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20257685",
+    "sourceUrl": "https://yle.fi/a/74-20257685?origin=rss",
+    "title": "Forest Industry Returns Partially to Nation-Wide Collective Bargaining",
+    "originalSummary": "Metsäteollisuudessa siirryttiin vuonna 2020 valtakunnallisista työehtosopimuksista yrityskohtaiseen sopimiseen.",
+    "analysis": "Teollisuusliitto, Ammattiliitto Pro, and the Wood Products Employers have agreed on a binding national collective labor agreement for the wood-processing industry, marking a partial return to centralized bargaining after a shift toward company-specific deals initiated by Metsäteollisuus ry in 2020. This centralization reduces administrative burdens and transaction costs for both employers and employee representatives who previously found company-level negotiations resource-intensive without yielding proportional added value. A balanced labor market model should support flexible centralized frameworks that lower negotiation overhead while permitting localized adjustments, thereby enhancing operational efficiency and industrial stability in the export-driven forest sector.",
+    "publishedAt": "Wed, 18 Nov 2026 13:43:23 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20257574",
     "sourceUrl": "https://yle.fi/a/74-20257574?origin=rss",
     "title": "Forecasts: Democrat Mary Peltola is Alaska's next senator",
@@ -524,28 +546,6 @@
     "analysis": "A recent survey by the Finnish Tax Administration reveals that public support for taxation and the welfare state remains exceptionally high, with 94 percent viewing tax payment as an important civic duty and condemning tax evasion. This strong willingness to pay taxes underscores the high social capital and institutional trust underpinning the Finnish public sector. Preserving this trust requires maintaining transparent public spending, ensuring administrative efficiency, and resisting any policies that erode tax compliance.",
     "publishedAt": "Thu, 05 Nov 2026 07:10:35 +0200",
     "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20255013",
-    "sourceUrl": "https://yle.fi/a/74-20255013?origin=rss",
-    "title": "Analysis: Petteri Orpo's countdown as leader of the National Coalition Party begins at this rate",
-    "originalSummary": "Tuore Ylen kannatuskysely osoittaa, ettei kokoomuksen putoaminen perussuomalaisten taakse ollut tilastopoikkeama, Ylen toimittaja Ari Hakahuhta kirjoittaa.",
-    "analysis": "Recent polls indicate a historic drop in support for Finland's National Coalition Party (Kokoomus), driven by competition from the Finns Party on fiscal conservatism and tough economic adjustments. While the political shifting indicates voter dissatisfaction with current austerity measures, structural economic reforms remain necessary to stabilize national debt. The government should maintain its fiscal consolidation path while better communicating the long-term necessity of these reforms to retain public trust and political viability.",
-    "publishedAt": "Thu, 05 Nov 2026 06:30:35 +0200",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20255041",
-    "sourceUrl": "https://yle.fi/a/74-20255041?origin=rss",
-    "title": "Tampere University Criticized Over Termination of Researcher's Resource Agreement – Rector Stands by Decision",
-    "originalSummary": "Yliopiston pääluottamusmies ei ymmärrä yliopiston päätöstä. Myös Tieteentekijöiden liitto kritisoi ratkaisua.",
-    "analysis": "Tampere University terminated a doctoral researcher's resource agreement over critical social media posts, sparking widespread concern from unions regarding academic freedom and free speech. While institutions hold a duty to protect staff from harassment, using unilateral contract terminations without transparent justification creates a chilling effect that undermines open academic discourse. University authorities should prioritize transparent dialogue and clear evidentiary standards rather than punitive measures that risk suppressing legitimate critique within the scientific community.",
-    "publishedAt": "Wed, 04 Nov 2026 19:12:40 +0200",
-    "category": "Education Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
