@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20257574",
+    "sourceUrl": "https://yle.fi/a/74-20257574?origin=rss",
+    "title": "Forecasts: Democrat Mary Peltola is Alaska's next senator",
+    "originalSummary": "",
+    "analysis": "Democrat Mary Peltola has won the Senate seat in Alaska, defeating Republican incumbent Dan Sullivan and shifting the projected Senate balance to 56 seats for the Democrats. This electoral outcome highlights the shifting political dynamics in traditionally conservative states and strengthens the legislative majority for the Democratic agenda. Such results underscore the increasing importance of localized candidate appeal over rigid partisan alignments in rural and indigenous-heavy constituencies.",
+    "publishedAt": "Wed, 18 Nov 2026 05:41:33 +0200",
+    "category": "International Politics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20257572",
+    "sourceUrl": "https://yle.fi/a/74-20257572?origin=rss",
+    "title": "HS Poll: National Coalition Party Support at Historic Low",
+    "originalSummary": "Perussuomalaiset on kirinyt aivan kokoomuksen kannoille.",
+    "analysis": "The latest Helsingin Sanomat poll shows the National Coalition Party's support dropping to a historic low of 15.6 percent, placing it in a tight race with the Finns Party at 15.4 percent, while the SDP remains the most popular party at 23.0 percent. Such dramatic shifts in voter intentions reflect growing public discontent with current economic tightening and austerity measures implemented by the government. Addressing these plunging approval numbers requires a careful reassessment of communication and fiscal prioritization to rebuild public trust in the government's reform agenda.",
+    "publishedAt": "Wed, 18 Nov 2026 02:37:40 +0200",
+    "category": "Politics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20257544",
     "sourceUrl": "https://yle.fi/a/74-20257544?origin=rss",
     "title": "Finnish authorities warned defense companies before attack on Estonian drone firm, says executive",
@@ -524,28 +546,6 @@
     "analysis": "Tampere University terminated a doctoral researcher's resource agreement over critical social media posts, sparking widespread concern from unions regarding academic freedom and free speech. While institutions hold a duty to protect staff from harassment, using unilateral contract terminations without transparent justification creates a chilling effect that undermines open academic discourse. University authorities should prioritize transparent dialogue and clear evidentiary standards rather than punitive measures that risk suppressing legitimate critique within the scientific community.",
     "publishedAt": "Wed, 04 Nov 2026 19:12:40 +0200",
     "category": "Education Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20255133",
-    "sourceUrl": "https://yle.fi/a/74-20255133?origin=rss",
-    "title": "The Democrats' Landslide Victory Also Affects Europe – We Listed Four Things",
-    "originalSummary": "Demokraattien murskavoitto välivaaleissa heijastuu Eurooppaan monin tavoin, kirjoittavat Eurooppa-kirjeenvaihtaja Anna Karismo ja EU-kirjeenvaihtaja Elli Hiilamo.",
-    "analysis": "The US midterms and the Democrats' congressional gains provide leverage for European nations advocating robust support for Ukraine and offer a check against unilateral foreign policies. While trade tensions and transatlantic friction persist, a divided US government strengthens congressional oversight on foreign aid and empowers European allies like Finland to coordinate with American legislators. Leveraging this institutional balance is essential for maintaining Western security unity and ensuring stable geopolitical deterrence against Russian aggression.",
-    "publishedAt": "Wed, 04 Nov 2026 18:49:24 +0200",
-    "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20255066",
-    "sourceUrl": "https://yle.fi/a/74-20255066?origin=rss",
-    "title": "Analysis: Finnair made a bold decision – soon five routes will succeed commercially",
-    "originalSummary": "Finnair aloittaa vuosien tauon jälkeen kaupalliset lennot viidelle maakuntakentälle. Se voi viimein olla myös kannattavaa, kirjoittaa toimittaja Jari Tanskanen.",
-    "analysis": "Finnair announced plans to operate commercial flights to five regional airports after state-subsidized purchase contracts end in 2028, while Pori and Savonlinna remain excluded due to lower demand. State intervention during the pandemic successfully preserved critical regional infrastructure that is now becoming commercially viable as business travel rebounds. The state should phase out direct operating subsidies where commercial viability is proven, while exploring cost-sharing models or municipal cooperation for remaining peripheral routes to maintain essential connectivity without creating permanent fiscal burdens.",
-    "publishedAt": "Wed, 04 Nov 2026 18:01:06 +0200",
-    "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
