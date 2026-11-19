@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20257846",
+    "sourceUrl": "https://yle.fi/a/74-20257846?origin=rss",
+    "title": "SDP's Tuppurainen: Finns Party Begs for Attention with Open Racism",
+    "originalSummary": "SDP:n johto tuomitsee perussuomalaisten europarlamentaarikko Sebastian Tynkkysen somejulkaisun.",
+    "analysis": "According to Yle, SDP leadership condemned a social media post by Finns Party MEP Sebastian Tynkkynen targeting SDP MP Nasima Razmyar over her critical remarks on Finland's border security law, with SDP leaders characterizing the rhetoric as overt racism. The clash highlights the intense friction surrounding exceptional border legislation and the conduct of democratic debate. Constructive policy-making on national security requires rigorous scrutiny of statutory proportionality, legal clarity, and human rights compliance rather than personal attacks that erode institutional trust. Maintaining substantive standards of political debate is necessary to ensure controversial security laws receive genuine parliamentary oversight rather than rhetorical polarization.",
+    "publishedAt": "Thu, 19 Nov 2026 11:28:49 +0200",
+    "category": "Domestic Politics",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20257643",
     "sourceUrl": "https://yle.fi/a/74-20257643?origin=rss",
     "title": "Parliament approved the extension of the border security law until the end of 2028",
@@ -534,17 +545,6 @@
     "originalSummary": "Kuntaliiton mukaan on tavallista, että rakennushankkeiden hinnat karkaavat valmistelun aikana. Summat voi arvioida yläkanttiin, mutta sekään ei ole ratkaisu.",
     "analysis": "Rising construction costs and lengthy administrative procedures have forced Padasjoki to scrap plans for a new multipurpose school and municipal facility because the projected costs exceeded the budget by 50 percent, a challenge facing many Finnish municipalities. While ensuring safe and healthy educational facilities for children is a fundamental municipal duty, rigid public procurement processes combined with volatile market prices expose local governments to severe budget overruns. Municipalities should adopt more flexible, phased construction models and realistic initial cost estimates to prevent prolonged delays and wasted planning resources, while higher levels of government should examine ways to streamline bureaucratic hurdles in public infrastructure projects.",
     "publishedAt": "Thu, 05 Nov 2026 08:33:29 +0200",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20255071",
-    "sourceUrl": "https://yle.fi/a/74-20255071?origin=rss",
-    "title": "The Connection Between Taxes and the Welfare State Has Strengthened, Tax Evasion Condemned",
-    "originalSummary": "Verojen maksaminen on tärkeä kansalaisvelvollisuus lähes jokaiselle suomalaiselle. Veronkierron tuomitsevien osuus on kasvanut.",
-    "analysis": "A recent survey by the Finnish Tax Administration reveals that public support for taxation and the welfare state remains exceptionally high, with 94 percent viewing tax payment as an important civic duty and condemning tax evasion. This strong willingness to pay taxes underscores the high social capital and institutional trust underpinning the Finnish public sector. Preserving this trust requires maintaining transparent public spending, ensuring administrative efficiency, and resisting any policies that erode tax compliance.",
-    "publishedAt": "Thu, 05 Nov 2026 07:10:35 +0200",
     "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
