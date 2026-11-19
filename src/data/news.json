@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://yle.fi/a/74-20257945",
+    "sourceUrl": "https://yle.fi/a/74-20257945?origin=rss",
+    "title": "A-Talk tonight: Discussion on security and citizens' rights – join the chat!",
+    "originalSummary": "Poliitikot keskustelevat siitä, miten paljon valtuuksia viranomaisille pitäisi antaa turvallisuusuhkien torjumiseksi. Osallistu chattiin 20.45 alkaen!",
+    "analysis": "Politicians are debating the balance between granting increased powers to authorities for counterterrorism and security threats versus safeguarding fundamental citizens' rights. Expanding state surveillance and executive powers requires rigorous necessity and proportionality tests to prevent mission creep and civil liberties erosion. While modern security challenges demand agile state responses, permanent expansions of authority must be strictly sunsetted and subjected to robust parliamentary oversight to maintain public trust and constitutional integrity.",
+    "publishedAt": "Thu, 19 Nov 2026 20:39:39 +0200",
+    "category": "Security and Legal Policy",
+    "isFromSummary": true,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20258023",
+    "sourceUrl": "https://yle.fi/a/74-20258023?origin=rss",
+    "title": "Bolt Ride Prices Jumped Significantly in Helsinki",
+    "originalSummary": "Syynä ovat tuhansia kävijöitä houkutellut kasvuyritystapahtuma Slush ja Boltin dynaaminen hinnoittelu.",
+    "analysis": "Ride-hailing prices surged in Helsinki due to high demand during the Slush tech conference combined with dynamic pricing models and a shortage of drivers. While dynamic pricing efficiently balances supply and demand in real-time markets, government regulations tightening requirements for part-time drivers exacerbate labor shortages and drive up consumer costs. Regulatory frameworks governing the transport sector should be streamlined to lower barriers for part-time labor, enhancing market flexibility and keeping urban mobility services accessible.",
+    "publishedAt": "Thu, 19 Nov 2026 20:35:02 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20257759",
+    "sourceUrl": "https://yle.fi/a/74-20257759?origin=rss",
+    "title": "LVV: Kaskinen handled harassment cases inadequately – two employees' health endangered",
+    "originalSummary": "Kahden Kaskisten kaupungilla työskentelevän naisen Lupa- ja valvontavirastolle tekemät valvontapyynnöt koskivat häirintää ja epäasiallista kohtelua.",
+    "analysis": "The Regional State Administrative Agency found that the city of Kaskisten handled harassment allegations against the city manager inadequately, resulting in compromised employee health. While the city has since implemented communication restrictions and ethical guidelines, the initial investigative shortcomings highlight systemic weaknesses in local municipal HR management. Effective workplace safety enforcement requires prompt, impartial investigations and robust accountability mechanisms independent of local political pressures to properly protect municipal employees.",
+    "publishedAt": "Thu, 19 Nov 2026 18:42:47 +0200",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20257846",
     "sourceUrl": "https://yle.fi/a/74-20257846?origin=rss",
     "title": "SDP's Tuppurainen: Finns Party Begs for Attention with Open Racism",
@@ -512,39 +545,6 @@
     "originalSummary": "",
     "analysis": "Two candidates have been nominated to succeed Christine Lagarde as President of the European Central Bank ahead of the deadline: former Dutch central bank chief Klaas Knot and Spaniard Pablo Hernandez de Cos. Selecting a credible, independent central bank leader is essential for maintaining monetary stability and market confidence across the euro area. The appointment process should prioritize demonstrated competence in macroeconomic management and a firm commitment to price stability, ensuring the institution remains resilient amid ongoing European economic challenges.",
     "publishedAt": "Fri, 06 Nov 2026 19:06:49 +0200",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20255090",
-    "sourceUrl": "https://yle.fi/a/74-20255090?origin=rss",
-    "title": "Heinola's Popular Bird Sanctuary Faces Potential Closure Due to Municipal Budget Pressures",
-    "originalSummary": "Yli 20 000 kävijää vuodessa houkutteleva lintuhoitola voi joutua lopetusuhan alle. Heinola selvittää nyt toiminnan tulevaisuutta.",
-    "analysis": "The city of Heinola is reviewing the cost structure and future of its popular, free-admission bird sanctuary as part of a municipal change program amid tightening local government finances. While the sanctuary is a major tourism driver with strong welfare and nature values, it relies heavily on municipal funding with annual costs exceeding 400,000 euros. Municipalities face legitimate pressure to prioritize core statutory welfare services over non-statutory amenities during fiscal contractions. However, given the sanctuary's high local popularity, external ministerial grants, and substantial volunteer support, a complete closure may be overly drastic. The policy approach should instead focus on diversifying revenue streams, such as introducing voluntary visitor fees or expanding corporate sponsorships, to preserve this valuable community asset without straining public budgets.",
-    "publishedAt": "Thu, 05 Nov 2026 20:32:45 +0200",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20251392",
-    "sourceUrl": "https://yle.fi/a/74-20251392?origin=rss",
-    "title": "Massive data center construction sites pressure occupational safety: 'A small concern about how many irregularities will be encountered'",
-    "originalSummary": "Jopa kymmenien datakeskusten rakentaminen Suomeen lisää työsuojelun tehtäviä. Samaan aikaan sen rahoitusta leikataan.",
-    "analysis": "Planned multibillion-euro data center projects in Finland are straining occupational safety authorities amidst state budget cuts and structural reforms. While the newly unified national inspection model helps concentrate resources, looming funding reductions threaten inspector headcounts precisely as complex industrial sites multiply. To ensure worker safety and compliance, funding for labor oversight should be protected rather than curtailed, as the long-term economic and social costs of lax workplace regulation far outweigh short-term administrative savings.",
-    "publishedAt": "Thu, 05 Nov 2026 19:46:40 +0200",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254309",
-    "sourceUrl": "https://yle.fi/a/74-20254309?origin=rss",
-    "title": "Padasjoki's New School Dream Collapsed: Price Tag Twice as High as Desired – The Same Dilemma Plagues Many Small Municipalities",
-    "originalSummary": "Kuntaliiton mukaan on tavallista, että rakennushankkeiden hinnat karkaavat valmistelun aikana. Summat voi arvioida yläkanttiin, mutta sekään ei ole ratkaisu.",
-    "analysis": "Rising construction costs and lengthy administrative procedures have forced Padasjoki to scrap plans for a new multipurpose school and municipal facility because the projected costs exceeded the budget by 50 percent, a challenge facing many Finnish municipalities. While ensuring safe and healthy educational facilities for children is a fundamental municipal duty, rigid public procurement processes combined with volatile market prices expose local governments to severe budget overruns. Municipalities should adopt more flexible, phased construction models and realistic initial cost estimates to prevent prolonged delays and wasted planning resources, while higher levels of government should examine ways to streamline bureaucratic hurdles in public infrastructure projects.",
-    "publishedAt": "Thu, 05 Nov 2026 08:33:29 +0200",
     "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
