@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20257994",
+    "sourceUrl": "https://yle.fi/a/74-20257994?origin=rss",
+    "title": "Analysis: Finns Party Rhetoric Hardens, but Orpo Appears to Have Given Up",
+    "originalSummary": "Onko Orpo vaalien lähestyessä todennut, ettei perussuomalaisille kannata esittää vaatimuksia, jotka eivät johda mihinkään, kysyy politiikan toimittaja Petri Raivio.",
+    "analysis": "According to Yle's analysis, Prime Minister Petteri Orpo has offered a muted response to Finns Party MEP Sebastian Tynkkynen's targeted rhetoric against MP Nasima Razmyar over the border security law, sidestepping the government's formal equality framework. Enforceable standards against discriminatory discourse are essential for institutional credibility and constructive deliberation on critical national security legislation. The government should uphold and systematically apply its agreed equality and conduct commitments across all party representatives, ensuring accountability rather than relying on technical jurisdictional exceptions.",
+    "publishedAt": "Thu, 19 Nov 2026 20:18:47 +0200",
+    "category": "Governance",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20257945",
     "sourceUrl": "https://yle.fi/a/74-20257945?origin=rss",
     "title": "A-Talk tonight: Discussion on security and citizens' rights – join the chat!",
@@ -535,17 +546,6 @@
     "analysis": "Activists and environmental groups protested in multiple Finnish cities demanding a pause and stricter regulation on new data center projects, highlighting a regulatory lag behind rapid industry growth. While data centers drive digital infrastructure and local economic investments, the lack of timely environmental and spatial planning frameworks creates legitimate risks regarding energy consumption and land use. To balance technological progress with ecological sustainability, the government should establish clear national guidelines rather than halting development entirely, ensuring predictable rules that protect local resources while accommodating necessary digital infrastructure.",
     "publishedAt": "Sat, 07 Nov 2026 01:29:02 +0200",
     "category": "Environment",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20255607",
-    "sourceUrl": "https://yle.fi/a/74-20255607?origin=rss",
-    "title": "ECB Set to Get a Dutch or Spanish President",
-    "originalSummary": "",
-    "analysis": "Two candidates have been nominated to succeed Christine Lagarde as President of the European Central Bank ahead of the deadline: former Dutch central bank chief Klaas Knot and Spaniard Pablo Hernandez de Cos. Selecting a credible, independent central bank leader is essential for maintaining monetary stability and market confidence across the euro area. The appointment process should prioritize demonstrated competence in macroeconomic management and a firm commitment to price stability, ensuring the institution remains resilient amid ongoing European economic challenges.",
-    "publishedAt": "Fri, 06 Nov 2026 19:06:49 +0200",
-    "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
