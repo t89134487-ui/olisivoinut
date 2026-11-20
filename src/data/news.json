@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20250562",
+    "sourceUrl": "https://yle.fi/a/74-20250562?origin=rss",
+    "title": "Entrepreneur Takes Tampere to Court Over Library Cafe Procurement: Bun Size Not Defined Accurately Enough",
+    "originalSummary": "Kilpailutuksen hävinnyt yrittäjä kritisoi tarjouspyynnön epämääräisyyttä. Kaupunki vaatii valituksen hylkäämistä ja tuhansien eurojen oikeuskulujen maksamista.",
+    "analysis": "The dispute over Tampere's public library cafe procurement highlights challenges in municipal contracting and the tension between small local vendors and large catering corporations. While precise definitions in public tenders are essential to ensure fair competition and comparable bids, overly bureaucratic requirements can stifle market efficiency. The city's reliance on broader industry standards appears reasonable given that the financial risk rests with the operator, but procurement processes must maintain high transparency to prevent legal friction. Public bodies should refine tender specifications to balance administrative simplicity with clear quality benchmarks, minimizing costly litigation while ensuring value for taxpayers.",
+    "publishedAt": "Fri, 20 Nov 2026 10:48:52 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20257490",
+    "sourceUrl": "https://yle.fi/a/74-20257490?origin=rss",
+    "title": "Janakkala bans gambling advertisements in municipal facilities - municipalities prepare for advertising growth",
+    "originalSummary": "Janakkala kieltää rahapelimainonnan omilla alueillaan. Helsingissä ja Lahdessa on tehty valtuustoaloitteet mainonnan rajoittamisesta.",
+    "analysis": "The municipality of Janakkala has banned gambling advertisements in its facilities and outdoor areas ahead of the opening of the competitive gambling market next summer, with several other Finnish cities considering similar restrictions. While local municipal bans have a limited scope regarding private or commercial spaces, they serve as a proactive preventive measure against gambling harms, particularly protecting minors. Municipalities should be supported in implementing these localized advertising restrictions to safeguard public health, as the impending market opening threatens to significantly increase the visibility and normalization of gambling promotion.",
+    "publishedAt": "Fri, 20 Nov 2026 09:32:49 +0200",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20257994",
     "sourceUrl": "https://yle.fi/a/74-20257994?origin=rss",
     "title": "Analysis: Finns Party Rhetoric Hardens, but Orpo Appears to Have Given Up",
@@ -523,28 +545,6 @@
     "originalSummary": "Suomen suunnitelma ennallistamisesta oli tutkijoille ja järjestöille vielä odotettuakin isompi pettymys, kirjoittaa toimittaja Kaisa Hietalahti.",
     "analysis": "The Finnish government presented its draft plan for implementing the EU Nature Restoration Law, drawing severe criticism from researchers and environmental organizations for weakening targets and limiting the non-deterioration obligation strictly to existing Natura areas. By narrowing the definition of natural boreal forests and avoiding mandatory new protections outside current reserves, the policy prioritizes near-term industry interests over ecological necessity. While fiscal caution is understandable, severely diluting conservation commitments undermines both the letter and spirit of binding European environmental standards. The proposal should be rejected in its current form and renegotiated to ensure meaningful ecosystem restoration that aligns with scientific assessments and prevents long-term environmental degradation.",
     "publishedAt": "Sat, 07 Nov 2026 07:30:35 +0200",
-    "category": "Environment",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254860",
-    "sourceUrl": "https://yle.fi/a/74-20254860?origin=rss",
-    "title": "Documents Reveal: Google Inquired About Environmental Permits Long Ago, Yet Everything Went Wrong",
-    "originalSummary": "Petteri Orpo valjasti virkakunnan hankkimaan Googlen investoinnin Suomeen. Selvitimme, saiko Google erityiskohtelua.",
-    "analysis": "Internal documents show that tech giant Google engaged in extensive lobbying with Finnish government officials and ministers regarding a massive multi-billion-euro data center investment while simultaneously violating environmental assessment procedures. Despite high-level political backing and coordination from the government's investment unit, the handling of the project highlights friction between aggressive corporate expansion and regulatory compliance. Streamlining administrative processes is essential for attracting foreign direct investment, but expediting bureaucratic pathways must not compromise strict adherence to environmental laws and public oversight. Policymakers should maintain transparent, standardized permitting frameworks rather than affording perceived preferential access, ensuring that large-scale industrial projects align with statutory ecological requirements without creating regulatory loopholes.",
-    "publishedAt": "Sat, 07 Nov 2026 05:30:35 +0200",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20255628",
-    "sourceUrl": "https://yle.fi/a/74-20255628?origin=rss",
-    "title": "Opponents of Data Centers Protest in Several Cities",
-    "originalSummary": "",
-    "analysis": "Activists and environmental groups protested in multiple Finnish cities demanding a pause and stricter regulation on new data center projects, highlighting a regulatory lag behind rapid industry growth. While data centers drive digital infrastructure and local economic investments, the lack of timely environmental and spatial planning frameworks creates legitimate risks regarding energy consumption and land use. To balance technological progress with ecological sustainability, the government should establish clear national guidelines rather than halting development entirely, ensuring predictable rules that protect local resources while accommodating necessary digital infrastructure.",
-    "publishedAt": "Sat, 07 Nov 2026 01:29:02 +0200",
     "category": "Environment",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
