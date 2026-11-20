@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20258206",
+    "sourceUrl": "https://yle.fi/a/74-20258206?origin=rss",
+    "title": "Nasima Razmyar Files a Criminal Report on Sebastian Tynkkynen's Remarks",
+    "originalSummary": "Sebastian Tynkkynen julkaisi keskiviikkona sosiaalisessa mediassa päivityksen, jossa hän kritisoi kovin sanoin Razmyaria ja tämän rajaturvallisuuslakia koskevaa kannanottoa.",
+    "analysis": "SDP Vice Chair Nasima Razmyar has filed a police report regarding social media statements made by Finns Party MEP Sebastian Tynkkynen, which criticized her stance on border security legislation and called for her removal from Finland. This incident highlights the deteriorating boundaries of political discourse and the legal thresholds of hate speech within Finnish politics.\n\nProtecting elected officials from targeted harassment and vitriolic campaigns is essential for maintaining a functioning democratic society where diverse viewpoints can be expressed without fear. While robust political criticism must remain protected, delegitimizing political opponents through dehumanizing rhetoric erodes institutional trust and should be decisively addressed through established legal frameworks to preserve democratic integrity.",
+    "publishedAt": "Fri, 20 Nov 2026 17:40:42 +0200",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20250562",
     "sourceUrl": "https://yle.fi/a/74-20250562?origin=rss",
     "title": "Entrepreneur Takes Tampere to Court Over Library Cafe Procurement: Bun Size Not Defined Accurately Enough",
@@ -535,17 +546,6 @@
     "analysis": "President Alexander Stubb's phone call to Vladimir Putin has sparked European debate over the utility of direct diplomatic engagement with Russia. While dialogue aims to signal openness to peace, analysts argue that unreciprocated outreach risks projecting European weakness and fails to alter Putin's calculus, as Russia continues to benefit from ongoing conflict and manipulates Western actors. Engaging an aggressive power without credible deterrence or increased economic pressure is strategically ineffective; thus, Finland and the broader EU should prioritize maximum material support for Ukraine rather than pursuing premature diplomatic talks that Moscow weaponizes for propaganda.",
     "publishedAt": "Sat, 07 Nov 2026 08:34:22 +0200",
     "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20255576",
-    "sourceUrl": "https://yle.fi/a/74-20255576?origin=rss",
-    "title": "Analysis: The government made an \"outrageous\" plan that promises mostly to protect lands already protected",
-    "originalSummary": "Suomen suunnitelma ennallistamisesta oli tutkijoille ja järjestöille vielä odotettuakin isompi pettymys, kirjoittaa toimittaja Kaisa Hietalahti.",
-    "analysis": "The Finnish government presented its draft plan for implementing the EU Nature Restoration Law, drawing severe criticism from researchers and environmental organizations for weakening targets and limiting the non-deterioration obligation strictly to existing Natura areas. By narrowing the definition of natural boreal forests and avoiding mandatory new protections outside current reserves, the policy prioritizes near-term industry interests over ecological necessity. While fiscal caution is understandable, severely diluting conservation commitments undermines both the letter and spirit of binding European environmental standards. The proposal should be rejected in its current form and renegotiated to ensure meaningful ecosystem restoration that aligns with scientific assessments and prevents long-term environmental degradation.",
-    "publishedAt": "Sat, 07 Nov 2026 07:30:35 +0200",
-    "category": "Environment",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
