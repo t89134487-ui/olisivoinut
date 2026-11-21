@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20258274",
+    "sourceUrl": "https://yle.fi/a/74-20258274?origin=rss",
+    "title": "Climate Summit Dragging Into Tomorrow – EU Demands Inclusion of Phase-out of Fossil Fuels in Decision",
+    "originalSummary": "Öljymaiden toiveesta fossiilikirjaus poistettiin. Se sai monet maat takajaloilleen.",
+    "analysis": "UN climate negotiations have stalled as a draft agreement omitted references to phasing out fossil fuels, prompting strong pushback from Finland and the EU. Omitting explicit phase-out targets undermines the credibility and long-term effectiveness of global climate commitments, rendering agreements toothless against rising temperatures. Maintaining firm baseline requirements for fossil fuel reduction is essential to ensure policy coherence and drive necessary economic transitions across member states.",
+    "publishedAt": "Sat, 21 Nov 2026 15:51:04 +0200",
+    "category": "Environment",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20258255",
+    "sourceUrl": "https://yle.fi/a/74-20258255?origin=rss",
+    "title": "Lindtman Outlines SDP's Economic Line: Half of Adjustment from Spending Cuts, Half from Taxation",
+    "originalSummary": "SDP:n Lindtman vakkuutti puheessaan, ettei puolue aio esittää indeksileikkauksia sosiaaliturvaan ja ryöpytti jälleen perussuomalaisia.",
+    "analysis": "SDP chair Antti Lindtman proposed a fifty-fifty economic adjustment plan balancing spending cuts and tax revenue, while protecting low- and middle-income earners, social security indices, and pensions, alongside targeted growth investments for startups. Balancing fiscal consolidation with social protection is pragmatic, but relying on broad tax increases without detailed structural reforms risks undermining competitiveness. The proposal should be supported conditionally, provided that the revenue-raising measures avoid stifling economic dynamism and are matched by verifiable spending restraint.",
+    "publishedAt": "Sat, 21 Nov 2026 14:47:31 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20256762",
     "sourceUrl": "https://yle.fi/a/74-20256762?origin=rss",
     "title": "Centre Party Influencers: No Government With These Figures",
@@ -526,27 +548,5 @@
     "category": "Social Policy",
     "isFromSummary": false,
     "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20254854",
-    "sourceUrl": "https://yle.fi/a/74-20254854?origin=rss",
-    "title": "Twin Town Activity Almost Died, But Russia's Attack on Ukraine Changed the Situation",
-    "originalSummary": "Ystävyyskuntasopimuksia Ukrainaan on tehty viime vuosina ennätysmäärä. Jyväskylä toivoo, että uusi ystävyys Tšernivtsin kanssa hyödyttäisi molempia kaupunkeja.",
-    "analysis": "Finnish municipalities are actively establishing new twin town relationships with Ukraine, shifting the focus of international municipal cooperation toward solidarity, reconstruction support, and resilience expertise sharing. Russia's invasion sparked this surge, increasing Ukrainian partner cities from three to over thirty, with cities like Jyväskylä allocating the bulk of their international budgets to these ties. This bottom-up municipal diplomacy efficiently channels material aid while fostering mutually beneficial long-term networks in education and technology. Such decentralized partnerships should be strongly supported, as they provide targeted, resilient, and practical bilateral cooperation that complements state-level foreign policy.",
-    "publishedAt": "Sat, 07 Nov 2026 15:42:17 +0200",
-    "category": "Foreign Affairs",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20255635",
-    "sourceUrl": "https://yle.fi/a/74-20255635?origin=rss",
-    "title": "Europe faces hybrid influence operations - President Sauli Niinistö is a guest on Ykkösaamu",
-    "originalSummary": "Ajankohtaisista aiheista presidenttiä haastattelee Seija Vaaherkumpu.",
-    "analysis": "President Sauli Niinistö discusses escalating hybrid warfare in Europe, including false bomb threats and sabotage attributed to Russia, alongside upcoming peace talks between Ukraine and Russia mediated by the United States. Addressing these multi-domain security threats is essential for safeguarding societal resilience and critical infrastructure across democratic nations. Countering hybrid operations requires robust international intelligence sharing, enhanced cybersecurity measures, and a unified diplomatic front to deter malicious state actors and maintain regional stability.",
-    "publishedAt": "Sat, 07 Nov 2026 09:29:43 +0200",
-    "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
   }
 ]
