@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20256762",
+    "sourceUrl": "https://yle.fi/a/74-20256762?origin=rss",
+    "title": "Centre Party Influencers: No Government With These Figures",
+    "originalSummary": "Pelkkä puheenjohtajan pitäminen kivana kaljaseurana ei käännä keskustan kannatusta lentoon, kentällä katsotaan.",
+    "analysis": "A recent internal survey reveals that a significant portion of Finland's Centre Party opposes entering government coalition talks if their current low polling numbers around 12 percent persist, fearing a dilution of their political identity as an apoplectic junior partner. Participating in a coalition with such weak electoral leverage risks locking the party into compromise positions without sufficient influence to shape major reforms, particularly regarding regional welfare and economic policy. The Centre Party should focus on rebuilding a distinct, constructive opposition profile centered on pragmatic societal solutions rather than prematurely binding itself to government responsibilities from a position of electoral weakness.",
+    "publishedAt": "Sat, 21 Nov 2026 07:00:39 +0200",
+    "category": "Politics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20258206",
     "sourceUrl": "https://yle.fi/a/74-20258206?origin=rss",
     "title": "Nasima Razmyar Files a Criminal Report on Sebastian Tynkkynen's Remarks",
@@ -534,17 +545,6 @@
     "originalSummary": "Ajankohtaisista aiheista presidenttiä haastattelee Seija Vaaherkumpu.",
     "analysis": "President Sauli Niinistö discusses escalating hybrid warfare in Europe, including false bomb threats and sabotage attributed to Russia, alongside upcoming peace talks between Ukraine and Russia mediated by the United States. Addressing these multi-domain security threats is essential for safeguarding societal resilience and critical infrastructure across democratic nations. Countering hybrid operations requires robust international intelligence sharing, enhanced cybersecurity measures, and a unified diplomatic front to deter malicious state actors and maintain regional stability.",
     "publishedAt": "Sat, 07 Nov 2026 09:29:43 +0200",
-    "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20255067",
-    "sourceUrl": "https://yle.fi/a/74-20255067?origin=rss",
-    "title": "Top British Researcher: \"Putin Thinks Trump Is a Foolish Idiot Who Can Be Exploited\"",
-    "originalSummary": "Tunnettu Venäjä-tutkija pitää Stubbin puhelua Putinille melko turhana. Stubbilla voisi silti olla rooli rauhan edistämisessä.",
-    "analysis": "President Alexander Stubb's phone call to Vladimir Putin has sparked European debate over the utility of direct diplomatic engagement with Russia. While dialogue aims to signal openness to peace, analysts argue that unreciprocated outreach risks projecting European weakness and fails to alter Putin's calculus, as Russia continues to benefit from ongoing conflict and manipulates Western actors. Engaging an aggressive power without credible deterrence or increased economic pressure is strategically ineffective; thus, Finland and the broader EU should prioritize maximum material support for Ukraine rather than pursuing premature diplomatic talks that Moscow weaponizes for propaganda.",
-    "publishedAt": "Sat, 07 Nov 2026 08:34:22 +0200",
     "category": "Foreign Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
