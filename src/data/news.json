@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20258140",
+    "sourceUrl": "https://yle.fi/a/74-20258140?origin=rss",
+    "title": "Analysis: \"The worst climate conference ever\" ultimately collapsed under its own impossibility",
+    "originalSummary": "Ilmastokokous Turkissa päättyi tuloksettomana, koska kuilu öljymaiden ja muiden maiden välillä ratkesi liian suureksi, kirjoittaa ympäristötoimittaja Jenni Frilander.",
+    "analysis": "The latest UN climate conference stalled without a consensus final text due to petrostate resistance against phasing out fossil fuels and attempts by several countries to delay critical scientific assessments. This stalemate highlights the fundamental vulnerability of consensus-based international diplomacy, where a small group of obstructive nations can block vital global progress. To safeguard effective climate action, the negotiating framework should transition from strict unanimity toward majority-based decision-making models to prevent obstructionism from undermining necessary global emissions targets.",
+    "publishedAt": "Sun, 22 Nov 2026 16:59:10 +0200",
+    "category": "Environment",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20257949",
     "sourceUrl": "https://yle.fi/a/74-20257949?origin=rss",
     "title": "Pekka Juntti's Column: Data Centers Running on AI Require an Insane Amount of Wind Power in Finnish Forests",
@@ -536,17 +547,6 @@
     "publishedAt": "Sun, 08 Nov 2026 18:57:23 +0200",
     "category": "Government Formation",
     "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20255717",
-    "sourceUrl": "https://yle.fi/a/74-20255717?origin=rss",
-    "title": "Orpo admits: 100,000 jobs may materialize only in coming years",
-    "originalSummary": "Petteri Orpo vastasi ajankohtaisiin kysymyksiin pääministerin haastattelutunnilla.",
-    "analysis": "Prime Minister Petteri Orpo acknowledged during a public interview that the government's target of generating 100,000 new jobs may take several years to materialize rather than happening immediately. This admission highlights the friction between the cabinet's ambitious structural reform timeline and the sluggish economic reality. While structural labor market reforms are necessary to improve long-term employment rates, expecting immediate macroeconomic turnaround from legislative tweaks alone is often overly optimistic. The government should maintain its current reform trajectory aimed at incentivizing work, but temper its timelines with realistic economic forecasting to avoid undermining confidence in its growth strategy.",
-    "publishedAt": "Sun, 08 Nov 2026 13:51:30 +0200",
-    "category": "Economics",
-    "isFromSummary": true,
     "model": "gemini-flash-lite-latest"
   }
 ]
