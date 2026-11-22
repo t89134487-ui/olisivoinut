@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20257949",
+    "sourceUrl": "https://yle.fi/a/74-20257949?origin=rss",
+    "title": "Pekka Juntti's Column: Data Centers Running on AI Require an Insane Amount of Wind Power in Finnish Forests",
+    "originalSummary": "Kuinka paljon tekoälyä ja sitä pyörittäviä datakeskuksia tarvitsemme – pärjäisimmekö mitenkään vähemmällä, Juntti kysyy.",
+    "analysis": "The column critiques the rapid expansion of energy-intensive data centers in Finland driven by the artificial intelligence boom, warning of severe environmental impacts on forests and communities due to unregulated wind power construction. While digitalization offers productivity gains, unchecked data center expansion risks straining energy infrastructure and degrading natural landscapes for questionable societal return. Policymakers should strictly regulate and prioritize energy-intensive industrial projects to balance technological growth with environmental preservation.",
+    "publishedAt": "Sun, 22 Nov 2026 06:45:35 +0200",
+    "category": "Environment",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20258274",
     "sourceUrl": "https://yle.fi/a/74-20258274?origin=rss",
     "title": "Climate Summit Dragging Into Tomorrow – EU Demands Inclusion of Phase-out of Fossil Fuels in Decision",
@@ -537,16 +548,5 @@
     "category": "Economics",
     "isFromSummary": true,
     "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20252378",
-    "sourceUrl": "https://yle.fi/a/74-20252378?origin=rss",
-    "title": "Conservatism Is Now a Rebellion Among Young Men, and Toni Haakila Costa, 28, Is Leading It",
-    "originalSummary": "Osa nettideittailuun, krapulaan ja vapaamieliseen maailmaan turhautuneista nuorista miehistä löytää nyt rauhan kristinuskosta.",
-    "analysis": "Christian Democratic Youth leader Toni Haakila Costa advocates for conservative family values, prominently proposing the reinstatement of joint family taxation to support single-earner households and boost birth rates. While intended to alleviate financial pressure on families with young children, joint taxation inherently creates significant disincentives for secondary earners—predominantly women—to enter or remain in the workforce, thereby undermining labor supply and economic autonomy. This outdated tax policy should be rejected, as modernizing family support requires flexible childcare solutions rather than fiscal structures that penalize two-income households and depress overall productivity.",
-    "publishedAt": "Sun, 08 Nov 2026 10:03:58 +0200",
-    "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
   }
 ]
