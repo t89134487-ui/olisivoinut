@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20258379",
+    "sourceUrl": "https://yle.fi/a/74-20258379?origin=rss",
+    "title": "WWF Survey: Over half of Finns want a price for nature damage",
+    "originalSummary": "Hieman yli puolet kyselyn vastaajista tiedosti, että suomalaisten aiheuttama luonnonvarojen kulutus ylittää luonnon kantokyvyn rajat.",
+    "analysis": "A recent WWF survey reveals that over half of Finns support pricing natural resource damage despite potential everyday cost increases, reflecting a growing public awareness of ecological limits. Implementing economic mechanisms like resource pricing corrects market failures by internalizing environmental costs, aligning consumer behavior with ecological sustainability. Such policies should be supported as an efficient way to curb overconsumption, provided the revenue mechanisms are designed to prevent regressive economic impacts on low-income households.",
+    "publishedAt": "Mon, 23 Nov 2026 02:29:57 +0200",
+    "category": "Environment",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20257221",
+    "sourceUrl": "https://yle.fi/a/74-20257221?origin=rss",
+    "title": "Ano Turtiainen Pretends to Be an Important Political Figure – Researcher Considers Him a Tool for Propaganda",
+    "originalSummary": "Venäjälle muuttanut ex-kansanedustaja julkaisee Youtube-videoita, joissa hän kehuu Venäjän politiikkaa.",
+    "analysis": "Former Finnish MP Ano Turtiainen, who fled to Russia amid severe financial crimes and debt charges, has been utilized by Russian state media as a marginal tool for anti-Western propaganda. While framed in Russia as a victim of political persecution, security and political experts note his actual influence and access to valuable intelligence are virtually nonexistent. From a political and strategic standpoint, utilizing compromised and irrelevant foreign figures degrades the credibility of international information operations. Russia's reliance on secondary actors like Turtiainen underscores a scarcity of legitimate Western sympathizers, rendering such propaganda efforts inefficient and ultimately futile in shaping foreign policy or public opinion in Finland.",
+    "publishedAt": "Sun, 22 Nov 2026 19:36:38 +0200",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20258140",
     "sourceUrl": "https://yle.fi/a/74-20258140?origin=rss",
     "title": "Analysis: \"The worst climate conference ever\" ultimately collapsed under its own impossibility",
@@ -524,28 +546,6 @@
     "analysis": "Finnish party leaders debated how to balance the state budget ahead of the elections, dividing sharply between the right-wing reliance on spending cuts and the left-wing push for tax increases, including a millionaire tax. While relying solely on spending risks undermining public services, excessive tax hikes can stifle capital investment and economic growth. A balanced approach combining targeted spending restraint with moderate, predictable revenue adjustments is essential to stabilize public finances without harming business competitiveness.",
     "publishedAt": "Mon, 09 Nov 2026 18:28:40 +0200",
     "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20255778",
-    "sourceUrl": "https://yle.fi/a/74-20255778?origin=rss",
-    "title": "Chancellor of Justice requests additional clarification from Prime Minister Orpo regarding Garden Helsinki connections – here is how the Prime Minister responds",
-    "originalSummary": "Oikeuskansleri vaatii pääministeri Petteri Orpolta selvityksiä 20. marraskuuta mennessä.",
-    "analysis": "The Chancellor of Justice has requested a detailed explanation from Prime Minister Petteri Orpo regarding his and his aides' contacts with representatives of the controversial Garden Helsinki arena project, which previously received and later lost a conditional state subsidy. Transparency in lobbying and administrative interactions is crucial for maintaining public trust and ensuring that public financial support is allocated through unbiased, merit-based processes. Investigating these ties is necessary to uphold accountability in government decision-making, and full disclosure should be supported to reinforce institutional integrity and prevent any appearance of undue influence in state funding decisions.",
-    "publishedAt": "Mon, 09 Nov 2026 08:29:14 +0200",
-    "category": "Governance and Transparency",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20255741",
-    "sourceUrl": "https://yle.fi/a/74-20255741?origin=rss",
-    "title": "Swedish Social Democrats want a government with the Centre and Green parties",
-    "originalSummary": "",
-    "analysis": "Swedish Social Democratic leader Magdalena Andersson has announced her bid to form a minority government with the Centre and Green parties, relying on the Left Party for support despite their reluctance to act purely as a tacit supporter. This configuration highlights the enduring structural fragmentation of the Swedish parliament, where coalition-building requires delicate compromises among ideologically divergent factions to secure a functional majority. Given the inherent instability of minority governments dependent on reluctant external allies, Andersson's proposed coalition risks policy paralysis and prolonged legislative gridlock. To ensure long-term governance efficiency and coherent policymaking, this alliance should be supported only if it establishes binding legislative agreements that minimize recurrent political extortion from external support parties.",
-    "publishedAt": "Sun, 08 Nov 2026 18:57:23 +0200",
-    "category": "Government Formation",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
