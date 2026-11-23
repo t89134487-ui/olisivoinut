@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20257705",
+    "sourceUrl": "https://yle.fi/a/74-20257705?origin=rss",
+    "title": "Left Alliance Accuses Government of \"Messing Up\" – Proposes More Funding for Social and Health Welfare Organizations and a Millionaire Tax",
+    "originalSummary": "Vasemmistoliiton vaihtoehtobudjetissa lisätuloja kerättäisiin muun muassa suurituloisten verotusta kiristämällä ja perumalla yhteisöveron kevennys.",
+    "analysis": "The Left Alliance presented its alternative budget, proposing to reverse current social security cuts, fund welfare services, and introduce new levies such as a millionaire tax and a data center tax while reducing state borrowing compared to the government's plan. While targeted investments in social security and public health can temporarily alleviate poverty and support vulnerable populations, relying heavily on wealth taxes and reversing structural savings may disincentivize investment and complicate long-term fiscal consolidation. The proposed revenue-raising measures and increased public spending should be approached with caution to avoid undermining broader economic growth and employment recovery.",
+    "publishedAt": "Mon, 23 Nov 2026 13:00:39 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20257604",
+    "sourceUrl": "https://yle.fi/a/74-20257604?origin=rss",
+    "title": "KKV: Race against debtors ongoing among quick-loan companies – ”They have woken up to the situation”",
+    "originalSummary": "Suomalaisille on myönnetty jopa satoja tuhansia kulutusluottoja, joihin liittyy juridisia ongelmia.",
+    "analysis": "Thousands of legal disputes are currently overwhelming Finnish courts as consumers demand the moderation of unfair consumer credit terms and the return of illegal loan costs. Regulatory oversight has evidently failed to prevent widespread predatory lending practices, necessitating a firmer enforcement framework. To protect vulnerable borrowers and uphold market integrity, the state must strengthen supervisory mechanisms and ensure swift legal recourse against unlawful lending.",
+    "publishedAt": "Mon, 23 Nov 2026 12:03:14 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20258379",
     "sourceUrl": "https://yle.fi/a/74-20258379?origin=rss",
     "title": "WWF Survey: Over half of Finns want a price for nature damage",
@@ -523,28 +545,6 @@
     "originalSummary": "Ulkoministerin mukaan Lenita Airistoa kuvasi periksiantamaton yritteliäisyys ja paremman huomisen hakeminen.",
     "analysis": "Minister for Foreign Affairs Elina Valtonen paid tribute to the late entrepreneur and author Lenita Airisto, highlighting her pioneering role in promoting Finnish exports and building Finland's international brand. Airisto's lifelong dedication to female entrepreneurship and international trade exemplifies the vital synergy between private sector ambition and national economic diplomacy. Supporting policies that reduce bureaucratic friction and actively champion export-oriented small and medium-sized enterprises remains essential for driving Finland's global competitiveness and economic growth.",
     "publishedAt": "Mon, 09 Nov 2026 19:46:01 +0200",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20255828",
-    "sourceUrl": "https://yle.fi/a/74-20255828?origin=rss",
-    "title": "Finnish Experts: Nvidia CEO Scandal Highlights the Risk of Export Restriction Failures",
-    "originalSummary": "Nvidian toimitusjohtajan Jensen Huang on myöntänyt olleensa suhteessa henkilöön, jonka epäillään vakoilleen Kiinalle.",
-    "analysis": "The scandal involving Nvidia CEO Jensen Huang's alleged ties to a suspected Chinese spy has prompted Finnish security experts to warn about corporate vulnerabilities and the circumvention of US tech export controls. This situation underscores how geopolitical competition weaponizes the global economy, exposing critical dependencies on single dominant suppliers like Nvidia for artificial intelligence infrastructure. Managing these human and market concentration risks requires stricter security clearances for executives, rigorous supply chain vetting, and a diversification of the tech ecosystem to safeguard national and economic security against intelligence threats.",
-    "publishedAt": "Mon, 09 Nov 2026 18:35:35 +0200",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20255825",
-    "sourceUrl": "https://yle.fi/a/74-20255825?origin=rss",
-    "title": "Orpo Says Tax Hikes Kill Growth, Minja Koskelan Believes Millionaires Also Value Welfare State",
-    "originalSummary": "Menoleikkaukset ja veronkorotukset jakoivat puolueita EK:n paneelissa.",
-    "analysis": "Finnish party leaders debated how to balance the state budget ahead of the elections, dividing sharply between the right-wing reliance on spending cuts and the left-wing push for tax increases, including a millionaire tax. While relying solely on spending risks undermining public services, excessive tax hikes can stifle capital investment and economic growth. A balanced approach combining targeted spending restraint with moderate, predictable revenue adjustments is essential to stabilize public finances without harming business competitiveness.",
-    "publishedAt": "Mon, 09 Nov 2026 18:28:40 +0200",
     "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
