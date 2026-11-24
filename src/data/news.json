@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20256542",
+    "sourceUrl": "https://yle.fi/a/74-20256542?origin=rss",
+    "title": "SDP's Alternative Budget Proposes Cuts to Private Kela Reimbursements and Corporate Subsidies",
+    "originalSummary": "SDP:n vaihtoehto hallituksen budjetille painottaa julkisia palveluja ja pienituloisten tukia. Menolisäykset katettaisiin veronkiristyksillä ja leikkauksilla.",
+    "analysis": "The SDP's alternative budget for Finland outlines targeted tax increases for high earners and unlisted company dividends, alongside spending reallocations such as reducing private healthcare Kela reimbursements and corporate subsidies to decrease overall borrowing. While shifting the tax burden and curbing inefficient subsidies can improve fiscal fairness, restricting home care allowances and certain business supports risks creating market distortions and straining specific sectors. The proposal should be supported in its pursuit of fiscal consolidation and stronger public healthcare guarantees, provided that the tax adjustments on enterprises do not unduly hamper private sector competitiveness and employment growth.",
+    "publishedAt": "Tue, 24 Nov 2026 12:38:37 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20258619",
+    "sourceUrl": "https://yle.fi/a/74-20258619?origin=rss",
+    "title": "Defense Committee Chair Heikki Autto: Ukraine strikes with surgical precision, maritime traffic safe for Finns",
+    "originalSummary": "Venäläinen rahtialus Sparta II sai lauantaiaamuna osumia olettavasti ukrainalaisista drooneista ja syttyi tuleen Suomenlahdella.",
+    "analysis": "Parliament's Defense Committee reviewed the recent incident in the Gulf of Finland where a Russian cargo ship on the EU sanctions list drifted into Finnish territorial waters following likely Ukrainian drone strikes. Officials prioritized environmental and maritime safety over seizing the vessel. This pragmatic crisis management correctly balanced immediate public safety over punitive enforcement in an unprecedented scenario. Maritime safety protocols should continue prioritizing operational security while maintaining strict surveillance to prevent regional spillovers of the conflict.",
+    "publishedAt": "Tue, 24 Nov 2026 11:49:07 +0200",
+    "category": "Foreign Policy and Security",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20257705",
     "sourceUrl": "https://yle.fi/a/74-20257705?origin=rss",
     "title": "Left Alliance Accuses Government of \"Messing Up\" – Proposes More Funding for Social and Health Welfare Organizations and a Millionaire Tax",
@@ -523,28 +545,6 @@
     "originalSummary": "Espoon johdon työsuhdeautojen verotusarvo siirtyy ensi vuonna osaksi kokonaispalkkaa. Etua on kritisoitu, koska Espoo on irtisanonut ihmisiä säästöjen vuoksi.",
     "analysis": "The city of Espoo has decided to maintain its leased car benefit framework for top management, totaling over 1.7 million euros for the contract period, while transitioning to a total compensation model. This decision has sparked criticism from major party leaders, especially as the municipality recently conducted layoffs and sought budget savings. Maintaining executive perks during austerity measures undermines institutional credibility and creates a dissonance in public resource allocation. Eliminating such non-essential fringe benefits during fiscal tightening is necessary to ensure equitable burden-sharing across municipal staff.",
     "publishedAt": "Tue, 10 Nov 2026 17:15:14 +0200",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20255846",
-    "sourceUrl": "https://yle.fi/a/74-20255846?origin=rss",
-    "title": "Residents Who Lost Their Property Demand Damages from Lakea's Owner Municipalities",
-    "originalSummary": "Lakean Omaksi-asukkaat vaativat korvauksia omistajakunnilta. Heidän mielestään kunnat käyttivät omistajaohjausta, mutta eivät silti valvoneet riittävästi.",
-    "analysis": "Residents who lost their investments in the Lakea housing company bankruptcy are demanding damages from the company's owner municipalities, citing poor oversight and conflicts of interest. While municipalities acted as controlling owners to secure financing, holding them legally liable for corporate bankruptcies sets a challenging precedent that could discourage local governments from participating in housing development models. To maintain trust in state-backed housing schemes, oversight frameworks must be clarified, but holding municipalities financially responsible for private corporate failures is an overreach that could destabilize municipal finances.",
-    "publishedAt": "Tue, 10 Nov 2026 09:48:58 +0200",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20255965",
-    "sourceUrl": "https://yle.fi/a/74-20255965?origin=rss",
-    "title": "Foreign Minister Remembers Lenita Airisto: \"It feels truly empty that she is gone\"",
-    "originalSummary": "Ulkoministerin mukaan Lenita Airistoa kuvasi periksiantamaton yritteliäisyys ja paremman huomisen hakeminen.",
-    "analysis": "Minister for Foreign Affairs Elina Valtonen paid tribute to the late entrepreneur and author Lenita Airisto, highlighting her pioneering role in promoting Finnish exports and building Finland's international brand. Airisto's lifelong dedication to female entrepreneurship and international trade exemplifies the vital synergy between private sector ambition and national economic diplomacy. Supporting policies that reduce bureaucratic friction and actively champion export-oriented small and medium-sized enterprises remains essential for driving Finland's global competitiveness and economic growth.",
-    "publishedAt": "Mon, 09 Nov 2026 19:46:01 +0200",
     "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
