@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20258629",
+    "sourceUrl": "https://yle.fi/a/74-20258629?origin=rss",
+    "title": "Centre Party would take the least new debt, Greens the most – we compared the opposition's shadow budgets",
+    "originalSummary": "Oppositiopuolueet peruisivat varjobudjeteissaan hallituksen tekemiä leikkauksia sote-palveluihin, järjestöjen rahoitukseen ja sosiaaliturvaan.",
+    "analysis": "Finnish opposition parties have presented their alternative shadow budgets for the upcoming year, revealing stark contrasts in borrowing, taxation, and spending priorities. While the Centre Party proposes the smallest increase in debt, parties like the Greens and Left Alliance emphasize targeted environmental taxes and welfare restorations. Structurally, these shadow budgets highlight fundamental disagreements over fiscal consolidation, with some prioritizing immediate deficit reduction while others focus on reversing government cuts to social security and public services. From a policy perspective, achieving fiscal sustainability requires a delicate balance between revenue generation and spending restraint; broad-based tax reforms combined with disciplined expenditure control offer the most efficient path forward, making selective adoption of targeted savings and growth-oriented tax adjustments the most prudent approach.",
+    "publishedAt": "Tue, 24 Nov 2026 19:17:18 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20256542",
     "sourceUrl": "https://yle.fi/a/74-20256542?origin=rss",
     "title": "SDP's Alternative Budget Proposes Cuts to Private Kela Reimbursements and Corporate Subsidies",
@@ -535,17 +546,6 @@
     "analysis": "Prime Minister Petteri Orpo publicly supported Minister for Foreign Trade and Development Ville Tavio's decision to deny over four million euros in development aid to Somalia due to insufficient return cooperation. While leveraging aid conditionality can incentivize compliance on migration, bypassing civil servant proposals and halting funding after application processes have begun undermines administrative predictability and good governance. Conditioning aid on repatriation is a valid diplomatic tool, but it should be implemented transparently through formal policy guidelines rather than ad hoc ministerial vetoes to maintain legal certainty for NGOs.",
     "publishedAt": "Tue, 10 Nov 2026 18:13:13 +0200",
     "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20256005",
-    "sourceUrl": "https://yle.fi/a/74-20256005?origin=rss",
-    "title": "Espoo continues managers' car benefits despite criticism: costs over 1.7 million during the contract period",
-    "originalSummary": "Espoon johdon työsuhdeautojen verotusarvo siirtyy ensi vuonna osaksi kokonaispalkkaa. Etua on kritisoitu, koska Espoo on irtisanonut ihmisiä säästöjen vuoksi.",
-    "analysis": "The city of Espoo has decided to maintain its leased car benefit framework for top management, totaling over 1.7 million euros for the contract period, while transitioning to a total compensation model. This decision has sparked criticism from major party leaders, especially as the municipality recently conducted layoffs and sought budget savings. Maintaining executive perks during austerity measures undermines institutional credibility and creates a dissonance in public resource allocation. Eliminating such non-essential fringe benefits during fiscal tightening is necessary to ensure equitable burden-sharing across municipal staff.",
-    "publishedAt": "Tue, 10 Nov 2026 17:15:14 +0200",
-    "category": "Economics",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
