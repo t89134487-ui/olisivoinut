@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20258636",
+    "sourceUrl": "https://yle.fi/a/74-20258636?origin=rss",
+    "title": "Prime Minister Petteri Orpo Ahead of EU Summit: EU Budget Framework Should Not Be Negotiated Under the Guise of Ukraine Support",
+    "originalSummary": "Orpon mukaan Euroopan tulee vahvistaa omaa puolustustaan ja olla varautunut kaikkeen niin kauan kuin Venäjä jatkaa hyökkäystään.",
+    "analysis": "According to Yle, Finnish Prime Minister Petteri Orpo has urged EU leaders to swiftly approve a €45 billion loan package for Ukraine while insisting that negotiations on the EU's long-term financial framework remain separate. Orpo supported further reductions to the overall EU budget ceiling, while voicing concern that proposed spending reductions disproportionately target defense capabilities. Decoupling urgent macro-financial aid for Ukraine from protracted multi-year budget negotiations is essential for ensuring timely, predictable funding. Balancing fiscal discipline with regional security needs requires member states to prevent defense allocations from being unduly curtailed during broader spending negotiations.",
+    "publishedAt": "Wed, 25 Nov 2026 19:34:13 +0200",
+    "category": "EU Affairs",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20258932",
     "sourceUrl": "https://yle.fi/a/74-20258932?origin=rss",
     "title": "National Coalition Party MP Laiho Submits Written Question on Home Birth Safety",
@@ -535,17 +546,6 @@
     "analysis": "The article highlights Saber Kordestanchi, an immigrant entrepreneur whose multi-million-euro success with the startup Hostaway challenges traditional wealth patterns in Finland, while also sparking a debate on immigration policy. Kordestanchi critiques recent government restrictions—such as the three-month rule for unemployed job-seekers and extended timelines for citizenship—arguing they undermine Finland's attractiveness for global talent and entrepreneurial risk-taking. From a policy perspective, strict immigration timelines for skilled labor can stifle high-growth innovation by discouraging the foundational uncertainty required for startups. Immigration frameworks should be calibrated to support high-potential tech entrepreneurs, ensuring that regulatory hurdles do not inadvertently drive away the very foreign direct investment and talent needed to boost the national economy.",
     "publishedAt": "Wed, 11 Nov 2026 18:00:35 +0200",
     "category": "Economic Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20256179",
-    "sourceUrl": "https://yle.fi/a/74-20256179?origin=rss",
-    "title": "New Report: Orpo's Government Increases Income Inequality – 80 Euros Less Per Month for Low-Income Earners, More Money for High-Income Earners",
-    "originalSummary": "Orpon hallitus on tehnyt kautensa aikana sosiaaliturva- ja veromuutoksia, jotka lisäävät tuloeroja, käy ilmi Terveyden ja hyvinvoinnin laitoksen laskelmista.",
-    "analysis": "A new THL report reveals that the Finnish government's social security cuts and tax reforms will increase overall income inequality, decreasing disposable incomes for the lowest earners by about eight percent while boosting incomes for the top decile. The social security reductions, particularly in unemployment and housing benefits, disproportionately affect vulnerable groups like students and part-time workers, while tax cuts benefit those already employed. While fiscal consolidation and work incentives are necessary, shifting the tax burden away from social support without sufficient employment offsets deepens poverty among low-income households. The government should reconsider the balance of these reforms, ensuring that fiscal incentives for employment do not excessively penalize those unable to work or currently in transition.",
-    "publishedAt": "Wed, 11 Nov 2026 00:05:35 +0200",
-    "category": "Social Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
