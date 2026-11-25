@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20258762",
+    "sourceUrl": "https://yle.fi/a/74-20258762?origin=rss",
+    "title": "Analysis: \"Dangerous cargo\" was a good reason for Finland to let the Russian arms ship go",
+    "originalSummary": "Venäjän lipun alla kulkevat alukset eivät ole turvassa Ukrainan iskuilta Itämerellä, Välimerellä tai Mustallamerellä.",
+    "analysis": "Finland decided to let a damaged, potentially arms-carrying Russian cargo ship, the Sparta II, return to Russia rather than intercept it within its territorial waters. Authorities prioritized environmental safety and the protection of rescue personnel over seizing the sanctions-hit vessel, avoiding a risky escalation with Moscow. This pragmatic decision successfully mitigated immediate domestic security and environmental hazards in the archipelago. Finland acted prudently by avoiding a geopolitical escalation, as managing the legal and physical risks of impounding a volatile war-linked vessel would have heavily outweighed the strategic benefits of seizure.",
+    "publishedAt": "Wed, 25 Nov 2026 06:37:03 +0200",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20258789",
+    "sourceUrl": "https://yle.fi/a/74-20258789?origin=rss",
+    "title": "Aki Lindén Promises Healthcare Savings Through Productivity, While Wille Rydman Dismisses the Model as a Bluff",
+    "originalSummary": "SDP:n ja perussuomalaisten tavoite on nipistää yli miljardi euroa pois sote-menoista tulevalla vaalikaudella.",
+    "analysis": "The opposition SDP presented an alternative budget aiming to curb future healthcare expenditure growth through productivity enhancements rather than service cuts, sparking a debate with Social Affairs and Health Minister Wille Rydman, who dismissed the approach as politically motivated. While efficiency-driven reforms are theoretically preferable to arbitrary service reductions in healthcare, achieving over a billion euros in savings purely through administrative and operational streamlining without impacting service availability is overly optimistic. Therefore, productivity-focused models should be cautiously supported only if tied to legally binding efficiency metrics and structural digitalization, ensuring that cost-control targets do not compromise essential frontline care.",
+    "publishedAt": "Tue, 24 Nov 2026 22:38:07 +0200",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20258629",
     "sourceUrl": "https://yle.fi/a/74-20258629?origin=rss",
     "title": "Centre Party would take the least new debt, Greens the most – we compared the opposition's shadow budgets",
@@ -526,27 +548,5 @@
     "category": "Housing Policy",
     "isFromSummary": false,
     "model": "gemini-flash-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20256182",
-    "sourceUrl": "https://yle.fi/a/74-20256182?origin=rss",
-    "title": "Phone Salesmen Use Easy Sales Trick Not Prohibited by Law – Consumer Ombudsman Proposes Law Amendment",
-    "originalSummary": "Teleoperaattoreiden viestintäpalvelut on jätetty kuluttajansuojalain puhelinmyyntisääntelyn ulkopuolelle, koska niitä säädellään omalla lailla.",
-    "analysis": "The Finnish Consumer Ombudsman has proposed banning unsolicited cold-calling in telemarketing and reforming rules for telecom services, following a sharp rise in consumer complaints regarding aggressive sales tactics targeting the elderly. Exempting communication services from standard consumer protection rules has created regulatory loopholes that allow operators to deliver sales summaries during calls rather than effectively informing consumers. Implementing a total ban on cold calls and standardizing telemarketing regulations would significantly reduce unfair practices and protect vulnerable demographics. Requiring explicit prior consumer consent for all phone sales is a necessary, efficient measure to restore market transparency and prevent predatory commercial exploitation.",
-    "publishedAt": "Tue, 10 Nov 2026 18:15:46 +0200",
-    "category": "Consumer Protection",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20256195",
-    "sourceUrl": "https://yle.fi/a/74-20256195?origin=rss",
-    "title": "Orpo Blessed Tavio's Actions on Somalia Aid Decisions on X",
-    "originalSummary": "Ministeri Ville Tavio päätti evätä yli 4 miljoonan euron edestä kehitysapurahoja.",
-    "analysis": "Prime Minister Petteri Orpo publicly supported Minister for Foreign Trade and Development Ville Tavio's decision to deny over four million euros in development aid to Somalia due to insufficient return cooperation. While leveraging aid conditionality can incentivize compliance on migration, bypassing civil servant proposals and halting funding after application processes have begun undermines administrative predictability and good governance. Conditioning aid on repatriation is a valid diplomatic tool, but it should be implemented transparently through formal policy guidelines rather than ad hoc ministerial vetoes to maintain legal certainty for NGOs.",
-    "publishedAt": "Tue, 10 Nov 2026 18:13:13 +0200",
-    "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
   }
 ]
