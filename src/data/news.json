@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20258932",
+    "sourceUrl": "https://yle.fi/a/74-20258932?origin=rss",
+    "title": "National Coalition Party MP Laiho Submits Written Question on Home Birth Safety",
+    "originalSummary": "Kotisynnytyksistä on viime aikoina keskusteltu.",
+    "analysis": "National Coalition Party MP Mia Laiho has submitted a written parliamentary question addressing the rising popularity of home births and the associated safety risks highlighted by recent investigative journalism. The inquiry questions whether the government plans to enhance birth safety and strengthen oversight of entities promoting unassisted or high-risk home births. Ensuring maternal and neonatal safety requires robust regulatory oversight of medical information and care practices, making increased accountability a necessary step to protect public health. The proposal to tighten supervision should be supported to prevent the spread of medically unfounded advice and safeguard vulnerable patients.",
+    "publishedAt": "Wed, 25 Nov 2026 14:30:25 +0200",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20258762",
     "sourceUrl": "https://yle.fi/a/74-20258762?origin=rss",
     "title": "Analysis: \"Dangerous cargo\" was a good reason for Finland to let the Russian arms ship go",
@@ -537,16 +548,5 @@
     "category": "Social Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20256101",
-    "sourceUrl": "https://yle.fi/a/74-20256101?origin=rss",
-    "title": "Short-Term Rental Bill in Parliament: 'This Proposal Does Not Fix the Problems'",
-    "originalSummary": "Lakiehdotuksen tavoite on ollut puuttua lyhytvuokrauksen haittoihin, mutta eduskunnassa käyty keskustelu osoitti, että näillä muutoksilla ei ongelmista päästä.",
-    "analysis": "The Finnish Parliament is debating an amendment to the Building Act that would allow short-term rentals for up to 90 to 180 days per year without a separate permit. While intended to curb housing market distortions, the proposed cap is flawed; it strips tourist hubs like Rovaniemi of crucial regulatory power to address acute rental shortages, while simultaneously imposing unnecessary bureaucracy in less congested areas. The proposal should be revised to grant municipalities greater discretion to tailor rules locally, coupled with a mandatory host registry to effectively tackle the shadow economy.",
-    "publishedAt": "Tue, 10 Nov 2026 20:16:55 +0200",
-    "category": "Housing Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-latest"
   }
 ]
