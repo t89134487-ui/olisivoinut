@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://yle.fi/a/74-20248010",
+    "sourceUrl": "https://yle.fi/a/74-20248010?origin=rss",
+    "title": "Yle followed Finnish border guards on a sea route used by increasing numbers of people coming to Europe",
+    "originalSummary": "Yle seurasi suomalaisten rajavartijoiden työpäivää Euroopan eteläreunalla. Operaation tavoitteena on estää siirtolaisia tulemasta meren yli luvattomasti.",
+    "analysis": "The article details Finnish border guards operating under Frontex in the Mediterranean to secure EU external borders and curb illegal migration, reflecting broader EU efforts like increased surveillance and the new migration pact. While strengthening border enforcement is necessary to manage migration flows and uphold rule of law, achieving a total blockade of vast maritime borders is practically impossible due to geographical limits. The EU should maintain robust border surveillance and cooperation with transit countries, but this must be strictly paired with legal migration pathways and rigorous adherence to human rights obligations to ensure efficiency without compromising humanitarian principles.",
+    "publishedAt": "Thu, 26 Nov 2026 07:08:51 +0200",
+    "category": "Foreign Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20259025",
+    "sourceUrl": "https://yle.fi/a/74-20259025?origin=rss",
+    "title": "Criticism from Authority to the NBI: Economic Crime Investigation is Inefficient",
+    "originalSummary": "",
+    "analysis": "The National Audit Office of Finland has criticized the National Bureau of Investigation for inefficiency in economic crime investigations, noting that substantial resources are diverted to other policing tasks despite significant annual financial damages. This reveals a critical misalignment between allocated anti-crime resources and actual output in high-value financial investigations. To address this, the bureau must be held strictly accountable for resource allocation through tighter performance metrics and dedicated funding safeguards, ensuring that complex economic crimes receive the specialized focus necessary to protect state finances and market integrity.",
+    "publishedAt": "Thu, 26 Nov 2026 06:57:57 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20258811",
+    "sourceUrl": "https://yle.fi/a/74-20258811?origin=rss",
+    "title": "Parikkala Changed Its Stance: Will Not Ban the Construction of Large Battery Energy Storage Systems",
+    "originalSummary": "Kunnan tekninen toimi esitti yli kahden megawatin kokoisten akkuenergiavarastojen rakentamisen kieltämistä viideksi vuodeksi.",
+    "analysis": "The Parikkala municipal board unanimously rejected a proposed five-year ban on constructing large battery energy storage systems, concluding that the restriction was unnecessary and based on misconceptions about local grid capacity. While municipal officials argued the ban was needed to buy time for comprehensive energy planning amid rapid technological development, local politicians rightly prioritized economic growth and market access. Halting renewable energy infrastructure based on speculative grid bottlenecks harms local investments. Municipalities should avoid restrictive moratoria and instead facilitate green transition projects by aligning spatial planning with the fast-paced demands of modern energy storage.",
+    "publishedAt": "Thu, 26 Nov 2026 06:56:33 +0200",
+    "category": "Environment",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20258636",
     "sourceUrl": "https://yle.fi/a/74-20258636?origin=rss",
     "title": "Prime Minister Petteri Orpo Ahead of EU Summit: EU Budget Framework Should Not Be Negotiated Under the Guise of Ukraine Support",
@@ -513,39 +546,6 @@
     "analysis": "Parliamentary Defense Committee Chair Heikki Autto noted that Ukraine's drone strike on a Russian warship in the Gulf of Finland marks a new phase in the conflict, as combat events now touch areas close to Finnish borders. While defending Ukraine's right to eliminate military threats, Autto reassured citizens that Finnish authorities are actively monitoring the situation and ensuring national airspace integrity. This situation underscores the critical necessity of robust national border surveillance and proactive defense readiness in the Baltic Sea region amid escalating geopolitical tensions. Finland must maintain rigorous airspace monitoring and transparent public communication to deter accidental spillover risks while reinforcing deterrence and security reassurance.",
     "publishedAt": "Thu, 12 Nov 2026 13:52:53 +0200",
     "category": "Foreign Policy and Defense",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20256607",
-    "sourceUrl": "https://yle.fi/a/74-20256607?origin=rss",
-    "title": "Nordic Countries Prepare New Defense Agreement",
-    "originalSummary": "",
-    "analysis": "Finland and its Nordic neighbors have initiated the drafting of a new defense cooperation agreement in Oslo to strengthen joint military readiness and operational capabilities under NATO. This pact establishes a stronger legal framework for seamless cross-border defense, enhancing regional deterrence and security efficiency through integrated planning. The agreement should be fully supported as a vital step in solidifying northern flank stability, ensuring that allied interoperability translates into a cohesive and rapid collective defense posture.",
-    "publishedAt": "Thu, 12 Nov 2026 13:40:36 +0200",
-    "category": "Foreign and Security Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20249929",
-    "sourceUrl": "https://yle.fi/a/74-20249929?origin=rss",
-    "title": "Ursula von der Leyen Leads Europe in an Exceptional Way, and That Can Benefit Finland",
-    "originalSummary": "Saksalainen Ursula von der Leyen on Euroopan vaikutusvaltaisin johtaja, joka on kahminut itselleen lisää valtaa. Se ei välttämättä ole huono asia.",
-    "analysis": "European Commission President Ursula von der Leyen has centralized power and expanded her role beyond traditional boundaries to lead the EU through unprecedented crises like the pandemic and the war in Ukraine. While this overreach sometimes creates friction with member states regarding competencies, her assertive leadership strengthens the Commission, which inherently serves as a crucial ally and protector of smaller member states like Finland against dominant national interests of large countries. Finland should support the centralization of agenda-setting power within the Commission, as a robust supranational executive is essential for maintaining EU cohesion and effectively representing the collective interests of smaller nations on the global stage.",
-    "publishedAt": "Thu, 12 Nov 2026 06:31:49 +0200",
-    "category": "EU Politics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20255934",
-    "sourceUrl": "https://yle.fi/a/74-20255934?origin=rss",
-    "title": "An Unknown Name is Rising to the Top of High Earners' List",
-    "originalSummary": "Tulolistan kärkipäässä on harvoin maahanmuuttajia ja vielä harvemmin Euroopan ulkopuolelta tulleita. Nyt sinne on nousemassa iranilainen Saber Kordestanchi.",
-    "analysis": "The article highlights Saber Kordestanchi, an immigrant entrepreneur whose multi-million-euro success with the startup Hostaway challenges traditional wealth patterns in Finland, while also sparking a debate on immigration policy. Kordestanchi critiques recent government restrictions—such as the three-month rule for unemployed job-seekers and extended timelines for citizenship—arguing they undermine Finland's attractiveness for global talent and entrepreneurial risk-taking. From a policy perspective, strict immigration timelines for skilled labor can stifle high-growth innovation by discouraging the foundational uncertainty required for startups. Immigration frameworks should be calibrated to support high-potential tech entrepreneurs, ensuring that regulatory hurdles do not inadvertently drive away the very foreign direct investment and talent needed to boost the national economy.",
-    "publishedAt": "Wed, 11 Nov 2026 18:00:35 +0200",
-    "category": "Economic Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
