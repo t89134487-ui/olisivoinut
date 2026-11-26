@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://yle.fi/a/74-20259106",
+    "sourceUrl": "https://yle.fi/a/74-20259106?origin=rss",
+    "title": "National Coalition Party accuses SDP's alternative budget of increasing the number of low-income earners – we checked if the claim is true",
+    "originalSummary": "SDP kansanedustaja Joona Räsänen sanoo, että  pienituloisen käteen jäävät tulot eivät laskisi puolueen esityksessä.",
+    "analysis": "According to Yle, Finland's National Coalition Party, including Minister Sari Multala, has criticized the Social Democratic Party's (SDP) alternative budget based on Parliamentary Information Service calculations showing it would increase the number of low-income earners by nearly 17,600 compared to the current baseline and nearly 740 compared to the government's proposal. In response, SDP MP Joona Räsänen stated that no low-income earner's disposable income drops under the plan, attributing the figure to proportionally larger income gains for middle-income earners. Economic Policy Council Chair Niku Määttänen called Räsänen's explanation credible, noting that the calculation tracks relative low income—defined as below 60 percent of median income—meaning higher middle incomes raise the threshold without lowering anyone's actual earnings.\n\nFrom a policy perspective, this dispute highlights the distinction between relative income inequality and absolute purchasing power. While the proposal avoids direct cuts to low-income households' disposable funds, its emphasis on middle-income gains statistically widens the relative gap at the bottom of the income distribution, making any assessment of the budget dependent on which of these distributional priorities policymakers weigh more heavily.",
+    "publishedAt": "Thu, 26 Nov 2026 17:05:45 +0200",
+    "category": "Economics and Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-4-hydrogen"
+  },
+  {
+    "id": "https://yle.fi/a/74-20259021",
+    "sourceUrl": "https://yle.fi/a/74-20259021?origin=rss",
+    "title": "Analysis: Only two people applied to lead the ECB – behind the scenes, a game is played where Finland has long had no place",
+    "originalSummary": "Espanja on voittamassa EKP:n johtopaikan. Nimitysruletti kertoo, kuka EU:ssa käyttää valtaa, Eurooppa-kirjeenvaihtaja Anna Karismo kirjoittaa.",
+    "analysis": "According to an analysis by Yle, only two candidates applied to lead the European Central Bank (ECB), with Spain's Pablo Hernández de Cos expected to succeed Christine Lagarde, because four of the six Executive Board seats are informally reserved for Germany, France, Italy, and Spain. Yle notes that although EU treaties contain no such quotas and board members are required to represent the entire eurozone, national backgrounds still influence views on tight versus loose monetary policy. Since the eurozone has nearly doubled in size while the board has remained at six seats, smaller countries like Finland—which last held a seat in 2003 and recently saw Bank of Finland Governor Olli Rehn lose a vice-presidential vote to Croatia's Boris Vujčić—must compete for just two remaining positions. Evaluating this appointment model involves weighing competing institutional considerations: informal power-sharing among the largest economies can preserve predictability and reflect the concerns of major markets, whereas relying on unwritten quotas limits geographic diversity and narrows the pool of candidates from smaller member states.",
+    "publishedAt": "Thu, 26 Nov 2026 16:10:59 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-4-hydrogen"
+  },
+  {
+    "id": "https://yle.fi/a/74-20259209",
+    "sourceUrl": "https://yle.fi/a/74-20259209?origin=rss",
+    "title": "Pablo Hernández de Cos set to become President of the European Central Bank",
+    "originalSummary": "",
+    "analysis": "According to Yle, citing the Financial Times and an interviewed official source, Spanish economist Pablo Hernández de Cos is emerging as the likely successor to Christine Lagarde as President of the European Central Bank after the Dutch government decided to withdraw support for rival candidate Klaas Knot. Dutch Prime Minister Rob Jetten has reportedly expressed backing for Hernández de Cos, and Eurogroup President Kyriakos Pierrakakis has estimated that the final decision will be clear by the turn of the year, pending formal approval from Eurozone representatives and confirmation by the bloc's leaders. Because the European Central Bank governs monetary policy across the entire Eurozone, including Finland, this appointment process carries direct economic significance for member states. Requiring formal approval from Eurozone representatives and leaders is designed to provide broad consensus and institutional legitimacy, while establishing a timeline by the end of the year seeks to limit uncertainty for financial markets. At the same time, evaluating the merits of any nominee through the formal EU decision-making process balances national diplomatic considerations against the overarching policy mandate of maintaining price stability and economic coordination across diverse member economies.",
+    "publishedAt": "Thu, 26 Nov 2026 15:53:30 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-4-hydrogen"
+  },
+  {
     "id": "https://yle.fi/a/74-20248010",
     "sourceUrl": "https://yle.fi/a/74-20248010?origin=rss",
     "title": "Yle followed Finnish border guards on a sea route used by increasing numbers of people coming to Europe",
@@ -513,39 +546,6 @@
     "analysis": "The Keminmaan municipal council narrowly voted 17-14 in favor of funding a 6.2 to 6.6 million euro multi-purpose sports hall, reversing an earlier municipal board recommendation to scrap the project. This decision directly addresses a severe regional shortage of winter training facilities affecting up to 1,600 children across Meri-Lappi after several neighboring facilities collapsed or became unavailable. Investing in municipal recreational infrastructure is essential for public health, youth development, and community well-being, yielding long-term social dividends that outweigh initial budget overruns. Local authorities should proceed with construction as planned to secure foundational public goods that the private market fails to provide.",
     "publishedAt": "Thu, 12 Nov 2026 19:20:03 +0200",
     "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20256400",
-    "sourceUrl": "https://yle.fi/a/74-20256400?origin=rss",
-    "title": "See How Well Wellbeing Services County Directors Earned in 2025",
-    "originalSummary": "Pohjois-Pohjanmaan hyvinvointialueen Ilkka Luoman tulot nousivat suuremmiksi kuin Etelä-Karjalan Sally Leskisen. Päijät-Hämeen Petri Virolainen kiri vuonna 2025.",
-    "analysis": "The article details the 2025 earnings and tax contributions of Finland's wellbeing services county directors, highlighting significant regional wage variations and turnover driven by financial deficits and political pressures. While high compensation reflects the immense administrative and fiscal responsibilities of managing decentralized healthcare regions, wide discrepancies amid severe public sector budget constraints demand tighter standardization. Standardizing executive pay structures relative to regional population size and fiscal performance would improve administrative efficiency and public trust in the sustainability of regional welfare governance.",
-    "publishedAt": "Thu, 12 Nov 2026 14:56:16 +0200",
-    "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20256546",
-    "sourceUrl": "https://yle.fi/a/74-20256546?origin=rss",
-    "title": "Restrictions on Russian Athletes' Visas Tightened – Valtonen: Sport is a Tool of Propaganda for Russia",
-    "originalSummary": "Venäläisten urheilijoiden viisumin saannin kiristyksiä on valmistelu ulkoministeriössä pikaisella aikataululla.",
-    "analysis": "The Finnish government has updated its policy principles to restrict short-term work visas for Russian athletes, aligning entry permissions strictly with Finland's national security and vital interests. This measure effectively closes a loophole utilized by professional athletes and neutral-status competitors, reinforcing Finland's stance against utilizing international sports to legitimize the Russian state. Restricting these visas is a necessary and efficient tool to maintain consistent sanctions pressure and prevent the instrumentalization of cultural and athletic exchanges for geopolitical propaganda. Such targeted restrictions should be fully supported as a coherent extension of foreign and security policy, reinforcing national resolve without imposing disproportionate administrative burdens on unrelated sectors.",
-    "publishedAt": "Thu, 12 Nov 2026 13:54:22 +0200",
-    "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20256595",
-    "sourceUrl": "https://yle.fi/a/74-20256595?origin=rss",
-    "title": "Defense Committee Chair Autto on the strike on a warship: A new kind of phase in the war between Ukraine and Russia",
-    "originalSummary": "Ukraina kertoi iskeneensä droonilla venäläiseen ohjusalukseen Suomenlahdella, lähellä Suursaarta keskiviikon vastaisena yönä.",
-    "analysis": "Parliamentary Defense Committee Chair Heikki Autto noted that Ukraine's drone strike on a Russian warship in the Gulf of Finland marks a new phase in the conflict, as combat events now touch areas close to Finnish borders. While defending Ukraine's right to eliminate military threats, Autto reassured citizens that Finnish authorities are actively monitoring the situation and ensuring national airspace integrity. This situation underscores the critical necessity of robust national border surveillance and proactive defense readiness in the Baltic Sea region amid escalating geopolitical tensions. Finland must maintain rigorous airspace monitoring and transparent public communication to deter accidental spillover risks while reinforcing deterrence and security reassurance.",
-    "publishedAt": "Thu, 12 Nov 2026 13:52:53 +0200",
-    "category": "Foreign Policy and Defense",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
