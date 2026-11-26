@@ -180,7 +180,7 @@ async function main() {
   const existingIds = new Set(existingData.map(item => item.id));
   const skippedIds = new Set(skippedIdsList);
 
-  let currentModel = 'gemini-flash-latest';
+  let currentModel = 'gemini-4-hydrogen';
 
   for (const item of [...feed.items].reverse()) {
     const id = item.guid || item.link || '';
@@ -222,7 +222,15 @@ async function main() {
     try {
       analysis = await analyzeArticle(item.title || '', articleContent, currentModel);
     } catch (error) {
-      if (currentModel === 'gemini-flash-latest') {
+      if (currentModel === 'gemini-4-hydrogen') {
+        console.warn(`Error with gemini-4-hydrogen, falling back to gemini-flash-latest:`, error);
+        currentModel = 'gemini-flash-latest';
+        try {
+          analysis = await analyzeArticle(item.title || '', articleContent, currentModel);
+        } catch (fallbackError) {
+          console.error(`Error with fallback model gemini-flash-latest:`, fallbackError);
+        }
+      } else if (currentModel === 'gemini-flash-latest') {
         console.warn(`Error with gemini-flash-latest, falling back to gemini-flash-lite-latest:`, error);
         currentModel = 'gemini-flash-lite-latest';
         try {
