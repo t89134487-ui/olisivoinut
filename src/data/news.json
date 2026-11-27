@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20259422",
+    "sourceUrl": "https://yle.fi/a/74-20259422?origin=rss",
+    "title": "Soste Secretary General: AI brings many benefits to assessing the need for care",
+    "originalSummary": "Pääsihteerin mukaan tekoälyyn pitää kuitenkin suhtautua varauskella.",
+    "analysis": "According to Yle, Finland's Constitutional Law Committee has approved legislation allowing medical devices utilizing artificial intelligence to assess patients' need for care starting in spring 2027, provided a human retains ultimate responsibility. Soste Secretary General Vertti Kiukas notes that AI could improve healthcare efficiency, reduce queues, and detect illnesses earlier, though he warns that wellbeing services counties' budget pressures could lead to AI being trained to overly restrict access to professionals, alongside heightened risks of health data leaks. Integrating AI addresses pressing capacity challenges in public healthcare, yet its effectiveness and safety depend on strict data protection and clear oversight ensuring cost-saving priorities do not compromise patient access.",
+    "publishedAt": "Fri, 27 Nov 2026 19:05:25 +0200",
+    "category": "Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-4-hydrogen"
+  },
+  {
     "id": "https://yle.fi/a/74-20259173",
     "sourceUrl": "https://yle.fi/a/74-20259173?origin=rss",
     "title": "Centre Party tables its adjustment list: pensions currently in payment excluded from cuts",
@@ -534,17 +545,6 @@
     "originalSummary": "Eurooppalaiset onnistuivat viimeinkin päättämään Ukraina-neuvotteluiden edustuksesta, ja se on tärkeä askel, kirjoittaa EU-kirjeenvaihtaja Elli Hiilamo.",
     "analysis": "EU leaders have agreed to form a joint European negotiating team, backed by Finnish Prime Minister Petteri Orpo, to ensure the continent is represented in upcoming talks regarding the war in Ukraine. However, uncertainties persist regarding whether Russia will officially accept European participation without dictating regional security terms, and who will ultimately lead the fragmented European delegation. Establishing a unified European diplomatic front is vital to prevent external powers from deciding continental security unilaterally, but success depends on streamlining internal leadership to speak with genuine authority.",
     "publishedAt": "Fri, 13 Nov 2026 23:43:22 +0200",
-    "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20256938",
-    "sourceUrl": "https://yle.fi/a/74-20256938?origin=rss",
-    "title": "Researcher: European military powers could secure peace in Ukraine, which is why they are wanted at the negotiating table with Russia",
-    "originalSummary": "Eurooppaa edustavat Ukrainan rauhanneuvotteluissa E5-maat, eli Ranska, Saksa, Italia, Puola ja Britannia sekä EU-instituutiot.",
-    "analysis": "Prime Minister Petteri Orpo announced that the E5 nations—France, Germany, Italy, Poland, and Britain—alongside EU institutions will represent Europe in potential Ukraine peace negotiations. This structure highlights how European security policy continues to rely heavily on national military power rather than unified supranational defense alone. Relying on key military powers and multinational forces is crucial for providing credible security guarantees that must back any lasting peace agreement. This pragmatic framework should be strongly supported, as integrating major European military capabilities with diplomatic EU leverage is essential for achieving a stable and enforceable resolution to the conflict.",
-    "publishedAt": "Fri, 13 Nov 2026 22:48:49 +0200",
     "category": "Foreign Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
