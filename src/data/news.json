@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20259173",
+    "sourceUrl": "https://yle.fi/a/74-20259173?origin=rss",
+    "title": "Centre Party tables its adjustment list: pensions currently in payment excluded from cuts",
+    "originalSummary": "Oppositiopuolue keskusta on julkaissut talouspoliittisen ohjelmansa seuraavalle vaalikaudelle.",
+    "analysis": "The Finnish Centre Party released its economic policy program for the upcoming electoral term, proposing 9.4 billion euros in gross budget adjustments, consisting of 70 percent spending cuts and 30 percent tax increases. The plan protects children, pensions currently in payment, basic social security, and defense from index freezes, while targeting administrative savings through artificial intelligence, social security reforms, and reductions in regional government and higher education spending. While targeted spending restraint is necessary for fiscal sustainability, protecting large expenditure categories like current pensions limits adjustment efficiency and shifts the burden disproportionately to other sectors. The proposal should be supported regarding its structural modernization and AI-driven administrative savings, but the exclusion of major entitlement categories should be rejected in favor of a more comprehensive expenditure review to ensure long-term debt stabilization.",
+    "publishedAt": "Fri, 27 Nov 2026 10:24:11 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
+    "id": "https://yle.fi/a/74-20259280",
+    "sourceUrl": "https://yle.fi/a/74-20259280?origin=rss",
+    "title": "Lieksa to Pay a 100-Euro Christmas Bonus to All Employees – City Manager Pirre Vuojärvi Conceptualized the Reward",
+    "originalSummary": "Kuntien kaikille työntekijöilleen maksamat tulospalkkiot ovat harvinaisia. Lieksa haluaa palkita työntekijänsä hyvästä taloudenpidosta.",
+    "analysis": "The city of Lieksa has decided to pay a one-time 100-euro performance bonus to all full-time permanent and fixed-term employees who have worked for at least four months, following stronger-than-expected financial results for 2026. While such uniform bonuses are rare in the municipal sector due to tightening future budgets, this discretionary reward aims to boost employee morale during challenging economic times. From an economic perspective, while a one-time bonus has a limited total fiscal impact of around 30,000 to 40,000 euros, it risks setting unsustainable expectations in a tightening municipal financial climate. Therefore, the proposal should be rejected in favor of prioritizing long-term fiscal consolidation and structural financial resilience.",
+    "publishedAt": "Fri, 27 Nov 2026 10:03:03 +0200",
+    "category": "Economics",
+    "isFromSummary": false,
+    "model": "gemini-flash-lite-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20259265",
     "sourceUrl": "https://yle.fi/a/74-20259265?origin=rss",
     "title": "Finnish Centre for Pensions CEO would include pensioners in fiscal adjustment measures",
@@ -524,28 +546,6 @@
     "analysis": "Prime Minister Petteri Orpo announced that the E5 nations—France, Germany, Italy, Poland, and Britain—alongside EU institutions will represent Europe in potential Ukraine peace negotiations. This structure highlights how European security policy continues to rely heavily on national military power rather than unified supranational defense alone. Relying on key military powers and multinational forces is crucial for providing credible security guarantees that must back any lasting peace agreement. This pragmatic framework should be strongly supported, as integrating major European military capabilities with diplomatic EU leverage is essential for achieving a stable and enforceable resolution to the conflict.",
     "publishedAt": "Fri, 13 Nov 2026 22:48:49 +0200",
     "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20255466",
-    "sourceUrl": "https://yle.fi/a/74-20255466?origin=rss",
-    "title": "Ukraine reforms education amid war – Finland supports with 20 million euros",
-    "originalSummary": "Vuosia jatkunut uudistus on edennyt lukiokoulutukseen. Ensi syksynä oppivelvollisuus laajenee Ukrainassa 12 vuoteen nykyisen yhdeksän vuoden sijaan.",
-    "analysis": "Finland has committed 20 million euros through 2029 to support Ukraine's structural education reform, which transitions high school education to a three-year European model. This funding targets teacher training, learning materials, and institutional capacity-building amidst ongoing wartime destruction. Investing in educational infrastructure is a highly efficient and necessary policy measure, as human capital development is foundational for long-term societal resilience and post-war economic reconstruction. This targeted aid should be strongly supported, as bolstering civilian institutions directly reinforces Ukraine's strategic stability and European integration.",
-    "publishedAt": "Fri, 13 Nov 2026 11:13:24 +0200",
-    "category": "Foreign Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20256744",
-    "sourceUrl": "https://yle.fi/a/74-20256744?origin=rss",
-    "title": "Deputy Ombudsman: Significant problems in Migri processing times",
-    "originalSummary": "",
-    "analysis": "The Finnish Deputy Ombudsman revealed that the Finnish Immigration Service fails to meet statutory deadlines for residence permit applications, particularly regarding family ties, due to resource shortages and high application volumes. Failing to meet legally mandated timeframes undermines legal certainty and administrative efficiency for applicants. While authorities face genuine capacity constraints, statutory deadlines exist to protect individuals from indefinite limbo; therefore, the ministries must address these bottlenecks through targeted resource reallocation and process streamlining rather than accepting chronic delays.",
-    "publishedAt": "Fri, 13 Nov 2026 09:41:39 +0200",
-    "category": "Social Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
