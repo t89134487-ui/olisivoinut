@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://yle.fi/a/74-20259265",
+    "sourceUrl": "https://yle.fi/a/74-20259265?origin=rss",
+    "title": "Finnish Centre for Pensions CEO would include pensioners in fiscal adjustment measures",
+    "originalSummary": "Mikko Kauton mukaan valtion ja kuntien talous hyötyisivät nopeiten ja parhaiten, jos eläkkeitä sopeutettaisiin verotuksen kautta.",
+    "analysis": "According to Finnish Centre for Pensions CEO Mikko Kautto and ETLA Chief Economist Jenni Pääkkönen, Finland's substantial fiscal adjustment needs and large public pension expenditures mean pensioners should be included in budget consolidation efforts, with Kautto noting that adjusting pensions through taxation would rapidly benefit state and municipal finances. Finns Party MP Miko Bergbom also argued against excluding any demographic, warning that sparing the pension system shifts the savings burden onto children, young people, and the working-age population. Conversely, Social Democratic Party MP Krista Kiuru noted that pensioners are already affected by existing government cuts and stated that her party rules out cutting pensions currently in payment as a matter of value choice. From a policy perspective, using taxation to include pensioners in fiscal adjustments addresses broad-based deficit reduction and intergenerational burden-sharing, while raising key distributional questions regarding the purchasing power and income security of retirees.",
+    "publishedAt": "Thu, 26 Nov 2026 22:41:14 +0200",
+    "category": "Economics and Social Policy",
+    "isFromSummary": false,
+    "model": "gemini-4-hydrogen"
+  },
+  {
+    "id": "https://yle.fi/a/74-20249339",
+    "sourceUrl": "https://yle.fi/a/74-20249339?origin=rss",
+    "title": "20 years ago Hjallis Harkimo decided to build a fishing village next to Helsinki – soon everything went wrong",
+    "originalSummary": "Sipoonrannassa on seurattu Helsingin itäistä valloitusretkeä 20 vuotta. Vihdoin Helsinki rakentaa, mutta Sipoossa selvitetään, voisiko pakkoliitoksen purkaa.",
+    "analysis": "According to Yle, a municipal initiative in Sipoo seeks to examine whether areas annexed by Helsinki nearly two decades ago could be returned, even as Helsinki advances a revised local master plan for 40,000 residents and a light rail line in Östersundom. Sipoo municipal manager Mikael Grannas describes the 2007 annexation—approved by Matti Vanhanen's government and backed by Jan Vapaavuori—as a lingering trauma that eroded local trust and transferred a newly built school to Helsinki. Meanwhile, MP Harry Harkimo states to Yle that while he initially opposed the annexation, the subsequent collapse of Helsinki's earlier zoning plan in the Supreme Administrative Court in 2021 and an economic downturn stalled his neighboring Sipoonranta development.\n\nFrom a policy perspective, the nearly twenty-year stagnation of Östersundom illustrates the practical risks of top-down municipal boundary changes that lack local consensus and encounter prolonged legal hurdles. Helsinki's revised, scaled-down master plan aims to address regional housing and transit needs more realistically than its rejected 100,000-resident predecessor, whereas local residents interviewed by Yle emphasize preserving rural tranquility. Evaluating both Helsinki's updated zoning plan and Sipoo's initiative to reclaim the land requires weighing regional infrastructure efficiency and legal feasibility against municipal autonomy and the restoration of local trust.",
+    "publishedAt": "Thu, 26 Nov 2026 19:03:40 +0200",
+    "category": "Urban Planning and Regional Policy",
+    "isFromSummary": false,
+    "model": "gemini-4-hydrogen"
+  },
+  {
     "id": "https://yle.fi/a/74-20259106",
     "sourceUrl": "https://yle.fi/a/74-20259106?origin=rss",
     "title": "National Coalition Party accuses SDP's alternative budget of increasing the number of low-income earners – we checked if the claim is true",
@@ -523,28 +545,6 @@
     "originalSummary": "",
     "analysis": "The Finnish Deputy Ombudsman revealed that the Finnish Immigration Service fails to meet statutory deadlines for residence permit applications, particularly regarding family ties, due to resource shortages and high application volumes. Failing to meet legally mandated timeframes undermines legal certainty and administrative efficiency for applicants. While authorities face genuine capacity constraints, statutory deadlines exist to protect individuals from indefinite limbo; therefore, the ministries must address these bottlenecks through targeted resource reallocation and process streamlining rather than accepting chronic delays.",
     "publishedAt": "Fri, 13 Nov 2026 09:41:39 +0200",
-    "category": "Social Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20256370",
-    "sourceUrl": "https://yle.fi/a/74-20256370?origin=rss",
-    "title": "A Wealthy Entrepreneur Family Sustains the Small Municipality of Vieremä in Northern Savonia",
-    "originalSummary": "Varhaisista epäilyistä huolimatta metsäkoneyhtiö Ponssesta kasvoi Vieremän kunnan taloudellinen selkäranka.",
-    "analysis": "The article highlights the profound economic reliance of the small municipality of Vieremä on the forest machine manufacturer Ponsse and the Vidgrén family, alongside local criticisms of broader regional policy decisions like hospital network cuts and healthcare savings. While corporate-dependent municipal stability drives local prosperity, heavy reliance on a single enterprise exposes communities to structural vulnerabilities when regional and national public services retrench. Policymakers should support regulatory environments that foster localized industrial ecosystems while simultaneously ensuring robust public welfare backstops to insulate single-industry municipalities from macroeconomic volatility.",
-    "publishedAt": "Thu, 12 Nov 2026 19:56:50 +0200",
-    "category": "Economics",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20256566",
-    "sourceUrl": "https://yle.fi/a/74-20256566?origin=rss",
-    "title": "Keminmaa Municipal Council Meeting Filled the Council Chamber with Children Due to a Sports Hall",
-    "originalSummary": "Valtuustosalin lehterin vallannut lapsijoukko seurasi, kun keminmaalaiset päättivät monitoimihallista: halli rakennetaan sittenkin.",
-    "analysis": "The Keminmaan municipal council narrowly voted 17-14 in favor of funding a 6.2 to 6.6 million euro multi-purpose sports hall, reversing an earlier municipal board recommendation to scrap the project. This decision directly addresses a severe regional shortage of winter training facilities affecting up to 1,600 children across Meri-Lappi after several neighboring facilities collapsed or became unavailable. Investing in municipal recreational infrastructure is essential for public health, youth development, and community well-being, yielding long-term social dividends that outweigh initial budget overruns. Local authorities should proceed with construction as planned to secure foundational public goods that the private market fails to provide.",
-    "publishedAt": "Thu, 12 Nov 2026 19:20:03 +0200",
     "category": "Social Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
