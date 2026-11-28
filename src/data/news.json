@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://yle.fi/a/74-20257066",
+    "sourceUrl": "https://yle.fi/a/74-20257066?origin=rss",
+    "title": "Incident in Dormitory Thwarted a Youth's Independence – Case Reflects Situation in Vocational Special Education Institutions",
+    "originalSummary": "Vaara- ja uhkatilanteet ovat lisääntyneet ammatillisissa erityisoppilaitoksissa oppivelvollisuuden laajentamisen jälkeen.",
+    "analysis": "According to Yle and Ministry of Education and Culture officials, Finland's 2021 extension of compulsory education to age 18 has contributed to a rise in security incidents within vocational special education institutions. While the reform aimed to curb social exclusion, using educational institutions as a default safety net for complex behavioral and psychiatric needs strains school resources and compromises student safety.\n\nRather than repealing compulsory education, the policy framework should be improved through stronger coordination with wellbeing services counties and adjusted placement criteria. Students requiring intensive clinical or rehabilitative support should be directed toward appropriate healthcare and social services rather than burdening vocational schools with tasks beyond their educational mandate.",
+    "publishedAt": "Sat, 28 Nov 2026 07:30:08 +0200",
+    "category": "Education Policy",
+    "isFromSummary": false,
+    "model": "gemini-flash-latest"
+  },
+  {
     "id": "https://yle.fi/a/74-20259422",
     "sourceUrl": "https://yle.fi/a/74-20259422?origin=rss",
     "title": "Soste Secretary General: AI brings many benefits to assessing the need for care",
@@ -535,17 +546,6 @@
     "analysis": "The Finnish government's proposed legislation aimed at securing electricity grid capacity and guaranteeing connection rights for households is facing delays after missing its initial parliamentary deadline, though authorities still aim to pass it during the current electoral term. While regulatory delays create short-term uncertainty for grid planning, the underlying policy is essential for managing capacity constraints during the ongoing energy transition. The legislative proposal should be supported and expedited through parliament, as clear regulatory frameworks are vital for efficient grid utilization and protecting consumer access.",
     "publishedAt": "Sat, 14 Nov 2026 08:06:11 +0200",
     "category": "Energy Policy",
-    "isFromSummary": false,
-    "model": "gemini-flash-lite-latest"
-  },
-  {
-    "id": "https://yle.fi/a/74-20256944",
-    "sourceUrl": "https://yle.fi/a/74-20256944?origin=rss",
-    "title": "Analysis: A turning point is at hand in Ukraine negotiations, but two essential questions remain open",
-    "originalSummary": "Eurooppalaiset onnistuivat viimeinkin päättämään Ukraina-neuvotteluiden edustuksesta, ja se on tärkeä askel, kirjoittaa EU-kirjeenvaihtaja Elli Hiilamo.",
-    "analysis": "EU leaders have agreed to form a joint European negotiating team, backed by Finnish Prime Minister Petteri Orpo, to ensure the continent is represented in upcoming talks regarding the war in Ukraine. However, uncertainties persist regarding whether Russia will officially accept European participation without dictating regional security terms, and who will ultimately lead the fragmented European delegation. Establishing a unified European diplomatic front is vital to prevent external powers from deciding continental security unilaterally, but success depends on streamlining internal leadership to speak with genuine authority.",
-    "publishedAt": "Fri, 13 Nov 2026 23:43:22 +0200",
-    "category": "Foreign Policy",
     "isFromSummary": false,
     "model": "gemini-flash-lite-latest"
   }
